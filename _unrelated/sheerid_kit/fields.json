@@ -1,0 +1,30 @@
+{
+  "_readme": "目标院校: College of Southern Nevada (SheerID org 660)。字段必须与 SheerID 表单一致。",
+
+  "school_name":    "College of Southern Nevada",
+  "school_short":   "CSN",
+  "school_color":   [0, 51, 102],
+  "school_addr":    "6375 W. Charleston Blvd., Las Vegas, NV 89146",
+  "school_phone":   "Tel (702) 651-5555",
+  "school_web":     "www.csn.edu",
+  "school_email":   "registrar@csn.edu",
+
+  "student_name":   "ALEX MORGAN",
+  "student_id":     "3055124417",
+  "program":        "Associate of Science in Computer Information Technology",
+  "faculty":        "Department of Computing and Information Technology",
+  "level":          "full-time undergraduate",
+  "term":           "Fall 2026",
+  "term_start":     "August 24, 2026",
+  "term_end":       "December 12, 2026",
+  "expected_grad":  "May 2028",
+  "letter_date":    "November 10, 2026",
+  "valid_thru":     "08/2028",
+  "issue_date":     "08/2026",
+  "registrar":      "R. Alvarez",
+  "registrar_title":"College Registrar",
+  "ref_prefix":     "CSN-REG",
+
+  "photo":          "",
+  "dob":            "03/14/2004"
+}

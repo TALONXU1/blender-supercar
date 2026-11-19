@@ -1,0 +1,61 @@
+
+  模式    submit
+  链接    https://services.sheerid.com/verify/67c8c14f5f17a83b745e3f82/?verificati…
+  姓名    ALEX MORGAN   2004-03-14
+  邮箱    alex.morgan@student.csn.edu
+  学校    College of Southern Nevada  (option: College of Southern Nevada)
+  材料    D:\项目session\blender-supercar\sheerid_kit\out\enrollment_letter.jpg
+  配置    D:\项目session\blender-supercar\_ref\sheeridVerify\config\sheerid.local.json
+
+{"time":"2026-11-14T02:50:06.037Z","runId":"46472b60-3ebd-4bd3-aeec-32d4a82ec2eb","event":"stage_started","stage":"preflight"}
+{"time":"2026-11-14T02:50:06.773Z","runId":"46472b60-3ebd-4bd3-aeec-32d4a82ec2eb","event":"verification_status","stage":"preflight","currentStep":"docUpload","errorIds":[],"rejectionReasons":[]}
+{"time":"2026-11-14T02:50:06.778Z","runId":"a4a7377f-e9a6-45b7-a5c8-c9cf7d25a8df","event":"run_started","app":"sheerid","stage":"query_status","mode":"api_submit"}
+{"time":"2026-11-14T02:50:07.102Z","runId":"a4a7377f-e9a6-45b7-a5c8-c9cf7d25a8df","event":"verification_status","stage":"query_status","currentStep":"docUpload","errorIds":[],"rejectionReasons":[]}
+{"time":"2026-11-14T02:50:07.102Z","runId":"a4a7377f-e9a6-45b7-a5c8-c9cf7d25a8df","event":"stage_started","stage":"read_document","rejectionReasons":[],"uploadAttempt":1}
+{"time":"2026-11-14T02:50:07.114Z","runId":"a4a7377f-e9a6-45b7-a5c8-c9cf7d25a8df","event":"stage_started","stage":"initiate_upload","uploadAttempt":1}
+{"time":"2026-11-14T02:50:07.512Z","runId":"a4a7377f-e9a6-45b7-a5c8-c9cf7d25a8df","event":"stage_completed","stage":"initiate_upload","uploadAttempt":1}
+{"time":"2026-11-14T02:50:07.517Z","runId":"a4a7377f-e9a6-45b7-a5c8-c9cf7d25a8df","event":"stage_started","stage":"upload_bytes","uploadAttempt":1}
+{"time":"2026-11-14T02:50:08.956Z","runId":"a4a7377f-e9a6-45b7-a5c8-c9cf7d25a8df","event":"stage_completed","stage":"upload_bytes","uploadAttempt":1}
+{"time":"2026-11-14T02:50:08.961Z","runId":"a4a7377f-e9a6-45b7-a5c8-c9cf7d25a8df","event":"stage_started","stage":"complete_upload","uploadAttempt":1}
+{"time":"2026-11-14T02:50:09.445Z","runId":"a4a7377f-e9a6-45b7-a5c8-c9cf7d25a8df","event":"stage_completed","stage":"complete_upload","uploadAttempt":1}
+{"time":"2026-11-14T02:50:09.446Z","runId":"a4a7377f-e9a6-45b7-a5c8-c9cf7d25a8df","event":"waiting_for_review","stage":"wait_review","code":"AWAITING_REVIEW","currentStep":"pending","errorIds":[],"rejectionReasons":[],"uploadAttempt":1,"delayMs":5000}
+{"time":"2026-11-14T02:50:15.107Z","runId":"a4a7377f-e9a6-45b7-a5c8-c9cf7d25a8df","event":"verification_status","stage":"query_status","currentStep":"pending","errorIds":[],"rejectionReasons":[]}
+{"time":"2026-11-14T02:50:15.107Z","runId":"a4a7377f-e9a6-45b7-a5c8-c9cf7d25a8df","event":"waiting_for_review","stage":"wait_review","code":"AWAITING_REVIEW","currentStep":"pending","errorIds":[],"rejectionReasons":[],"uploadAttempt":1,"delayMs":5000}
+{"time":"2026-11-14T02:50:20.774Z","runId":"a4a7377f-e9a6-45b7-a5c8-c9cf7d25a8df","event":"verification_status","stage":"query_status","currentStep":"pending","errorIds":[],"rejectionReasons":[]}
+{"time":"2026-11-14T02:50:20.774Z","runId":"a4a7377f-e9a6-45b7-a5c8-c9cf7d25a8df","event":"waiting_for_review","stage":"wait_review","code":"AWAITING_REVIEW","currentStep":"pending","errorIds":[],"rejectionReasons":[],"uploadAttempt":1,"delayMs":5000}
+{"time":"2026-11-14T02:50:26.476Z","runId":"a4a7377f-e9a6-45b7-a5c8-c9cf7d25a8df","event":"verification_status","stage":"query_status","currentStep":"pending","errorIds":[],"rejectionReasons":[]}
+{"time":"2026-11-14T02:50:26.476Z","runId":"a4a7377f-e9a6-45b7-a5c8-c9cf7d25a8df","event":"waiting_for_review","stage":"wait_review","code":"AWAITING_REVIEW","currentStep":"pending","errorIds":[],"rejectionReasons":[],"uploadAttempt":1,"delayMs":5000}
+{"time":"2026-11-14T02:50:32.152Z","runId":"a4a7377f-e9a6-45b7-a5c8-c9cf7d25a8df","event":"verification_status","stage":"query_status","currentStep":"pending","errorIds":[],"rejectionReasons":[]}
+{"time":"2026-11-14T02:50:32.152Z","runId":"a4a7377f-e9a6-45b7-a5c8-c9cf7d25a8df","event":"waiting_for_review","stage":"wait_review","code":"AWAITING_REVIEW","currentStep":"pending","errorIds":[],"rejectionReasons":[],"uploadAttempt":1,"delayMs":5000}
+{"time":"2026-11-14T02:50:37.814Z","runId":"a4a7377f-e9a6-45b7-a5c8-c9cf7d25a8df","event":"verification_status","stage":"query_status","currentStep":"pending","errorIds":[],"rejectionReasons":[]}
+{"time":"2026-11-14T02:50:37.815Z","runId":"a4a7377f-e9a6-45b7-a5c8-c9cf7d25a8df","event":"waiting_for_review","stage":"wait_review","code":"AWAITING_REVIEW","currentStep":"pending","errorIds":[],"rejectionReasons":[],"uploadAttempt":1,"delayMs":5000}
+{"time":"2026-11-14T02:50:43.520Z","runId":"a4a7377f-e9a6-45b7-a5c8-c9cf7d25a8df","event":"verification_status","stage":"query_status","currentStep":"pending","errorIds":[],"rejectionReasons":[]}
+{"time":"2026-11-14T02:50:43.520Z","runId":"a4a7377f-e9a6-45b7-a5c8-c9cf7d25a8df","event":"waiting_for_review","stage":"wait_review","code":"AWAITING_REVIEW","currentStep":"pending","errorIds":[],"rejectionReasons":[],"uploadAttempt":1,"delayMs":5000}
+{"time":"2026-11-14T02:50:49.179Z","runId":"a4a7377f-e9a6-45b7-a5c8-c9cf7d25a8df","event":"verification_status","stage":"query_status","currentStep":"pending","errorIds":[],"rejectionReasons":[]}
+{"time":"2026-11-14T02:50:49.179Z","runId":"a4a7377f-e9a6-45b7-a5c8-c9cf7d25a8df","event":"waiting_for_review","stage":"wait_review","code":"AWAITING_REVIEW","currentStep":"pending","errorIds":[],"rejectionReasons":[],"uploadAttempt":1,"delayMs":5000}
+{"time":"2026-11-14T02:50:54.833Z","runId":"a4a7377f-e9a6-45b7-a5c8-c9cf7d25a8df","event":"verification_status","stage":"query_status","currentStep":"pending","errorIds":[],"rejectionReasons":[]}
+{"time":"2026-11-14T02:50:54.834Z","runId":"a4a7377f-e9a6-45b7-a5c8-c9cf7d25a8df","event":"waiting_for_review","stage":"wait_review","code":"AWAITING_REVIEW","currentStep":"pending","errorIds":[],"rejectionReasons":[],"uploadAttempt":1,"delayMs":5000}
+{"time":"2026-11-14T02:51:00.589Z","runId":"a4a7377f-e9a6-45b7-a5c8-c9cf7d25a8df","event":"verification_status","stage":"query_status","currentStep":"pending","errorIds":[],"rejectionReasons":[]}
+{"time":"2026-11-14T02:51:00.589Z","runId":"a4a7377f-e9a6-45b7-a5c8-c9cf7d25a8df","event":"waiting_for_review","stage":"wait_review","code":"AWAITING_REVIEW","currentStep":"pending","errorIds":[],"rejectionReasons":[],"uploadAttempt":1,"delayMs":5000}
+{"time":"2026-11-14T02:51:06.243Z","runId":"a4a7377f-e9a6-45b7-a5c8-c9cf7d25a8df","event":"verification_status","stage":"query_status","currentStep":"pending","errorIds":[],"rejectionReasons":[]}
+{"time":"2026-11-14T02:51:06.243Z","runId":"a4a7377f-e9a6-45b7-a5c8-c9cf7d25a8df","event":"waiting_for_review","stage":"wait_review","code":"AWAITING_REVIEW","currentStep":"pending","errorIds":[],"rejectionReasons":[],"uploadAttempt":1,"delayMs":5000}
+{"time":"2026-11-14T02:51:11.909Z","runId":"a4a7377f-e9a6-45b7-a5c8-c9cf7d25a8df","event":"verification_status","stage":"query_status","currentStep":"docUpload","errorIds":[],"rejectionReasons":["DOCUMENT_LIKELY_FRAUD"]}
+{"time":"2026-11-14T02:51:11.909Z","runId":"a4a7377f-e9a6-45b7-a5c8-c9cf7d25a8df","event":"document_refetch","stage":"read_document","rejectionReasons":["DOCUMENT_LIKELY_FRAUD"],"uploadAttempt":2}
+{"time":"2026-11-14T02:51:11.919Z","runId":"a4a7377f-e9a6-45b7-a5c8-c9cf7d25a8df","event":"stage_started","stage":"initiate_upload","uploadAttempt":2}
+{"time":"2026-11-14T02:51:12.330Z","runId":"a4a7377f-e9a6-45b7-a5c8-c9cf7d25a8df","event":"stage_completed","stage":"initiate_upload","uploadAttempt":2}
+{"time":"2026-11-14T02:51:12.337Z","runId":"a4a7377f-e9a6-45b7-a5c8-c9cf7d25a8df","event":"stage_started","stage":"upload_bytes","uploadAttempt":2}
+{"time":"2026-11-14T02:51:13.981Z","runId":"a4a7377f-e9a6-45b7-a5c8-c9cf7d25a8df","event":"stage_completed","stage":"upload_bytes","uploadAttempt":2}
+{"time":"2026-11-14T02:51:13.988Z","runId":"a4a7377f-e9a6-45b7-a5c8-c9cf7d25a8df","event":"stage_started","stage":"complete_upload","uploadAttempt":2}
+{"time":"2026-11-14T02:51:14.489Z","runId":"a4a7377f-e9a6-45b7-a5c8-c9cf7d25a8df","event":"stage_completed","stage":"complete_upload","uploadAttempt":2}
+{"time":"2026-11-14T02:51:14.489Z","runId":"a4a7377f-e9a6-45b7-a5c8-c9cf7d25a8df","event":"waiting_for_review","stage":"wait_review","code":"AWAITING_REVIEW","currentStep":"pending","errorIds":[],"rejectionReasons":[],"uploadAttempt":2,"delayMs":5000}
+{"time":"2026-11-14T02:51:20.185Z","runId":"a4a7377f-e9a6-45b7-a5c8-c9cf7d25a8df","event":"verification_status","stage":"query_status","currentStep":"docUpload","errorIds":[],"rejectionReasons":["DOCUMENT_LIKELY_FRAUD"]}
+{"time":"2026-11-14T02:51:20.185Z","runId":"a4a7377f-e9a6-45b7-a5c8-c9cf7d25a8df","event":"document_refetch","stage":"read_document","rejectionReasons":["DOCUMENT_LIKELY_FRAUD"],"uploadAttempt":3}
+{"time":"2026-11-14T02:51:20.192Z","runId":"a4a7377f-e9a6-45b7-a5c8-c9cf7d25a8df","event":"stage_started","stage":"initiate_upload","uploadAttempt":3}
+{"time":"2026-11-14T02:51:20.598Z","runId":"a4a7377f-e9a6-45b7-a5c8-c9cf7d25a8df","event":"stage_completed","stage":"initiate_upload","uploadAttempt":3}
+{"time":"2026-11-14T02:51:20.606Z","runId":"a4a7377f-e9a6-45b7-a5c8-c9cf7d25a8df","event":"stage_started","stage":"upload_bytes","uploadAttempt":3}
+{"time":"2026-11-14T02:51:22.212Z","runId":"a4a7377f-e9a6-45b7-a5c8-c9cf7d25a8df","event":"stage_completed","stage":"upload_bytes","uploadAttempt":3}
+{"time":"2026-11-14T02:51:22.218Z","runId":"a4a7377f-e9a6-45b7-a5c8-c9cf7d25a8df","event":"stage_started","stage":"complete_upload","uploadAttempt":3}
+{"time":"2026-11-14T02:51:22.726Z","runId":"a4a7377f-e9a6-45b7-a5c8-c9cf7d25a8df","event":"stage_completed","stage":"complete_upload","uploadAttempt":3}
+{"time":"2026-11-14T02:51:22.726Z","runId":"a4a7377f-e9a6-45b7-a5c8-c9cf7d25a8df","event":"waiting_for_review","stage":"wait_review","code":"AWAITING_REVIEW","currentStep":"pending","errorIds":[],"rejectionReasons":[],"uploadAttempt":3,"delayMs":5000}
+{"time":"2026-11-14T02:51:28.429Z","runId":"a4a7377f-e9a6-45b7-a5c8-c9cf7d25a8df","event":"run_finished","app":"sheerid","stage":"query_status","status":"failed","code":"API_RATE_LIMITED","durationMs":81641,"mode":"api_submit","message":"接口返回 HTTP 429（请求限流），已停止流程；服务端未提供恢复时间，请稍后再试，避免连续运行","browserOpened":false,"remoteWriteAttempted":true,"submissionAttempted":true,"lastKnownStep":"pending","uploadAttempt":3,"submissionUncertain":false}
+{"runId":"a4a7377f-e9a6-45b7-a5c8-c9cf7d25a8df","app":"sheerid","mode":"api_submit","browserOpened":false,"startedAt":"2026-11-14T02:50:06.778Z","finishedAt":"2026-11-14T02:51:28.419Z","durationMs":81641,"stage":"query_status","remoteWriteAttempted":true,"submissionAttempted":true,"uploadAttempt":3,"status":"failed","code":"API_RATE_LIMITED","message":"接口返回 HTTP 429（请求限流），已停止流程；服务端未提供恢复时间，请稍后再试，避免连续运行","lastKnownStep":"pending","submissionUncertain":false}

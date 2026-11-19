@@ -1,0 +1,53 @@
+{
+  "app": "sheerid",
+  "_note": "url 换成你浏览器里那串 https://services.sheerid.com/verify/.../?verificationId=... ；organization.name 与 optionText 必须是下拉框里逐字一致的那一项",
+
+  "url": "https://services.sheerid.com/verify/REPLACE_PROGRAM_ID_24HEX/?verificationId=REPLACE_VERIFICATION_ID_24HEX",
+
+  "proxy": "direct",
+
+  "browser": {
+    "headless": false,
+    "locale": "en-US",
+    "keepOpen": true,
+    "autoFill": true
+  },
+
+  "document": {
+    "path": "D:/项目session/blender-supercar/sheerid_kit/out/enrollment_letter.jpg"
+  },
+
+  "timeouts": {
+    "apiMs": 20000,
+    "downloadMs": 120000,
+    "uploadMs": 120000,
+    "actionMs": 15000,
+    "navigationMs": 60000,
+    "readyMs": 180000,
+    "humanMs": 240000,
+    "resultMs": 45000
+  },
+
+  "interaction": {
+    "keyDelayMs": { "min": 40, "max": 120 },
+    "fieldDelayMs": { "min": 500, "max": 1200 },
+    "submitDelayMs": { "min": 1000, "max": 2000 }
+  },
+
+  "polling": { "intervalMs": 5000 },
+  "artifactsDir": ".runs",
+
+  "data": {
+    "country": "United States",
+    "firstName": "Alex",
+    "lastName": "Morgan",
+    "email": "alex.morgan@northgate.edu",
+    "birthDate": "2004-03-14",
+    "consent": true,
+    "organization": {
+      "name": "Northgate Community College",
+      "optionText": "Northgate Community College",
+      "emailDomain": "northgate.edu"
+    }
+  }
+}

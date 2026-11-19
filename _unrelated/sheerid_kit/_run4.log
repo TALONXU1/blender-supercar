@@ -1,0 +1,139 @@
+  [i] 已装载固定指纹 config/fingerprint.json
+
+  模式    submit
+  链接    https://services.sheerid.com/verify/67c8c14f5f17a83b745e3f82/?verificati…
+  姓名    ALEX MORGAN   2004-03-14
+  邮箱    alex.morgan@student.csn.edu
+  学校    College of Southern Nevada  (option: College of Southern Nevada)
+  材料    D:\项目session\blender-supercar\sheerid_kit\out\official_transcript.pdf
+  配置    D:\项目session\blender-supercar\_ref\sheeridVerify\config\sheerid.local.json
+
+{"time":"2026-11-14T04:34:08.856Z","runId":"281a6489-35c0-4e64-89eb-870d697b2ee2","event":"stage_started","stage":"preflight"}
+{"time":"2026-11-14T04:34:09.791Z","runId":"281a6489-35c0-4e64-89eb-870d697b2ee2","event":"verification_status","stage":"preflight","currentStep":"collectStudentPersonalInfo","errorIds":[],"rejectionReasons":[]}
+{"time":"2026-11-14T04:34:10.146Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"run_started","app":"sheerid","stage":"preflight","mode":"submit"}
+{"time":"2026-11-14T04:34:10.491Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"preflight_ready","stage":"preflight","currentStep":"collectStudentPersonalInfo","errorIds":[]}
+{"time":"2026-11-14T04:34:10.492Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"stage_started","stage":"launch"}
+(node:40500) LeakWarning: Canvas and WebGL readback return random data, as privacy.resistFingerprinting does in LibreWolf, Tor Browser and Mullvad Browser. Stock Firefox does not do this, so the browser reads as a privacy-hardened Firefox. It is on because the identity claims another OS or GPU than this machine's, whose canvas would show the real one. Pass `canvas_noise=False` to keep stock canvas behaviour.
+If this is intentional, pass `i_know_what_im_doing=True`.
+(Use `node --trace-warnings ...` to show where the warning was created)
+{"time":"2026-11-14T04:34:26.272Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"browser_identity_created","stage":"launch","code":"FRESH_CONTEXT"}
+{"time":"2026-11-14T04:34:28.295Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"stage_started","stage":"wait_ready"}
+{"time":"2026-11-14T04:34:28.683Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"waiting_for_fields","stage":"wait_ready","pendingFields":["country","firstName","lastName","email"]}
+{"time":"2026-11-14T04:34:32.624Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"waiting_for_fields","stage":"wait_ready","pendingFields":["<settling>"]}
+{"time":"2026-11-14T04:34:33.883Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"form_ready","stage":"wait_ready"}
+{"time":"2026-11-14T04:34:33.883Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"stage_started","stage":"fill"}
+{"time":"2026-11-14T04:34:33.931Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"field_started","stage":"fill","field":"country"}
+{"time":"2026-11-14T04:34:33.932Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"fill","durationMs":1087,"field":"country"}
+{"time":"2026-11-14T04:34:35.049Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"waiting_for_fields","stage":"fill","pendingFields":["<settling>"]}
+{"time":"2026-11-14T04:34:36.133Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_typed","field":"input"}
+{"time":"2026-11-14T04:34:36.216Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"waiting_for_options","stage":"fill","code":"OPTION_STABILIZING","field":"country"}
+{"time":"2026-11-14T04:34:36.745Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"select_option","durationMs":743,"field":"country"}
+{"time":"2026-11-14T04:34:38.833Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"field_filled","stage":"fill","field":"country"}
+{"time":"2026-11-14T04:34:38.833Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"field_started","stage":"fill","field":"organization"}
+{"time":"2026-11-14T04:34:38.833Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"fill","durationMs":678,"field":"organization"}
+{"time":"2026-11-14T04:34:39.556Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"waiting_for_fields","stage":"fill","pendingFields":["<settling>"]}
+{"time":"2026-11-14T04:34:40.487Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"type","durationMs":62,"field":"input"}
+{"time":"2026-11-14T04:34:40.594Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"type","durationMs":120,"field":"input"}
+{"time":"2026-11-14T04:34:40.746Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"type","durationMs":116,"field":"input"}
+{"time":"2026-11-14T04:34:40.900Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"type","durationMs":60,"field":"input"}
+{"time":"2026-11-14T04:34:40.993Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"type","durationMs":60,"field":"input"}
+{"time":"2026-11-14T04:34:41.091Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"type","durationMs":72,"field":"input"}
+{"time":"2026-11-14T04:34:41.200Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"type","durationMs":106,"field":"input"}
+{"time":"2026-11-14T04:34:41.340Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"type","durationMs":117,"field":"input"}
+{"time":"2026-11-14T04:34:41.490Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"type","durationMs":115,"field":"input"}
+{"time":"2026-11-14T04:34:41.633Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"type","durationMs":99,"field":"input"}
+{"time":"2026-11-14T04:34:41.762Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"type","durationMs":112,"field":"input"}
+{"time":"2026-11-14T04:34:42.010Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"type","durationMs":70,"field":"input"}
+{"time":"2026-11-14T04:34:42.116Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"type","durationMs":60,"field":"input"}
+{"time":"2026-11-14T04:34:42.207Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"type","durationMs":95,"field":"input"}
+{"time":"2026-11-14T04:34:42.329Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"type","durationMs":82,"field":"input"}
+{"time":"2026-11-14T04:34:42.437Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"type","durationMs":55,"field":"input"}
+{"time":"2026-11-14T04:34:42.514Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"type","durationMs":90,"field":"input"}
+{"time":"2026-11-14T04:34:42.643Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"type","durationMs":105,"field":"input"}
+{"time":"2026-11-14T04:34:42.784Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"type","durationMs":63,"field":"input"}
+{"time":"2026-11-14T04:34:42.873Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"type","durationMs":77,"field":"input"}
+{"time":"2026-11-14T04:34:43.102Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"type","durationMs":88,"field":"input"}
+{"time":"2026-11-14T04:34:43.216Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"type","durationMs":78,"field":"input"}
+{"time":"2026-11-14T04:34:43.324Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"type","durationMs":50,"field":"input"}
+{"time":"2026-11-14T04:34:43.400Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"type","durationMs":120,"field":"input"}
+{"time":"2026-11-14T04:34:43.547Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"type","durationMs":85,"field":"input"}
+{"time":"2026-11-14T04:34:43.668Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_typed","field":"input"}
+{"time":"2026-11-14T04:34:43.718Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"waiting_for_options","stage":"fill","code":"OPTIONS_LOADING","field":"organization"}
+{"time":"2026-11-14T04:34:44.758Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"select_option","durationMs":813,"field":"organization"}
+{"time":"2026-11-14T04:34:47.709Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"field_filled","stage":"fill","field":"organization"}
+{"time":"2026-11-14T04:34:47.709Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"field_started","stage":"fill","field":"firstName"}
+{"time":"2026-11-14T04:34:47.709Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"fill","durationMs":534,"field":"firstName"}
+{"time":"2026-11-14T04:34:48.273Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"waiting_for_fields","stage":"fill","pendingFields":["<settling>"]}
+{"time":"2026-11-14T04:34:48.904Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"type","durationMs":54,"field":"input"}
+{"time":"2026-11-14T04:34:49.102Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"type","durationMs":40,"field":"input"}
+{"time":"2026-11-14T04:34:49.266Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"type","durationMs":79,"field":"input"}
+{"time":"2026-11-14T04:34:49.509Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_typed","field":"input"}
+{"time":"2026-11-14T04:34:49.517Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"field_filled","stage":"fill","field":"firstName"}
+{"time":"2026-11-14T04:34:49.517Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"field_started","stage":"fill","field":"lastName"}
+{"time":"2026-11-14T04:34:49.517Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"fill","durationMs":956,"field":"lastName"}
+{"time":"2026-11-14T04:34:50.517Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"waiting_for_fields","stage":"fill","pendingFields":["<settling>"]}
+{"time":"2026-11-14T04:34:51.134Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"type","durationMs":99,"field":"input"}
+{"time":"2026-11-14T04:34:51.337Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"type","durationMs":93,"field":"input"}
+{"time":"2026-11-14T04:34:51.542Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"type","durationMs":41,"field":"input"}
+{"time":"2026-11-14T04:34:51.732Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"type","durationMs":59,"field":"input"}
+{"time":"2026-11-14T04:34:51.951Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"type","durationMs":64,"field":"input"}
+{"time":"2026-11-14T04:34:52.150Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_typed","field":"input"}
+{"time":"2026-11-14T04:34:52.160Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"field_filled","stage":"fill","field":"lastName"}
+{"time":"2026-11-14T04:34:52.169Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"field_started","stage":"fill","field":"birthMonth"}
+{"time":"2026-11-14T04:34:52.169Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"fill","durationMs":924,"field":"birthMonth"}
+{"time":"2026-11-14T04:34:53.134Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"waiting_for_fields","stage":"fill","pendingFields":["<settling>"]}
+{"time":"2026-11-14T04:34:54.185Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"waiting_for_options","stage":"fill","code":"OPTION_STABILIZING","field":"birthMonth"}
+{"time":"2026-11-14T04:34:54.688Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"select_option","durationMs":618,"field":"birthMonth"}
+{"time":"2026-11-14T04:34:56.604Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"field_filled","stage":"fill","field":"birthMonth"}
+{"time":"2026-11-14T04:34:56.604Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"field_started","stage":"fill","field":"birthDay"}
+{"time":"2026-11-14T04:34:56.604Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"fill","durationMs":888,"field":"birthDay"}
+{"time":"2026-11-14T04:34:57.545Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"waiting_for_fields","stage":"fill","pendingFields":["<settling>"]}
+{"time":"2026-11-14T04:34:58.108Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"type","durationMs":46,"field":"input"}
+{"time":"2026-11-14T04:34:58.182Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_typed","field":"input"}
+{"time":"2026-11-14T04:34:58.201Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"field_filled","stage":"fill","field":"birthDay"}
+{"time":"2026-11-14T04:34:58.201Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"field_started","stage":"fill","field":"birthYear"}
+{"time":"2026-11-14T04:34:58.201Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"fill","durationMs":897,"field":"birthYear"}
+{"time":"2026-11-14T04:34:59.135Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"waiting_for_fields","stage":"fill","pendingFields":["<settling>"]}
+{"time":"2026-11-14T04:34:59.670Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"type","durationMs":63,"field":"input"}
+{"time":"2026-11-14T04:34:59.756Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"type","durationMs":96,"field":"input"}
+{"time":"2026-11-14T04:34:59.875Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"type","durationMs":65,"field":"input"}
+{"time":"2026-11-14T04:34:59.971Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_typed","field":"input"}
+{"time":"2026-11-14T04:34:59.988Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"field_filled","stage":"fill","field":"birthYear"}
+{"time":"2026-11-14T04:34:59.988Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"field_started","stage":"fill","field":"email"}
+{"time":"2026-11-14T04:34:59.988Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"fill","durationMs":576,"field":"email"}
+{"time":"2026-11-14T04:35:00.599Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"waiting_for_fields","stage":"fill","pendingFields":["<settling>"]}
+{"time":"2026-11-14T04:35:01.133Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"type","durationMs":90,"field":"input"}
+{"time":"2026-11-14T04:35:01.249Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"type","durationMs":79,"field":"input"}
+{"time":"2026-11-14T04:35:01.358Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"type","durationMs":105,"field":"input"}
+{"time":"2026-11-14T04:35:01.496Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"type","durationMs":95,"field":"input"}
+{"time":"2026-11-14T04:35:01.622Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"type","durationMs":55,"field":"input"}
+{"time":"2026-11-14T04:35:01.697Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"type","durationMs":109,"field":"input"}
+{"time":"2026-11-14T04:35:01.846Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"type","durationMs":108,"field":"input"}
+{"time":"2026-11-14T04:35:01.978Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"type","durationMs":101,"field":"input"}
+{"time":"2026-11-14T04:35:02.103Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"type","durationMs":85,"field":"input"}
+{"time":"2026-11-14T04:35:02.211Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"type","durationMs":50,"field":"input"}
+{"time":"2026-11-14T04:35:02.288Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"type","durationMs":84,"field":"input"}
+{"time":"2026-11-14T04:35:02.496Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"type","durationMs":47,"field":"input"}
+{"time":"2026-11-14T04:35:02.566Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"type","durationMs":50,"field":"input"}
+{"time":"2026-11-14T04:35:02.647Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"type","durationMs":102,"field":"input"}
+{"time":"2026-11-14T04:35:02.770Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"type","durationMs":103,"field":"input"}
+{"time":"2026-11-14T04:35:02.904Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"type","durationMs":40,"field":"input"}
+{"time":"2026-11-14T04:35:02.975Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"type","durationMs":94,"field":"input"}
+{"time":"2026-11-14T04:35:03.099Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"type","durationMs":70,"field":"input"}
+{"time":"2026-11-14T04:35:03.195Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"type","durationMs":60,"field":"input"}
+{"time":"2026-11-14T04:35:03.289Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"type","durationMs":105,"field":"input"}
+{"time":"2026-11-14T04:35:03.435Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"type","durationMs":40,"field":"input"}
+{"time":"2026-11-14T04:35:03.505Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"type","durationMs":84,"field":"input"}
+{"time":"2026-11-14T04:35:03.614Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"type","durationMs":72,"field":"input"}
+{"time":"2026-11-14T04:35:03.707Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"type","durationMs":103,"field":"input"}
+{"time":"2026-11-14T04:35:03.833Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"type","durationMs":46,"field":"input"}
+{"time":"2026-11-14T04:35:03.910Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"type","durationMs":113,"field":"input"}
+{"time":"2026-11-14T04:35:04.054Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_typed","field":"input"}
+{"time":"2026-11-14T04:35:04.065Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"field_filled","stage":"fill","field":"email"}
+{"time":"2026-11-14T04:35:04.720Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"submit_ready","stage":"wait_submit","code":"BUTTON_CLICKABLE"}
+{"time":"2026-11-14T04:35:04.720Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"stage_started","stage":"submit"}
+{"time":"2026-11-14T04:35:04.726Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"interaction_delay","stage":"submit","durationMs":1992,"field":"submit"}
+{"time":"2026-11-14T04:35:06.792Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"submit_ready","stage":"wait_submit","code":"BUTTON_CLICKABLE"}
+{"time":"2026-11-14T04:35:09.274Z","runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","event":"run_finished","app":"sheerid","status":"failed","code":"VERIFICATION_UNAVAILABLE","durationMs":59123,"mode":"submit","message":"SheerID 页面显示无法继续验证，本次验证失败；已停止填写、重试和提交","browserOpened":true,"submissionAttempted":true}
+{"runId":"ff2b649f-eabd-4a12-8fa4-2bec87e873ed","app":"sheerid","mode":"submit","startedAt":"2026-11-14T04:34:10.146Z","finishedAt":"2026-11-14T04:35:09.269Z","durationMs":59123,"submissionAttempted":true,"browserOpened":true,"status":"failed","code":"VERIFICATION_UNAVAILABLE","message":"SheerID 页面显示无法继续验证，本次验证失败；已停止填写、重试和提交"}
+EXIT=1
