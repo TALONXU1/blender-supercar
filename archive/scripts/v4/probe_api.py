@@ -1,0 +1,16 @@
+import bpy
+print("VERSION", bpy.app.version_string)
+mat = bpy.data.materials.new("probe")
+print("MAT attrs:", [a for a in dir(mat) if "blend" in a.lower() or "render_method" in a.lower() or "shadow" in a.lower() or "transp" in a.lower()])
+print("ENGINES", [i.identifier for i in bpy.types.RenderSettings.bl_rna.properties['engine'].enum_items])
+sc = bpy.context.scene
+print("EEVEE props:", [a for a in dir(sc.eevee) if "sample" in a or "ray" in a or "bloom" in a or "shadow" in a][:40])
+print("RENDER mb:", [a for a in dir(sc.render) if "motion" in a or "blur" in a])
+print("VIEW LOOKS:", [i.identifier for i in bpy.types.ColorManagedViewSettings.bl_rna.properties['look'].enum_items][:20])
+print("has shade_smooth_by_angle:", hasattr(bpy.ops.object, "shade_smooth_by_angle"))
+print("MODIFIER types subset:", [i.identifier for i in bpy.types.Modifier.bl_rna.properties['type'].enum_items if i.identifier in ('BEVEL','WEIGHTED_NORMAL','SHRINKWRAP','SUBSURF','SMOOTH_BY_ANGLE','SOLIDIFY','TRIANGULATE','NODES','ARRAY')])
+print("scene comp attrs:", [a for a in dir(sc) if "node" in a or "compos" in a])
+print("world attrs:", [a for a in dir(sc.world) if "node" in a])
+print("camera dof:", [a for a in dir(bpy.data.cameras.new('c')) if 'dof' in a])
+print("marker attrs:", [a for a in dir(sc.timeline_markers) if not a.startswith('_')])
+print("driver simple:", bpy.app.driver_namespace is not None)
