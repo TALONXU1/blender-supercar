@@ -1,0 +1,87 @@
+Command exited with code 0.
+
+Command output:
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    19.74 GiB / 31.50 GiB (63%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    280.47 GiB / 300.00 GiB (93%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    555.65 GiB / 623.52 GiB (89%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+=== C:\Users\86052\.claude\projects ===
+  C--Users-86052 (1.38 MB)
+  C--Users-86052-AppData-Local-Temp-od-conn-test-IqwBhm (0.07 MB)
+  C--Users-86052-AppData-Local-Temp-omb-claude-background-cQc0hj (0.00 MB)
+  C--Users-86052-Doubao-chats-2026-10-07-new-chat-4 (0.00 MB)
+  D-- (2.20 MB)
+  D--AgentWorkspace (1.80 MB)
+  D--AgentWorkspace-ClaudeWorkspace (3.30 MB)
+  D--AppData-user-dotdirs--gemini-antigravity-scratch-ai-canvas-workbench (10.18 MB)
+=== C:\Users\86052\.gemini\config\projects ===
+  30aee56e-0ec1-4fc5-ba0f-e902982bdecd.json (0.00 MB)
+  4f15ae4d-cdce-4220-a914-fd7ada6833ba.json (0.00 MB)
+  56945fb0-3444-4b09-bbcb-ded7e383ca88.json (0.00 MB)
+  644c22ac-1636-495a-8a33-ad1edcea787b.json (0.00 MB)
+  8213fab9-9d54-48e5-b699-9e3e502add65.json (0.00 MB)
+  b8f1cf42-d4c5-4e16-b789-f04062d11bb5.json (0.00 MB)
+  c543eeb8-b301-4ad0-b1a6-2759845b5bd0.json (0.00 MB)
+  default-cli-project.json (0.00 MB)
+  f3400d4e-3f1a-4af5-ab03-99fba7a286ca.json (0.00 MB)
+=== C:\Users\86052\.gemini\config\skills ===
+  xyq-marketing-skill (0.04 MB)
+  xyq-short-drama-skill (0.05 MB)
+  xyq-skill (0.08 MB)
+=== C:\Users\86052\.gemini\antigravity\conversations ===
+  01e3331f-d103-4af9-90bc-a12f64086d33.db (10.81 MB)
+  16b5f3cb-4bce-43d1-a09a-ebf98bd665b7.db (4.25 MB)
+  1a8ac0b5-f848-4c0e-bc45-8abba2abb2e8.db (5.41 MB)
+  1a8ac0b5-f848-4c0e-bc45-8abba2abb2e8.db-shm (0.03 MB)
+  1a8ac0b5-f848-4c0e-bc45-8abba2abb2e8.db-wal (6.97 MB)
+  1f5d014d-ec4c-4e64-9187-5041c84d14f3.db (0.38 MB)
+  2c975d86-6ccb-4a95-9c30-ad28043c4b21.db (2.53 MB)
+  3bd78560-38ab-40c7-81ed-8d3d6c08c5e1.db (15.28 MB)
+  415edbd3-d98f-4d89-bbad-af6c6282bbdb.db (0.50 MB)
+  429cf389-10b8-402e-94de-84082b9ff8e9.db (1.56 MB)
+  46b51757-eef7-4958-943d-57de1b64a881.db (1.66 MB)
+  4cc01d4d-c499-4f55-b213-878718617fe0.db (1.09 MB)
+  51b1a3a8-bf6a-4fb0-8ba3-220b7913799a.db (0.62 MB)
+  536f3d61-677e-458b-8ad3-0d6ced8a5688.db (9.94 MB)
+  62527b59-0213-41b2-b3ab-ff115c915c3b.db (3.69 MB)
+  677c7e95-6163-4d3a-9733-4cb058ecb8f4.db (4.75 MB)
+  6e1acc3f-eaac-4bed-95a2-c4f90863575e.db (8.59 MB)
+  71c1ec74-2a73-43c2-80c2-96dffd9739a3.db (5.56 MB)
+  7a54a515-5226-40d4-bd2c-dc1492076817.db (3.69 MB)
+  7ac4a8d6-66bf-47ac-b14f-dc6a6fd3deb0.db (1.44 MB)
+  7b452e55-8baa-4d19-a85d-163412a5b0fe.db (0.44 MB)
+  7dad244e-e860-44d3-b044-aaaf04f1050c.db (3.59 MB)
+  7e31b137-5f1d-4bec-89c1-23709675ccdd.db (0.94 MB)
+  80a8f1d5-652e-4a53-9931-da555b39f579.db (1.94 MB)
+  8717e77d-a125-4b01-893b-0669d971d4d8.db (0.88 MB)
+  89fda181-424c-4c81-b8be-9be18115aac4.db (1.25 MB)
+  8cd16ba3-6113-4954-9355-2141909bf564.db (5.53 MB)
+  90270558-9ae3-4c3e-9368-6f103180c029.db (3.00 MB)
+  90850aba-5547-40a7-8f74-ee75ab7ef35f.db (20.38 MB)
+  98e43975-fe80-44a7-a687-5264a68a4661.db (0.44 MB)
+  99407355-5bad-47b4-b4f6-3199ee0b0e31.db (0.38 MB)
+  9974252b-4b58-483b-b316-9e8f250be99d.db (1.62 MB)
+  a98b6c71-b658-48ee-9b28-e9a1c116099c.db (16.50 MB)
+  a98b6c71-b658-48ee-9b28-e9a1c116099c.db-shm (0.03 MB)
+  a98b6c71-b658-48ee-9b28-e9a1c116099c.db-wal (31.34 MB)
+  afecfe35-d1b3-42ff-9198-c7bff56c46e8.db (0.59 MB)
+  b13776a0-7d9f-4f63-9e67-c8ecc5f11412.db (12.34 MB)
+  b54b4fe9-0b32-47d9-9d8a-8db6ef479877.db (0.53 MB)
+  ba0dbe83-5491-46e5-a919-f7b857a68c3f.db (0.50 MB)
+  c297816c-c947-4efe-9d22-e381cb2ddec7.db (1.09 MB)

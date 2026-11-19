@@ -1,0 +1,52 @@
+Command exited with code 0.
+
+Command output:
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    24.58 GiB / 31.50 GiB (78%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    278.09 GiB / 300.00 GiB (93%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    548.06 GiB / 623.52 GiB (88%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+Sample point keys: ['i', 's', 'xy', 'z', 'half_width', 'heading_deg', 'curv_1pm', 'radius_m', 'racing_xy', 'racing_offset_m', 'v_mps', 'v_kmh', 't', 'lat_g']
+Speed min=54.3 km/h, max=331.2 km/h, start=297.5 km/h, end=296.6 km/h
+Parsed SHOTS count: 26
+  Cam_S01_RearChase 0.0 -> 4.6 chase {'back0': 8.0, 'back1': 11.5, 'side0': 1.1, 'side1': -1.1, 'h0': 0.45, 'h1': 1.15, 'aim0': 2.4, 'aim1': 3.6, 'lens0': 38, 'lens1': 31, 'fstop': 4.0, 'roll1': 1.5}
+  Cam_S02_Onboard 4.6 -> 8.4 onboard {'fwd': 2.55, 'h': 0.5, 'lens': 17, 'fstop': 5.6}
+  Cam_S03_ChaseRise 8.4 -> 12.4 chase {'back0': 8.8, 'back1': 6.9, 'side0': -1.2, 'side1': 3.2, 'h0': 1.3, 'h1': 4.2, 'aim0': 4.4, 'aim1': 3.0, 'lens0': 30, 'lens1': 29, 'fstop': 4.0, 'roll1': 4.0}
+  Cam_S04_Hairpin 12.4 -> 16.6 fixed {'t_pass': 16.0, 'lead': -14.0, 'side': -8.6, 'h': 0.8, 'framing': 0.34, 'fstop': 5.0, 'aim_lerp': 0.66, 'roll': -1.5}
+  Cam_S05_ChaseAintree 16.6 -> 20.0 chase {'back0': 7.2, 'back1': 9.0, 'side0': 0.6, 'side1': -1.2, 'h0': 0.6, 'h1': 1.05, 'aim0': 3.0, 'aim1': 4.0, 'lens0': 36, 'lens1': 32, 'fstop': 4.0, 'roll1': -1.5}
+  Cam_S06_Orbit1 20.0 -> 23.4 orbit {'a0': 104, 'a1': 52, 'r0': 10.5, 'r1': 8.0, 'h0': 1.35, 'h1': 1.05, 'lens': 44, 'fstop': 3.6, 'roll': -5.0, 'roll_end': 4.0}
+  Cam_S07_ChaseAccel 23.4 -> 26.6 chase {'back0': 9.4, 'back1': 7.8, 'side0': -1.0, 'side1': 1.2, 'h0': 0.8, 'h1': 0.55, 'aim0': 4.4, 'aim1': 3.6, 'lens0': 32, 'lens1': 34, 'fstop': 4.0, 'roll1': 1.0}
+  Cam_S08_FastPan 26.6 -> 30.6 fixed {'t_pass': 29.5, 'lead': 0.0, 'side': 14.0, 'h': 0.85, 'framing': 0.26, 'fstop': 5.6, 'aim_lerp': 0.74, 'roll': -2.0}
+  Cam_S09_WheelMacro 30.6 -> 32.8 wheel {'side0': 4.2, 'side1': 3.9, 'back0': -1.2, 'back1': -0.45, 'h0': 0.48, 'h1': 0.62, 'lens0': 34, 'lens1': 30, 'fstop': 3.2}
+  Cam_S09b_ChaseFast 32.8 -> 35.2 chase {'back0': 6.4, 'back1': 8.2, 'side0': -1.4, 'side1': 1.0, 'h0': 0.5, 'h1': 0.85, 'aim0': 3.6, 'aim1': 4.6, 'lens0': 30, 'lens1': 27, 'fstop': 3.0, 'roll1': 2.2}
+  Cam_S10_OrbitBrooklands 34.0 -> 37.4 orbit {'a0': 98, 'a1': 44, 'r0': 9.2, 'r1': 7.0, 'h0': 1.15, 'h1': 0.95, 'lens': 42, 'fstop': 3.4, 'roll': 3.0, 'roll_end': -2.5}
+  Cam_S11_Luffield 37.4 -> 41.8 fixed {'t_pass': 41.4, 'lead': -9.0, 'side': 10.5, 'h': 1.0, 'framing': 0.32, 'fstop': 4.5, 'aim_lerp': 0.66, 'roll': 1.2}
+  Cam_S12_ChaseWoodcote 41.8 -> 45.0 chase {'back0': 7.6, 'back1': 9.4, 'side0': -0.8, 'side1': 1.4, 'h0': 0.75, 'h1': 1.35, 'aim0': 3.4, 'aim1': 4.4, 'lens0': 34, 'lens1': 30, 'fstop': 4.0, 'roll1': 2.0}
+  Cam_S13_WoodcoteTele 45.0 -> 48.4 fixed {'t_pass': 47.4, 'lead': -95.0, 'side': 12.0, 'h': 2.4, 'framing': 0.24, 'fstop': 8.0, 'aim_lerp': 0.55, 'roll': 0.0}
+  Cam_S14_HeliDrop 48.4 -> 52.0 heli {'h0': 30.0, 'h1': 12.0, 'back': 24.0, 'lens': 85, 'fstop': 7.0}
+  Cam_S15_OrbitCopse 52.0 -> 55.6 orbit {'a0': 108, 'a1': 48, 'r0': 11.0, 'r1': 7.8, 'h0': 1.5, 'h1': 1.05, 'lens': 40, 'fstop': 3.4, 'roll': -6.0, 'roll_end': 3.0}
+  Cam_S16_ChaseCopse 55.6 -> 59.2 chase {'back0': 7.0, 'back1': 8.4, 'side0': 0.5, 'side1': -1.1, 'h0': 0.55, 'h1': 1.05, 'aim0': 3.4, 'aim1': 4.4, 'lens0': 36, 'lens1': 32, 'fstop': 4.0, 'roll1': -2.0}
+  Cam_S17_Maggotts 59.2 -> 63.2 fixed {'t_pass': 62.5, 'lead': 2.0, 'side': 11.5, 'h': 1.35, 'framing': 0.28, 'fstop': 4.5, 'aim_lerp': 0.66, 'roll': -1.0}
+  Cam_S18_ChaseRise2 63.2 -> 66.8 chase {'back0': 9.0, 'back1': 6.6, 'side0': -1.4, 'side1': 3.8, 'h0': 1.3, 'h1': 4.6, 'aim0': 4.6, 'aim1': 2.8, 'lens0': 30, 'lens1': 28, 'fstop': 4.0, 'roll1': 5.0}
+  Cam_S19_Onboard3 66.8 -> 70.4 onboard {'fwd': 2.48, 'h': 0.48, 'lens': 20, 'fstop': 5.6}
+  Cam_S20_StoweTele 70.4 -> 74.8 fixed {'t_pass': 74.6, 'lead': -130.0, 'side': -13.0, 'h': 2.8, 'framing': 0.22, 'fstop': 8.0, 'aim_lerp': 0.55, 'roll': 0.0}
+  Cam_S21_OrbitStowe 74.8 -> 78.4 orbit {'a0': 112, 'a1': 50, 'r0': 11.5, 'r1': 8.0, 'h0': 1.6, 'h1': 1.1, 'lens': 38, 'fstop': 3.4, 'roll': 5.0, 'roll_end': -3.0}
+  Cam_S22_ChaseLow 78.4 -> 82.0 chase {'back0': 6.6, 'back1': 9.6, 'side0': 1.1, 'side1': -1.5, 'h0': 0.52, 'h1': 1.45, 'aim0': 3.0, 'aim1': 4.4, 'lens0': 38, 'lens1': 31, 'fstop': 3.2, 'roll1': -3.0}
+  Cam_S23_HeliReveal 82.0 -> 85.6 heli {'h0': 22.0, 'h1': 44.0, 'back': 32.0, 'lens': 70, 'fstop': 8.0}
+  Cam_S24_Club 85.6 -> 88.4 fixed {'t_pass': 87.3, 'lead': -8.0, 'side': -9.0, 'h': 1.2, 'framing': 0.3, 'fstop': 4.5, 'aim_lerp': 0.66, 'roll': -1.0}
+  Cam_S25_AerialOut 88.4 -> 90.34 aerial {'back0': 9.0, 'back1': 17.0, 'side0': 2.5, 'side1': 9.0, 'h0': 3.0, 'h1': 11.0, 'lens0': 56, 'lens1': 46, 'fstop': 4.5}

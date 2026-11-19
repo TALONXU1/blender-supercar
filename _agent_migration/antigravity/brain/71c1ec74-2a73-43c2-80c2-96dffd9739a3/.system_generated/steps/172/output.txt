@@ -1,0 +1,37 @@
+Command exited with code 0.
+
+Command output:
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    19.83 GiB / 31.50 GiB (63%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    282.90 GiB / 300.00 GiB (94%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    555.59 GiB / 623.52 GiB (89%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+00:00.703  blend            | Read blend: "D:\项目session\blender-supercar\v6_spiderverse\v6_stage_anim_sv.blend"
+C:\Users\86052\.gemini\antigravity\brain\1a8ac0b5-f848-4c0e-bc45-8abba2abb2e8\scratch\test_cryptomatte_and_tunnel.py:17: DeprecationWarning: 'Scene.compositing_node_group' is expected to be removed in Blender 6.0
+  ng = sc.compositing_node_group
+00:02.140  render           | Saved: 'C:\Users\86052\.gemini\antigravity\brain\1a8ac0b5-f848-4c0e-bc45-8abba2abb2e8\scratch\test_car_matte_635.png'
+BlenderMCP addon registered
+OBJ V6_StrobeTunnel_Vault: visible_shadow=True mats=['MAT_V6_TunnelVault']
+OBJ V6_FauxVolumetric_GodRays: visible_shadow=False mats=['MAT_V6_GodRayWarm', 'MAT_V6_GodRayCyan']
+CryptomatteV2 node: source= RENDER layer_name= ViewLayer.CryptoObject matte_id len= 6267 sample= DEC_Engine_RedBull_L_PATCH,DEC_Engine_RedBull_R_PATCH,DEC_Halo_Top_Oracle_PATCH,DEC_Nose_Livery_PATCH,DEC_Sidepod_Oracle
+Cryptomatte entries count: 257
+CAR_MATTE TEST AT f=635: max=0.9098, pixels>0.05 = 10831/230400 (4.70%)
+BlenderMCP addon unregistered
+Blender 5.3.0 (hash 02f0899d78e3 built 2026-11-10 01:33:43)
+
+Blender quit

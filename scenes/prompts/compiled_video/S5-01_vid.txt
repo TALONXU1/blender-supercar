@@ -1,0 +1,8 @@
+# 新加坡 · 仰拍灯柱阵列
+# 画风 ST4   时长 5s   motion 48 词
+# 首帧 S5-01.png（compiled/ 里对应的关键帧）
+
+Camera static at ground level tilted up. The car passes through pools of white light, going bright then dark then bright. Rain falls at a twenty degree angle throughout. Water on the asphalt flickers with doubled reflections as the car disturbs it. Light cones stay steady. 5 seconds.
+
+Keep: the light cones through humid air, the pure black sky, the wet mirrored surface.
+Avoid: no daylight, no sky gradient, no camera movement, no fog, no readable signage.

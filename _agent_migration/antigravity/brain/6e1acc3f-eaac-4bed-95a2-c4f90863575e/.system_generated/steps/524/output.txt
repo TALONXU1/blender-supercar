@@ -1,0 +1,1 @@
+{"status":"switched","name":"monitor","model":"gemini-4-carbon-high","model_display_name":"Gemini 4 Carbon (High)"}

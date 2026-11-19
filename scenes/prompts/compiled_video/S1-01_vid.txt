@@ -1,0 +1,8 @@
+# 银石 · 低机位追车过弯
+# 画风 ST2   时长 5s   motion 51 词
+# 首帧 S1-01.png（compiled/ 里对应的关键帧）
+
+The car tracks left to right through the corner, body staying level as the wheels follow the arc. Water sprays off both rear tyres and trails back, thinning out within fifteen meters. Camera tracks parallel at matched speed, foreground grass blades sweeping past out of focus. Steady, constant pace. 5 seconds.
+
+Keep: the wet asphalt, the drying dark racing line, the grey grandstand behind.
+Avoid: no camera shake, no extra vehicles, no scene change, no slow motion, no morphing bodywork.

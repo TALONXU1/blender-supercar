@@ -1,0 +1,8 @@
+# 维加斯 · 车侧跟拍霓虹流动
+# 画风 ST6   时长 4s   motion 44 词
+# 首帧 S7-03.png（compiled/ 里对应的关键帧）
+
+Camera tracks alongside at matched speed, holding the car's flank. Neon reflections slide across the carbon and paint in sequence, cyan then magenta then white, as the car passes each source. Air stays clean with no visible light cones. Steady, constant speed. 4 seconds.
+
+Keep: the reflection sequence across the body, the crisp specular, the deep blacks.
+Avoid: no fog, no light cones, no plastic sheen, no static colour patches, no camera wobble.

@@ -1,0 +1,89 @@
+=== COLOR FRAMES (D:\项目session\blender-supercar\renders_v5\frames) ===
+Shot                      Frm  MeanL   P05   P50   P95  Clip%  Dark% SkyStepMax CenterL
+S01_RearChase              60   73.6  21.1  40.1 168.7   0.07    2.3       0.27    60.9
+S02_Onboard               160   69.3  14.1  58.5 158.9   0.12    0.0       0.33    63.0
+S03_ChaseRise             250   75.0   5.1  45.6 201.8   0.36    4.8       9.67    45.7
+S04_Hairpin               350  104.0  16.6  87.1 180.6   1.06    1.1       0.12    48.3
+S05_ChaseAintree          440   94.4  34.1  90.3 178.5   0.22    1.5       0.25    73.9
+S06_Orbit1                520   77.2   6.5  41.1 175.4   1.21    2.5       0.94    37.4
+S07_ChaseAccel            600   84.9  23.1  75.3 171.2   0.20    2.7       0.31    75.0
+S08_FastPan               700   96.7  22.9  69.6 178.3   0.48    0.8       0.21    66.3
+S09_WheelMacro            760   64.6   3.7  39.5 162.1   0.83    9.8       3.23    23.6
+S09b_ChaseFast            820   81.0  13.1  63.6 168.0   0.47    2.4       0.31    64.8
+S10_OrbitBrooklands       870   70.4  11.9  40.0 174.4   1.39    1.6       0.94    41.9
+S11_Luffield              950   80.1  24.9  41.5 188.9   2.89    0.0       4.71    43.6
+S12_ChaseWoodcote        1040   97.0   9.1 108.2 200.3   0.19    2.9       0.28    73.4
+S13_WoodcoteTele         1120   86.0  21.1  53.6 180.7   0.97    0.1      12.50    48.8
+S14_HeliDrop             1200   36.9   5.1  39.1  49.3   0.05    4.4       0.07    25.9
+S15_OrbitCopse           1300   77.4   5.1  40.5 175.0   0.63    4.9       0.41    31.8
+S16_ChaseCopse           1380   99.1  35.5 106.0 202.8   0.20    0.6       0.29    82.5
+S17_Maggotts             1470  100.8  22.5  81.4 178.7   0.78    0.5       0.28    62.3
+S18_ChaseRise2           1560   70.7   5.1  41.1 179.6   0.21    4.8      14.14    41.5
+S19_Onboard3             1640   83.7  37.5  83.1 172.7   0.11    0.0       0.40    81.4
+S20_StoweTele            1730  127.3  25.1 158.3 208.0   1.24    0.4       0.62   160.8
+S21_OrbitStowe           1830   84.5  23.1  43.1 189.9   0.58    1.0       0.93    51.2
+S22_ChaseLow             1920   83.8  22.1  51.6 173.6   0.17    1.5       0.27    61.9
+S23_HeliReveal           2010   41.3  19.0  39.1  72.2   0.02    0.6       1.16    30.6
+S24_Club                 2090   83.3  35.1  42.1 174.4   0.50    1.0       0.32    60.1
+S25_AerialOut            2145   51.4  19.0  40.1 141.9   0.04    0.4       0.67    43.3
+S25_FadeEnd              2161    0.7   0.0   0.0   1.0   0.00   98.6       0.06     0.3
+
+=== CLAY FRAMES (D:\项目session\blender-supercar\renders_v5\clay_frames) ===
+Shot                      Frm  MeanL   P05   P50   P95  Clip%  Dark% SkyStepMax CenterL
+S01_RearChase              60  143.4  56.1 166.4 169.4   2.06    0.0       0.15   161.4
+S02_Onboard               160  147.9 127.1 139.8 169.9   1.59    0.0       0.05   165.6
+S03_ChaseRise             250  150.2  71.4 167.3 184.9   1.53    0.0       3.01   164.1
+S04_Hairpin               350  138.9  76.2 127.1 167.3   0.47    0.0       0.06   132.0
+S05_ChaseAintree          440  151.9 126.1 163.9 235.8   4.97    0.0       0.05   163.5
+S06_Orbit1                520  137.8  72.0 127.1 178.9   0.17    0.0       3.25   127.4
+S07_ChaseAccel            600  149.9  92.8 127.1 192.4   0.12    0.0       0.05   134.2
+S08_FastPan               700  146.1  78.1 166.4 167.4   1.65    0.0       0.05   152.0
+S09_WheelMacro            760  130.2  72.8 127.1 185.4   0.44    0.0       1.05   112.0
+S09b_ChaseFast            820  145.0  73.0 127.1 196.3   0.20    0.0       0.05   124.0
+S10_OrbitBrooklands       870  150.8  54.1 167.3 243.3   6.01    0.0       0.35   173.2
+S11_Luffield              950  132.3  68.8 163.4 170.3   0.11    0.0       2.40   135.2
+S12_ChaseWoodcote        1040  149.5  74.2 127.1 193.3   0.20    0.0       0.05   133.4
+S13_WoodcoteTele         1120  140.4  61.9 166.4 166.4   0.77    0.0       3.90   152.7
+S14_HeliDrop             1200  163.3 102.1 168.3 169.3   1.35    0.0       0.05   155.8
+S15_OrbitCopse           1300  142.2  75.6 127.1 192.4   0.23    0.0       0.80   127.7
+S16_ChaseCopse           1380  150.9 126.1 166.4 183.1   3.28    0.0       0.05   170.4
+S17_Maggotts             1470  146.2  75.7 167.3 170.3   2.17    0.0       0.08   156.3
+S18_ChaseRise2           1560  158.4  71.8 172.3 197.3   0.74    0.0       6.20   174.6
+S19_Onboard3             1640  157.2 127.1 170.3 204.7   4.23    0.0       0.04   165.3
+S20_StoweTele            1730  163.9  70.8 166.4 238.3  25.08    0.0       2.42   218.6
+S21_OrbitStowe           1830  166.0 127.1 167.4 254.3   6.52    0.0       1.42   194.3
+S22_ChaseLow             1920  150.3 121.6 166.4 201.4   3.06    0.0       0.05   164.4
+S23_HeliReveal           2010  167.6 167.3 168.3 168.4   0.72    0.0       0.07   166.3
+S24_Club                 2090  152.5 126.1 167.3 174.5   0.37    0.0       0.04   164.6
+S25_AerialOut            2145  169.9 167.4 167.4 170.9   2.65    0.0       0.08   180.4
+S25_FadeEnd              2161   41.7  40.6  41.6  41.9   0.00    0.0       0.08    42.3
+
+=== TEXTURES STATS ===
+_merc_preview.png            size=(1100, 620) meanL=45.5 p95=255.0 max=255
+ad_boards.png                size=(2048, 256) meanL=125.6 p95=240.0 max=255
+asphalt_grain.png            size=(512, 512) meanL=89.5 p95=104.0 max=111
+bigscreen.png                size=(2048, 1152) meanL=80.3 p95=123.1 max=255
+brake_100.png                size=(512, 320) meanL=210.6 p95=239.9 max=240
+brake_150.png                size=(512, 320) meanL=210.7 p95=239.9 max=240
+brake_50.png                 size=(512, 320) meanL=214.6 p95=239.9 max=240
+crowd_silverstone.png        size=(1024, 256) meanL=105.5 p95=218.1 max=240
+decal_endplate_mobil1.png    size=(1024, 1024) meanL=18.1 p95=204.4 max=255
+decal_engine_redbull_bull.png size=(2048, 1024) meanL=37.9 p95=204.4 max=255
+decal_halo_oracle.png        size=(1024, 256) meanL=17.0 p95=255.0 max=255
+decal_nose_livery.png        size=(1024, 2048) meanL=18.3 p95=204.4 max=255
+decal_rearwing_back.png      size=(2048, 512) meanL=26.5 p95=204.4 max=255
+decal_rearwing_bybit.png     size=(2048, 256) meanL=17.4 p95=57.1 max=255
+decal_rearwing_front.png     size=(2048, 512) meanL=31.5 p95=255.0 max=255
+decal_sidepod_oracle.png     size=(2048, 640) meanL=34.0 p95=255.0 max=255
+merc_endplate.png            size=(1024, 1024) meanL=27.1 p95=160.7 max=204
+merc_engine.png              size=(2048, 1024) meanL=10.2 p95=105.5 max=134
+merc_halo.png                size=(1024, 256) meanL=37.1 p95=204.0 max=204
+merc_nose.png                size=(1024, 2048) meanL=60.3 p95=77.9 max=98
+merc_rearwing.png            size=(2048, 512) meanL=25.2 p95=204.0 max=204
+merc_sidepod.png             size=(2048, 640) meanL=44.4 p95=204.0 max=204
+pit_garage.png               size=(2048, 512) meanL=28.4 p95=101.7 max=255
+steering_display.png         size=(1024, 512) meanL=29.9 p95=168.7 max=255
+test_bull_bezier.png         size=(1200, 600) meanL=40.5 p95=200.1 max=255
+test_bull_perfect.png        size=(1200, 600) meanL=43.2 p95=200.1 max=255
+test_bull_preview.png        size=(1000, 500) meanL=34.2 p95=200.1 max=255
+tire_sidewall_pirelli.png    size=(2048, 2048) meanL=6.6 p95=47.9 max=255

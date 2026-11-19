@@ -1,0 +1,35 @@
+Command exited with code 0.
+
+Command output:
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    26.76 GiB / 31.50 GiB (85%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    281.26 GiB / 300.00 GiB (94%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    565.25 GiB / 623.52 GiB (91%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+00:00.937  blend            | Read blend: "D:\项目session\blender-supercar\LATEST\v5_stage_anim.blend"
+C:\Users\86052\.gemini\antigravity\brain\a98b6c71-b658-48ee-9b28-e9a1c116099c\scratch\test_cryptomatte.py:34: DeprecationWarning: 'Scene.compositing_node_group' is expected to be removed in Blender 6.0
+  sc.compositing_node_group = ng
+C:\Users\86052\.gemini\antigravity\brain\a98b6c71-b658-48ee-9b28-e9a1c116099c\scratch\test_cryptomatte.py:35: DeprecationWarning: 'Scene.use_nodes' is expected to be removed in Blender 6.0
+  sc.use_nodes = True
+00:02.984  render           | Saved: 'C:\Users\86052\.gemini\antigravity\brain\a98b6c71-b658-48ee-9b28-e9a1c116099c\scratch\crypto_matte_test.png'
+BlenderMCP addon registered
+Crypto matte @ f=520: min=0.000 max=1.000 car_area_pct=13.88% str_len=6007
+BlenderMCP addon unregistered
+Blender 5.3.0 (hash 02f0899d78e3 built 2026-11-10 01:33:43)
+
+Blender quit

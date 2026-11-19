@@ -1,0 +1,17 @@
+Task: a98b6c71-b658-48ee-9b28-e9a1c116099c/task-21
+Status: DONE
+Log: file:///C:/Users/86052/.gemini/antigravity/brain/a98b6c71-b658-48ee-9b28-e9a1c116099c/.system_generated/tasks/task-21.log
+Log output:
+<truncated 512 lines>
+ blocked by V5_Brake_1_150              : 1 frames (f=375..375, sample=[(375, 15.07, 22.12)])
+  Cam_S14_HeliDrop           blocked by V5_Bridge_B_Deck            : 1 frames (f=1171..1171, sample=[(1171, 30.35, 37.51)])
+  Cam_S17_Maggotts           blocked by V5_Barrier                  : 2 frames (f=1415..1417, sample=[(1415, 36.77, 97.27), (1417, 34.18, 94.14)])
+  Cam_S20_StoweTele          blocked by V5_Ad_70                    : 3 frames (f=1713..1717, sample=[(1713, 226.24, 389.31), (1715, 221.42, 381.82), (1717, 216.63, 374.33)])
+  Cam_S20_StoweTele          blocked by V5_Ad_72                    : 7 frames (f=1721..1733, sample=[(1721, 124.83, 359.38), (1723, 126.06, 351.91), (1725, 127.37, 344.45)])
+  Cam_S20_StoweTele          blocked by V5_Ad_73                    : 14 frames (f=1761..1787, sample=[(1761, 39.68, 212.63), (1763, 40.19, 205.45), (1765, 40.73, 198.26)])
+BlenderMCP addon unregistered
+Blender 5.3.0 (hash 02f0899d78e3 built 2026-11-10 01:33:43)
+
+Blender quit
+
+Last progress: 15s ago

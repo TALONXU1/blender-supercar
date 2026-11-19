@@ -1,0 +1,8 @@
+# 赞德福特 · 倾斜弯外侧低机位
+# 画风 ST5   时长 5s   motion 47 词
+# 首帧 S6-01.png（compiled/ 里对应的关键帧）
+
+The car runs high on the banked surface, body rolled into the slope, then tracks down and away. Sand streams horizontally across the kerb edge at ankle height throughout. Camera static on the outside, no pan. Crowd behind stays a soft orange mass. Steady pace. 5 seconds.
+
+Keep: the 18 degree banking, the sand stream height, the orange crowd.
+Avoid: no camera movement, no sunlight, no dust storm, no trees, no banking flattening.

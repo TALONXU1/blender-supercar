@@ -1,0 +1,27 @@
+Command exited with code 0.
+
+Command output:
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    25.71 GiB / 31.50 GiB (82%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    283.38 GiB / 300.00 GiB (94%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    566.48 GiB / 623.52 GiB (91%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+meta: {'schema': 'race-path/1.0', 'circuit': 'Silverstone', 'source': 'OpenStreetMap type=circuit relation (ODbL), pit lane removed, resampled 2m', 'osm_relation': 51160, 'units': 'SI: meters, seconds, m/s, degrees CCW from +X', 'georef': {'lat0': 52.0696242, 'lon0': -1.011383, 'kx_m_per_deg': 68428.788, 'ky_m_per_deg': 110540.0, 'world_xy_from_wgs84': 'x=(lon-lon0)*kx, y=(lat-lat0)*ky'}, 'closed_loop': True, 'official_length_km': 5.891, 'measured_length_km': 5.8339, 'length_error_pct': -0.97, 'official_lap_s': 87.0, 'sim_lap_s': 90.34, 'lap_error_pct': 3.84, 'sim_avg_kmh': 232.5, 'points': 2933, 'sample_step_m': 2.0, 'track_half_width_m': 7.0, 'limits': {'a_lat_model': 'a_lat(v) = 15.0 + 0.00714 * v^2  [m/s^2, 含下压力]', 'a_brake_model': 'min(55, 20 + 0.005 * v^2)', 'a_accel_model': 'min(16, 937 / v)', 'v_max_mps': 92.0}, 'geometry_quality': {'raw_ways': 53, 'kept_ways': 27, 'raw_len_m': 11397.3, 'stitch_close_gap_m': 0.0, 'gaps_over_20m': 0}, 'anti_drift_check': {'max_lat_g': 6.386, 'points_over_limit': 0, 'verdict': 'PASS'}, 'agent_contract': ['位置沿 racing_xy 按 t 插值，不要用 xy（那是中心线）', '朝向取 heading_deg（切线方向），禁止用位移差反推朝向', '速度取 v_mps，按 t 驱动时间轴', '硬约束: v^2 * curv_1pm 不得超过 limits.a_lat_model，超出即判为漂移', '帧间线性插值；贝塞尔过冲会在弯心把车甩出赛道', '轮速 = v_mps / 0.33 (18寸胎半径m)', '前轮转角 = curv_1pm * 3.6 (轴距m)，单位弧度']}
+len(pts): 2933
+p[0]: {'i': 0, 's': 0.0, 'xy': [-0.411, -0.766], 'z': 0.0, 'half_width': 7.0, 'heading_deg': -123.15, 'curv_1pm': 0.003498, 'radius_m': 285.91, 'racing_xy': [0.719, -1.398], 'racing_offset_m': 1.295, 'v_mps': 82.652, 'v_kmh': 297.5, 't': 0.0, 'lat_g': 2.436}
+p[-1]: {'i': 2932, 's': 5832.0, 'xy': [0.505, 0.866], 'z': 0.0, 'half_width': 7.0, 'heading_deg': -123.533, 'curv_1pm': 0.003658, 'radius_m': 273.4, 'racing_xy': [1.748, 0.165], 'racing_offset_m': 1.426, 'v_mps': 82.394, 'v_kmh': 296.6, 't': 90.3178, 'lat_g': 2.531}

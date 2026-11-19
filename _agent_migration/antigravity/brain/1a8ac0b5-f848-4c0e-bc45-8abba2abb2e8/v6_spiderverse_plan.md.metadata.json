@@ -1,0 +1,6 @@
+{
+  "summary": "V6《蜘蛛侠：纵横宇宙》(Across the Spider-Verse) 风格化银石 F1 整圈企划与技术实现方案：涵盖完全隔离的 V6 目录与文件架构、Blender 5.3 EEVEE 纯 CPU 六大核心视觉支柱（ShaderToRGB 阶梯冷暖光影+半调网点+排线阴影、双层可变线宽手绘墨线、焦外 CMYK 印刷错版替代传统景深、Kuwahara 水彩表现主义远景、3D 漫画气动流线与闪白冲击帧、防抖动的局部抽帧 On-Twos 动画节奏）、三幕平行宇宙色彩剧本、声画漫画化增强及 Swarm 无冲突分工方案。",
+  "updatedAt": "2026-11-18T07:12:06.088363800Z",
+  "requestFeedback": true,
+  "userFacing": true
+}

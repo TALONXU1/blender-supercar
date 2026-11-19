@@ -1,0 +1,23 @@
+The search for "opendesignmotion" returned the following summary:
+**Open Design Motion** is an open-source, local-first motion-design and video generation workflow integrated into **Open Design** (an AI collaborative design agent workspace)[1][2]. Positioned as an open-source alternative to tools like *Claude Motion*, it allows users to generate programmable motion graphics, UI mockups, and promo videos using AI agents[3][1][4].
+
+### How It Works
+1. **Prompt-to-Code:** You provide a text prompt describing the video or animation you want, alongside brand assets like logos, screenshots, or style notes[5][2].
+2. **AI Agent Generation:** An AI agent writes the underlying code (such as HTML, CSS, and GSAP animation scripts)[5]. 
+3. **Rendering:** The platform (using rendering engines like HyperFrames) compiles the code into an MP4 video file[5].
+4. **Editable Source:** Unlike black-box generative video models (like Runway or Kling)[3] that only output a flat video file, Open Design Motion retains the underlying project structure. You can directly edit text, timing, colors, layout, and scene length[5][2].
+
+### Key Features
+* **Model Flexibility:** Because it's open-source, you aren't locked into a single ecosystem; it can be run using various AI models and agents[1][4].
+* **Local-First & Open Source:** Hosted via projects like `nexu-io/open-design`, allowing for local deployment or use with bring-your-own-API keys[6][4][2].
+* **Built-in Templates & Use Cases:** Includes templates tailored for product promos, UI morphs, showreels, kinetic typography, and storytelling layouts[4].
+
+Sources:
+[1] [juliangoldie.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8LubUHQJzdrCyLAfQSn2qmhdusbnz48Nvol_L5Lk-21Fo1WH0rTO0B6YOvyItYLu1M2fVsxIhfqNwckSqfMH-DLUyppWQS6rkKJpNlJiUAKV8QEPHk8eS9tMs_tC0Sg6D7Q==)
+[2] [creatorstoolbox.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzI-8cYSmw7hIuZ1F950KsutndeC5gr8FnJZq6HGOirFk2Mwq0VypguzOMxi91xc_xxrkRUnkiLGIR0LfdcyCYPGXyhsM-p8Lk91if3_QLeY-OwCUqr6A9QaxbBBVDv06zC8LLK9vmLHca)
+[3] [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpOtM9DZlw0OFsBnlVsfFOZC96z0iPGCqnJkk28oxLHq9nzwrMfRByn67qA9lqQKv9hp56kVGtgxccp-hesV1yGeOSU4FfvxYlp-A3i8uZIgrXmFD3ZrKCkHfk6X_-awIi)
+[4] [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjbtK0aysUSDVXMlXlC0I8iqLs1IQg0oD7SKksdd43AqiZKDO92hEExjhPYo6lkIEmvWSMyHU35sq3TnKHwbyj8VUd45QrwsfdONhZ6iubfhjSqdBZVatv-LMvspOqOJLB)
+[5] [aiprofitboardroom.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHy7wvYhxKAQqNb_EPgsRVr-FVsX4kaA1IlXHUoOnNnqNFSL4GAqErwauYBdgK_H8DZqFq3F4gzjdBvfBrNwiUSToz4DT63PmFBUsYrvAtBDYQcFYaShQN84tB7ZaL0m2mJEtAsDOc9NuS6Cik=)
+[6] [github.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnOuJOAWwTTwGRNSbo3QHs20wfGYpM9JO99Rw5VVCTGFESqGvCEH6vTIWUsM58UWtEWET3Ze1Wy90vjEb8p7_e8x9JNklpH8vkMH3p6078aON3hqU7kXbnWzXuaw==)
+
+Note: Source URLs are HTTP redirects; check where they resolve if you need the direct link.

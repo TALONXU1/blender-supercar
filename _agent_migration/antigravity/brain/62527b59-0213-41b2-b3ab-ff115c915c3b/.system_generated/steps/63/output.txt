@@ -1,0 +1,50 @@
+Command exited with code 0.
+
+Command output:
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    27.54 GiB / 31.50 GiB (87%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    282.37 GiB / 300.00 GiB (94%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    566.63 GiB / 623.52 GiB (91%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+=== V6 CIRCUIT BUILD COMPLETE in 1.78 s ===
+JSON: D:\项目session\blender-supercar\track_data\spiderverse_circuit.json (781,810 B, 1860 pts @ 2.0 m)
+MAP : D:\项目session\blender-supercar\track_data\spiderverse_circuit_map.png (490,807 B, 2200x1400 px, RGB mean=28.0, std=32.5)
+Length=3719.956 m (3.7200 km) | closure_gap=0.00e+00 m | seam_step=2.00000 m | max_step_err=0.00060 m
+Seam diffs (N-1 -> 0): d_head=0.0982 deg, d_pitch=0.0000 deg, d_bank=0.0000 deg, d_curv=0.000051, d_v=0.0000 m/s
+Max interior step diffs: max_d_curv=0.005940 | min_non_adj_XY_sep=77.21 m | calibration_scalar=0.94238
+Kinematics: sim_lap_s=53.3333 s | v=[81.9, 340.7] km/h (avg 251.1 km/h) | Z=[0.80, 42.35] m | pitch=[-13.93, +13.51] deg | bank=[-5.50, +17.40] deg | max_lat_g=6.34 g (0 violations)
+
+--- ZONES TABLE ---
+  canyon_grid            | s=   0.0.. 596.0 m (0.00..0.16) | t= 0.000.. 9.308 s | f=   1.. 224 | Z=  0.8..  3.0 m | pitch= -0.00..  0.61° | bank=  0.0..  0.0° | v=131.6..318.0 km/h
+  eau_rouge_climb        | s= 596.0..1228.0 m (0.16..0.33) | t= 9.308..17.966 s | f= 224.. 432 | Z=  3.0.. 42.0 m | pitch= -0.28.. 13.51° | bank= -4.0..  6.2° | v=189.1..318.0 km/h
+  sky_bridge             | s=1228.0..1860.0 m (0.33..0.50) | t=17.966..25.119 s | f= 432.. 604 | Z= 42.0.. 42.4 m | pitch= -0.10..  0.10° | bank=  0.0..  0.0° | v=318.0..318.0 km/h
+  banked_bowl_plunge     | s=1860.0..2604.0 m (0.50..0.70) | t=25.119..37.407 s | f= 604.. 899 | Z=  1.5.. 42.0 m | pitch=-13.93..  0.98° | bank= -5.5.. 17.4° | v=141.7..318.0 km/h
+  strobe_tunnel_harbor   | s=2604.0..3720.0 m (0.70..1.00) | t=37.407..53.333 s | f= 899..1281 | Z=  0.8..  1.5 m | pitch= -0.17..  0.00° | bank=  0.0..  0.0° | v= 81.9..340.7 km/h
+
+--- LANDMARKS TABLE ---
+  canyon_chicane_apex                | idx= 199 | s= 398.0 m (0.107) | t= 5.184 s | f= 125 | Z= 1.98 m | v=131.6 km/h | pitch= +0.61° | bank= +0.0°
+  eau_rouge_compression_sparks       | idx= 391 | s= 782.0 m (0.210) | t=11.718 s | f= 282 | Z= 5.47 m | v=318.0 km/h | pitch= +5.38° | bank= +1.4°
+  raidillon_max_climb_pitch          | idx= 437 | s= 874.0 m (0.235) | t=12.934 s | f= 311 | Z=22.23 m | v=216.3 km/h | pitch=+13.51° | bank= +6.2°
+  eau_rouge_42m_blind_crest          | idx= 599 | s=1198.0 m (0.322) | t=17.626 s | f= 424 | Z=42.00 m | v=318.0 km/h | pitch= +0.01° | bank= +0.0°
+  carousel_bowl_17deg_apex           | idx= 974 | s=1948.0 m (0.524) | t=26.377 s | f= 634 | Z=42.00 m | v=185.4 km/h | pitch= +0.59° | bank=+17.4°
+  corkscrew_max_plunge_pitch         | idx=1189 | s=2378.0 m (0.639) | t=34.571 s | f= 831 | Z=20.68 m | v=234.5 km/h | pitch=-13.93° | bank= +2.7°
+  strobe_tunnel_entry                | idx=1321 | s=2642.0 m (0.710) | t=37.837 s | f= 909 | Z= 1.50 m | v=318.9 km/h | pitch= -0.00° | bank= +0.0°
+  strobe_tunnel_exit                 | idx=1581 | s=3162.0 m (0.850) | t=43.360 s | f=1042 | Z= 1.50 m | v=339.7 km/h | pitch= -0.00° | bank= +0.0°
+  top_speed_peak                     | idx=1369 | s=2738.0 m (0.736) | t=38.879 s | f= 934 | Z= 1.50 m | v=340.7 km/h | pitch= -0.00° | bank= +0.0°
+  harbor_hairpin_heavy_brake_slam    | idx=1631 | s=3262.0 m (0.877) | t=44.463 s | f=1068 | Z= 1.48 m | v=315.6 km/h | pitch= -0.04° | bank= +0.0°
+  harbor_hairpin_82kmh_apex          | idx=1687 | s=3374.0 m (0.907) | t=47.226 s | f=1134 | Z= 1.27 m | v= 81.9 km/h | pitch= -0.14° | bank= +0.0°

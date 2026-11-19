@@ -1,0 +1,1 @@
+{"id":"0b799f16-058e-4d88-ba84-58879ecd0f04","recipient":"6e1acc3f-eaac-4bed-95a2-c4f90863575e","sender":"6e1acc3f-eaac-4bed-95a2-c4f90863575e/task-102","priority":"MESSAGE_PRIORITY_HIGH","timestamp":"2026-11-18T06:10:12.912651300Z","renderDetails":{"messageTitle":"cron (every 3 minutes): Cron trigger #3"},"content":"[monitor] tick: check the swarm for a stall (iteration 3)"}

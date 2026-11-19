@@ -1,0 +1,51 @@
+Command exited with code 0.
+
+Command output:
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    15.72 GiB / 31.50 GiB (50%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    281.38 GiB / 300.00 GiB (94%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    555.63 GiB / 623.52 GiB (89%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+
+FullName                                                                 LastWriteTime       Length  
+--------                                                                 -------------       ------  
+D:\项目session\blender-supercar\v6_spiderverse\comp_masks                  2026/11/18 16:50:52         
+D:\项目session\blender-supercar\v6_spiderverse\textures                    2026/11/18 15:50:33         
+D:\项目session\blender-supercar\v6_spiderverse\v6_shots_manifest.json      2026/11/18 16:57:45 406056  
+D:\项目session\blender-supercar\v6_spiderverse\v6_stage_anim_sv.blend      2026/11/18 16:58:04 4953088 
+D:\项目session\blender-supercar\v6_spiderverse\v6_stage_lookdev.blend      2026/11/18 17:23:36 3740369 
+D:\项目session\blender-supercar\renders_v6\clips_frames                    2026/11/18 17:06:55         
+D:\项目session\blender-supercar\renders_v6\preview                         2026/11/18 17:23:54         
+D:\项目session\blender-supercar\renders_v6\stills                          2026/11/18 17:11:03         
+D:\项目session\blender-supercar\renders_v6\test                            2026/11/18 17:11:03         
+D:\项目session\blender-supercar\renders_v6\audio_v6_sv_mix_53s.m4a         2026/11/18 17:20:19 1729860 
+D:\项目session\blender-supercar\renders_v6\audio_v6_sv_mix_90s.m4a         2026/11/18 17:20:19 1729860 
+D:\项目session\blender-supercar\renders_v6\clip1_miles_1610.mp4            2026/11/18 17:13:46 14357500
+D:\项目session\blender-supercar\renders_v6\clip2_gwen_65.mp4               2026/11/18 17:13:52 15375835
+D:\项目session\blender-supercar\renders_v6\clip3_2099_impact.mp4           2026/11/18 17:14:01 16006044
+D:\项目session\blender-supercar\renders_v6\sfx_spiderverse_53s.wav         2026/11/18 17:20:17 10248044
+D:\项目session\blender-supercar\renders_v6\sfx_spiderverse_54s.wav         2026/11/18 17:20:17 10248044
+D:\项目session\blender-supercar\renders_v6\sfx_spiderverse_90s.wav         2026/11/18 17:20:17 10248044
+D:\项目session\blender-supercar\renders_v6\v6_spiderverse_showcase_12s.mp4 2026/11/18 17:14:23 43441369
+D:\项目session\blender-supercar\docs\README_V6_SPIDERVERSE.md              2026/11/18 17:23:51 10724   
+--- CLIPS ---
+clip1_miles_1610: 96 frames
+clip2_gwen_65: 96 frames
+clip3_2099_impact: 96 frames
+
+

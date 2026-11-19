@@ -1,0 +1,70 @@
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    25.40 GiB / 31.50 GiB (81%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    282.26 GiB / 300.00 GiB (94%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    566.88 GiB / 623.52 GiB (91%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+00:00.938  blend            | Read blend: "D:\项目session\blender-supercar\pipeline\v4_stage_rig.blend"
+D:\项目session\blender-supercar\pipeline\v6_sv_env.py:497: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  m.use_nodes = True
+D:\项目session\blender-supercar\pipeline\v6_sv_env.py:553: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  m.use_nodes = True
+D:\项目session\blender-supercar\pipeline\v6_sv_env.py:460: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  m.use_nodes = True
+D:\项目session\blender-supercar\pipeline\v6_sv_env.py:442: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  m.use_nodes = True
+D:\项目session\blender-supercar\pipeline\v6_sv_env.py:475: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  m.use_nodes = True
+D:\项目session\blender-supercar\pipeline\v6_sv_env.py:578: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  m.use_nodes = True
+D:\项目session\blender-supercar\pipeline\v6_sv_env.py:653: DeprecationWarning: 'World.use_nodes' is expected to be removed in Blender 6.0
+  world.use_nodes = True
+D:\项目session\blender-supercar\pipeline\v6_sv_env.py:706: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  sky_mat.use_nodes = True
+D:\项目session\blender-supercar\pipeline\v6_sv_env.py:751: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  moon_mat.use_nodes = True
+D:\项目session\blender-supercar\pipeline\v6_sv_env.py:1299: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  m_fia.use_nodes = True
+D:\项目session\blender-supercar\pipeline\v6_sv_env.py:1334: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  m.use_nodes = True
+D:\项目session\blender-supercar\pipeline\v6_sv_env.py:1411: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  m.use_nodes = True
+00:04.657  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\preview\v6_01_canyon_15mm_wet.jpg'
+00:06.516  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\preview\v6_02_raidillon_climb_sparks.jpg'
+00:08.110  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\preview\v6_03_crest_skybridge_moon.jpg'
+00:09.704  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\preview\v6_04_banked_bowl_17deg.jpg'
+00:11.454  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\preview\v6_05_laser_strobe_tunnel_2099.jpg'
+00:13.141  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\preview\v6_06_harbor_hairpin_brake_2099.jpg'
+BlenderMCP addon registered
+Loaded 1860 3D circuit pts (3720.0 m) | max |P_race - rpos| = 0.1930 mm | peak bank idx=973 (17.40 deg)
+Megacity towers placed: 107 | Tunnel samples: 261 | Bridge samples: 316
+信息: 已删除 4 个数据块
+信息: 已另存为 "v6_stage_lookdev.blend"
+=== V6 3D MEGA-CIRCUIT LOOKDEV SUMMARY ===
+Saved: D:\项目session\blender-supercar\v6_spiderverse\v6_stage_lookdev.blend in 0.87 s
+Total objects: 278 | Root objs: []
+Collections: {'SCIFI_F1_2035': 245, 'V6_01_Track3D': 4, 'V6_02_Megacity': 4, 'V6_03_SkyBridge_Bowl': 4, 'V6_04_StrobeTunnel_Harbor': 3, 'V6_05_Atmosphere_GodRays': 3, 'V6_07_Lighting': 2, 'V6_09_ComicFX': 13}
+PREVIEW v6_01_canyon_15mm_wet (dim=0.0, z=0.8m, pitch=0.0deg, bank=0.0deg): 2.82 s
+PREVIEW v6_02_raidillon_climb_sparks (dim=0.0, z=22.2m, pitch=13.5deg, bank=6.2deg): 1.86 s
+PREVIEW v6_03_crest_skybridge_moon (dim=1.0, z=42.0m, pitch=0.0deg, bank=0.0deg): 1.58 s
+PREVIEW v6_04_banked_bowl_17deg (dim=1.0, z=42.0m, pitch=0.5deg, bank=17.4deg): 1.58 s
+PREVIEW v6_05_laser_strobe_tunnel_2099 (dim=2.0, z=1.5m, pitch=0.0deg, bank=0.0deg): 1.72 s
+PREVIEW v6_06_harbor_hairpin_brake_2099 (dim=2.0, z=1.5m, pitch=-0.1deg, bank=0.0deg): 1.68 s
+BlenderMCP addon unregistered
+Blender 5.3.0 (hash 02f0899d78e3 built 2026-11-10 01:33:43)
+
+Blender quit

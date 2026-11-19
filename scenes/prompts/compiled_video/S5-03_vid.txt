@@ -1,0 +1,8 @@
+# 新加坡 · 车后跟拍城市倒置
+# 画风 ST4   时长 5s   motion 45 词
+# 首帧 S5-03.png（compiled/ 里对应的关键帧）
+
+Camera follows behind and above, holding the car centred. The inverted skyline in the wet road ripples and reforms as the car disturbs the water film. Rain crosses the frame steadily. Steam lifts off the diffuser and drifts upward. Fast, constant forward pace. 5 seconds.
+
+Keep: the inverted skyline in the reflection, the steam at the diffuser, the rain angle.
+Avoid: no reflection breaking up permanently, no dry patches, no camera bob, no daylight.

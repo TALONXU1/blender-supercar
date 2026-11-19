@@ -1,0 +1,25 @@
+Task: 01e3331f-d103-4af9-90bc-a12f64086d33/task-42
+Status: DONE
+Log: file:///C:/Users/86052/.gemini/antigravity/brain/01e3331f-d103-4af9-90bc-a12f64086d33/.system_generated/tasks/task-42.log
+Log output:
+<truncated 1847 lines>
+ LRA:  
+ 8.3 LU  FTPK:  -9.8  -9.1 dBFS  TPK:  -1.5  -1.8 dBFS
+[Parsed_ebur128_1 @ 000001a0f0604000] t: 89.699979  TARGET:-23 LUFS    M: -13.1 S:  -9.2     I:  -8.9 LUFS       LRA:  
+ 8.3 LU  FTPK: -11.5  -9.8 dBFS  TPK:  -1.5  -1.8 dBFS
+[Parsed_ebur128_1 @ 000001a0f0604000] t: 89.799979  TARGET:-23 LUFS    M: -14.8 S:  -9.2     I:  -9.0 LUFS       LRA:  
+ 8.3 LU  FTPK: -14.0 -11.8 dBFS  TPK:  -1.5  -1.8 dBFS
+[Parsed_ebur128_1 @ 000001a0f0604000] t: 89.899979  TARGET:-23 LUFS    M: -17.3 S:  -9.3     I:  -9.0 LUFS       LRA:  
+ 8.3 LU  FTPK: -17.7 -16.1 dBFS  TPK:  -1.5  -1.8 dBFS
+[Parsed_ebur128_1 @ 000001a0f0604000] t: 89.999979  TARGET:-23 LUFS    M: -20.4 S:  -9.5     I:  -9.0 LUFS       LRA:  
+ 8.3 LU  FTPK: -24.0 -20.7 dBFS  TPK:  -1.5  -1.8 dBFS
+[Parsed_volumedetect_0 @ 000001a0f0561c00] mean_volume: -12.4 dB
+[Parsed_volumedetect_0 @ 000001a0f0561c00] max_volume: -1.5 dB
+    I:          -9.0 LUFS
+    LRA:         8.3 LU
+  True peak:
+    Peak:       -1.5 dBFS
+
+
+
+Last progress: 14s ago

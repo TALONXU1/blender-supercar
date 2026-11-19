@@ -1,0 +1,37 @@
+Command exited with code 0.
+
+Command output:
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    26.87 GiB / 31.50 GiB (85%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    282.12 GiB / 300.00 GiB (94%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    566.38 GiB / 623.52 GiB (91%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+00:02.578  blend            | Read blend: "D:\项目session\blender-supercar\v6_spiderverse\v6_stage_lookdev.blend"
+C:\Users\86052\.gemini\antigravity\brain\b13776a0-7d9f-4f63-9e67-c8ecc5f11412\scratch\test_same_cam_dims.py:5: DeprecationWarning: 'Scene.use_nodes' is expected to be removed in Blender 6.0
+  sc.use_nodes = False
+00:07.781  render           | Saved: 'C:\Users\86052\.gemini\antigravity\brain\b13776a0-7d9f-4f63-9e67-c8ecc5f11412\scratch\dim_test_0.jpg'
+00:09.844  render           | Saved: 'C:\Users\86052\.gemini\antigravity\brain\b13776a0-7d9f-4f63-9e67-c8ecc5f11412\scratch\dim_test_1.jpg'
+00:11.937  render           | Saved: 'C:\Users\86052\.gemini\antigravity\brain\b13776a0-7d9f-4f63-9e67-c8ecc5f11412\scratch\dim_test_2.jpg'
+BlenderMCP addon registered
+SAME CAM f=68 dim=0.0: topSkyRGB=[0.67  0.402 0.655] botFgRGB=[0.481 0.393 0.414]
+SAME CAM f=69 dim=1.0: topSkyRGB=[0.782 0.651 0.795] botFgRGB=[0.548 0.428 0.597]
+SAME CAM f=70 dim=2.0: topSkyRGB=[0.528 0.258 0.679] botFgRGB=[0.355 0.421 0.625]
+BlenderMCP addon unregistered
+Blender 5.3.0 (hash 02f0899d78e3 built 2026-11-10 01:33:43)
+
+Blender quit

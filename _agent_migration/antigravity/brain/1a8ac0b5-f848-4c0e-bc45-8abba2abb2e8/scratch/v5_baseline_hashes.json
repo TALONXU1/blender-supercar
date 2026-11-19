@@ -1,0 +1,230 @@
+{
+  "LATEST/README.txt": {
+    "size": 2599,
+    "sha256": "30c995a22d745a5457422a3fb5db2becaef634a95d04eb726d9602e0be739a22"
+  },
+  "LATEST/v5_stage_anim.blend": {
+    "size": 4964612,
+    "sha256": "2d3607171ac71e4e9b9157ec4a7e59df0a2e175ad28da6826ff2259d4a8e087e"
+  },
+  "LATEST/v5_stage_anim_clay.blend": {
+    "size": 4872927,
+    "sha256": "90fb86cbc84246c5392cd7f79eeb5c5da166bb01ed92ff4076b629d51403f12d"
+  },
+  "LATEST/v5_stage_env.blend": {
+    "size": 3590781,
+    "sha256": "9b4f58491c4cb7d23f24d88cb4c7b52cbd09222378165765e6e651df292f566c"
+  },
+  "pipeline/v5_anim.py": {
+    "size": 45428,
+    "sha256": "4de7ca02c6a3c73171ab888f3bc91aeed8220cae053ec5f4367259fb9a321713"
+  },
+  "pipeline/v5_clay.py": {
+    "size": 8048,
+    "sha256": "bc3e8bc5e5f0bc77552fe7e72409b12750c2a699304b9885f27b954d0e2ec0a7"
+  },
+  "pipeline/v5_env.py": {
+    "size": 82655,
+    "sha256": "6126d76bd243d4da7809430932838ead0fc99be09bd1c53b0ddda9b9ac46e823"
+  },
+  "pipeline/v5_preview.py": {
+    "size": 2991,
+    "sha256": "2fbd3cbe5c34db561e909290f3da7772aaba0627f6fd1716fd205480831ce459"
+  },
+  "pipeline/v5_stills.py": {
+    "size": 6723,
+    "sha256": "044060e411a0ee4c3de1437d34671b4149802b5f49e1e326c89f7a14c2fe5e40"
+  },
+  "pipeline/v5_viewport_fast.py": {
+    "size": 2537,
+    "sha256": "e2964fe573b608fa891172ac998bb12fda41283e181d0acf88ac4786c3605d85"
+  },
+  "pipeline/gen_textures.py": {
+    "size": 18756,
+    "sha256": "807616a5393370f0321617b0b174900479f537e58318c4b1cc2566254d621497"
+  },
+  "pipeline/render_v5.py": {
+    "size": 1007,
+    "sha256": "5099885457968c29cab5ffd5c62491fa1158526afc1bb653583ef160cdce18bf"
+  },
+  "pipeline/render_clay.py": {
+    "size": 1000,
+    "sha256": "4f579f350673a390bc5de3ade38dc47745fd520319edd79fa3bea61e5716ac0f"
+  },
+  "pipeline/synth_sfx.py": {
+    "size": 43683,
+    "sha256": "d8c9c457f6308088cc5a4ef3c97e064a3fa75185542173b0c183f77d62e2d095"
+  },
+  "pipeline/mux_v5.sh": {
+    "size": 2377,
+    "sha256": "ed99aa5795bf98bd8b51c544d8468b4e3096caf8f1f9434f780c7519437edc20"
+  },
+  "pipeline/mux_clay.sh": {
+    "size": 2399,
+    "sha256": "65c7477b452f2b81f824e0ad7c41c3e4bff0f1b712b2b631339e2a01e35a15bb"
+  },
+  "textures/_merc_preview.png": {
+    "size": 77879,
+    "sha256": "1220c60a7b3dffff4bd57f0826f01e710a29eeba7330da62d7d1f1da33857901"
+  },
+  "textures/ad_boards.png": {
+    "size": 36149,
+    "sha256": "fc5fbe35d8c11c1b45fbdd76bce43ccc05a45ee48f61b4f4120270c824a3db5d"
+  },
+  "textures/asphalt_grain.png": {
+    "size": 185745,
+    "sha256": "f4e5f3eac82592b7ba98db7c19c87ad94d9b86a8d8fe4420db56de1975fbd852"
+  },
+  "textures/bigscreen.png": {
+    "size": 157380,
+    "sha256": "01760eb7c68772f108e07e9f121eb688c906446b26cde6443c5ca2c41cd7306e"
+  },
+  "textures/brake_100.png": {
+    "size": 3933,
+    "sha256": "d16cd41637219db42b71cea29dc80ef48e606bb3177070f5a040c8c3d3035a00"
+  },
+  "textures/brake_150.png": {
+    "size": 5816,
+    "sha256": "2b2690fc0bf725e7b53bd88fd41324d519931b2f3570b18cf00d0d2a8e833933"
+  },
+  "textures/brake_50.png": {
+    "size": 5442,
+    "sha256": "dfd6221f851840a21d71535318b4544c1246ff2597a0bfd6c19954ae7256ea31"
+  },
+  "textures/crowd_silverstone.png": {
+    "size": 538442,
+    "sha256": "614d5619a77825f31e197d1b35628ba8e196acb5152340d46a3ed997b5ddd4c0"
+  },
+  "textures/decal_endplate_mobil1.png": {
+    "size": 20395,
+    "sha256": "3e3823917e6aa79ae54312a0e5867b524b21333f77a43827653303767577ec12"
+  },
+  "textures/decal_engine_redbull_bull.png": {
+    "size": 55538,
+    "sha256": "43569670cb7298ff4f3ca431c366efd3d682833bf3f48ea98d45f1c7313dda80"
+  },
+  "textures/decal_halo_oracle.png": {
+    "size": 8026,
+    "sha256": "c7af7660618614695e1145186fc7d6b51b47e8e48c7de397910bbcf4744de298"
+  },
+  "textures/decal_nose_livery.png": {
+    "size": 46136,
+    "sha256": "175bb2411ea9f24606d0e1a14bc207a90869e133107eaca8bdf23c75c44347c1"
+  },
+  "textures/decal_rearwing_back.png": {
+    "size": 26880,
+    "sha256": "e031b011228a29ff1c8e75c1987a5616f56ce579bfe80f0f555feb0cb5d6d063"
+  },
+  "textures/decal_rearwing_bybit.png": {
+    "size": 6749,
+    "sha256": "e3ebd99f98a5fe0c646adea171d32a3811143c2dbafb9bc9d66dc5311ddaa64c"
+  },
+  "textures/decal_rearwing_front.png": {
+    "size": 23064,
+    "sha256": "a56ab7289ac8e75d524d80a76348aa9113d7fe26bca8f8729ee5b37fea36c99b"
+  },
+  "textures/decal_sidepod_oracle.png": {
+    "size": 28839,
+    "sha256": "03abbc7f77fedeebff3e4fd22976b8d960d58542d371104b06d323b0aae68603"
+  },
+  "textures/drs_board.png": {
+    "size": 10761,
+    "sha256": "19371c7290a398267854e4e93a3b70a6fad191b5ce622e6e89fed20c31a922c1"
+  },
+  "textures/merc_endplate.png": {
+    "size": 30938,
+    "sha256": "7742e1e737a98516fa089495a80d0ab93da6e11c4b72ca6d42ce9574b82b573b"
+  },
+  "textures/merc_engine.png": {
+    "size": 56450,
+    "sha256": "4ce1c88d1ad2b437db22f34a3decb64aee4683ef91e279312b00eed36cb2baad"
+  },
+  "textures/merc_halo.png": {
+    "size": 17477,
+    "sha256": "c0eb891b30377008df34aae07e62535f796a669f46f169f30ffb23233fea12bc"
+  },
+  "textures/merc_nose.png": {
+    "size": 18718,
+    "sha256": "7eb666db6e14c632d7990e6c9d0856bcadd917135235b42a97316aa6316ed447"
+  },
+  "textures/merc_rearwing.png": {
+    "size": 31196,
+    "sha256": "1c9c0ae3fddc27a6c6ebe48ffff0ee483c8e2429afdaffffa493a0f7a733a3b7"
+  },
+  "textures/merc_sidepod.png": {
+    "size": 51556,
+    "sha256": "99a5e0db36219ba2189b3c5afe0baaae899f7ab7a0ae988ca872b32dd6f35f7c"
+  },
+  "textures/pit_garage.png": {
+    "size": 40538,
+    "sha256": "4072931f03b53bad6495e5587aed32eefe689ad5a077b819b6941beb65cd6c1e"
+  },
+  "textures/steering_display.png": {
+    "size": 42206,
+    "sha256": "af0bca40f9707c21f5b35df64fc3d87ee252113c326c1b1f325ab6a4b799c7ae"
+  },
+  "textures/test_bull_bezier.png": {
+    "size": 29452,
+    "sha256": "50e055c0367fe30bbe204a2065bbcf9d336a183402af6c1fb2d57ae69979792e"
+  },
+  "textures/test_bull_perfect.png": {
+    "size": 30534,
+    "sha256": "3f916d6dad6a84991f7951d3ceb12034c44faa00372f47e38e4cf4597fd32e83"
+  },
+  "textures/test_bull_preview.png": {
+    "size": 6103,
+    "sha256": "bb1d7f117f761b068845b1090600544c7b20ea8c0f02ae28bd1d328e1ae742c1"
+  },
+  "textures/tire_sidewall_pirelli.png": {
+    "size": 184982,
+    "sha256": "c8e7c7470a6ae1069572aa3371f28bb270738529215fc2a38bbf730ac45a16a0"
+  },
+  "docs/README_V5.md": {
+    "size": 15601,
+    "sha256": "8d0c2454d91e7bed7f8c5cdf917e5d7538156bba10ec78b7294eb8ffec97deee"
+  },
+  "renders_v5/f1_silverstone_clay_1080p.mp4": {
+    "size": 35343889,
+    "sha256": "2c23d6b8d2143a5b8c4f1c6c3a7630d4ced7cee297573e55dd7e65381a7c4618"
+  },
+  "renders_v5/f1_silverstone_clay_sfx_1080p.mp4": {
+    "size": 36107297,
+    "sha256": "8467975d466ddc8f3dfa399cc7acb15ba0efc4b6a24a4388b8c64282fcb25437"
+  },
+  "renders_v5/f1_silverstone_clay_silent.mp4": {
+    "size": 33145766,
+    "sha256": "1aa4780f8b6989bc92686a74f966c4c388f3fb5ddedc1d5e2f9cea219e847b04"
+  },
+  "renders_v5/f1_silverstone_lap_1080p.mp4": {
+    "size": 63343672,
+    "sha256": "6db485e91c308fcfadaf6cf5dae90431f4141b011d5cd396debebf901e748a11"
+  },
+  "renders_v5/f1_silverstone_lap_sfx_1080p.mp4": {
+    "size": 65019265,
+    "sha256": "cd65ab455dee55dff6d735e48df25dfb4d40fb50d4832fe2d00e956670aa966d"
+  },
+  "renders_v5/f1_silverstone_lap_silent.mp4": {
+    "size": 62058198,
+    "sha256": "03bed1679277f2abbb474c217807cd178d651f4987729a661f8e092cbe1e5c5d"
+  },
+  "renders_v5/audio_v5_90s.m4a": {
+    "size": 1254049,
+    "sha256": "abccd5b30ebd63277f120f30cce0d8470df3b0354244e0e89faaf6ddf4af2cba"
+  },
+  "renders_v5/audio_v5_sfx_mix_90s.m4a": {
+    "size": 2943354,
+    "sha256": "d03dbd476e06d64b5c83011dc3792b90ddb899a97816009804fbca5854a79886"
+  },
+  "renders_v5/sfx_engine_90s.wav": {
+    "size": 17288044,
+    "sha256": "7cdf97194ac9b1333f74cbf9d484157a31dcc6c153434b85ad545851ff8608a5"
+  },
+  "renders_v5/stills/contact_sheet.jpg": {
+    "size": 739281,
+    "sha256": "c5ee9dd2745c3be4f885d4f92c3a2fc32646b171eba703151613155e2910d9de"
+  },
+  "renders_v5/clay_stills/contact_sheet_clay.jpg": {
+    "size": 272923,
+    "sha256": "32430c5e2afecfbf17ec086da7fc3c2bdb0ae5519848a140fa77bedba839e528"
+  }
+}

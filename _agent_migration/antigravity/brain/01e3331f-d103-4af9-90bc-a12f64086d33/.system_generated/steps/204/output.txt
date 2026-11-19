@@ -1,0 +1,56 @@
+Command exited with code 1.
+
+Command output:
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    26.80 GiB / 31.50 GiB (85%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    282.31 GiB / 300.00 GiB (94%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    566.83 GiB / 623.52 GiB (91%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+CRLF count: 0
+[aist#0:0/pcm_s16le @ 0000027e0f0b7cc0] Guessed Channel Layout: stereo
+[synth_sfx_sv] Loading 3D Sky-Harbor circuit telemetry (53.375s / 1,281 frames)...
+[synth_sfx_sv] Slicing After Hours peak drop (audio.wav @ 240.814s, 96 beats) & mixing...
+[synth_sfx_sv] Done in 19.29 s:
+  WAV: D:\项目session\blender-supercar\renders_v6\sfx_spiderverse_53s.wav (10,248,044 B, 53.3750 s)
+  M4A: D:\项目session\blender-supercar\renders_v6\audio_v6_sv_mix_53s.m4a (1,723,176 B)
+  Gearbox: 26 upshifts, 26 downshifts | RPM: 9566..12443 | Impacts @ frames [413, 1067]
+  [3D Doppler] SV03_ChicaneWhip       closest= 7.8m  pitch=1.130x -> 0.858x
+  [3D Doppler] SV08_CrestMoonTele     closest= 8.1m  pitch=1.336x -> 0.798x
+  [3D Doppler] SV10_StayCablePan      closest= 9.2m  pitch=1.320x -> 0.807x
+  [3D Doppler] SV15_PlungeWhip        closest= 8.5m  pitch=1.205x -> 0.838x
+  [3D Doppler] SV17_TunnelPortal      closest= 7.6m  pitch=1.345x -> 0.784x
+  [3D Doppler] SV20_TunnelExitSmash   closest= 8.2m  pitch=1.242x -> 0.796x
+  [3D Doppler] SV21_HairpinImpact     closest= 8.4m  pitch=1.151x -> 0.899x
+
+[Parsed_volumedetect_0 @ 000001e7fd289d80] mean_volume: -14.4 dB
+[Parsed_volumedetect_0 @ 000001e7fd289d80] max_volume: -1.6 dB
+  Integrated loudness:
+    I:         -11.6 LUFS
+    Threshold: -21.6 LUFS
+  Loudness range:
+    LRA:         4.8 LU
+    Threshold: -31.7 LUFS
+    LRA low:   -14.4 LUFS
+    LRA high:   -9.6 LUFS
+  True peak:
+    Peak:       -1.5 dBFS
+[out#0/null @ 000001eec7600b40] video:0KiB audio:10008KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing o
+verhead: unknown
+size=N/A time=00:00:53.37 bitrate=N/A speed= 159x elapsed=0:00:00.33    
+
+

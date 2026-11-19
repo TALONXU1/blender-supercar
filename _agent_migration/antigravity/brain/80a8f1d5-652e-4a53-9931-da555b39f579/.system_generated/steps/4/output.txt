@@ -1,0 +1,102 @@
+Command exited with code 0.
+
+Command output:
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    15.20 GiB / 31.50 GiB (48%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    208.62 GiB / 300.00 GiB (70%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    436.91 GiB / 623.52 GiB (70%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+
+Name                                  Mode   Length 
+----                                  ----   ------ 
+drift_frames                          d-----        
+final_renders                         d-----        
+pipeline                              d-----        
+renders_v4                            d-----        
+textures                              d-----        
+__pycache__                           d-----        
+apply_fixes_and_render_suite.py       -a---- 10539  
+apply_livery.py                       -a---- 13513  
+apply_skills_optimization.py          -a---- 19193  
+build_f1_rig_and_drift_animation.py   -a---- 23075  
+build_scifi_f1.py                     -a---- 92635  
+build_scifi_f1_pre_livery.py          -a---- 63329  
+build_scifi_f1_pre_realism.py         -a---- 74853  
+build_supercar_v2.py                  -a---- 19735  
+build_supercar_v3.py                  -a---- 24659  
+car_render_front34.png                -a---- 2101749
+car_render_rear34.png                 -a---- 2118277
+car_render_side.png                   -a---- 1915115
+car_render_top.png                    -a---- 2319525
+export_drift_mp4_fast.py              -a---- 2148   
+F1_IMAGE25_PROMPTS.md                 -a---- 25098  
+f1_render_cockpit_detail.png          -a---- 2643649
+f1_render_front34.png                 -a---- 2358860
+f1_render_rear34.png                  -a---- 2520795
+f1_render_side.png                    -a---- 1831981
+f1_render_top.png                     -a---- 2439516
+f1_render_wheel_detail.png            -a---- 2084777
+f1_render_wireframe.png               -a---- 2740854
+fix_and_test_v3.py                    -a---- 4280   
+generate_redbull_decals.py            -a---- 11108  
+generate_tire_and_cockpit_textures.py -a---- 7509   
+inject_f1_hyper_realism.py            -a---- 27959  
+master_fix_and_export_drift.py        -a---- 20475  
+preview_Cam_F1_Aero_Wheel_Macro.png   -a---- 647484 
+preview_Cam_F1_Hero_Trackside34.png   -a---- 690728 
+preview_Cam_F1_Onboard_DriverPOV.png  -a---- 329041 
+preview_Cam_F1_Rear_Diffuser_Low.png  -a---- 614890 
+preview_Cam_F1_Side_Profile_Tele.png  -a---- 679978 
+preview_Cam_F1_Top_Aero_Down.png      -a---- 632074 
+README_V4.md                          -a---- 10638  
+rebuild_rig_and_export_drift_video.py -a---- 20837  
+refine_and_test.py                    -a---- 4340   
+refine_f1_livery.py                   -a---- 7708   
+render_all_previews.py                -a---- 3836   
+render_drift_showcase.py              -a---- 3326   
+render_final_production_suite.py      -a---- 4018   
+render_test_wheel.py                  -a---- 876    
+render_video_mp4.py                   -a---- 1592   
+scifi_f1_2035.blend                   -a---- 424718 
+scifi_f1_2035.blend1                  -a---- 419273 
+scifi_f1_2035_v4_racing.blend         -a---- 2377779
+sci_fi_f1_reference.jpg               -a---- 706279 
+sci_fi_monolith_citadel.jpg           -a---- 866858 
+supercar_gt_v2.blend                  -a---- 158184 
+supercar_gt_v2.blend1                 -a---- 158156 
+supercar_gt_v3.blend                  -a---- 156177 
+supercar_gt_v3.blend1                 -a---- 156150 
+test_cycles.png                       -a---- 2091012
+test_cycles2.png                      -a---- 2097984
+test_ev_minus4.png                    -a---- 2599183
+test_natural_calibrated.png           -a---- 2033450
+test_wheel_fixed.png                  -a---- 1911871
+TRACK_DATA_README.md                  -a---- 7780   
+v2_Cam_F1_Aero_Wheel_Macro.png        -a---- 713197 
+v2_Cam_F1_Hero_Trackside34.png        -a---- 688940 
+v2_Cam_F1_Onboard_DriverPOV.png       -a---- 620719 
+v2_Cam_F1_Rear_Diffuser_Low.png       -a---- 661714 
+v2_Cam_F1_Side_Profile_Tele.png       -a---- 644714 
+v2_Cam_F1_Top_Aero_Down.png           -a---- 610868 
+v3_Cam_F1_Aero_Wheel_Macro.png        -a---- 747196 
+v3_Cam_F1_Onboard_DriverPOV.png       -a---- 612006 
+v3_Cam_F1_Rear_Diffuser_Low.png       -a---- 654531 
+v3_Cam_F1_Top_Aero_Down.png           -a---- 608959 
+_writetest.txt                        -a---- 4      
+
+

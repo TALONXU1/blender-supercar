@@ -1,0 +1,40 @@
+Command exited with code 0.
+
+Command output:
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    15.34 GiB / 31.50 GiB (49%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    208.60 GiB / 300.00 GiB (70%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    436.94 GiB / 623.52 GiB (70%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+00:01.047  blend            | Read blend: "d:\项目session\blender-supercar\scifi_f1_2035_v4_racing.blend"
+00:01.156  render           | Rendering single frame
+00:01.156  render           | Rendering frame 1
+00:01.156  render           | Start rendering: Scene, ViewLayer
+00:01.156  render           | Engine: EEVEE
+00:05.688  gpu.texture      | ERROR Failed to create GPU texture from Blender image
+00:05.688  gpu.texture      | ERROR Failed to create GPU texture from Blender image
+00:06.125  render           | Fra: 1 | Rendering 1 / 32 samples
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+00:06.656  render           | Fra: 1 | Rendering 25 / 32 samples
+00:06.813  render           | Fra: 1 | Rendering 32 / 32 samples
+00:06.922  render           | Executing compositor
+00:06.922  render           | Fra: 1 | 合成处理
+00:07.250  render           | Saved: 'D:\项目session\blender-supercar\renders_v4\frames\f_0001.jpg'
+00:07.250  render           | Time: 00:06.08 (Saving: 00:00.25)
+
+Blender quit

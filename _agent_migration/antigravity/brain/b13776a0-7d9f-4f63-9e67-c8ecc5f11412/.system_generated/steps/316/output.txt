@@ -1,0 +1,38 @@
+Command exited with code 0.
+
+Command output:
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    25.23 GiB / 31.50 GiB (80%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    282.27 GiB / 300.00 GiB (94%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    566.84 GiB / 623.52 GiB (91%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+=== V6 SPIDER-VERSE 3D MEGA-CIRCUIT PREVIEW QUANTITATIVE AUDIT ===
+v6_01_canyon_15mm_wet.jpg          | mean=0.210 p05=0.006 p95=0.870 | sat=0.157 | clip=0.42% | ink=36.5% | roadWedge=0.24% neonRefl=5.6% | HF=11.24 | sky=[0.234 0.202 0.282] fg=[0.205 0.193 0.263]
+v6_02_raidillon_climb_sparks.jpg   | mean=0.222 p05=0.010 p95=0.889 | sat=0.142 | clip=1.03% | ink=36.9% | roadWedge=1.76% neonRefl=2.8% | HF=8.55 | sky=[0.227 0.206 0.284] fg=[0.226 0.214 0.291]
+v6_03_crest_skybridge_moon.jpg     | mean=0.508 p05=0.124 p95=0.864 | sat=0.259 | clip=0.17% | ink=0.7% | roadWedge=2.82% neonRefl=25.2% | HF=8.01 | sky=[0.626 0.587 0.737] fg=[0.488 0.43  0.589]
+   -> Moon/SkyBridge center window: mean_lum=0.730, p90_lum=0.859, mean_sat=0.281
+v6_04_banked_bowl_17deg.jpg        | mean=0.330 p05=0.079 p95=0.881 | sat=0.260 | clip=0.44% | ink=1.3% | roadWedge=0.12% neonRefl=5.9% | HF=6.94 | sky=[0.244 0.473 0.611] fg=[0.203 0.28  0.391]
+v6_05_laser_strobe_tunnel_2099.jpg | mean=0.147 p05=0.001 p95=0.823 | sat=0.169 | clip=0.20% | ink=37.3% | roadWedge=0.01% neonRefl=7.6% | HF=5.16 | sky=[0.096 0.12  0.277] fg=[0.143 0.148 0.242]
+v6_06_harbor_hairpin_brake_2099.jpg | mean=0.183 p05=0.010 p95=0.841 | sat=0.186 | clip=0.62% | ink=32.7% | roadWedge=1.37% neonRefl=1.6% | HF=7.23 | sky=[0.227 0.196 0.348] fg=[0.186 0.145 0.272]
+
+=== V5 ISOLATION & BLEND ARTIFACT CHECK ===
+  EXISTS  LATEST\v5_stage_env.blend                  |   3.59 MB | mtime=2026-11-18 14:08:25
+  EXISTS  LATEST\v5_stage_anim.blend                 |   4.96 MB | mtime=2026-11-18 14:17:37
+  EXISTS  pipeline\v5_env.py                         |   0.08 MB | mtime=2026-11-18 14:07:57
+  EXISTS  v6_spiderverse\v6_stage_lookdev.blend      |   3.74 MB | mtime=2026-11-18 16:37:35
+  ABSENT  v6_spiderverse\v6_stage_lookdev.blend1

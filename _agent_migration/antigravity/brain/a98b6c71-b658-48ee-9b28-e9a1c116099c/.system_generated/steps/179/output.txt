@@ -1,0 +1,50 @@
+Command exited with code 0.
+
+Command output:
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    26.22 GiB / 31.50 GiB (83%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    280.25 GiB / 300.00 GiB (93%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    551.86 GiB / 623.52 GiB (89%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+contact_sheet.jpg                1920x1476 MeanL= 71.0 P05/50/95=13.1/ 53.1/184.1 Clip=0.25% Dark= 0.0% Sharp(car/bg)=8.01/7.46 HotGlowPx= 8279 LowDetail=5.13 LEDPx= 2926
+shot_01_rear_chase.jpg           1920x1080 MeanL= 77.7 P05/50/95=21.1/ 52.1/160.5 Clip=0.07% Dark= 0.0% Sharp(car/bg)=3.52/1.36 HotGlowPx=  884 LowDetail=0.82 LEDPx=  107
+shot_02_onboard.jpg              1920x1080 MeanL= 81.1 P05/50/95= 8.8/ 62.8/161.9 Clip=0.35% Dark= 0.1% Sharp(car/bg)=4.81/0.67 HotGlowPx=  656 LowDetail=3.01 LEDPx=  731
+shot_03_chase_rise.jpg           1920x1080 MeanL= 85.6 P05/50/95=15.4/ 57.6/204.5 Clip=0.61% Dark= 0.0% Sharp(car/bg)=2.54/6.45 HotGlowPx=72131 LowDetail=2.63 LEDPx=29448
+shot_04_hairpin.jpg              1920x1080 MeanL= 93.0 P05/50/95=23.1/ 56.8/174.1 Clip=0.86% Dark= 0.0% Sharp(car/bg)=4.05/3.07 HotGlowPx=   23 LowDetail=2.00 LEDPx=    3
+shot_05_chase_aintree.jpg        1920x1080 MeanL=102.5 P05/50/95=42.4/105.1/168.7 Clip=0.30% Dark= 0.0% Sharp(car/bg)=3.67/0.25 HotGlowPx=14623 LowDetail=1.29 LEDPx= 3209
+shot_06_orbit1.jpg               1920x1080 MeanL= 81.0 P05/50/95=13.2/ 56.8/170.6 Clip=1.09% Dark= 0.0% Sharp(car/bg)=3.36/5.34 HotGlowPx= 5737 LowDetail=1.68 LEDPx= 3899
+shot_07_chase_accel.jpg          1920x1080 MeanL=110.8 P05/50/95=28.6/ 89.2/202.6 Clip=0.21% Dark= 0.0% Sharp(car/bg)=3.41/0.21 HotGlowPx=  169 LowDetail=0.95 LEDPx=  252
+shot_08_fast_pan.jpg             1920x1080 MeanL=101.5 P05/50/95=23.8/ 80.8/168.6 Clip=0.52% Dark= 0.0% Sharp(car/bg)=3.85/0.22 HotGlowPx=  254 LowDetail=1.71 LEDPx=  302
+shot_09_wheel_macro.jpg          1920x1080 MeanL= 83.8 P05/50/95=10.4/ 56.6/191.8 Clip=0.88% Dark= 0.0% Sharp(car/bg)=2.52/2.67 HotGlowPx=47181 LowDetail=1.27 LEDPx= 5741
+shot_10_chase_fast.jpg           1920x1080 MeanL=109.2 P05/50/95=24.1/ 72.9/202.7 Clip=0.45% Dark= 0.0% Sharp(car/bg)=3.90/0.22 HotGlowPx=  175 LowDetail=0.98 LEDPx=  274
+shot_11_orbit_brooklands.jpg     1920x1080 MeanL= 73.6 P05/50/95=17.1/ 51.0/164.2 Clip=1.34% Dark= 0.0% Sharp(car/bg)=3.64/4.05 HotGlowPx= 4811 LowDetail=1.67 LEDPx= 3654
+shot_12_luffield.jpg             1920x1080 MeanL= 87.6 P05/50/95=29.0/ 59.1/186.1 Clip=2.91% Dark= 0.0% Sharp(car/bg)=3.69/2.70 HotGlowPx=20397 LowDetail=1.08 LEDPx=   47
+shot_13_chase_woodcote.jpg       1920x1080 MeanL=123.4 P05/50/95=17.4/130.3/206.7 Clip=0.21% Dark= 0.1% Sharp(car/bg)=5.18/0.22 HotGlowPx=11719 LowDetail=1.90 LEDPx= 6661
+shot_14_woodcote_tele.jpg        1920x1080 MeanL= 85.8 P05/50/95=21.7/ 58.8/193.5 Clip=0.95% Dark= 0.0% Sharp(car/bg)=4.45/4.43 HotGlowPx=23623 LowDetail=2.69 LEDPx=14327
+shot_15_heli_drop.jpg            1920x1080 MeanL= 38.9 P05/50/95= 5.9/ 47.5/ 50.5 Clip=0.11% Dark= 0.3% Sharp(car/bg)=1.58/0.33 HotGlowPx=    0 LowDetail=2.48 LEDPx=  487
+shot_16_orbit_copse.jpg          1920x1080 MeanL= 89.1 P05/50/95=10.1/ 54.9/193.5 Clip=0.60% Dark= 0.0% Sharp(car/bg)=3.54/4.73 HotGlowPx=    8 LowDetail=1.44 LEDPx=  574
+shot_17_chase_copse.jpg          1920x1080 MeanL=109.1 P05/50/95=51.8/119.1/209.1 Clip=0.20% Dark= 0.0% Sharp(car/bg)=4.45/0.30 HotGlowPx=27703 LowDetail=1.79 LEDPx=17538
+shot_18_maggotts.jpg             1920x1080 MeanL= 94.0 P05/50/95=24.7/ 71.0/169.7 Clip=0.73% Dark= 0.0% Sharp(car/bg)=4.46/6.28 HotGlowPx=18186 LowDetail=2.11 LEDPx=12418
+shot_19_chase_rise2.jpg          1920x1080 MeanL= 84.4 P05/50/95=11.4/ 58.6/187.8 Clip=0.21% Dark= 0.0% Sharp(car/bg)=2.07/4.70 HotGlowPx=    0 LowDetail=2.41 LEDPx=  414
+shot_20_onboard3.jpg             1920x1080 MeanL= 99.6 P05/50/95=11.6/ 66.8/200.6 Clip=0.47% Dark= 0.0% Sharp(car/bg)=5.32/0.50 HotGlowPx=  516 LowDetail=3.31 LEDPx=  663
+shot_21_stowe_tele.jpg           1920x1080 MeanL= 89.4 P05/50/95=24.1/ 65.3/169.7 Clip=0.41% Dark= 0.0% Sharp(car/bg)=2.50/3.74 HotGlowPx=    0 LowDetail=0.85 LEDPx=    0
+shot_22_orbit_stowe.jpg          1920x1080 MeanL= 87.5 P05/50/95=23.1/ 54.5/168.6 Clip=0.54% Dark= 0.0% Sharp(car/bg)=3.84/4.37 HotGlowPx= 2699 LowDetail=1.35 LEDPx= 1480
+shot_23_chase_low.jpg            1920x1080 MeanL= 90.4 P05/50/95=22.1/ 61.5/163.4 Clip=0.19% Dark= 0.0% Sharp(car/bg)=3.87/0.26 HotGlowPx=  524 LowDetail=1.13 LEDPx=  178
+shot_24_heli_reveal.jpg          1920x1080 MeanL= 50.9 P05/50/95=19.1/ 49.5/ 84.7 Clip=0.01% Dark= 0.0% Sharp(car/bg)=1.55/0.69 HotGlowPx=    0 LowDetail=1.31 LEDPx=  191
+shot_25_club.jpg                 1920x1080 MeanL= 95.3 P05/50/95=43.9/ 61.6/165.7 Clip=0.60% Dark= 0.0% Sharp(car/bg)=4.22/0.62 HotGlowPx= 5114 LowDetail=0.93 LEDPx=  677
+shot_26_aerial_out.jpg           1920x1080 MeanL= 61.8 P05/50/95=19.1/ 52.8/155.4 Clip=0.04% Dark= 0.0% Sharp(car/bg)=2.52/0.91 HotGlowPx=23821 LowDetail=1.66 LEDPx=  678

@@ -1,0 +1,37 @@
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    20.90 GiB / 31.50 GiB (66%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    280.37 GiB / 300.00 GiB (93%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    555.52 GiB / 623.52 GiB (89%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+00:00.765  blend            | Read blend: "D:\项目session\blender-supercar\v6_spiderverse\v6_stage_anim_sv.blend"
+BlenderMCP addon registered
+V6 RENDER START: frames 585..680 (96f) -> D:\项目session\blender-supercar\renders_v6/clips_frames/clip2_gwen_65 (init_cam=Cam_S11_BridgeDeckPursuit)
+00:07.937  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip2_gwen_65\f_0585.jpg'
+00:26.703  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip2_gwen_65\f_0586.jpg'
+01:35.531  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip2_gwen_65\f_0587.jpg'
+01:55.828  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip2_gwen_65\f_0588.jpg'
+02:57.328  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip2_gwen_65\f_0589.jpg'
+03:12.578  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip2_gwen_65\f_0590.jpg'
+04:24.187  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip2_gwen_65\f_0591.jpg'
+05:27.609  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip2_gwen_65\f_0592.jpg'
+06:19.187  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip2_gwen_65\f_0593.jpg'
+07:26.172  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip2_gwen_65\f_0594.jpg'
+08:38.328  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip2_gwen_65\f_0595.jpg'
+10:11.234  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip2_gwen_65\f_0596.jpg'
+11:32.719  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip2_gwen_65\f_0597.jpg'
+12:49.781  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip2_gwen_65\f_0598.jpg'

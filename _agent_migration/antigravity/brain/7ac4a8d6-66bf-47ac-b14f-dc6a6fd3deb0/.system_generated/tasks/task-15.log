@@ -1,0 +1,848 @@
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    27.90 GiB / 31.50 GiB (89%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    282.16 GiB / 300.00 GiB (94%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    566.39 GiB / 623.52 GiB (91%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+
+FullName                                                                                                        Length 
+--------                                                                                                        ------ 
+C:\Users\86052\AppData\Roaming\Open Design\launcher                                                                    
+C:\Users\86052\AppData\Roaming\Open Design\namespaces                                                                  
+C:\Users\86052\AppData\Roaming\Open Design\installation.json                                                    63     
+C:\Users\86052\AppData\Roaming\Open Design\Local State                                                          490    
+C:\Users\86052\AppData\Roaming\Open Design\stability-launch.json                                                46     
+C:\Users\86052\AppData\Roaming\Open Design\launcher\channels                                                           
+C:\Users\86052\AppData\Roaming\Open Design\launcher\channels\stable                                                    
+C:\Users\86052\AppData\Roaming\Open Design\launcher\channels\stable\namespaces                                         
+C:\Users\86052\AppData\Roaming\Open Design\namespaces\release-stable-win                                               
+C:\Users\86052\AppData\Roaming\Open Design\namespaces\release-stable-win\cache                                         
+C:\Users\86052\AppData\Roaming\Open Design\namespaces\release-stable-win\data                                          
+C:\Users\86052\AppData\Roaming\Open Design\namespaces\release-stable-win\logs                                          
+C:\Users\86052\AppData\Roaming\Open Design\namespaces\release-stable-win\runtime                                       
+C:\Users\86052\AppData\Roaming\Open Design\namespaces\release-stable-win\updates                                       
+C:\Users\86052\AppData\Roaming\Open Design\namespaces\release-stable-win\user-data                                     
+C:\Users\86052\AppData\Roaming\Open Design\namespaces\release-stable-win\data\artifacts                                
+C:\Users\86052\AppData\Roaming\Open Design\namespaces\release-stable-win\data\brands                                   
+C:\Users\86052\AppData\Roaming\Open Design\namespaces\release-stable-win\data\chat-artifact-blobs                      
+C:\Users\86052\AppData\Roaming\Open Design\namespaces\release-stable-win\data\connectors                               
+C:\Users\86052\AppData\Roaming\Open Design\namespaces\release-stable-win\data\critique-artifacts                       
+C:\Users\86052\AppData\Roaming\Open Design\namespaces\release-stable-win\data\design-systems                           
+C:\Users\86052\AppData\Roaming\Open Design\namespaces\release-stable-win\data\design-templates                         
+C:\Users\86052\AppData\Roaming\Open Design\namespaces\release-stable-win\data\diagnostics                              
+C:\Users\86052\AppData\Roaming\Open Design\namespaces\release-stable-win\data\library                                  
+C:\Users\86052\AppData\Roaming\Open Design\namespaces\release-stable-win\data\memory                                   
+C:\Users\86052\AppData\Roaming\Open Design\namespaces\release-stable-win\data\observations                             
+C:\Users\86052\AppData\Roaming\Open Design\namespaces\release-stable-win\data\od-next-run-inputs                       
+C:\Users\86052\AppData\Roaming\Open Design\namespaces\release-stable-win\data\od-next-task-inputs                      
+C:\Users\86052\AppData\Roaming\Open Design\namespaces\release-stable-win\data\plugins                                  
+C:\Users\86052\AppData\Roaming\Open Design\namespaces\release-stable-win\data\projects                                 
+C:\Users\86052\AppData\Roaming\Open Design\namespaces\release-stable-win\data\runs                                     
+C:\Users\86052\AppData\Roaming\Open Design\namespaces\release-stable-win\data\skills                                   
+C:\Users\86052\AppData\Roaming\Open Design\namespaces\release-stable-win\data\task-telemetry-receipts                  
+C:\Users\86052\AppData\Roaming\Open Design\namespaces\release-stable-win\data\telemetry                                
+C:\Users\86052\AppData\Roaming\Open Design\namespaces\release-stable-win\data\touchpoint-content-cache                 
+C:\Users\86052\AppData\Roaming\Open Design\namespaces\release-stable-win\data\app-config.json                   711    
+C:\Users\86052\AppData\Roaming\Open Design\namespaces\release-stable-win\data\app-config.json.105be0a9.tmp      643    
+C:\Users\86052\AppData\Roaming\Open Design\namespaces\release-stable-win\data\app-config.json.380e4f44.tmp      643    
+C:\Users\86052\AppData\Roaming\Open Design\namespaces\release-stable-win\data\app-config.json.708a43ba.tmp      643    
+C:\Users\86052\AppData\Roaming\Open Design\namespaces\release-stable-win\data\app-config.json.cd5dc1bb.tmp      643    
+C:\Users\86052\AppData\Roaming\Open Design\namespaces\release-stable-win\data\app-config.json.e65a48c1.tmp      469    
+C:\Users\86052\AppData\Roaming\Open Design\namespaces\release-stable-win\data\app.sqlite                        1368...
+C:\Users\86052\AppData\Roaming\Open Design\namespaces\release-stable-win\data\app.sqlite-shm                    32768  
+C:\Users\86052\AppData\Roaming\Open Design\namespaces\release-stable-win\data\app.sqlite-wal                    4449632
+C:\Users\86052\AppData\Roaming\Open Design\namespaces\release-stable-win\data\media-config.json                 21     
+C:\Users\86052\AppData\Roaming\Open Design\namespaces\release-stable-win\data\od-plugin-lock.json               608    
+C:\Users\86052\AppData\Roaming\Open Design\namespaces\release-stable-win\data\xai-tokens.json                   1138   
+C:\Users\86052\AppData\Roaming\Open Design\namespaces\release-stable-win\logs\daemon                                   
+C:\Users\86052\AppData\Roaming\Open Design\namespaces\release-stable-win\logs\desktop                                  
+C:\Users\86052\AppData\Roaming\Open Design\namespaces\release-stable-win\logs\launcher                                 
+C:\Users\86052\AppData\Roaming\Open Design\namespaces\release-stable-win\logs\web                                      
+C:\Users\86052\AppData\Roaming\Open Design\namespaces\release-stable-win\updates\downloads                             
+C:\Users\86052\AppData\Roaming\Open Design\namespaces\release-stable-win\updates\releases                              
+C:\Users\86052\AppData\Roaming\Open Design\namespaces\release-stable-win\updates\staging                               
+C:\Users\86052\AppData\Roaming\Open Design\namespaces\release-stable-win\updates\state                                 
+C:\Users\86052\AppData\Roaming\Open Design\namespaces\release-stable-win\updates\.open-design-updater-root.json 120    
+C:\Users\86052\AppData\Roaming\Open Design\namespaces\release-stable-win\updates\metadata.json                  43447  
+C:\Users\86052\AppData\Roaming\Open Design\namespaces\release-stable-win\user-data\session                             
+C:\Users\86052\AppData\Roaming\Open Design\namespaces\release-stable-win\user-data\lockfile                     0      
+=== APP DIR ===
+D:\APPs\新建文件夹 (3)\Open Design\locales                                                                                  
+D:\APPs\新建文件夹 (3)\Open Design\resources                                                                                
+D:\APPs\新建文件夹 (3)\Open Design\chrome_100_percent.pak                                                            116089 
+D:\APPs\新建文件夹 (3)\Open Design\chrome_200_percent.pak                                                            187558 
+D:\APPs\新建文件夹 (3)\Open Design\d3dcompiler_47.dll                                                                4741480
+D:\APPs\新建文件夹 (3)\Open Design\dxcompiler.dll                                                                    2566...
+D:\APPs\新建文件夹 (3)\Open Design\dxil.dll                                                                          1503600
+D:\APPs\新建文件夹 (3)\Open Design\ffmpeg.dll                                                                        3096576
+D:\APPs\新建文件夹 (3)\Open Design\icudtl.dat                                                                        1082...
+D:\APPs\新建文件夹 (3)\Open Design\libEGL.dll                                                                        522752 
+D:\APPs\新建文件夹 (3)\Open Design\libGLESv2.dll                                                                     7958528
+D:\APPs\新建文件夹 (3)\Open Design\LICENSE.electron.txt                                                              1096   
+D:\APPs\新建文件夹 (3)\Open Design\LICENSES.chromium.html                                                            1947...
+D:\APPs\新建文件夹 (3)\Open Design\Open Design.exe                                                                   2230...
+D:\APPs\新建文件夹 (3)\Open Design\resources.pak                                                                     6747320
+D:\APPs\新建文件夹 (3)\Open Design\snapshot_blob.bin                                                                 341312 
+D:\APPs\新建文件夹 (3)\Open Design\Uninstall Open Design.exe                                                         126103 
+D:\APPs\新建文件夹 (3)\Open Design\v8_context_snapshot.bin                                                           715208 
+D:\APPs\新建文件夹 (3)\Open Design\vk_swiftshader.dll                                                                5624320
+D:\APPs\新建文件夹 (3)\Open Design\vk_swiftshader_icd.json                                                           106    
+D:\APPs\新建文件夹 (3)\Open Design\vulkan-1.dll                                                                      954880 
+D:\APPs\新建文件夹 (3)\Open Design\locales\af.pak                                                                    610130 
+D:\APPs\新建文件夹 (3)\Open Design\locales\am.pak                                                                    989484 
+D:\APPs\新建文件夹 (3)\Open Design\locales\ar.pak                                                                    1092228
+D:\APPs\新建文件夹 (3)\Open Design\locales\bg.pak                                                                    1129203
+D:\APPs\新建文件夹 (3)\Open Design\locales\bn.pak                                                                    1455626
+D:\APPs\新建文件夹 (3)\Open Design\locales\ca.pak                                                                    686984 
+D:\APPs\新建文件夹 (3)\Open Design\locales\cs.pak                                                                    713710 
+D:\APPs\新建文件夹 (3)\Open Design\locales\da.pak                                                                    641849 
+D:\APPs\新建文件夹 (3)\Open Design\locales\de.pak                                                                    688059 
+D:\APPs\新建文件夹 (3)\Open Design\locales\el.pak                                                                    1242710
+D:\APPs\新建文件夹 (3)\Open Design\locales\en-GB.pak                                                                 555891 
+D:\APPs\新建文件夹 (3)\Open Design\locales\en-US.pak                                                                 562014 
+D:\APPs\新建文件夹 (3)\Open Design\locales\es-419.pak                                                                677815 
+D:\APPs\新建文件夹 (3)\Open Design\locales\es.pak                                                                    674584 
+D:\APPs\新建文件夹 (3)\Open Design\locales\et.pak                                                                    616310 
+D:\APPs\新建文件夹 (3)\Open Design\locales\fa.pak                                                                    1019867
+D:\APPs\新建文件夹 (3)\Open Design\locales\fi.pak                                                                    627121 
+D:\APPs\新建文件夹 (3)\Open Design\locales\fil.pak                                                                   711454 
+D:\APPs\新建文件夹 (3)\Open Design\locales\fr.pak                                                                    733305 
+D:\APPs\新建文件夹 (3)\Open Design\locales\gu.pak                                                                    1438555
+D:\APPs\新建文件夹 (3)\Open Design\locales\he.pak                                                                    892350 
+D:\APPs\新建文件夹 (3)\Open Design\locales\hi.pak                                                                    1522373
+D:\APPs\新建文件夹 (3)\Open Design\locales\hr.pak                                                                    686884 
+D:\APPs\新建文件夹 (3)\Open Design\locales\hu.pak                                                                    734315 
+D:\APPs\新建文件夹 (3)\Open Design\locales\id.pak                                                                    606987 
+D:\APPs\新建文件夹 (3)\Open Design\locales\it.pak                                                                    663881 
+D:\APPs\新建文件夹 (3)\Open Design\locales\ja.pak                                                                    810206 
+D:\APPs\新建文件夹 (3)\Open Design\locales\kn.pak                                                                    1650493
+D:\APPs\新建文件夹 (3)\Open Design\locales\ko.pak                                                                    687184 
+D:\APPs\新建文件夹 (3)\Open Design\locales\lt.pak                                                                    747152 
+D:\APPs\新建文件夹 (3)\Open Design\locales\lv.pak                                                                    744326 
+D:\APPs\新建文件夹 (3)\Open Design\locales\ml.pak                                                                    1701176
+D:\APPs\新建文件夹 (3)\Open Design\locales\mr.pak                                                                    1408306
+D:\APPs\新建文件夹 (3)\Open Design\locales\ms.pak                                                                    639586 
+D:\APPs\新建文件夹 (3)\Open Design\locales\nb.pak                                                                    612872 
+D:\APPs\新建文件夹 (3)\Open Design\locales\nl.pak                                                                    638276 
+D:\APPs\新建文件夹 (3)\Open Design\locales\pl.pak                                                                    713250 
+D:\APPs\新建文件夹 (3)\Open Design\locales\pt-BR.pak                                                                 668151 
+D:\APPs\新建文件夹 (3)\Open Design\locales\pt-PT.pak                                                                 671804 
+D:\APPs\新建文件夹 (3)\Open Design\locales\ro.pak                                                                    697510 
+D:\APPs\新建文件夹 (3)\Open Design\locales\ru.pak                                                                    1156165
+D:\APPs\新建文件夹 (3)\Open Design\locales\sk.pak                                                                    725426 
+D:\APPs\新建文件夹 (3)\Open Design\locales\sl.pak                                                                    695022 
+D:\APPs\新建文件夹 (3)\Open Design\locales\sr.pak                                                                    1069079
+D:\APPs\新建文件夹 (3)\Open Design\locales\sv.pak                                                                    619890 
+D:\APPs\新建文件夹 (3)\Open Design\locales\sw.pak                                                                    655707 
+D:\APPs\新建文件夹 (3)\Open Design\locales\ta.pak                                                                    1692211
+D:\APPs\新建文件夹 (3)\Open Design\locales\te.pak                                                                    1563917
+D:\APPs\新建文件夹 (3)\Open Design\locales\th.pak                                                                    1313107
+D:\APPs\新建文件夹 (3)\Open Design\locales\tr.pak                                                                    667409 
+D:\APPs\新建文件夹 (3)\Open Design\locales\uk.pak                                                                    1164502
+D:\APPs\新建文件夹 (3)\Open Design\locales\ur.pak                                                                    1004632
+D:\APPs\新建文件夹 (3)\Open Design\locales\vi.pak                                                                    792876 
+D:\APPs\新建文件夹 (3)\Open Design\locales\zh-CN.pak                                                                 567546 
+D:\APPs\新建文件夹 (3)\Open Design\locales\zh-TW.pak                                                                 560333 
+D:\APPs\新建文件夹 (3)\Open Design\resources\app                                                                            
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design                                                                    
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design-web-standalone                                                     
+D:\APPs\新建文件夹 (3)\Open Design\resources\dom-to-pptx.bundle.js.gz                                                1008075
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design-config.json                                                 746    
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules                                                               
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\prebundled                                                                 
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\main.cjs                                                            1124   
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\package.json                                                        855    
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\preload.cjs                                                         13391  
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\@esbuild                                                      
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\@ffmpeg-installer                                             
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\@google                                                       
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\@hono                                                         
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\@img                                                          
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\@isaacs                                                       
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\@open-design                                                  
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\@protobufjs                                                   
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\@puppeteer                                                    
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\@swc                                                          
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\@types                                                        
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\adm-zip                                                       
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\agent-base                                                    
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\ansi-regex                                                    
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\ansi-styles                                                   
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\base64-js                                                     
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\better-sqlite3                                                
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\bignumber.js                                                  
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\bindings                                                      
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\bl                                                            
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\blake3-wasm                                                   
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\boolean                                                       
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\brotli                                                        
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\buffer                                                        
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\buffer-equal-constant-time                                    
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\bundle-name                                                   
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\chownr                                                        
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\chromium-bidi                                                 
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\citty                                                         
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\cliui                                                         
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\clone                                                         
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\compare-versions                                              
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\core-util-is                                                  
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\data-uri-to-buffer                                            
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\debug                                                         
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\decompress-response                                           
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\deep-extend                                                   
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\default-browser                                               
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\default-browser-id                                            
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\define-data-property                                          
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\define-lazy-prop                                              
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\define-properties                                             
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\detect-libc                                                   
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\detect-node                                                   
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\devtools-protocol                                             
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\dfa                                                           
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\ecdsa-sig-formatter                                           
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\emoji-regex                                                   
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\end-of-stream                                                 
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\es-define-property                                            
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\es-errors                                                     
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\es6-error                                                     
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\esbuild                                                       
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\escalade                                                      
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\escape-string-regexp                                          
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\expand-template                                               
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\extend                                                        
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\fast-deep-equal                                               
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\fetch-blob                                                    
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\file-uri-to-path                                              
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\fontkit                                                       
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\formdata-polyfill                                             
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\fs-constants                                                  
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\gaxios                                                        
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\gcp-metadata                                                  
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\get-caller-file                                               
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\get-east-asian-width                                          
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\giget                                                         
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\github-from-package                                           
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\global-agent                                                  
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\globalthis                                                    
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\google-auth-library                                           
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\google-logging-utils                                          
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\gopd                                                          
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\gsap                                                          
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\has-property-descriptors                                      
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\hono                                                          
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\https-proxy-agent                                             
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\hyperframes                                                   
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\ieee754                                                       
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\ignore                                                        
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\immediate                                                     
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\inherits                                                      
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\ini                                                           
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\is-docker                                                     
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\is-inside-container                                           
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\is-wsl                                                        
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\isarray                                                       
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\json-bigint                                                   
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\json-stringify-safe                                           
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\jszip                                                         
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\jwa                                                           
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\jws                                                           
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\lie                                                           
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\long                                                          
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\matcher                                                       
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\mimic-response                                                
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\minimist                                                      
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\minipass                                                      
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\minizlib                                                      
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\mitt                                                          
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\mkdirp-classic                                                
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\modern-tar                                                    
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\ms                                                            
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\nanoid                                                        
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\napi-build-utils                                              
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\node-abi                                                      
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\node-addon-api                                                
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\node-domexception                                             
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\node-fetch                                                    
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\node-pty                                                      
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\object-keys                                                   
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\once                                                          
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\onnxruntime-common                                            
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\onnxruntime-node                                              
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\open                                                          
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\p-retry                                                       
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\pako                                                          
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\picocolors                                                    
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\postcss                                                       
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\prebuild-install                                              
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\prettier                                                      
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\process-nextick-args                                          
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\protobufjs                                                    
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\pump                                                          
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\puppeteer-core                                                
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\rc                                                            
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\readable-stream                                               
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\restructure                                                   
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\retry                                                         
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\roarr                                                         
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\run-applescript                                               
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\safe-buffer                                                   
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\semver                                                        
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\semver-compare                                                
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\serialize-error                                               
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\setimmediate                                                  
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\sharp                                                         
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\simple-concat                                                 
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\simple-get                                                    
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\source-map-js                                                 
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\sprintf-js                                                    
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\string-width                                                  
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\string_decoder                                                
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\strip-ansi                                                    
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\strip-json-comments                                           
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\tar                                                           
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\tar-fs                                                        
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\tar-stream                                                    
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\tiny-inflate                                                  
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\tslib                                                         
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\tunnel-agent                                                  
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\type-fest                                                     
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\typed-query-selector                                          
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\undici-types                                                  
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\unicode-properties                                            
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\unicode-trie                                                  
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\util-deprecate                                                
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\web-streams-polyfill                                          
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\webdriver-bidi-protocol                                       
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\wrap-ansi                                                     
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\wrappy                                                        
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\ws                                                            
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\wsl-utils                                                     
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\y18n                                                          
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\yallist                                                       
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\yargs                                                         
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\yargs-parser                                                  
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\node_modules\zod                                                           
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\prebundled\.od                                                             
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\prebundled\daemon                                                          
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\prebundled\packaged-main.mjs                                        1424719
+D:\APPs\新建文件夹 (3)\Open Design\resources\app\prebundled\web-sidecar.mjs                                          40613  
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\agent-runtimes                                                     
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\bin                                                                
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\community-pets                                                     
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\craft                                                              
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\data                                                               
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems                                                     
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates                                                   
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\frames                                                             
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\plugins                                                            
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\prompt-templates                                                   
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills                                                             
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\agent-runtimes\deepseek-harness                                    
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\bin\libexec                                                        
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\bin\7z.dll                                                  1908736
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\bin\7z.exe                                                  575488 
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\bin\vela.exe                                                2064...
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\community-pets\clippit                                             
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\community-pets\dario                                               
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\community-pets\dentist                                             
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\community-pets\nyako-shigure                                       
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\community-pets\slavik                                              
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\community-pets\tux                                                 
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\community-pets\yelling-dario                                       
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\community-pets\yorha-sit-2b                                        
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\craft\accessibility-baseline.md                             13095  
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\craft\animation-discipline.md                               9268   
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\craft\anti-ai-slop.md                                       4002   
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\craft\color.md                                              3205   
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\craft\form-validation.md                                    17407  
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\craft\FUTURE_SECTIONS.md                                    300    
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\craft\laws-of-ux.md                                         17635  
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\craft\README.md                                             6415   
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\craft\rtl-and-bidi.md                                       12345  
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\craft\state-coverage.md                                     7218   
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\craft\typography-hierarchy-editorial.md                     8930   
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\craft\typography-hierarchy.md                               7579   
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\craft\typography.md                                         4903   
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\data\plugin-previews                                               
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\agentic                                             
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\airbnb                                              
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\airtable                                            
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\ant                                                 
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\apple                                               
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\application                                         
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\arc                                                 
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\artistic                                            
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\atelier-zero                                        
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\bento                                               
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\binance                                             
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\bmw                                                 
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\bmw-m                                               
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\bold                                                
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\brutalism                                           
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\bugatti                                             
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\cafe                                                
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\cal                                                 
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\canva                                               
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\cisco                                               
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\claude                                              
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\clay                                                
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\claymorphism                                        
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\clean                                               
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\clickhouse                                          
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\cloudflare-kumo                                     
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\cohere                                              
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\coinbase                                            
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\colorful                                            
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\composio                                            
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\contemporary                                        
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\corporate                                           
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\cosmic                                              
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\creative                                            
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\cursor                                              
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\dashboard                                           
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\default                                             
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\discord                                             
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\dithered                                            
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\doodle                                              
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\dramatic                                            
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\duolingo                                            
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\editorial                                           
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\elegant                                             
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\elevenlabs                                          
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\energetic                                           
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\enterprise                                          
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\expo                                                
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\expressive                                          
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\fantasy                                             
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\ferrari                                             
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\figma                                               
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\flat                                                
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\framer                                              
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\friendly                                            
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\futuristic                                          
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\github                                              
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\glassmorphism                                       
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\gradient                                            
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\hashicorp                                           
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\hud                                                 
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\huggingface                                         
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\ibm                                                 
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\intercom                                            
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\kami                                                
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\kraken                                              
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\lamborghini                                         
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\levels                                              
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\linear-app                                          
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\lingo                                               
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\loom                                                
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\lovable                                             
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\luxury                                              
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\mastercard                                          
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\material                                            
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\meta                                                
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\minimal                                             
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\minimax                                             
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\mintlify                                            
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\miro                                                
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\mission-control                                     
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\mistral-ai                                          
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\modern                                              
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\mongodb                                             
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\mono                                                
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\neobrutalism                                        
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\neon                                                
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\neumorphism                                         
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\nike                                                
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\notion                                              
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\nvidia                                              
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\ollama                                              
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\openai                                              
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\opencode-ai                                         
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\pacman                                              
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\paper                                               
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\perplexity                                          
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\perspective                                         
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\pinterest                                           
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\playstation                                         
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\posthog                                             
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\premium                                             
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\professional                                        
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\publication                                         
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\raycast                                             
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\refined                                             
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\renault                                             
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\replicate                                           
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\resend                                              
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\retro                                               
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\revolut                                             
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\runwayml                                            
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\sanity                                              
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\sentry                                              
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\shadcn                                              
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\shopify                                             
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\simple                                              
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\skeumorphism                                        
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\slack                                               
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\sleek                                               
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\spacex                                              
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\spacious                                            
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\spotify                                             
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\starbucks                                           
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\storytelling                                        
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\stripe                                              
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\supabase                                            
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\superhuman                                          
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\tesla                                               
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\tetris                                              
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\theverge                                            
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\together-ai                                         
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\tom-modern                                          
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\totality-festival                                   
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\trading-terminal                                    
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\uber                                                
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\urdu                                                
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\vercel                                              
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\vibrant                                             
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\vintage                                             
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\vodafone                                            
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\voltagent                                           
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\warm-editorial                                      
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\warp                                                
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\webex                                               
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\webflow                                             
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\wechat                                              
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\wired                                               
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\wise                                                
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\x-ai                                                
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\xiaohongshu                                         
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\zapier                                              
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\_schema                                             
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-systems\README.md                                    5956   
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\aster-atelier                                     
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\audio-jingle                                      
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\blog-post                                         
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\clinical-case-report                              
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\contact-widget                                    
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\critique                                          
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\dashboard                                         
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\dating-web                                        
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\dcf-valuation                                     
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\digital-eguide                                    
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\docs-page                                         
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\email-marketing                                   
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\eng-runbook                                       
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\finance-report                                    
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\flowai-live-dashboard-template                    
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\gamified-app                                      
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\github-dashboard                                  
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\guizang-ppt                                       
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\hr-onboarding                                     
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\html-ppt                                          
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\html-ppt-course-module                            
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\html-ppt-graphify-dark-graph                      
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\html-ppt-hermes-cyber-terminal                    
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\html-ppt-knowledge-arch-blueprint                 
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\html-ppt-obsidian-claude-gradient                 
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\html-ppt-pitch-deck                               
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\html-ppt-presenter-mode-reveal                    
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\html-ppt-product-launch                           
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\html-ppt-taste-brutalist                          
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\html-ppt-taste-editorial                          
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\html-ppt-tech-sharing                             
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\html-ppt-testing-safety-alert                     
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\html-ppt-weekly-report                            
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\html-ppt-xhs-pastel-card                          
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\html-ppt-xhs-white-editorial                      
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\html-ppt-zhangzara-8-bit-orbit                    
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\html-ppt-zhangzara-biennale-yellow                
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\html-ppt-zhangzara-block-frame                    
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\html-ppt-zhangzara-blue-professional              
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\html-ppt-zhangzara-bold-poster                    
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\html-ppt-zhangzara-broadside                      
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\html-ppt-zhangzara-capsule                        
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\html-ppt-zhangzara-cartesian                      
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\html-ppt-zhangzara-cobalt-grid                    
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\html-ppt-zhangzara-coral                          
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\html-ppt-zhangzara-creative-mode                  
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\html-ppt-zhangzara-daisy-days                     
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\html-ppt-zhangzara-editorial-tri-tone             
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\html-ppt-zhangzara-grove                          
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\html-ppt-zhangzara-long-table                     
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\html-ppt-zhangzara-mat                            
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\html-ppt-zhangzara-monochrome                     
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\html-ppt-zhangzara-neo-grid-bold                  
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\html-ppt-zhangzara-peoples-platform               
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\html-ppt-zhangzara-pin-and-paper                  
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\html-ppt-zhangzara-pink-script                    
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\html-ppt-zhangzara-playful                        
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\html-ppt-zhangzara-raw-grid                       
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\html-ppt-zhangzara-retro-windows                  
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\html-ppt-zhangzara-retro-zine                     
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\html-ppt-zhangzara-sakura-chroma                  
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\html-ppt-zhangzara-scatterbrain                   
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\html-ppt-zhangzara-signal                         
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\html-ppt-zhangzara-soft-editorial                 
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\html-ppt-zhangzara-stencil-tablet                 
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\html-ppt-zhangzara-studio                         
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\html-ppt-zhangzara-vellum                         
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\hyperframes                                       
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\ib-pitch-book                                     
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\image-poster                                      
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\invoice                                           
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\kami-deck                                         
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\kami-landing                                      
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\kanban-board                                      
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\last30days                                        
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\live-artifact                                     
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\live-dashboard                                    
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\magazine-poster                                   
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\meeting-notes                                     
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\mobile-app                                        
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\mobile-onboarding                                 
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\motion-frames                                     
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\open-design-landing                               
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\open-design-landing-deck                          
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\orbit-general                                     
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\orbit-github                                      
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\orbit-gmail                                       
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\orbit-linear                                      
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\orbit-notion                                      
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\pm-spec                                           
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\pricing-page                                      
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\replit-deck                                       
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\saas-landing                                      
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\simple-deck                                       
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\social-carousel                                   
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\social-media-dashboard                            
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\social-media-matrix-tracker-template              
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\sprite-animation                                  
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\team-okrs                                         
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\trading-analysis-dashboard-template               
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\tweaks                                            
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\video-shortform                                   
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\waitlist-page                                     
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\web-prototype                                     
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\web-prototype-taste-brutalist                     
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\web-prototype-taste-editorial                     
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\web-prototype-taste-soft                          
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\webgl-experience                                  
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\weekly-update                                     
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\wireframe-annotated                               
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\wireframe-greybox                                 
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\wireframe-mobile-flow                             
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\wireframe-sketch                                  
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\worker-visualizer                                 
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\x-research                                        
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\design-templates\AGENTS.md                                  3368   
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\frames\android-pixel.html                                   5184   
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\frames\browser-chrome.html                                  3848   
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\frames\ipad-pro.html                                        2757   
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\frames\iphone-15-pro.html                                   5883   
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\frames\macbook.html                                         3679   
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\frames\README.md                                            2861   
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\plugins\registry                                                   
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\plugins\_official                                                  
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\prompt-templates\image                                             
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\prompt-templates\video                                             
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\8-bit-orbit-video-template                                  
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\ad-creative                                                 
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\after-hours-editorial-template                              
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\agent-browser                                               
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\ai-music-album                                              
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\algorithmic-art                                             
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\animate                                                     
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\apple-hig                                                   
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\article-magazine                                            
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\artifacts-builder                                           
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\brainstorming                                               
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\brand-extract                                               
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\brand-guidelines                                            
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\brandkit                                                    
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\brutalist-skill                                             
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\canvas-design                                               
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\card-twitter                                                
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\card-xiaohongshu                                            
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\chat-motion-overlay                                         
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\color-expert                                                
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\competitive-ads-extractor                                   
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\copywriting                                                 
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\creative-director                                           
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\d3-visualization                                            
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\data-report                                                 
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\deck-guizang-editorial                                      
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\deck-open-slide-canvas                                      
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\deck-swiss-international                                    
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\design-brief                                                
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\design-consultation                                         
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\design-md                                                   
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\design-review                                               
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\digits-fintech-swiss-template                               
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\doc                                                         
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\doc-kami-parchment                                          
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\docx                                                        
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\domain-name-brainstormer                                    
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\ecommerce-image-workflow                                    
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\editorial-burgundy-principles-template                      
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\emil-design-eng                                             
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\emilkowalski-motion                                         
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\enhance-prompt                                              
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\export-download-debugging                                   
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\fal-3d                                                      
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\fal-generate                                                
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\fal-image-edit                                              
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\fal-kling-o3                                                
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\fal-lip-sync                                                
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\fal-realtime                                                
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\fal-restore                                                 
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\fal-train                                                   
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\fal-tryon                                                   
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\fal-upscale                                                 
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\fal-video-edit                                              
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\fal-vision                                                  
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\faq-page                                                    
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\field-notes-editorial-template                              
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\figma-code-connect-components                               
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\figma-create-design-system-rules                            
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\figma-create-new-file                                       
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\figma-generate-design                                       
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\figma-generate-library                                      
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\figma-implement-design                                      
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\figma-use                                                   
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\flutter-animating-apps                                      
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\frame-data-chart-nyt                                        
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\frame-flowchart-sticky                                      
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\frame-glitch-title                                          
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\frame-light-leak-cinema                                     
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\frame-liquid-bg-hero                                        
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\frame-logo-outro                                            
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\frame-macos-notification                                    
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\frontend-design                                             
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\frontend-dev                                                
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\frontend-skill                                              
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\frontend-slides                                             
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\full-page-screenshot                                        
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\gif-sticker-maker                                           
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\gpt-tasteskill                                              
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\gsap-core                                                   
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\gsap-frameworks                                             
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\gsap-performance                                            
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\gsap-plugins                                                
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\gsap-react                                                  
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\gsap-scrolltrigger                                          
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\gsap-timeline                                               
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\gsap-utils                                                  
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\hand-drawn-diagrams                                         
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\hatch-pet                                                   
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\html-ppt-retro-quarterly-review                             
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\huashu-art-motion                                           
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\image-enhancer                                              
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\image-to-code-skill                                         
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\imagegen                                                    
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\imagegen-frontend-mobile                                    
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\imagegen-frontend-web                                       
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\imagen                                                      
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\impeccable-design-polish                                    
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\library-curator                                             
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\login-flow                                                  
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\marketing-psychology                                        
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\minimalist-skill                                            
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\minimax-docx                                                
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\minimax-pdf                                                 
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\mockup-device-3d                                            
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\motion-design                                               
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\motion-lab                                                  
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\nanobanana-ppt                                              
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\od-next-media-inputs                                        
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\oil-motion                                                  
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\output-skill                                                
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\paywall-upgrade-cro                                         
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\pdf                                                         
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\pixelbin-media                                              
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\plan-design-review                                          
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\platform-design                                             
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\poster-hero                                                 
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\ppt-keynote                                                 
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\pptx                                                        
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\pptx-generator                                              
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\pptx-html-fidelity-audit                                    
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\pr-feedback-quality-gate                                    
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\redesign-skill                                              
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\reference-design-contract                                   
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\release-notes-one-pager                                     
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\remotion                                                    
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\replicate                                                   
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\research-decision-room                                      
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\resume-modern                                               
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\review-animations                                           
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\screenshot                                                  
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\screenshots-marketing                                       
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\shadcn-ui                                                   
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\shader-dev                                                  
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\slack-gif-creator                                           
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\slides                                                      
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\social-reddit-card                                          
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\social-spotify-card                                         
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\social-x-post-card                                          
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\soft-skill                                                  
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\sora                                                        
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\speech                                                      
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\stitch-loop                                                 
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\stitch-skill                                                
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\swiftui-design                                              
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\swiss-creative-mode-template                                
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\swiss-user-research-video-template                          
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\taste-skill                                                 
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\taste-skill-v1                                              
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\theme-factory                                               
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\threejs                                                     
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\ui-animation                                                
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\ui-skills                                                   
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\ui-ux-pro-max                                               
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\venice-audio-music                                          
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\venice-audio-speech                                         
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\venice-image-edit                                           
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\venice-image-generate                                       
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\venice-video                                                
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\vfx-text-cursor                                             
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\video-downloader                                            
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\video-hyperframes                                           
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\web-artifacts-builder                                       
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\web-clone                                                   
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\web-design-guidelines                                       
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\weread-year-in-review-video-template                        
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\wpds                                                        
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\writing-guidelines                                          
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\youtube-clipper                                             
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\AGENTS.md                                            2864   
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design\skills\README.md                                            1373   
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design-web-standalone\apps                                                
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design-web-standalone\node_modules                                        
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design-web-standalone\apps\web                                            
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design-web-standalone\node_modules\.pnpm                                  
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design-web-standalone\node_modules\@img                                   
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design-web-standalone\node_modules\@next                                  
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design-web-standalone\node_modules\@opentelemetry                         
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design-web-standalone\node_modules\@swc                                   
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design-web-standalone\node_modules\client-only                            
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design-web-standalone\node_modules\detect-libc                            
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design-web-standalone\node_modules\react                                  
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design-web-standalone\node_modules\react-dom                              
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design-web-standalone\node_modules\scheduler                              
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design-web-standalone\node_modules\semver                                 
+D:\APPs\新建文件夹 (3)\Open Design\resources\open-design-web-standalone\node_modules\styled-jsx                             
+
+

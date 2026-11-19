@@ -1,0 +1,8 @@
+# 赞德福特 · 沙丘顶部俯拍
+# 画风 ST5   时长 5s   motion 45 词
+# 首帧 S6-02.png（compiled/ 里对应的关键帧）
+
+Camera static high above. The car follows the dark ribbon of track through the dunes, moving from one side of frame to the other. Sand drifts slowly across the pale dune faces. Grey sea horizon stays fixed and flat. Slow, continuous lateral motion. 5 seconds.
+
+Keep: the dune shapes, the flat grey horizon, the track as a continuous ribbon.
+Avoid: no camera drift, no orbit, no waves with whitecaps, no colour saturation, no buildings.

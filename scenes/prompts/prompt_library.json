@@ -1,0 +1,227 @@
+{
+  "schema": "f1-prompt-library/1.0",
+  "target_model": "gpt-image-2.5-sunburst",
+  "structure": "positive + '.\\n\\n' + negative_core + negative_scene。negative_full 只在出图不合格时追加。",
+  "car_block": "Bodywork: matte navy blue with bare 2x2 twill carbon fibre aero surfaces, low wedge monocoque, needle-thin high nosecone, floating thin-strut halo, cylindrical airbox intake, two-element rear wing with four vertical strakes, polished forged ten-spoke wheels with gold centre-lock nuts, thin cyan LED strip along the floor edge, slick tyres.",
+  "quality_block": "Photorealistic, 35mm cinema camera, natural colour science, fine film grain, 180 degree shutter motion blur, physically plausible light response.",
+  "negative_core": "No text, numbers, watermarks, logos or UI anywhere. No borders or graphic overlays added by the renderer. Barrier panels are blank colour blocks. No real team livery, constructor branding, driver likeness or sponsor trademark. Single continuous frame, single open-wheel car, four wheels, halo present, no closed cockpit. No plastic sheen, no HDR oversaturation, no melted or duplicated parts. Add nothing not requested.",
+  "negative_full": "Crowd is a dense mass of individual varied figures, not a repeated texture tile, not a painted band, no identical duplicated figures in a row. Horizon level unless a dutch angle is specified. Camera uses the single stated focal length, no fisheye, no wide-angle edge stretching on the car, no forced perspective on trackside objects. No low-resolution upscaling artifacts, no oversharpening halos, no AI plastic skin, no melted fine detail, no repeated identical texture patches, no visible generation seams. Do not shift the rendering style away from what is described. Do not change the shape or material of any specified object. Do not invent taglines, captions, credits or copy of any kind.",
+  "shots": [
+    {
+      "id": "S1-01",
+      "scene": "S1",
+      "name": "银石 · 低机位追车过弯",
+      "aspect": "16:9",
+      "positive": "Tracking shot at 1.1 meter height, 50mm lens, shallow depth of field on the foreground grass. A single 2035 Formula 1 concept car exits a fast right-hander, camera tracking parallel at the same speed. Wet grass blades with water droplets in the extreme foreground, out of focus. The car is sharp, in the middle third of frame, angling away from camera. Silverstone Circuit, a former WWII airfield: wide grass run-off areas instead of gravel traps, low grey grandstands with fabric roofs, flat terrain, green English countryside beyond the fences. Just after the rain, low sun at 30 degrees through broken clouds, 4 oktas cover, 4800K. Thin golden mist rises off the warm asphalt, backlit into visible steam. The drying racing line is dark matte while the track edges still hold standing water and mirror the sky. Visibility 8 kilometres. CINEMA_CAR CINEMA_QUALITY",
+      "negative_scene": "No gravel traps, no hills, no mountains, no blue cloudless sky, no dry uniform asphalt. Drying line reads darker and matte against glossy wet edges.",
+      "note": "主图。银石已有 track_data，这张对应现有管线能直接出的画面。"
+    },
+    {
+      "id": "S1-02",
+      "scene": "S1",
+      "name": "银石 · 长焦压缩穿越看台",
+      "aspect": "16:9",
+      "positive": "Static long lens at 200mm from grandstand level, heavy background compression. The car approaches head-on and fills the frame. Behind it the wet circuit stretches back to a grey multi-storey grandstand with a fabric roof, spectators as a dense varied mass under the roof. The air is still clean after the rain, no heat haze. Wet kerbs catch a hard specular line from the low sun. CINEMA_CAR CINEMA_QUALITY",
+      "negative_scene": "No heat shimmer, no dust, no gravel traps, no hills. No empty grandstand, no repeated crowd tile. No fisheye or wide-angle stretching: this is a 200mm compression.",
+      "note": "识别银石的关键是灰顶棚看台 + 草地缓冲区 + 机场直边，三者缺一就不像。"
+    },
+    {
+      "id": "S1-03",
+      "scene": "S1",
+      "name": "银石 · 车后三米水雾",
+      "aspect": "16:9",
+      "positive": "Camera 3 meters behind and 0.8 meters above the car, 35mm, following at speed. A white spray plume erupts from both rear tyres, catching the low sun and turning gold-white, trailing back no more than 15 meters before dissipating. Red rain light glowing at the rear wing. Wet asphalt reflecting sky. CINEMA_CAR CINEMA_QUALITY",
+      "negative_scene": "Spray dissipates within 15 meters, never a white wall across the frame. No duplicated car, no ghosting. Rear wing and diffuser stay distinct.",
+      "note": "水雾长度是这张唯一的失分点，写不清就糊成一片白。"
+    },
+    {
+      "id": "S2-01",
+      "scene": "S2",
+      "name": "斯帕 · Eau Rouge 底部仰拍",
+      "aspect": "16:9",
+      "positive": "Camera at 0.6 meters, tilted up 15 degrees, 85mm lens, static on grass beside the barrier. The car bursts out of white fog at the bottom of the hill and climbs away through the Eau Rouge right-left, 40 meters of elevation gain over 400 meters of track. Fog pours over the crest behind it. Red rain lights burn soft halos in the murk. Pine forest on both sides, no grandstands. Dense fog, visibility 100 meters, sun reduced to a pale disc at 7000K, light shafts angling through the pine canopy. Track fully wet, reflecting only diffuse sky. CINEMA_CAR CINEMA_QUALITY",
+      "negative_scene": "No grandstands, no seating structures. The 40 meter climb must be visible. Fog thick at ground level, thinning above 3 meters, nothing resolving beyond 80 meters. No hard shadows, no visible sun disc with rays.",
+      "note": "斯帕唯一必须守住的是落差和没有看台，这两条丢了就变成任意一条森林公路。"
+    },
+    {
+      "id": "S2-02",
+      "scene": "S2",
+      "name": "斯帕 · 无人机上升跟随落差",
+      "aspect": "16:9",
+      "positive": "Aerial rising shot, 24mm, from 40 meters altitude climbing to 90 meters, following the car up the hillside. Dense pine forest below with visible trunks and closed canopy, a narrow ribbon of wet asphalt cutting through it. Fog banks sitting in the valleys between trees. Air 12 degrees, high humidity. CINEMA_CAR CINEMA_QUALITY",
+      "negative_scene": "No grandstands, no buildings, no farmland. Forest has visible trunks and individual crowns, not a flat texture plane. No sun flare, no clear horizon. Camera rises from 40 to 90 meters, it does not hover.",
+      "note": "无人机镜头不写起止高度，模型给悬停画面。"
+    },
+    {
+      "id": "S2-03",
+      "scene": "S2",
+      "name": "斯帕 · 车载前车只剩雾团",
+      "aspect": "16:9",
+      "positive": "Onboard camera behind the halo, 18mm wide. The car ahead is 15 meters away and reduced to a diffuse red glow inside the fog. Visor beaded with water. Trees pass as dark vertical smears. The road surface is wet and featureless. Dense fog, visibility 100 meters, 7000K flat light. CINEMA_CAR CINEMA_QUALITY",
+      "negative_scene": "The car ahead is a red glow only, no readable bodywork. No water on the lens, beads on the visor only. No dry patches. Trees are not flat cut-out planes. Halo struts visible in the foreground.",
+      "note": "车载视角的价值就是压迫感，前车必须看不清。"
+    },
+    {
+      "id": "S3-01",
+      "scene": "S3",
+      "name": "摩纳哥 · 俯瞰港湾与赛道",
+      "aspect": "16:9",
+      "positive": "High angle from 90 meters above the harbour, 35mm lens, static. The circuit runs along the edge of the water, 3.3 kilometres of street circuit with barriers 30 centimetres from the racing line and no run-off anywhere. Dozens of individual white motor yachts packed into the marina, hulls, masts and mooring lines distinguishable. Apartment blocks climb the hillside behind in stacked terraces with shuttered windows and balconies. Golden hour, sun at 9 degrees from the sea side, 3400K, long soft shadows across the asphalt, harbour water breaking the sun into thousands of small white glints. CINEMA_CAR CINEMA_QUALITY",
+      "negative_scene": "No run-off, no gravel, no grass verges: walls sit directly against the track. No glass skyscrapers, no forest, no desert. Yachts are individual hulls with masts, not white blobs. Camera static. This is 9 degree golden hour, not harsh midday, not blue hour.",
+      "note": "这张的核心是空间关系（墙贴着赛道）和游艇密度，不是建筑精度。"
+    },
+    {
+      "id": "S3-02",
+      "scene": "S3",
+      "name": "摩纳哥 · 贴地横移擦墙",
+      "aspect": "16:9",
+      "positive": "Camera at 0.4 meters, 28mm, tracking laterally at car speed, concrete barrier in the immediate foreground 30 centimetres from the car. Barrier panels are blank coloured rectangles. The car fills the right third of frame. Beyond the barrier the sea catches low sun in broken white glints. Golden hour, 9 degree sun, 3400K. CINEMA_CAR CINEMA_QUALITY",
+      "negative_scene": "No readable sponsor text or logos on the barrier. No wide track, no run-off, no gravel. The barrier is the sharpest foreground element and streaks less than the background. No fisheye.",
+      "note": "护栏必须是最锐利的前景，这条决定了横向速度感的真假。"
+    },
+    {
+      "id": "S3-03",
+      "scene": "S3",
+      "name": "摩纳哥 · 隧道出口逆光",
+      "aspect": "16:9",
+      "positive": "Inside the tunnel looking out at the exit, 50mm, static. Tunnel interior near black, artificial strip lighting overhead. The car exits into blown-out warm sunlight, silhouette rimmed in orange, light spilling back into the tunnel across the road surface. For half a second the car reads as a shape rather than an object. CINEMA_CAR CINEMA_QUALITY",
+      "negative_scene": "Interior genuinely dark, exit genuinely blown out. No detail on the tunnel walls beyond concrete texture and strip lights. No wet reflective floor, this is dry. No sunlight reaching deeper than the spill.",
+      "note": "隧道镜头唯一的价值就是那半秒剪影，曝光必须给足反差。"
+    },
+    {
+      "id": "S4-01",
+      "scene": "S4",
+      "name": "蒙扎 · 直道尽头 300mm",
+      "aspect": "16:9",
+      "positive": "Static 300mm lens at barrier height, 1.0 meter. The car approaches head-on down the main straight at 340 km/h, compressed against the treeline behind it. Heat shimmer distorts the distant grandstand in the first 40 centimetres above the tarmac. Harsh overhead sun at 65 degrees, 5700K, cloudless, short hard-edged shadows directly beneath the car, asphalt bleached, sky deep blue at zenith fading to white at the horizon. Autodromo Nazionale Monza inside a royal park: long straights joined by tight chicanes, dense broadleaf woodland pressing against the barriers, old concrete grandstands with cantilevered roofs in faded red and grey. CINEMA_CAR CINEMA_QUALITY",
+      "negative_scene": "No gravel traps, no wide grass run-off: woodland presses against the barriers. No hills, no dunes, no sand. No overcast, no rain, no blue hour. Heat shimmer limited to the first 40 centimetres, not a full-frame wobble. No shallow depth of field.",
+      "note": "蒙扎靠树林+老混凝土看台+减速弯认出来，不是靠直道本身。"
+    },
+    {
+      "id": "S4-02",
+      "scene": "S4",
+      "name": "蒙扎 · 弯心低机位横掠",
+      "aspect": "16:9",
+      "positive": "Camera at 0.7 meters, 70mm, static inside the first chicane. The car brakes hard from 340 to 80 km/h, nose diving under braking, then snaps left-right across the kerbs. Tyre marbles kick up and scatter. Heat distortion ripples in the foreground. Kerbs in alternating white, red and black blocks, worn asphalt with a dark rubbered racing line. Harsh 65 degree sun, 5700K. CINEMA_CAR CINEMA_QUALITY",
+      "negative_scene": "No gravel trap beyond the kerb, no wide grass verge. No smooth clean asphalt: the racing line reads dark and rubbered, marbles visible. Kerbs are alternating coloured blocks, not plain white. No plastic sheen.",
+      "note": "减速弯镜头里路肩的花色是意大利赛道最便宜的身份标识。"
+    },
+    {
+      "id": "S4-03",
+      "scene": "S4",
+      "name": "蒙扎 · 车顶跟拍直道极速",
+      "aspect": "16:9",
+      "positive": "Overhead follow camera 2.5 meters above the car, 24mm, tracking at full speed. The straight stretches to a vanishing point between trees. The white track-limit line blurs into a continuous streak. Grandstand roofs pass below as grey shapes. Bleached asphalt, 65 degree sun, 5700K, no clouds. CINEMA_CAR CINEMA_QUALITY",
+      "negative_scene": "No markings other than white track-limit lines: no centre line, no arrows, no traffic signs. The white line blurs into a continuous streak, not a crisp dash. No wide-angle stretching on the car seen from above. No other vehicles.",
+      "note": "白线糊成连续拖影是唯一能表达 340 km/h 的措辞。"
+    },
+    {
+      "id": "S5-01",
+      "scene": "S5",
+      "name": "新加坡 · 仰拍灯柱阵列",
+      "aspect": "16:9",
+      "positive": "Camera at 0.5 meters tilted up 35 degrees, 20mm wide. Floodlight towers march into a pure black sky in a receding line, each throwing a visible cone of light through humid air. The car passes through pools of white light, alternately lit and dark. Water on the asphalt doubles every light source. Night race, 5000K, 2000 lux even illumination, air 29 degrees, humidity 82 percent, heavy rain angled 20 degrees by wind, mirror-wet surface. Concrete barriers 50 centimetres from the line, high-rise glass facades on both sides with hundreds of lit windows. CINEMA_CAR CINEMA_QUALITY",
+      "negative_scene": "No daylight, no sunset, no sky gradient: sky is pure black with no stars. No dry asphalt. Light cones must be visible through humidity. No fog hiding the car. No readable signage on facades, only abstract lit windows and colour fields.",
+      "note": "灯柱不用真实光源堆，用少量光源+自发光几何；提示词里只要保证光锥出现。"
+    },
+    {
+      "id": "S5-02",
+      "scene": "S5",
+      "name": "新加坡 · 长焦压缩城市与车",
+      "aspect": "16:9",
+      "positive": "Static 180mm from across the track. The car slides left to right, sharp. Behind it a wall of financial-district towers fills the frame: hundreds of lit windows, balcony edges, abstract cyan and magenta signage light bleeding onto the wet bodywork. City reflects on the car's carbon surfaces. Heavy rain, 20 degree angle, mirror-wet asphalt. Night, 5000K floodlights. CINEMA_CAR CINEMA_QUALITY",
+      "negative_scene": "No readable text or brand marks on towers, colour fields and window grids only. No daylight. Surfaces carry city reflections, not clean dry carbon. Towers stay legible, no bokeh erasing them.",
+      "note": "这张是场景里唯一能同时展示城市和车材质的，focus 给到中景。"
+    },
+    {
+      "id": "S5-03",
+      "scene": "S5",
+      "name": "新加坡 · 车后跟拍城市倒置",
+      "aspect": "16:9",
+      "positive": "Camera 4 meters behind and 1 meter above, 30mm, following. The wet track acts as a mirror: the entire skyline is inverted on the road surface beneath the car. Rain streaks cross the frame at 20 degrees. Steam rises from the hot diffuser. Red tail lights bloom into soft bokeh spheres. Night, 5000K, humidity 82 percent, standing water. CINEMA_CAR CINEMA_QUALITY",
+      "negative_scene": "The reflection is a genuine inverted skyline, not a generic glossy sheen. No dry patches, no daylight. Steam limited to the diffuser, not a fog layer. Tail lights bloom softly, not flat red dots.",
+      "note": "倒影是这张的全部，没有倒影就只是一张夜里的车尾照。"
+    },
+    {
+      "id": "S6-01",
+      "scene": "S6",
+      "name": "赞德福特 · 倾斜弯外侧低机位",
+      "aspect": "16:9",
+      "positive": "Camera at 0.9 meters on the outside of the banked corner, 45mm, static. The track surface tilts 18 degrees away from the camera like the inside of a bowl. The car runs high on the banking, body rolled into the slope. Sand blows across the upper edge of the kerb in a thin horizontal stream at ankle height. Overcast flat light, 7000K, no directional shadows, 45 km/h crosswind from the sea, visibility 12 kilometres. Sand dunes with sparse marram grass on both sides, no trees, a low grandstand packed with spectators dressed entirely in orange. CINEMA_CAR CINEMA_QUALITY",
+      "negative_scene": "No trees, no hills, no mountains. No blue sky, no direct sun, no hard shadows. The banking reads as an 18 degree tilted surface, not a flat corner. Sand is a thin low stream, not a dust storm. Crowd in varied orange figures, not a tile.",
+      "note": "阴天唯一的高饱和锚点是橙色人群，别的颜色全部压低。"
+    },
+    {
+      "id": "S6-02",
+      "scene": "S6",
+      "name": "赞德福特 · 沙丘顶部俯拍",
+      "aspect": "16:9",
+      "positive": "Aerial static at 60 meters, 24mm, looking down at 40 degrees. The circuit snakes between smooth sand dunes with sparse marram grass. The track is a dark ribbon cutting through pale sand. Beyond the dunes a flat grey North Sea horizon. Overcast, 7000K, no shadows, low contrast, muted grey-green palette. CINEMA_CAR CINEMA_QUALITY",
+      "negative_scene": "No trees, no buildings, no farmland, no mountains, no whitecaps. No saturated colour except the small orange crowd. No cloud shadows or sun patches. The track is a continuous ribbon, not a fragment.",
+      "note": "这张是唯一能讲清赛道在沙丘之间的构图，代价是没有速度感。"
+    },
+    {
+      "id": "S6-03",
+      "scene": "S6",
+      "name": "赞德福特 · 侧面长焦沙粒横穿",
+      "aspect": "16:9",
+      "positive": "Static 135mm side-on at 1.2 meters. The car passes left to right behind a foreground of blowing sand. Grains streak horizontally across the frame, partially obscuring the lower half of the car. Behind it a solid orange wall of spectators in the grandstand, softly out of focus. Overcast, 7000K, no shadows, 45 km/h crosswind. CINEMA_CAR CINEMA_QUALITY",
+      "negative_scene": "Sand reads as horizontal grain streaks, not fog, not a white veil, not snow. No direct sunlight. No trees or hills behind the grandstand. Crowd stays a soft orange mass, no individual faces.",
+      "note": "这条最容易画成雾天或雪天，必须明确 horizontal grain streaks。"
+    },
+    {
+      "id": "S7-01",
+      "scene": "S7",
+      "name": "维加斯 · 直道尽头车从光海浮出",
+      "aspect": "16:9",
+      "positive": "Static 400mm at 1.5 meters, looking down the boulevard. The car emerges from a wall of neon as a pure black silhouette, rimmed only by cyan and magenta spill. Giant LED screens on both sides with abstract scrolling content. The car resolves into detail only in the last hundred meters. Night, desert climate, air 9 degrees, humidity 25 percent, no visible light cones, crisp clean specular highlights, sky pure black with faint stars, visibility 20 kilometres. CINEMA_CAR CINEMA_QUALITY",
+      "negative_scene": "No fog, no haze, no light cones, no humidity glow: humidity is 25 percent and the air is clean. No readable text or logos on the LED screens. No daylight. No detail on the car until the last hundred meters. No bloom washing the frame white.",
+      "note": "这条的胜负全在 no light cones——不写这句，模型会套用新加坡式的雾光。"
+    },
+    {
+      "id": "S7-02",
+      "scene": "S7",
+      "name": "维加斯 · 高机位光带切过城市",
+      "aspect": "16:9",
+      "positive": "Aerial static at 120 meters, 35mm, looking down at 50 degrees. The circuit cuts a bright band across a dark grid of streets. Desert blackness beyond the city edge with no light-pollution dome. A giant illuminated spherical arena covered in LED panels glows at the frame edge. No clouds, faint stars visible, 9 degrees, dry air. CINEMA_CAR CINEMA_QUALITY",
+      "negative_scene": "No daylight, no clouds, no haze, no fog dome. No readable billboard text. No vegetation, no water, no hills. The sphere is a distinct glowing structure, not a generic dome. Street grid stays dark between lit circuit and buildings.",
+      "note": "俯拍靠亮带切黑网格这个关系成立，别的都是配角。"
+    },
+    {
+      "id": "S7-03",
+      "scene": "S7",
+      "name": "维加斯 · 车侧跟拍霓虹流动",
+      "aspect": "3:2",
+      "positive": "Tracking camera 2 meters beside the car, 50mm, matched speed. Neon reflections slide across the carbon fibre and the matte bodywork, cyan then magenta then white as the car passes each source. Cold 9 degree night air, humidity 25 percent, therefore no light cones, crisp specular highlights, deep blacks between clipped neon. CINEMA_CAR CINEMA_QUALITY",
+      "negative_scene": "No fog or light cones. Neon is clipped against genuine black, not washed out. Reflections move across the body in sequence, not as static colour patches. No readable signage text. No plastic sheen.",
+      "note": "3:2 用于车身侧掠展示材质，这张是 Sunburst 的强项，值得单独抽卡。"
+    },
+    {
+      "id": "S8-01",
+      "scene": "S8",
+      "name": "英特拉格斯 · 看台俯拍盆地",
+      "aspect": "16:9",
+      "positive": "Camera at 14 meters in the grandstand, 70mm, static, looking down at 25 degrees. The circuit sits below the surrounding ground level so the viewer looks into a basin. Rainwater sheets across the asphalt in moving films, puddles connect into standing lakes reflecting nothing but black sky. Severe thunderstorm, cumulonimbus base at 400 meters nearly black with purple tonality, no direct sun, rain over 30 mm per hour, visibility under 200 meters, air 22 degrees. Concrete walls and chain-link fencing close to the line, dense hillside neighbourhoods and Atlantic forest beyond. CINEMA_CAR CINEMA_QUALITY",
+      "negative_scene": "No flat circuit: the track sits visibly below the surrounding terrain and is viewed from above. No blue sky, no sunlight, no flare. No European tiered grandstands with fabric roofs, concrete embankments only. Rain as physical streaks, not noise. No dry patches, no gravel traps.",
+      "note": "盆地地形是英特拉格斯唯一的空间签名，丢了就是任意一条雨里的赛道。"
+    },
+    {
+      "id": "S8-02",
+      "scene": "S8",
+      "name": "英特拉格斯 · 低机位逆光雨幕",
+      "aspect": "16:9",
+      "positive": "Camera at 0.8 meters directly in front of the car's path, 85mm. The car drives into frame, headlights and rain light cutting white and red cones through the downpour, rain streaks fully visible against the dark. Spray from the front wheels fans out to both sides. Backlit by a yellow-green light leak along the horizon under the cloud base. Torrential rain, visibility under 200 meters, standing water. CINEMA_CAR CINEMA_QUALITY",
+      "negative_scene": "No visible sun: the only backlight is the yellow-green leak under the cloud base, not a sunset. Rain reads as individual streaks, not a grey veil or noise. No dry road. No lens water drops unless described.",
+      "note": "逆光光源位置必须写死，否则模型给一个日落。"
+    },
+    {
+      "id": "S8-03",
+      "scene": "S8",
+      "name": "英特拉格斯 · 长焦过 Senna S 黑云翻滚",
+      "aspect": "16:9",
+      "positive": "Long lens 200mm tracking the car through a downhill left-right. Behind it the horizon is a wall of purple-black cumulonimbus, its underside at 400 meters, a single yellow-green light leak under the cloud base. The car is a hard-edged silhouette against that light. Wet asphalt, spray, saturated green grass verge, chain-link fence in the mid-ground. CINEMA_CAR CINEMA_QUALITY",
+      "negative_scene": "No silver lining, no god rays, no sunset colours, no blue sky gap. Cloud base stays at 400 meters. No lightning in this frame. The car is a hard-edged silhouette, not a mushy dark blob. No European grandstand architecture. No dry grass.",
+      "note": "黑云+黑车最容易糊，必须靠云底那道黄绿光把轮廓勾出来。"
+    }
+  ]
+}

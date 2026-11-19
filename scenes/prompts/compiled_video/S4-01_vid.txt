@@ -1,0 +1,8 @@
+# 蒙扎 · 直道尽头 300mm
+# 画风 ST2   时长 3s   motion 44 词
+# 首帧 S4-01.png（compiled/ 里对应的关键帧）
+
+The car approaches toward camera down the straight, growing from a distant dot into a full-frame shape over three seconds. Heat shimmer wobbles the distant grandstand above the tarmac throughout. Camera static, no pan, hard sun fixed. Very fast approach, constant speed. 3 seconds.
+
+Keep: the treeline behind, the heat shimmer height, the compression of the long lens.
+Avoid: no zoom, no pan, no wobble spreading across the whole frame, no other cars.

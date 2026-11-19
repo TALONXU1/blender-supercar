@@ -1,0 +1,67 @@
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    28.07 GiB / 31.50 GiB (89%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    280.28 GiB / 300.00 GiB (93%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    551.83 GiB / 623.52 GiB (89%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+00:01.156  blend            | Read blend: "D:\项目session\blender-supercar\LATEST\v5_stage_anim.blend"
+BlenderMCP addon registered
+viewport mode = fast | mesh display_type changed = 259 | empties preserved = 27 | collections hidden = ['V5_02_Terrain', 'V5_04_Stands', 'V5_06_Props']
+信息: 已保存 "v5_stage_anim.blend"
+SAVED: D:\项目session\blender-supercar\LATEST\v5_stage_anim.blend
+BlenderMCP addon unregistered
+Blender 5.3.0 (hash 02f0899d78e3 built 2026-11-10 01:33:43)
+
+Blender quit
+00:00.984  blend            | Read blend: "D:\项目session\blender-supercar\LATEST\v5_stage_anim.blend"
+BlenderMCP addon registered
+viewport mode = normal | mesh display_type changed = 259 | empties preserved = 27 | collections hidden = []
+信息: 已保存 "v5_stage_anim.blend"
+SAVED: D:\项目session\blender-supercar\LATEST\v5_stage_anim.blend
+BlenderMCP addon unregistered
+Blender 5.3.0 (hash 02f0899d78e3 built 2026-11-10 01:33:43)
+
+Blender quit
+00:00.891  blend            | Read blend: "D:\项目session\blender-supercar\LATEST\v5_stage_anim.blend"
+D:\项目session\blender-supercar\pipeline\v5_clay.py:50: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  m.use_nodes = True
+D:\项目session\blender-supercar\pipeline\v5_clay.py:73: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  _m.use_nodes = True
+D:\项目session\blender-supercar\pipeline\v5_clay.py:145: DeprecationWarning: 'World.use_nodes' is expected to be removed in Blender 6.0
+  world.use_nodes = True
+D:\项目session\blender-supercar\pipeline\v5_clay.py:156: DeprecationWarning: 'Scene.use_nodes' is expected to be removed in Blender 6.0
+  scene.use_nodes = False
+00:02.891  render           | Saved: 'D:\项目session\blender-supercar\renders_v5\clay_stills\clay_test_01_rear_chase_f0060.jpg'
+00:04.219  render           | Saved: 'D:\项目session\blender-supercar\renders_v5\clay_stills\clay_test_02_onboard_cockpit_f0160.jpg'
+00:05.656  render           | Saved: 'D:\项目session\blender-supercar\renders_v5\clay_stills\clay_test_04_hairpin_dof_f0350.jpg'
+00:07.016  render           | Saved: 'D:\项目session\blender-supercar\renders_v5\clay_stills\clay_test_09_wheel_macro_f0760.jpg'
+00:08.391  render           | Saved: 'D:\项目session\blender-supercar\renders_v5\clay_stills\clay_test_13_woodcote_tele_f1120.jpg'
+00:09.734  render           | Saved: 'D:\项目session\blender-supercar\renders_v5\clay_stills\clay_test_20_stowe_tele_f1730.jpg'
+BlenderMCP addon registered
+clay: car geom=244 env geom=364 (DOF & motion blur preserved)
+信息: 已另存为 "v5_stage_anim_clay.blend"
+CLAY SAVED: D:\项目session\blender-supercar\LATEST\v5_stage_anim_clay.blend
+CLAY STILL: D:\项目session\blender-supercar\renders_v5\clay_stills\clay_test_01_rear_chase_f0060.jpg
+CLAY STILL: D:\项目session\blender-supercar\renders_v5\clay_stills\clay_test_02_onboard_cockpit_f0160.jpg
+CLAY STILL: D:\项目session\blender-supercar\renders_v5\clay_stills\clay_test_04_hairpin_dof_f0350.jpg
+CLAY STILL: D:\项目session\blender-supercar\renders_v5\clay_stills\clay_test_09_wheel_macro_f0760.jpg
+CLAY STILL: D:\项目session\blender-supercar\renders_v5\clay_stills\clay_test_13_woodcote_tele_f1120.jpg
+CLAY STILL: D:\项目session\blender-supercar\renders_v5\clay_stills\clay_test_20_stowe_tele_f1730.jpg
+BlenderMCP addon unregistered
+Blender 5.3.0 (hash 02f0899d78e3 built 2026-11-10 01:33:43)
+
+Blender quit

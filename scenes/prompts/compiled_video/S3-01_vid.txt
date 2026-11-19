@@ -1,0 +1,8 @@
+# 摩纳哥 · 俯瞰港湾与赛道
+# 画风 ST1   时长 5s   motion 46 词
+# 首帧 S3-01.png（compiled/ 里对应的关键帧）
+
+Camera static high above the harbour. The car moves along the waterline as a small fast shape. Yachts bob gently on the swell, mooring lines swaying. Sun glints shift across the water surface in small broken flashes. Shadows creep slowly as the light lowers. 5 seconds.
+
+Keep: the camera height, the packed yachts, the barrier line against the water.
+Avoid: no camera drift, no orbit, no wave crashes, no modern towers, no crowd movement exaggeration.

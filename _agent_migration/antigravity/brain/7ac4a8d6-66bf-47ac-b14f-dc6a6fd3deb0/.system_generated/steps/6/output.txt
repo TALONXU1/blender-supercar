@@ -1,0 +1,36 @@
+The search for ""nexu-io/open-design" OR "open-design" motion mcp cli connect" returned the following summary:
+The query relates to **OpenDesign** (`nexu-io/open-design`), an open-source, local-first collaborative AI design agent workspace (often used as an alternative to Claude Design)[1][2], and its **Motion** features[3] utilizing the **Model Context Protocol (MCP)** and CLI integrations[1][4].
+
+### Connecting OpenDesign Motion via MCP & CLI
+
+OpenDesign connects to coding agents and external tools using skills, a CLI daemon, and MCP (Model Context Protocol) servers[1][4]. 
+
+#### 1. Using CLI Integration
+OpenDesign auto-detects and integrates with various local terminal agent CLIs (such as Claude Code, Codex, Gemini CLI, Cursor Agent, etc.)[5][6]. 
+* **Supported CLI Management:** You can manage or inspect connected runtimes via the desktop app under `Settings` $\rightarrow$ `Models & providers` $\rightarrow$ `Local CLI`[7].
+* **Daemon & Binary:** The app spins up a local background daemon (`apps/daemon`) which exposes helper commands like `od` for managing agent pipes and MCP linkages[4].
+
+#### 2. Connecting via MCP (Model Context Protocol)
+To let an external agent or client interact with your active OpenDesign workspace and Motion projects:
+1. Open the OpenDesign desktop app[8].
+2. Navigate to **Settings → OpenDesign MCP**[8].
+3. Select your target agent or client from the configuration menu[8].
+4. Copy the automatically generated device-specific CLI command or JSON configuration block for your client[8]. 
+   * *Example pattern for CLI-based MCP registration (e.g., Claude Code or custom clients):*
+     ```bash
+     od mcp install claude
+     ```
+     *(Or manually mapping standard JSON transport parameters in your agent's configuration files).*
+5. Keep OpenDesign running locally so the external agent loop can successfully communicate through the sidecar protocol[8].
+
+Sources:
+[1] [github.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbPGSS6zxejSscWhNTg3UpuGkCV5pT1TIDT1WKLXkpLTOFHOKMlyd-4rgjGRcpn2TDpau2aGmofi1EdTcpz6B1pE9OaAv0EZZpJKT5WfPRtEePtgCc24IuQFwZ6A==)
+[2] [githubsignals.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWyt73SMWwHVrirl-paIKMcOma2VO7oD1Id3Tu-HCYIZhT_xQsng0gEkxxSHKgBQS73D0ugnCf5hAm4b-9lDxfWS8Qgrn-5TFEpz1A-fBopMn4aRAsrGkNq5RR5RCt4CSHdBC3QRVszg==)
+[3] [varg.ai](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGi2dFcxmQNZZTZPbLI9jRYC_XxK2emHFNOqusSszqS2GgsL5ZE1C8mjrIX8ux7Toita50wcZ0dkTE9Ybi6fEXF32nSNuPav2HWtQaY3-kVXqyJq9D6y8n8edxGtRFM1-UViS-zaQ==)
+[4] [deepwiki.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG56ujCZjBVeTllU36EFQi_S9vybb6CMSPQ0cvq0p7nfvRJPKu1VDUFkpc64wii2D-RCwzPdteT2Cb0A_DTehu_1XADQJ7SK3aDsV5DejnegE6LPQexH3n9vyN6V8rj)
+[5] [github.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHR95NsahxJlnGNpvSWnW6dp-14znB1rniizGAN1cQNUmp9njqGAmLhPz5x6yYjoTFDFgIe778lFfl7d9XHHpiWzEHdHO0afrGkMSSZ-dbiofg47Ignaao5FBO5r6TUb16BaGVng3A3-aJOkuxueHrEVD4Q7Q==)
+[6] [daily.dev](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1jlf4--121qEmBswp3BNkl0IjzBEVPD1c2kEfjCqgDDGOwLfj1n9xCblC5mpO_ijvPuL0jUan8G-jJzkUu5sjpzf-718S4SnJaF2rF6UrkdNPMLR76BE=)
+[7] [open-design.ai](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEZOpaIFKxfAmXaubHcOHxPJAC6an1rMsfWR8KeTeJCwgwAmjlZ8XEL1Xa_l6iC6yfqt-4CrKWg1FITkMdc8B77SubWUL9KKfaCbJ3QPqB0iqosIM1WN0MMZO_SYTdMw==)
+[8] [open-design.ai](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYmhM7yREwFrKfyxVCSC7TgyAaZoxErcWfsS7A0h0z-Nt74i4qcfx36yHOvS-FOegC_cKNgTi2XCg6BDG3zkYlIDJpDvj-BJI_uiSXeeRBh_Zt6GxePA==)
+
+Note: Source URLs are HTTP redirects; check where they resolve if you need the direct link.

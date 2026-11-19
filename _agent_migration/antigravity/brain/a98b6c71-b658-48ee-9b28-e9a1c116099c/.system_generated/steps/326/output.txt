@@ -1,0 +1,60 @@
+Command exited with code 1.
+
+Command output:
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    24.96 GiB / 31.50 GiB (79%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    282.25 GiB / 300.00 GiB (94%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    566.86 GiB / 623.52 GiB (91%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+00:01.125  blend            | Read blend: "D:\项目session\blender-supercar\v6_spiderverse\v6_stage_lookdev.blend"
+D:\项目session\blender-supercar\pipeline\v6_sv_comp.py:668: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  _m_rain.use_nodes = True
+D:\项目session\blender-supercar\pipeline\v6_sv_comp.py:770: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  _ml.use_nodes = True
+D:\项目session\blender-supercar\pipeline\v6_sv_comp.py:1612: DeprecationWarning: 'Scene.compositing_node_group' is expected to be removed in Blender 6.0
+  scene.compositing_node_group = ng
+D:\项目session\blender-supercar\pipeline\v6_sv_comp.py:1613: DeprecationWarning: 'Scene.use_nodes' is expected to be removed in Blender 6.0
+  scene.use_nodes = True
+BlenderMCP addon registered
+V6 SHOTS MANIFEST SAVED: D:\项目session\blender-supercar\v6_spiderverse\v6_shots_manifest.json (24 shots, 1281 frames)
+[v6_comic_fx] {'vortex': 4, 'smear': 4, 'exhaust': 1, 'sparks': 2, 'spray': 2}
+[check] 3D camera occlusion: 5 blocked frames -> [(3, 'Cam_S01_CanyonFPVDrop', 'V6_Canyon_ViaductArches', 8.0, 20.3), (1042, 'Cam_S20_HarborBrakeImpact', 'V6_Barriers_3D', 39.6, 169.7), (1044, 'Cam_S20_HarborBrakeImpact', 'V6_Barriers_3D', 46.5, 162.0), (1046, 'Cam_S20_HarborBrakeImpact', 'V6_Barriers_3D', 56.9, 154.4), (1048, 'Cam_S20_HarborBrakeImpact', 'V6_Barriers_3D', 75.9, 146.8)]
+信息: 已另存为 "v6_stage_anim_sv.blend"
+V6 SKY-HARBOR ANIM+COMP SAVED: D:\项目session\blender-supercar\v6_spiderverse\v6_stage_anim_sv.blend | root_objs= 0
+00:24.516  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\test\sv_skyharbor_0028.jpg'
+SV SKY-HARBOR TEST: 28 Cam_S01_CanyonFPVDrop
+00:26.687  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\test\sv_skyharbor_0082.jpg'
+SV SKY-HARBOR TEST: 82 Cam_S02_ScraperFrontWing
+Calloc returns null: len=33177600 in CryptoObject00, total 696466848
+Calloc returns null: len=33177600 in CryptoObject01, total 696467112
+Calloc returns null: len=33177600 in CryptoObject02, total 696467376
+00:30.266  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\test\sv_skyharbor_0282.jpg'
+SV SKY-HARBOR TEST: 282 Cam_S06_EauRougeSparkScrape
+Calloc returns null: len=33177600 in CryptoObject01, total 738201332
+Calloc returns null: len=33177600 in CryptoObject02, total 738201596
+Malloc returns null: len=33177600 in GPU_texture_read, total 515757956
+Error   : EXCEPTION_ACCESS_VIOLATION
+Address : 0x00007FFAC4761423
+Module  : VCRUNTIME140.dll
+Thread  : 00013bec
+Blender 5.3.0 (hash 02f0899d78e3 built 2026-11-10 01:33:43)
+Writing: C:\Users\86052\AppData\Local\Temp\v6_stage_anim_sv.crash.txt
+Error loading symbols D:\APPs\steam\steamapps\common\Blender\blender.pdb
+	error:0x00000002
+	size = 96628736
+	base=0x00007FF6B2050000

@@ -1,0 +1,69 @@
+Command exited with code 0.
+
+Command output:
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    20.92 GiB / 31.50 GiB (66%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    277.96 GiB / 300.00 GiB (93%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    547.79 GiB / 623.52 GiB (88%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+
+Path                                                       LineNumber Line                                                                             
+----                                                       ---------- ----                                                                             
+D:\项目session\blender-supercar\pipeline\render_clay.py               6 BLEND = os.path.join(PROJ, "LATEST", "v5_stage_anim_clay.blend")                 
+D:\项目session\blender-supercar\pipeline\render_v5.py                 6 BLEND = os.path.join(PROJ, "LATEST", "v5_stage_anim.blend")                      
+D:\项目session\blender-supercar\pipeline\v5_anim.py                   4 输入: pipeline/v5_stage_env.blend                                                  
+D:\项目session\blender-supercar\pipeline\v5_anim.py                   5 输出: pipeline/v5_stage_anim.blend                                                 
+D:\项目session\blender-supercar\pipeline\v5_anim.py                  22 IN = os.path.join(PROJ, "LATEST", "v5_stage_env.blend")                          
+D:\项目session\blender-supercar\pipeline\v5_anim.py                  23 OUT = os.path.join(PROJ, "LATEST", "v5_stage_anim.blend")                        
+D:\项目session\blender-supercar\pipeline\v5_clay.py                   4 输入: LATEST/v5_stage_anim.blend                                                   
+D:\项目session\blender-supercar\pipeline\v5_clay.py                   5 输出: LATEST/v5_stage_anim_clay.blend（原文件不动）                                       
+D:\项目session\blender-supercar\pipeline\v5_clay.py                  13 SRC = os.path.join(PROJ, "LATEST", "v5_stage_anim.blend")                        
+D:\项目session\blender-supercar\pipeline\v5_clay.py                  14 DST = os.path.join(PROJ, "LATEST", "v5_stage_anim_clay.blend")                   
+D:\项目session\blender-supercar\pipeline\v5_env.py                    4 输入: pipeline/v4_stage_rig.blend   (模型 + 骨架，无环境无动画)                               
+D:\项目session\blender-supercar\pipeline\v5_env.py                    5 输出: pipeline/v5_stage_env.blend                                                  
+D:\项目session\blender-supercar\pipeline\v5_env.py                   18 IN = os.path.join(PROJ, "pipeline", "v4_stage_rig.blend")                        
+D:\项目session\blender-supercar\pipeline\v5_env.py                   19 OUT = os.path.join(PROJ, "LATEST", "v5_stage_env.blend")                         
+D:\项目session\blender-supercar\pipeline\v5_env.py                  227 _mix.blend_type = 'MIX'                                                          
+D:\项目session\blender-supercar\pipeline\v5_env.py                  277 _gmul2.blend_type = 'MULTIPLY'                                                   
+D:\项目session\blender-supercar\pipeline\v5_organize.py              16 BLEND = os.path.join(PROJ, "LATEST", "v5_stage_anim.blend")                      
+D:\项目session\blender-supercar\pipeline\v5_preview.py                7 BLEND = os.path.join(PROJ, "LATEST", "v5_stage_env.blend")                       
+D:\项目session\blender-supercar\pipeline\v5_viewport_fast.py          6   blender -b LATEST/v5_stage_anim.blend -P pipeline/v5_viewport_fast.py -- fast  
+D:\项目session\blender-supercar\pipeline\v5_viewport_fast.py          7   blender -b LATEST/v5_stage_anim.blend -P pipeline/v5_viewport_fast.py -- normal
+
+
+
+# -*- coding: utf-8 -*-
+"""
+V5 场景可编辑化：把程序生成的环境整理成"能手工编辑"的工程
+  1) 原点归位：所有 ZV5_ 环境对象的 origin 从 (0,0,0) 挪到各自几何中心
+     （否则你在 Blender 里选中赛道按 G 拖，是绕一千米外的原点转，看起来"动不了"）
+  2) 集合分组：Road / Terrain / Barriers / Stands / Pit / Props / Lighting
+  3) 保留 world 变换不变，渲染结果不受影响（纯工程整理）
+
+用法: blender -b -P pipeline/v5_organize.py
+"""
+import bpy
+import os
+from mathutils import Vector
+
+PROJ = r"D:\项目session\blender-supercar"
+BLEND = os.path.join(PROJ, "LATEST", "v5_stage_anim.blend")
+
+bpy.ops.wm.open_mainfile(filepath=BLEND)
+
+GROUPS = {

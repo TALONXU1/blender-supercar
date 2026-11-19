@@ -1,0 +1,65 @@
+Command exited with code 0.
+
+Command output:
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    23.89 GiB / 31.50 GiB (76%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    278.09 GiB / 300.00 GiB (93%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    548.06 GiB / 623.52 GiB (88%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+META: {'schema': 'race-path/1.0', 'circuit': 'Silverstone', 'source': 'OpenStreetMap type=circuit relation (ODbL), pit lane removed, resampled 2m', 'osm_relation': 51160, 'units': 'SI: meters, seconds, m/s, degrees CCW from +X', 'georef': {'lat0': 52.0696242, 'lon0': -1.011383, 'kx_m_per_deg': 68428.788, 'ky_m_per_deg': 110540.0, 'world_xy_from_wgs84': 'x=(lon-lon0)*kx, y=(lat-lat0)*ky'}, 'closed_loop': True, 'official_length_km': 5.891, 'measured_length_km': 5.8339, 'length_error_pct': -0.97, 'official_lap_s': 87.0, 'sim_lap_s': 90.34, 'lap_error_pct': 3.84, 'sim_avg_kmh': 232.5, 'points': 2933, 'sample_step_m': 2.0, 'track_half_width_m': 7.0, 'limits': {'a_lat_model': 'a_lat(v) = 15.0 + 0.00714 * v^2  [m/s^2, 含下压力]', 'a_brake_model': 'min(55, 20 + 0.005 * v^2)', 'a_accel_model': 'min(16, 937 / v)', 'v_max_mps': 92.0}, 'geometry_quality': {'raw_ways': 53, 'kept_ways': 27, 'raw_len_m': 11397.3, 'stitch_close_gap_m': 0.0, 'gaps_over_20m': 0}, 'anti_drift_check': {'max_lat_g': 6.386, 'points_over_limit': 0, 'verdict': 'PASS'}}
+TOP KEYS: ['meta', 'points']
+PT SAMPLE KEYS: ['i', 's', 'xy', 'z', 'half_width', 'heading_deg', 'curv_1pm', 'radius_m', 'racing_xy', 'racing_offset_m', 'v_mps', 'v_kmh', 't', 'lat_g']
+
+--- VELOCITY MINIMA (CORNERS) ---
+idx= 414 s= 826.4m t= 9.38s vmin=199.3km/h v_pre=331.2km/h dv=131.9 k=+0.0120 roff=-5.39m
+idx= 643 s=1281.8m t=16.21s vmin= 55.5km/h v_pre=331.2km/h dv=275.7 k=+0.0703 roff=+5.70m
+idx= 678 s=1348.8m t=18.60s vmin= 76.3km/h v_pre=331.2km/h dv=254.9 k=+0.0405 roff=-5.70m
+idx= 770 s=1530.7m t=22.86s vmin=100.1km/h v_pre=227.2km/h dv=127.1 k=+0.0265 roff=-5.70m
+idx=1028 s=2045.8m t=30.36s vmin=138.3km/h v_pre=331.2km/h dv=192.9 k=+0.0173 roff=-5.70m
+idx=1275 s=2536.9m t=38.12s vmin= 63.9km/h v_pre=331.2km/h dv=267.3 k=+0.0547 roff=-5.70m
+idx=1348 s=2678.7m t=42.42s vmin= 54.3km/h v_pre=331.2km/h dv=276.9 k=+0.0730 roff=+5.70m
+idx=1449 s=2877.9m t=47.18s vmin=106.4km/h v_pre=235.2km/h dv=128.8 k=+0.0243 roff=+5.70m
+idx=1828 s=3633.9m t=57.97s vmin= 96.4km/h v_pre=331.2km/h dv=234.8 k=+0.0281 roff=+5.70m
+idx=1908 s=3791.6m t=61.98s vmin=109.5km/h v_pre=269.6km/h dv=160.1 k=+0.0234 roff=-5.70m
+idx=1950 s=3873.9m t=64.22s vmin=113.4km/h v_pre=189.2km/h dv= 75.8 k=+0.0223 roff=-5.70m
+idx=2365 s=4702.6m t=74.69s vmin=244.5km/h v_pre=331.2km/h dv= 86.7 k=+0.0104 roff=-4.90m
+idx=2677 s=5325.5m t=82.13s vmin=134.5km/h v_pre=331.2km/h dv=196.7 k=+0.0179 roff=-5.70m
+idx=2833 s=5635.7m t=87.21s vmin=147.3km/h v_pre=302.3km/h dv=154.9 k=+0.0161 roff=-5.70m
+
+--- STRAIGHTS (low curvature > 250m) ---
+straight s=  17.2.. 697.1m (len=679.9m) t= 0.21.. 7.62s vmax=331.2km/h
+straight s=1592.2..1984.2m (len=392.0m) t=24.38..29.29s vmax=331.2km/h
+straight s=2939.4..3487.4m (len=548.0m) t=48.65..55.22s vmax=331.2km/h
+straight s=4261.0..4611.0m (len=350.0m) t=69.82..73.62s vmax=331.2km/h
+straight s=4810.2..5172.1m (len=362.0m) t=76.07..80.03s vmax=331.2km/h
+
+--- TEXTURES ---
+pit_garage.png        : mode=RGB size=(2048, 512) mean=0.115 p95=0.298
+ad_boards.png         : mode=RGB size=(2048, 256) mean=0.480 p95=0.961
+bigscreen.png         : mode=RGB size=(2048, 1152) mean=0.377 p95=0.686
+brake_150.png         : mode=RGB size=(512, 320) mean=0.825 p95=0.941
+brake_100.png         : mode=RGB size=(512, 320) mean=0.824 p95=0.941
+brake_50.png          : mode=RGB size=(512, 320) mean=0.840 p95=0.941
+crowd_silverstone.png : mode=RGB size=(1024, 256) mean=0.417 p95=0.894
+
+--- EXISTING PREVIEWS ---
+01_top.jpg          : size=(1600, 900) mean=0.271 p05=0.265 p95=0.274 clip>0.98=0.00%
+02_startline.jpg    : size=(1600, 900) mean=0.518 p05=0.196 p95=0.897 clip>0.98=0.19%
+03_corner_low.jpg   : size=(1600, 900) mean=0.648 p05=0.262 p95=0.930 clip>0.98=0.42%
+04_stand.jpg        : size=(1600, 900) mean=0.257 p05=0.200 p95=0.340 clip>0.98=0.00%
+05_kerb.jpg         : size=(1600, 900) mean=0.172 p05=0.085 p95=0.206 clip>0.98=0.00%

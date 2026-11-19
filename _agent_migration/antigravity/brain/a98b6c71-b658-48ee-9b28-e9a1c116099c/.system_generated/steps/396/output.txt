@@ -1,0 +1,17 @@
+Task: a98b6c71-b658-48ee-9b28-e9a1c116099c/task-389
+Status: RUNNING
+Log: file:///C:/Users/86052/.gemini/antigravity/brain/a98b6c71-b658-48ee-9b28-e9a1c116099c/.system_generated/tasks/task-389.log
+Log output:
+<truncated 12 lines>
+|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+00:01.359  blend            | Read blend: "D:\项目session\blender-supercar\v6_spiderverse\v6_stage_anim_sv.blend"
+
+Last progress: 37s ago

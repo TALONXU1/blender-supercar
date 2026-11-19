@@ -1,0 +1,75 @@
+Command exited with code 0.
+
+Command output:
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    24.80 GiB / 31.50 GiB (79%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    278.09 GiB / 300.00 GiB (93%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    548.03 GiB / 623.52 GiB (88%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+
+DirectoryName                                    Name                           Length LastWriteTime      
+-------------                                    ----                           ------ -------------      
+D:\项目session\blender-supercar\pipeline           mux_clay.sh                       695 2026/11/17 14:47:59
+D:\项目session\blender-supercar\pipeline           mux_v5.sh                         718 2026/11/14 10:26:40
+D:\项目session\blender-supercar\pipeline           render_clay.log                450006 2026/11/18 13:19:00
+D:\项目session\blender-supercar\pipeline           render_clay.py                   1000 2026/11/17 14:40:43
+D:\项目session\blender-supercar\pipeline           render_v5.log                  220727 2026/11/14 15:31:21
+D:\项目session\blender-supercar\pipeline           render_v5.py                     1007 2026/11/17 10:47:59
+D:\项目session\blender-supercar\pipeline           v4_stage_rig.blend            1882420 2026/10/27 15:37:36
+D:\项目session\blender-supercar\pipeline           v4_stage_rig.blend1           1879932 2026/10/25 21:53:07
+D:\项目session\blender-supercar\pipeline           v5_anim.py                      28572 2026/11/18 12:55:59
+D:\项目session\blender-supercar\pipeline           v5_clay.py                       3342 2026/11/17 14:42:01
+D:\项目session\blender-supercar\pipeline           v5_env.py                       51913 2026/11/18 13:02:17
+D:\项目session\blender-supercar\pipeline           v5_preview.py                    2991 2026/11/17 10:47:59
+D:\项目session\blender-supercar\pipeline           v5_stills.py                     1925 2026/11/14 10:33:08
+D:\项目session\blender-supercar\pipeline           v5_viewport_fast.py              1622 2026/11/17 10:50:10
+D:\项目session\blender-supercar\textures           ad_boards.png                   19227 2026/11/14 14:53:03
+D:\项目session\blender-supercar\textures           asphalt_grain.png              185745 2026/11/14 10:11:35
+D:\项目session\blender-supercar\textures           bigscreen.png                   55095 2026/11/14 14:53:03
+D:\项目session\blender-supercar\textures           brake_100.png                    5435 2026/11/14 14:53:03
+D:\项目session\blender-supercar\textures           brake_150.png                    7423 2026/11/14 14:53:03
+D:\项目session\blender-supercar\textures           brake_50.png                     6799 2026/11/14 14:53:03
+D:\项目session\blender-supercar\textures           crowd_silverstone.png          538442 2026/11/14 10:11:35
+D:\项目session\blender-supercar\textures           decal_endplate_mobil1.png       20395 2026/10/17 19:40:16
+D:\项目session\blender-supercar\textures           decal_engine_redbull_bull.png   55538 2026/10/17 19:40:15
+D:\项目session\blender-supercar\textures           decal_halo_oracle.png            8026 2026/10/17 19:40:16
+D:\项目session\blender-supercar\textures           decal_nose_livery.png           46136 2026/10/17 19:40:15
+D:\项目session\blender-supercar\textures           decal_rearwing_back.png         26880 2026/10/17 19:40:16
+D:\项目session\blender-supercar\textures           decal_rearwing_bybit.png         6749 2026/10/17 19:40:16
+D:\项目session\blender-supercar\textures           decal_rearwing_front.png        23064 2026/10/17 19:40:15
+D:\项目session\blender-supercar\textures           decal_sidepod_oracle.png        28839 2026/10/17 19:40:15
+D:\项目session\blender-supercar\textures           merc_endplate.png               30938 2026/11/14 10:23:13
+D:\项目session\blender-supercar\textures           merc_engine.png                 56450 2026/11/14 10:29:03
+D:\项目session\blender-supercar\textures           merc_halo.png                   17477 2026/11/14 10:23:13
+D:\项目session\blender-supercar\textures           merc_nose.png                   18718 2026/11/14 10:29:03
+D:\项目session\blender-supercar\textures           merc_rearwing.png               31196 2026/11/14 10:23:13
+D:\项目session\blender-supercar\textures           merc_sidepod.png                51556 2026/11/14 10:23:13
+D:\项目session\blender-supercar\textures           pit_garage.png                   7183 2026/11/14 14:53:03
+D:\项目session\blender-supercar\textures           steering_display.png            42206 2026/10/17 20:14:54
+D:\项目session\blender-supercar\textures           test_bull_bezier.png            29452 2026/10/17 19:29:13
+D:\项目session\blender-supercar\textures           test_bull_perfect.png           30534 2026/10/17 19:30:16
+D:\项目session\blender-supercar\textures           test_bull_preview.png            6103 2026/10/17 19:28:05
+D:\项目session\blender-supercar\textures           tire_sidewall_pirelli.png      184982 2026/10/17 20:14:54
+D:\项目session\blender-supercar\textures           _merc_preview.png               77879 2026/10/27 15:29:20
+D:\项目session\blender-supercar\renders_v5\preview 01_top.jpg                      61208 2026/11/14 10:12:56
+D:\项目session\blender-supercar\renders_v5\preview 02_startline.jpg                61034 2026/11/14 10:12:56
+D:\项目session\blender-supercar\renders_v5\preview 03_corner_low.jpg               80158 2026/11/14 10:12:56
+D:\项目session\blender-supercar\renders_v5\preview 04_stand.jpg                    61523 2026/11/14 10:12:57
+D:\项目session\blender-supercar\renders_v5\preview 05_kerb.jpg                     33428 2026/11/14 10:12:57
+
+

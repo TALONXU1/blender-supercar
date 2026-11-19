@@ -1,0 +1,16 @@
+Task: a98b6c71-b658-48ee-9b28-e9a1c116099c/task-425
+Status: RUNNING
+Log: file:///C:/Users/86052/.gemini/antigravity/brain/a98b6c71-b658-48ee-9b28-e9a1c116099c/.system_generated/tasks/task-425.log
+Log output:
+<truncated 52 lines>
+ip2_gwen_65\f_0613.jpg'
+01:58.828  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip2_gwen_65\f_0614.jpg'
+02:02.531  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip2_gwen_65\f_0615.jpg'
+02:06.109  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip2_gwen_65\f_0616.jpg'
+02:10.688  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip2_gwen_65\f_0617.jpg'
+02:14.625  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip2_gwen_65\f_0618.jpg'
+02:18.125  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip2_gwen_65\f_0619.jpg'
+02:22.063  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip2_gwen_65\f_0620.jpg'
+02:26.375  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip2_gwen_65\f_0621.jpg'
+
+Last progress: 0s ago

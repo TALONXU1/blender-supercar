@@ -1,0 +1,41 @@
+Command exited with code 0.
+
+Command output:
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    26.76 GiB / 31.50 GiB (85%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    281.26 GiB / 300.00 GiB (94%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    565.25 GiB / 623.52 GiB (91%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+00:00.719  blend            | Read blend: "D:\项目session\blender-supercar\LATEST\v5_stage_anim.blend"
+BlenderMCP addon registered
+GEO_F1_Monocoque_Chassis      : type=MESH   scale=(1.0, 1.0, 1.0) mods=[('MIRROR', 'Mirror_X'), ('SUBSURF', 'Subsurf')]
+GEO_F1_Nosecone               : type=MESH   scale=(1.0, 1.0, 1.0) mods=[('MIRROR', 'Mirror_X'), ('SUBSURF', 'Subsurf')]
+GEO_F1_EngineCowl_Body        : type=MESH   scale=(1.0, 1.0, 1.0) mods=[('MIRROR', 'Mirror_X'), ('SUBSURF', 'Subsurf')]
+GEO_F1_FrontWing_Mainplane    : type=MESH   scale=(1.0, 1.0, 1.0) mods=[('MIRROR', 'Mirror_X'), ('SUBSURF', 'Subsurf')]
+GEO_F1_FrontWing_Endplate_L   : type=MESH   scale=(0.018, 0.62, 0.36) mods=[('BEVEL', 'Bevel')]
+GEO_F1_RearWing_Mainplane     : type=MESH   scale=(1.0, 1.0, 1.0) mods=[]
+GEO_F1_RearWing_Endplate_L    : type=MESH   scale=(1.0, 1.0, 1.0) mods=[('BEVEL', 'V4_Bevel')]
+GEO_F1_Tire_FL                : type=MESH   scale=(1.0, 1.0, 1.0) mods=[]
+GEO_F1_Rim_FL                 : type=MESH   scale=(1.0, 1.0, 1.0) mods=[]
+GEO_F1_Halo_CenterPylon       : type=MESH   scale=(1.0, 1.0, 1.0) mods=[('BEVEL', 'Bevel')]
+GEO_F1_Halo_Hoop              : type=CURVE  scale=(1.0, 1.0, 1.0) mods=[('MIRROR', 'Mirror_X')]
+GEO_F1_Exhaust_TitaniumTail   : type=MESH   scale=(1.0, 1.0, 1.0) mods=[]
+BlenderMCP addon unregistered
+Blender 5.3.0 (hash 02f0899d78e3 built 2026-11-10 01:33:43)
+
+Blender quit

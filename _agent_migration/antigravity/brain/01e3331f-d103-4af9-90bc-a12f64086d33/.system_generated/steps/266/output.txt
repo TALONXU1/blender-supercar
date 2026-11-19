@@ -1,0 +1,47 @@
+Command exited with code 0.
+
+Command output:
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    20.81 GiB / 31.50 GiB (66%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    283.19 GiB / 300.00 GiB (94%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    567.42 GiB / 623.52 GiB (91%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+[mjpeg @ 00000203358d5cc0] Invalid sequence number in APP2
+[mjpeg @ 000002033591b5c0] Invalid sequence number in APP2
+[swscaler @ 000002033745f900] deprecated pixel format used, make sure you did set range correctly
+[mjpeg @ 000002033591b5c0] Invalid sequence number in APP2
+    Last message repeated 94 times
+[mjpeg @ 000001ed60f4cec0] Invalid sequence number in APP2
+[mjpeg @ 000001ed60f7ae00] Invalid sequence number in APP2
+    Last message repeated 1 times
+[swscaler @ 000001ed61489dc0] deprecated pixel format used, make sure you did set range correctly
+[mjpeg @ 000001ed60f7ae00] Invalid sequence number in APP2
+    Last message repeated 93 times
+[mjpeg @ 0000024e9f475300] Invalid sequence number in APP2
+[mjpeg @ 0000024e9f480d40] Invalid sequence number in APP2
+    Last message repeated 1 times
+[swscaler @ 0000024ea13fae40] deprecated pixel format used, make sure you did set range correctly
+[mjpeg @ 0000024e9f480d40] Invalid sequence number in APP2
+    Last message repeated 93 times
+[synth_sfx_sv] Built 12.0000s showcase reel WAV from [('clip1_miles_1610', 269, 96), ('clip2_gwen_65', 585, 96), ('clip3_2099_impact', 993, 96)]
+[aist#3:0/pcm_s16le @ 00000200676aae40] Guessed Channel Layout: stereo
+[swscaler @ 000002006e485000] deprecated pixel format used, make sure you did set range correctly
+-rw-r--r-- 1 86052 197609 14357500 Nov 18 17:13 D:/项目session/blender-supercar/renders_v6/clip1_miles_1610.mp4
+-rw-r--r-- 1 86052 197609 15375835 Nov 18 17:13 D:/项目session/blender-supercar/renders_v6/clip2_gwen_65.mp4
+-rw-r--r-- 1 86052 197609 16006044 Nov 18 17:14 D:/项目session/blender-supercar/renders_v6/clip3_2099_impact.mp4
+-rw-r--r-- 1 86052 197609 43441369 Nov 18 17:14 D:/项目session/blender-supercar/renders_v6/v6_spiderverse_showcase_12s.mp4

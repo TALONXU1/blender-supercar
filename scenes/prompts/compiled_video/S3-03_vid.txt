@@ -1,0 +1,8 @@
+# 摩纳哥 · 隧道出口逆光
+# 画风 ST1   时长 3s   motion 48 词
+# 首帧 S3-03.png（compiled/ 里对应的关键帧）
+
+The car drives away from camera out of the tunnel into blown-out sunlight. For half a second it holds as a pure silhouette rimmed in orange, then resolves into detail as the exit light normalises. Light spills back across the road surface and recedes. Steady acceleration. 3 seconds.
+
+Keep: the dark tunnel interior, the strip lights overhead, the single exit opening.
+Avoid: no exposure snapping, no interior detail appearing, no wet floor, no camera movement.

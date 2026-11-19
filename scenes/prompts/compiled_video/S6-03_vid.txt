@@ -1,0 +1,8 @@
+# 赞德福特 · 侧面长焦沙粒横穿
+# 画风 ST5   时长 4s   motion 46 词
+# 首帧 S6-03.png（compiled/ 里对应的关键帧）
+
+The car passes right to left behind a foreground of blowing sand. Grains streak horizontally across frame and partially obscure the lower body as it goes. Camera pans slightly to hold the car. The orange crowd behind stays a soft continuous mass. Steady speed. 4 seconds.
+
+Keep: the horizontal sand streaks, the orange crowd mass, the overcast flat light.
+Avoid: no fog or snow appearance, no vertical dust, no sunlight, no individual crowd faces.

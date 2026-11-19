@@ -1,0 +1,1 @@
+{"status":"added","name":"migrator","model":"gemini-4-carbon-high","model_display_name":"Gemini 4 Carbon (High)","conversation_id":"28eaa19e-f80a-4280-89a6-b556542c1016","note":"The brief is on the board as #52, where every member of the swarm can read it."}

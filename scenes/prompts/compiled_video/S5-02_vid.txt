@@ -1,0 +1,8 @@
+# 新加坡 · 长焦压缩城市与车
+# 画风 ST4   时长 4s   motion 44 词
+# 首帧 S5-02.png（compiled/ 里对应的关键帧）
+
+The car slides right to left across frame, city reflections travelling along its flank as it passes each light source. Camera pans slightly to hold the car. Rain streaks cross the frame throughout. Towers stay fixed and legible behind. Steady lateral speed. 4 seconds.
+
+Keep: the tower facades legible, the rain angle, the reflections on the bodywork.
+Avoid: no zoom, no rack focus, no daylight, no readable text on towers, no extra cars.

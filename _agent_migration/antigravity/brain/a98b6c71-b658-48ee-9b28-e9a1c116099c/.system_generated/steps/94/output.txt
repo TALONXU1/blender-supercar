@@ -1,0 +1,38 @@
+Command exited with code 1.
+
+Command output:
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    26.48 GiB / 31.50 GiB (84%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    278.24 GiB / 300.00 GiB (93%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    548.16 GiB / 623.52 GiB (88%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+00:00.828  blend            | Read blend: "D:\项目session\blender-supercar\LATEST\v5_stage_env.blend"
+D:\项目session\blender-supercar\pipeline\v5_anim.py:203: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  _m_rain.use_nodes = True
+D:\项目session\blender-supercar\pipeline\v5_anim.py:298: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  _ml.use_nodes = True
+D:\项目session\blender-supercar\pipeline\v5_anim.py:999: DeprecationWarning: 'Scene.compositing_node_group' is expected to be removed in Blender 6.0
+  scene.compositing_node_group = ng
+D:\项目session\blender-supercar\pipeline\v5_anim.py:1000: DeprecationWarning: 'Scene.use_nodes' is expected to be removed in Blender 6.0
+  scene.use_nodes = True
+Error   : Microsoft C++ Exception
+Address : 0x00007FFACFA8569A
+Module  : KERNELBASE.dll
+Thread  : 0002907c
+Blender 5.3.0 (hash 02f0899d78e3 built 2026-11-10 01:33:43)
+Writing: C:\Users\86052\AppData\Local\Temp\test_anim.crash.txt

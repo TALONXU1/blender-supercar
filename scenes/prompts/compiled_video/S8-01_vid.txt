@@ -1,0 +1,8 @@
+# 英特拉格斯 · 看台俯拍盆地
+# 画风 ST3   时长 5s   motion 43 词
+# 首帧 S8-01.png（compiled/ 里对应的关键帧）
+
+Camera static in the grandstand looking down into the basin. Rainwater sheets across the asphalt in moving films, joining puddles into standing lakes that ripple constantly. The car crosses the lower frame. Cloud base stays low and purple-black. Heavy rain throughout. 5 seconds.
+
+Keep: the basin depth, the water films moving, the cloud base height.
+Avoid: no lightning in this shot, no sunlight, no flat terrain, no dry patches, no camera movement.

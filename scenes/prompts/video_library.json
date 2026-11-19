@@ -1,0 +1,253 @@
+{
+  "schema": "f1-video-prompts/1.0",
+  "structure": "motion(40-80词) + Keep + Avoid，首帧用同 ID 的关键帧图。不重复关键帧的静态描述。",
+  "rules": [
+    "一个主动作，不叠加竞争动作",
+    "必须写方向：left to right / toward camera / away from camera",
+    "必须区分主体运动与镜头运动",
+    "时长服从物理：3s 近距逼近，5s 过弯，6s 爬坡穿越",
+    "静态描述压到 20 词以内，只留锁画面所需的最小信息"
+  ],
+  "shots": [
+    {
+      "id": "S1-01",
+      "scene": "S1",
+      "name": "银石 · 低机位追车过弯",
+      "style": "ST2",
+      "duration_s": 5,
+      "motion": "The car tracks left to right through the corner, body staying level as the wheels follow the arc. Water sprays off both rear tyres and trails back, thinning out within fifteen meters. Camera tracks parallel at matched speed, foreground grass blades sweeping past out of focus. Steady, constant pace. 5 seconds.",
+      "keep": "the wet asphalt, the drying dark racing line, the grey grandstand behind",
+      "avoid": "no camera shake, no extra vehicles, no scene change, no slow motion, no morphing bodywork"
+    },
+    {
+      "id": "S1-02",
+      "scene": "S1",
+      "name": "银石 · 长焦压缩穿越看台",
+      "style": "ST2",
+      "duration_s": 4,
+      "motion": "The car approaches toward camera down the wet straight, growing from a small shape to filling the frame. Camera static on the long lens, no pan, background compressed and fixed. Wet kerbs hold a steady specular line. Constant speed, no braking. 4 seconds.",
+      "keep": "the grey fabric-roofed grandstand, the compression of the 200mm framing",
+      "avoid": "no zoom, no pan, no camera shake, no added vehicles, no perspective change"
+    },
+    {
+      "id": "S1-03",
+      "scene": "S1",
+      "name": "银石 · 车后三米水雾",
+      "style": "ST2",
+      "duration_s": 5,
+      "motion": "Camera follows three meters behind and slightly above, holding the car centred. Both rear tyres throw spray that builds into two white plumes and trails backward, fading out inside fifteen meters. The red rain light stays lit. Road surface rushes past underneath. Fast, constant pace. 5 seconds.",
+      "keep": "the rear wing geometry, the diffuser, the wet road",
+      "avoid": "no spray covering the whole frame, no camera bob, no cutting, no additional cars"
+    },
+    {
+      "id": "S2-01",
+      "scene": "S2",
+      "name": "斯帕 · Eau Rouge 底部仰拍",
+      "style": "ST3",
+      "duration_s": 6,
+      "motion": "The car emerges from the fog at the bottom of the frame and climbs away from camera up the hill, shrinking as the slope rises. Fog pours over the crest behind it and drifts forward. Red rain lights glow softly through the murk. Camera static, tilted up slightly. Slow build, then steady. 6 seconds.",
+      "keep": "the uphill gradient, the pine trunks on both sides, the flat white fog",
+      "avoid": "no camera pan, no fog clearing, no grandstands appearing, no sharp distant detail, no sun breaking through"
+    },
+    {
+      "id": "S2-02",
+      "scene": "S2",
+      "name": "斯帕 · 无人机上升跟随落差",
+      "style": "ST3",
+      "duration_s": 6,
+      "motion": "Camera rises steadily from forty to ninety meters while the car climbs the hillside road. The forest canopy opens below as altitude increases, trunks and crowns becoming distinguishable. Fog banks shift slowly in the valleys. The elevation change becomes obvious as the horizon drops. Slow, smooth ascent. 6 seconds.",
+      "keep": "the single ribbon of wet asphalt, the pine forest density, the fog in the valleys",
+      "avoid": "no hovering, no orbit, no fast movement, no buildings, no clear sky"
+    },
+    {
+      "id": "S2-03",
+      "scene": "S2",
+      "name": "斯帕 · 车载前车只剩雾团",
+      "style": "ST3",
+      "duration_s": 4,
+      "motion": "Camera fixed behind the halo, moving forward with the car. The car ahead fades in and out of visibility as fog density shifts, staying a diffuse red glow without resolving into shape. Tree trunks slide past as dark vertical smears. Road surface moves underneath. Steady forward motion. 4 seconds.",
+      "keep": "the halo struts in the foreground, the fog density, the wet featureless road",
+      "avoid": "no wipers activating, no lens water, no car ahead becoming sharp, no camera shake"
+    },
+    {
+      "id": "S3-01",
+      "scene": "S3",
+      "name": "摩纳哥 · 俯瞰港湾与赛道",
+      "style": "ST1",
+      "duration_s": 5,
+      "motion": "Camera static high above the harbour. The car moves along the waterline as a small fast shape. Yachts bob gently on the swell, mooring lines swaying. Sun glints shift across the water surface in small broken flashes. Shadows creep slowly as the light lowers. 5 seconds.",
+      "keep": "the camera height, the packed yachts, the barrier line against the water",
+      "avoid": "no camera drift, no orbit, no wave crashes, no modern towers, no crowd movement exaggeration"
+    },
+    {
+      "id": "S3-02",
+      "scene": "S3",
+      "name": "摩纳哥 · 贴地横移擦墙",
+      "style": "ST1",
+      "duration_s": 4,
+      "motion": "Camera tracks laterally at car speed, the barrier sliding through the foreground as a continuous blur of colour blocks. The car holds the right third of frame, passing very close to the wall. Sea glints flicker beyond the barrier. Fast lateral motion, constant. 4 seconds.",
+      "keep": "the 30 centimeter gap to the wall, the car's position in frame, the sea beyond",
+      "avoid": "no fisheye distortion, no readable signage, no camera wobble, no gap widening"
+    },
+    {
+      "id": "S3-03",
+      "scene": "S3",
+      "name": "摩纳哥 · 隧道出口逆光",
+      "style": "ST1",
+      "duration_s": 3,
+      "motion": "The car drives away from camera out of the tunnel into blown-out sunlight. For half a second it holds as a pure silhouette rimmed in orange, then resolves into detail as the exit light normalises. Light spills back across the road surface and recedes. Steady acceleration. 3 seconds.",
+      "keep": "the dark tunnel interior, the strip lights overhead, the single exit opening",
+      "avoid": "no exposure snapping, no interior detail appearing, no wet floor, no camera movement"
+    },
+    {
+      "id": "S4-01",
+      "scene": "S4",
+      "name": "蒙扎 · 直道尽头 300mm",
+      "style": "ST2",
+      "duration_s": 3,
+      "motion": "The car approaches toward camera down the straight, growing from a distant dot into a full-frame shape over three seconds. Heat shimmer wobbles the distant grandstand above the tarmac throughout. Camera static, no pan, hard sun fixed. Very fast approach, constant speed. 3 seconds.",
+      "keep": "the treeline behind, the heat shimmer height, the compression of the long lens",
+      "avoid": "no zoom, no pan, no wobble spreading across the whole frame, no other cars"
+    },
+    {
+      "id": "S4-02",
+      "scene": "S4",
+      "name": "蒙扎 · 弯心低机位横掠",
+      "style": "ST2",
+      "duration_s": 4,
+      "motion": "The car brakes hard into the chicane, nose dipping visibly, then snaps left then right across the kerbs. Tyre marbles scatter and bounce away. Camera static at kerb height, only panning minimally to hold the car. Deceleration then sharp direction change. 4 seconds.",
+      "keep": "the kerb colour blocks, the rubbered racing line, the foreground heat ripple",
+      "avoid": "no smooth glide through the corner, no camera follow-through, no gravel, no wobble"
+    },
+    {
+      "id": "S4-03",
+      "scene": "S4",
+      "name": "蒙扎 · 车顶跟拍直道极速",
+      "style": "ST2",
+      "duration_s": 5,
+      "motion": "Camera holds directly above the car and tracks forward at full speed. The white track-limit line streaks past as a continuous blur on both sides. Grandstand roofs slide by underneath as grey shapes. The car stays fixed in frame centre. Fast, unbroken forward motion. 5 seconds.",
+      "keep": "the overhead framing, the white line blur, the treeline ahead",
+      "avoid": "no camera tilt, no orbit, no lane markings, no other vehicles, no speed ramp"
+    },
+    {
+      "id": "S5-01",
+      "scene": "S5",
+      "name": "新加坡 · 仰拍灯柱阵列",
+      "style": "ST4",
+      "duration_s": 5,
+      "motion": "Camera static at ground level tilted up. The car passes through pools of white light, going bright then dark then bright. Rain falls at a twenty degree angle throughout. Water on the asphalt flickers with doubled reflections as the car disturbs it. Light cones stay steady. 5 seconds.",
+      "keep": "the light cones through humid air, the pure black sky, the wet mirrored surface",
+      "avoid": "no daylight, no sky gradient, no camera movement, no fog, no readable signage"
+    },
+    {
+      "id": "S5-02",
+      "scene": "S5",
+      "name": "新加坡 · 长焦压缩城市与车",
+      "style": "ST4",
+      "duration_s": 4,
+      "motion": "The car slides right to left across frame, city reflections travelling along its flank as it passes each light source. Camera pans slightly to hold the car. Rain streaks cross the frame throughout. Towers stay fixed and legible behind. Steady lateral speed. 4 seconds.",
+      "keep": "the tower facades legible, the rain angle, the reflections on the bodywork",
+      "avoid": "no zoom, no rack focus, no daylight, no readable text on towers, no extra cars"
+    },
+    {
+      "id": "S5-03",
+      "scene": "S5",
+      "name": "新加坡 · 车后跟拍城市倒置",
+      "style": "ST4",
+      "duration_s": 5,
+      "motion": "Camera follows behind and above, holding the car centred. The inverted skyline in the wet road ripples and reforms as the car disturbs the water film. Rain crosses the frame steadily. Steam lifts off the diffuser and drifts upward. Fast, constant forward pace. 5 seconds.",
+      "keep": "the inverted skyline in the reflection, the steam at the diffuser, the rain angle",
+      "avoid": "no reflection breaking up permanently, no dry patches, no camera bob, no daylight"
+    },
+    {
+      "id": "S6-01",
+      "scene": "S6",
+      "name": "赞德福特 · 倾斜弯外侧低机位",
+      "style": "ST5",
+      "duration_s": 5,
+      "motion": "The car runs high on the banked surface, body rolled into the slope, then tracks down and away. Sand streams horizontally across the kerb edge at ankle height throughout. Camera static on the outside, no pan. Crowd behind stays a soft orange mass. Steady pace. 5 seconds.",
+      "keep": "the 18 degree banking, the sand stream height, the orange crowd",
+      "avoid": "no camera movement, no sunlight, no dust storm, no trees, no banking flattening"
+    },
+    {
+      "id": "S6-02",
+      "scene": "S6",
+      "name": "赞德福特 · 沙丘顶部俯拍",
+      "style": "ST5",
+      "duration_s": 5,
+      "motion": "Camera static high above. The car follows the dark ribbon of track through the dunes, moving from one side of frame to the other. Sand drifts slowly across the pale dune faces. Grey sea horizon stays fixed and flat. Slow, continuous lateral motion. 5 seconds.",
+      "keep": "the dune shapes, the flat grey horizon, the track as a continuous ribbon",
+      "avoid": "no camera drift, no orbit, no waves with whitecaps, no colour saturation, no buildings"
+    },
+    {
+      "id": "S6-03",
+      "scene": "S6",
+      "name": "赞德福特 · 侧面长焦沙粒横穿",
+      "style": "ST5",
+      "duration_s": 4,
+      "motion": "The car passes right to left behind a foreground of blowing sand. Grains streak horizontally across frame and partially obscure the lower body as it goes. Camera pans slightly to hold the car. The orange crowd behind stays a soft continuous mass. Steady speed. 4 seconds.",
+      "keep": "the horizontal sand streaks, the orange crowd mass, the overcast flat light",
+      "avoid": "no fog or snow appearance, no vertical dust, no sunlight, no individual crowd faces"
+    },
+    {
+      "id": "S7-01",
+      "scene": "S7",
+      "name": "维加斯 · 直道尽头车从光海浮出",
+      "style": "ST4",
+      "duration_s": 4,
+      "motion": "The car approaches toward camera out of the neon wall, holding as a black silhouette for most of the shot, then resolving into detail only in the final hundred meters. LED screens scroll abstract colour behind it. Camera static, hard compression. 4 seconds.",
+      "keep": "the silhouette stage, the clean dry air, the scrolling screens",
+      "avoid": "no fog or light cones, no readable screen text, no early detail reveal, no camera movement"
+    },
+    {
+      "id": "S7-02",
+      "scene": "S7",
+      "name": "维加斯 · 高机位光带切过城市",
+      "style": "ST4",
+      "duration_s": 5,
+      "motion": "Camera static high above. The car moves along the bright band of circuit that cuts across the dark street grid. LED content on the spherical arena shifts colour slowly. Street grid stays dark. Desert blackness beyond the edge stays unlit. Slow, continuous motion. 5 seconds.",
+      "keep": "the bright band against dark grid, the glowing sphere, the unlit desert edge",
+      "avoid": "no camera drift, no daylight, no light pollution dome, no readable billboards, no haze"
+    },
+    {
+      "id": "S7-03",
+      "scene": "S7",
+      "name": "维加斯 · 车侧跟拍霓虹流动",
+      "style": "ST6",
+      "duration_s": 4,
+      "motion": "Camera tracks alongside at matched speed, holding the car's flank. Neon reflections slide across the carbon and paint in sequence, cyan then magenta then white, as the car passes each source. Air stays clean with no visible light cones. Steady, constant speed. 4 seconds.",
+      "keep": "the reflection sequence across the body, the crisp specular, the deep blacks",
+      "avoid": "no fog, no light cones, no plastic sheen, no static colour patches, no camera wobble"
+    },
+    {
+      "id": "S8-01",
+      "scene": "S8",
+      "name": "英特拉格斯 · 看台俯拍盆地",
+      "style": "ST3",
+      "duration_s": 5,
+      "motion": "Camera static in the grandstand looking down into the basin. Rainwater sheets across the asphalt in moving films, joining puddles into standing lakes that ripple constantly. The car crosses the lower frame. Cloud base stays low and purple-black. Heavy rain throughout. 5 seconds.",
+      "keep": "the basin depth, the water films moving, the cloud base height",
+      "avoid": "no lightning in this shot, no sunlight, no flat terrain, no dry patches, no camera movement"
+    },
+    {
+      "id": "S8-02",
+      "scene": "S8",
+      "name": "英特拉格斯 · 低机位逆光雨幕",
+      "style": "ST3",
+      "duration_s": 3,
+      "motion": "The car drives toward camera into frame, headlights and rain light cutting white and red cones through the downpour. Front wheel spray fans out to both sides and falls away. Rain streaks stay visible throughout. Backlight from the cloud-base leak stays fixed. Fast approach. 3 seconds.",
+      "keep": "the light cones through rain, the yellow-green backlight, the spray fan",
+      "avoid": "no visible sun, no sunset colours, no lens water, no drying, no camera shake"
+    },
+    {
+      "id": "S8-03",
+      "scene": "S8",
+      "name": "英特拉格斯 · 长焦过 Senna S 黑云翻滚",
+      "style": "ST3",
+      "duration_s": 5,
+      "motion": "The car tracks through the downhill left-right as a hard-edged silhouette against the cloud-base light. Camera pans with it, keeping the car centred. The cumulonimbus wall churns slowly behind, its yellow-green underside leak holding steady. Rain and spray move with the car. 5 seconds.",
+      "keep": "the silhouette edge, the cloud base at four hundred meters, the light leak",
+      "avoid": "no lightning, no god rays, no sunset colours, no camera shake, no detail loss into mush"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    22.91 GiB / 31.50 GiB (73%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    278.10 GiB / 300.00 GiB (93%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    548.03 GiB / 623.52 GiB (88%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+[synth_sfx] Loading Silverstone telemetry & 26-shot timeline...
+[synth_sfx] Saved: D:\项目session\blender-supercar\renders_v5\sfx_engine_90s.wav (17,288,044 bytes) in 15.08 s
+[synth_sfx] Duration: 90.0417 s (4,322,000 samples @ 48000 Hz stereo, 2161 frames)
+[synth_sfx] Gearbox: 8-speed, 52 upshifts, 52 downshifts | RPM (v>=80 km/h): 9853..12432 RPM
+[synth_sfx] Levels: Peak = -1.50 dBFS, RMS = -15.80 dBFS
+  [Doppler] Cam_S04_Hairpin        closest=  3.9 m  pitch=1.362x -> 1.041x
+  [Doppler] Cam_S08_FastPan        closest= 14.0 m  pitch=1.365x -> 0.888x
+  [Doppler] Cam_S11_Luffield       closest= 11.5 m  pitch=1.174x -> 0.977x
+  [Doppler] Cam_S13_WoodcoteTele   closest= 50.0 m  pitch=1.214x -> 1.094x
+  [Doppler] Cam_S17_Maggotts       closest= 11.5 m  pitch=1.133x -> 0.936x
+  [Doppler] Cam_S20_StoweTele      closest=117.8 m  pitch=1.358x -> 1.240x
+  [Doppler] Cam_S24_Club           closest=  9.5 m  pitch=1.214x -> 0.848x
+[aist#1:0/pcm_s16le @ 0000020503b06940] Guessed Channel Layout: stereo
+
+[Parsed_volumedetect_0 @ 0000016ecc4f3f00] mean_volume: -15.8 dB
+[Parsed_volumedetect_0 @ 0000016ecc4f3f00] max_volume: -1.5 dB
+[Parsed_volumedetect_0 @ 000002a075f31c00] mean_volume: -15.8 dB
+[Parsed_volumedetect_0 @ 000002a075f31c00] max_volume: -1.2 dB
+  Integrated loudness:
+    I:         -13.5 LUFS
+    Threshold: -23.5 LUFS
+  Loudness range:
+    LRA:         5.0 LU
+    Threshold: -33.5 LUFS
+    LRA low:   -16.6 LUFS
+    LRA high:  -11.6 LUFS
+  True peak:
+    Peak:       -1.2 dBFS
+[out#0/null @ 0000028124971500] video:0KiB audio:16883KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing o
+verhead: unknown
+size=N/A time=00:01:30.04 bitrate=N/A speed= 283x elapsed=0:00:00.31    
+
+

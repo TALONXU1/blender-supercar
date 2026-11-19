@@ -1,0 +1,234 @@
+﻿objects: ref 1145  new env 616  old anim 948  new anim 645
+
+===== env (d:\项目session\blender-supercar\LATEST\v5_stage_env.blend) =====
+V5 meshes: 348  near-origin (not in ref): 0
+same-name V5 meshes off vs 11/14 ref: 0
+ref V5 names missing in new (merged/renamed?): 75 ['V5_Brake_0_100_pole', 'V5_Brake_0_100_pole.001', 'V5_Brake_0_150_pole', 'V5_Brake_0_150_pole.001', 'V5_Brake_0_50_pole', 'V5_Brake_0_50_pole.001', 'V5_Brake_1_100_pole', 'V5_Brake_1_100_pole.001', 'V5_Brake_1_150_pole', 'V5_Brake_1_150_pole.001', 'V5_Brake_1_50_pole', 'V5_Brake_1_50_pole.001', 'V5_Brake_2_100_pole', 'V5_Brake_2_100_pole.001', 'V5_Brake_2_150_pole', 'V5_Brake_2_150_pole.001', 'V5_Brake_2_50_pole', 'V5_Brake_2_50_pole.001', 'V5_Bridge_A_pier', 'V5_Bridge_A_pier.001', 'V5_Bridge_A_rail', 'V5_Bridge_A_rail.001', 'V5_Bridge_B_pier', 'V5_Bridge_B_pier.001', 'V5_Bridge_B_rail', 'V5_Bridge_B_rail.001', 'V5_Gantry_Post_-1', 'V5_Gantry_Post_1', 'V5_Marshal_0_lamp', 'V5_Marshal_1_lamp', 'V5_Marshal_2_lamp', 'V5_Marshal_3_lamp', 'V5_Marshal_4_lamp', 'V5_Marshal_5_lamp', 'V5_Marshal_6_lamp', 'V5_Screen_A_leg', 'V5_Screen_A_leg.001', 'V5_Screen_B_leg', 'V5_Screen_B_leg.001', 'V5_Stand_Club_0']
+assemblies: 126  differing union bbox (>0.5 m): 0
+V5 meshes with loose/zero-area/dup faces: 0
+V5_FencePosts v3888 f972 loose0 zero0 dupf0 dims=[1093.73, 1770.2, 3.4]
+V5_FieldMasts v144 f60 loose0 zero0 dupf0 dims=[1090.28, 1608.24, 16.0]
+co-located duplicate V5 objects: []
+pole.00x: []  tiny(<0.2m) V5 meshes: 0 []  Truss#/TrussB# objects: 0
+PitBoxLine objects: ['V5_PitBoxLines'] 1
+  stand Club: 15 objs: ['V5_Stand_Club', 'V5_Stand_Club_Back', 'V5_Stand_Club_Columns', 'V5_Stand_Club_Flagpoles', 'V5_Stand_Club_Flags', 'V5_Stand_Club_FrontPosts', 'V5_Stand_Club_Rail', 'V5_Stand_Club_Roof', 'V5_Stand_Club_RoofStrip', 'V5_Stand_Club_Tier0', 'V5_Stand_Club_Tier1', 'V5_Stand_Club_Tier2', 'V5_Stand_Club_Tier3', 'V5_Stand_Club_Trusses', 'V5_Stand_Club_VIP']
+  stand Complex: 15 objs: ['V5_Stand_Complex', 'V5_Stand_Complex_Back', 'V5_Stand_Complex_Columns', 'V5_Stand_Complex_Flagpoles', 'V5_Stand_Complex_Flags', 'V5_Stand_Complex_FrontPosts', 'V5_Stand_Complex_Rail', 'V5_Stand_Complex_Roof', 'V5_Stand_Complex_RoofStrip', 'V5_Stand_Complex_Tier0', 'V5_Stand_Complex_Tier1', 'V5_Stand_Complex_Tier2', 'V5_Stand_Complex_Tier3', 'V5_Stand_Complex_Trusses', 'V5_Stand_Complex_VIP']
+  stand Main: 16 objs: ['V5_Stand_Main', 'V5_Stand_Main_Back', 'V5_Stand_Main_Columns', 'V5_Stand_Main_Flagpoles', 'V5_Stand_Main_Flags', 'V5_Stand_Main_FrontPosts', 'V5_Stand_Main_Rail', 'V5_Stand_Main_Roof', 'V5_Stand_Main_RoofStrip', 'V5_Stand_Main_Tier0', 'V5_Stand_Main_Tier1', 'V5_Stand_Main_Tier2', 'V5_Stand_Main_Tier3', 'V5_Stand_Main_Tier4', 'V5_Stand_Main_Trusses', 'V5_Stand_Main_VIP']
+  stand Mid: 15 objs: ['V5_Stand_Mid', 'V5_Stand_Mid_Back', 'V5_Stand_Mid_Columns', 'V5_Stand_Mid_Flagpoles', 'V5_Stand_Mid_Flags', 'V5_Stand_Mid_FrontPosts', 'V5_Stand_Mid_Rail', 'V5_Stand_Mid_Roof', 'V5_Stand_Mid_RoofStrip', 'V5_Stand_Mid_Tier0', 'V5_Stand_Mid_Tier1', 'V5_Stand_Mid_Tier2', 'V5_Stand_Mid_Tier3', 'V5_Stand_Mid_Trusses', 'V5_Stand_Mid_VIP']
+  stand South: 15 objs: ['V5_Stand_South', 'V5_Stand_South_Back', 'V5_Stand_South_Columns', 'V5_Stand_South_Flagpoles', 'V5_Stand_South_Flags', 'V5_Stand_South_FrontPosts', 'V5_Stand_South_Rail', 'V5_Stand_South_Roof', 'V5_Stand_South_RoofStrip', 'V5_Stand_South_Tier0', 'V5_Stand_South_Tier1', 'V5_Stand_South_Tier2', 'V5_Stand_South_Tier3', 'V5_Stand_South_Trusses', 'V5_Stand_South_VIP']
+  stand T1: 14 objs: ['V5_Stand_T1', 'V5_Stand_T1_Back', 'V5_Stand_T1_Columns', 'V5_Stand_T1_Flagpoles', 'V5_Stand_T1_Flags', 'V5_Stand_T1_FrontPosts', 'V5_Stand_T1_Rail', 'V5_Stand_T1_Roof', 'V5_Stand_T1_RoofStrip', 'V5_Stand_T1_Tier0', 'V5_Stand_T1_Tier1', 'V5_Stand_T1_Tier2', 'V5_Stand_T1_Trusses', 'V5_Stand_T1_VIP']
+V5 meshes with origin away from geometry: 0 []
+V5 empties: 21
+  V5_Brake_0                   kids=  4 loc=[-651.8, -416.2, 0.0] center=[-651.8, -416.2, 0.8] hdist=0.00 z=0.00 (bbox z 0.0..1.7) cols=['V5_06_Props']
+  V5_Brake_1                   kids=  4 loc=[-782.3, -362.9, 0.0] center=[-782.2, -363.0, 0.8] hdist=0.03 z=0.00 (bbox z 0.0..1.7) cols=['V5_06_Props']
+  V5_Brake_2                   kids=  4 loc=[-232.8, 265.9, 0.0] center=[-232.8, 265.9, 0.8] hdist=0.01 z=0.00 (bbox z 0.0..1.7) cols=['V5_06_Props']
+  V5_Bridge_A                  kids=  3 loc=[-530.0, -595.1, 0.0] center=[-530.0, -595.1, 3.3] hdist=0.00 z=0.00 (bbox z 0.0..6.5) cols=['V5_06_Props']
+  V5_Bridge_B                  kids=  3 loc=[-58.5, 429.7, 0.0] center=[-58.5, 429.7, 3.3] hdist=0.00 z=0.00 (bbox z 0.0..6.5) cols=['V5_06_Props']
+  V5_Gantry                    kids=  9 loc=[-19.7, -35.8, 0.0] center=[-19.7, -35.8, 3.8] hdist=0.00 z=0.00 (bbox z 0.0..7.6) cols=['V5_06_Props']
+  V5_Marshal_0                 kids=  2 loc=[-10.5, 5.8, 0.0] center=[-10.5, 5.8, 0.8] hdist=0.00 z=0.00 (bbox z 0.0..1.6) cols=['V5_06_Props']
+  V5_Marshal_1                 kids=  2 loc=[-453.3, -685.0, 0.0] center=[-453.3, -685.0, 0.8] hdist=0.00 z=0.00 (bbox z 0.0..1.6) cols=['V5_06_Props']
+  V5_Marshal_2                 kids=  2 loc=[-794.1, -125.9, 0.0] center=[-794.1, -125.9, 0.8] hdist=0.00 z=0.00 (bbox z 0.0..1.6) cols=['V5_06_Props']
+  V5_Marshal_3                 kids=  2 loc=[-166.6, 321.1, 0.0] center=[-166.6, 321.1, 0.8] hdist=0.00 z=0.00 (bbox z 0.0..1.6) cols=['V5_06_Props']
+  V5_Marshal_4                 kids=  2 loc=[-333.8, 695.5, 0.0] center=[-333.8, 695.5, 0.8] hdist=0.00 z=0.00 (bbox z 0.0..1.6) cols=['V5_06_Props']
+  V5_Marshal_5                 kids=  2 loc=[-554.5, 979.6, 0.0] center=[-554.5, 979.6, 0.8] hdist=0.00 z=0.00 (bbox z 0.0..1.6) cols=['V5_06_Props']
+  V5_Marshal_6                 kids=  2 loc=[57.6, 737.7, 0.0] center=[57.6, 737.7, 0.8] hdist=0.00 z=0.00 (bbox z 0.0..1.6) cols=['V5_06_Props']
+  V5_Screen_A                  kids=  2 loc=[-231.4, -514.3, 0.0] center=[-231.4, -514.3, 5.0] hdist=0.00 z=0.00 (bbox z 0.0..10.0) cols=['V5_06_Props']
+  V5_Screen_B                  kids=  2 loc=[-61.3, 276.5, 0.0] center=[-61.3, 276.5, 5.0] hdist=0.00 z=0.00 (bbox z 0.0..10.0) cols=['V5_06_Props']
+  V5_Stand_Club                kids= 14 loc=[150.6, 218.5, 0.0] center=[150.6, 218.7, 6.1] hdist=0.24 z=0.00 (bbox z 0.0..12.2) cols=['V5_04_Stands']
+  V5_Stand_Complex             kids= 14 loc=[-513.0, 790.0, 0.0] center=[-513.0, 790.0, 6.4] hdist=0.05 z=0.00 (bbox z 0.0..12.8) cols=['V5_04_Stands']
+  V5_Stand_Main                kids= 15 loc=[-86.2, -90.7, 0.0] center=[-86.1, -90.4, 6.7] hdist=0.24 z=0.00 (bbox z 0.0..13.3) cols=['V5_04_Stands']
+  V5_Stand_Mid                 kids= 14 loc=[-132.1, 248.1, 0.0] center=[-132.4, 248.1, 6.4] hdist=0.39 z=0.00 (bbox z 0.0..12.8) cols=['V5_04_Stands']
+  V5_Stand_South               kids= 14 loc=[-346.0, 970.3, 0.0] center=[-346.1, 969.9, 6.1] hdist=0.40 z=0.00 (bbox z 0.0..12.2) cols=['V5_04_Stands']
+  V5_Stand_T1                  kids= 13 loc=[-653.5, -480.4, 0.0] center=[-653.4, -480.8, 6.1] hdist=0.31 z=0.00 (bbox z 0.0..12.2) cols=['V5_04_Stands']
+assembly meshes without parent: 0 []
+  empties for Stand: ['V5_Stand_Club', 'V5_Stand_Complex', 'V5_Stand_Main', 'V5_Stand_Mid', 'V5_Stand_South', 'V5_Stand_T1']
+  empties for Bridge: ['V5_Bridge_A', 'V5_Bridge_B']
+  empties for Screen: ['V5_Screen_A', 'V5_Screen_B']
+  empties for Brake: ['V5_Brake_0', 'V5_Brake_1', 'V5_Brake_2']
+  empties for Marshal: ['V5_Marshal_0', 'V5_Marshal_1', 'V5_Marshal_2', 'V5_Marshal_3', 'V5_Marshal_4', 'V5_Marshal_5', 'V5_Marshal_6']
+collections: ['01_Chassis_Monocoque', '02_Cockpit_Halo_HUD', '03_Sidepods_EngineCowl', '04_Wings_Aerodynamics', '05_Suspension_Steering', '06_Wheels_TurbineRims', '07_Telemetry_LED_Lights', '08_Sponsor_Decals', 'SCIFI_F1_2035', 'Steering_ShiftLEDs', 'Susp_Front_L', 'Susp_Front_R', 'Susp_Rear_L', 'Susp_Rear_R', 'V5_01_Road', 'V5_02_Terrain', 'V5_03_Barriers', 'V5_04_Stands', 'V5_05_Pit', 'V5_06_Props', 'V5_07_Lighting', 'Wheel_FL', 'Wheel_FR', 'Wheel_RL', 'Wheel_RR']
+V5 objects outside V5_0x collections: 0 []
+
+===== anim (d:\项目session\blender-supercar\LATEST\v5_stage_anim.blend) =====
+V5 meshes: 348  near-origin (not in ref): 0
+same-name V5 meshes off vs 11/14 ref: 0
+ref V5 names missing in new (merged/renamed?): 75 ['V5_Brake_0_100_pole', 'V5_Brake_0_100_pole.001', 'V5_Brake_0_150_pole', 'V5_Brake_0_150_pole.001', 'V5_Brake_0_50_pole', 'V5_Brake_0_50_pole.001', 'V5_Brake_1_100_pole', 'V5_Brake_1_100_pole.001', 'V5_Brake_1_150_pole', 'V5_Brake_1_150_pole.001', 'V5_Brake_1_50_pole', 'V5_Brake_1_50_pole.001', 'V5_Brake_2_100_pole', 'V5_Brake_2_100_pole.001', 'V5_Brake_2_150_pole', 'V5_Brake_2_150_pole.001', 'V5_Brake_2_50_pole', 'V5_Brake_2_50_pole.001', 'V5_Bridge_A_pier', 'V5_Bridge_A_pier.001', 'V5_Bridge_A_rail', 'V5_Bridge_A_rail.001', 'V5_Bridge_B_pier', 'V5_Bridge_B_pier.001', 'V5_Bridge_B_rail', 'V5_Bridge_B_rail.001', 'V5_Gantry_Post_-1', 'V5_Gantry_Post_1', 'V5_Marshal_0_lamp', 'V5_Marshal_1_lamp', 'V5_Marshal_2_lamp', 'V5_Marshal_3_lamp', 'V5_Marshal_4_lamp', 'V5_Marshal_5_lamp', 'V5_Marshal_6_lamp', 'V5_Screen_A_leg', 'V5_Screen_A_leg.001', 'V5_Screen_B_leg', 'V5_Screen_B_leg.001', 'V5_Stand_Club_0']
+assemblies: 126  differing union bbox (>0.5 m): 0
+V5 meshes with loose/zero-area/dup faces: 0
+V5_FencePosts v3888 f972 loose0 zero0 dupf0 dims=[1093.73, 1770.2, 3.4]
+V5_FieldMasts v144 f60 loose0 zero0 dupf0 dims=[1090.28, 1608.24, 16.0]
+co-located duplicate V5 objects: []
+pole.00x: []  tiny(<0.2m) V5 meshes: 0 []  Truss#/TrussB# objects: 0
+PitBoxLine objects: ['V5_PitBoxLines'] 1
+  stand Club: 15 objs: ['V5_Stand_Club', 'V5_Stand_Club_Back', 'V5_Stand_Club_Columns', 'V5_Stand_Club_Flagpoles', 'V5_Stand_Club_Flags', 'V5_Stand_Club_FrontPosts', 'V5_Stand_Club_Rail', 'V5_Stand_Club_Roof', 'V5_Stand_Club_RoofStrip', 'V5_Stand_Club_Tier0', 'V5_Stand_Club_Tier1', 'V5_Stand_Club_Tier2', 'V5_Stand_Club_Tier3', 'V5_Stand_Club_Trusses', 'V5_Stand_Club_VIP']
+  stand Complex: 15 objs: ['V5_Stand_Complex', 'V5_Stand_Complex_Back', 'V5_Stand_Complex_Columns', 'V5_Stand_Complex_Flagpoles', 'V5_Stand_Complex_Flags', 'V5_Stand_Complex_FrontPosts', 'V5_Stand_Complex_Rail', 'V5_Stand_Complex_Roof', 'V5_Stand_Complex_RoofStrip', 'V5_Stand_Complex_Tier0', 'V5_Stand_Complex_Tier1', 'V5_Stand_Complex_Tier2', 'V5_Stand_Complex_Tier3', 'V5_Stand_Complex_Trusses', 'V5_Stand_Complex_VIP']
+  stand Main: 16 objs: ['V5_Stand_Main', 'V5_Stand_Main_Back', 'V5_Stand_Main_Columns', 'V5_Stand_Main_Flagpoles', 'V5_Stand_Main_Flags', 'V5_Stand_Main_FrontPosts', 'V5_Stand_Main_Rail', 'V5_Stand_Main_Roof', 'V5_Stand_Main_RoofStrip', 'V5_Stand_Main_Tier0', 'V5_Stand_Main_Tier1', 'V5_Stand_Main_Tier2', 'V5_Stand_Main_Tier3', 'V5_Stand_Main_Tier4', 'V5_Stand_Main_Trusses', 'V5_Stand_Main_VIP']
+  stand Mid: 15 objs: ['V5_Stand_Mid', 'V5_Stand_Mid_Back', 'V5_Stand_Mid_Columns', 'V5_Stand_Mid_Flagpoles', 'V5_Stand_Mid_Flags', 'V5_Stand_Mid_FrontPosts', 'V5_Stand_Mid_Rail', 'V5_Stand_Mid_Roof', 'V5_Stand_Mid_RoofStrip', 'V5_Stand_Mid_Tier0', 'V5_Stand_Mid_Tier1', 'V5_Stand_Mid_Tier2', 'V5_Stand_Mid_Tier3', 'V5_Stand_Mid_Trusses', 'V5_Stand_Mid_VIP']
+  stand South: 15 objs: ['V5_Stand_South', 'V5_Stand_South_Back', 'V5_Stand_South_Columns', 'V5_Stand_South_Flagpoles', 'V5_Stand_South_Flags', 'V5_Stand_South_FrontPosts', 'V5_Stand_South_Rail', 'V5_Stand_South_Roof', 'V5_Stand_South_RoofStrip', 'V5_Stand_South_Tier0', 'V5_Stand_South_Tier1', 'V5_Stand_South_Tier2', 'V5_Stand_South_Tier3', 'V5_Stand_South_Trusses', 'V5_Stand_South_VIP']
+  stand T1: 14 objs: ['V5_Stand_T1', 'V5_Stand_T1_Back', 'V5_Stand_T1_Columns', 'V5_Stand_T1_Flagpoles', 'V5_Stand_T1_Flags', 'V5_Stand_T1_FrontPosts', 'V5_Stand_T1_Rail', 'V5_Stand_T1_Roof', 'V5_Stand_T1_RoofStrip', 'V5_Stand_T1_Tier0', 'V5_Stand_T1_Tier1', 'V5_Stand_T1_Tier2', 'V5_Stand_T1_Trusses', 'V5_Stand_T1_VIP']
+V5 meshes with origin away from geometry: 0 []
+V5 empties: 21
+  V5_Brake_0                   kids=  4 loc=[-651.8, -416.2, 0.0] center=[-651.8, -416.2, 0.8] hdist=0.00 z=0.00 (bbox z 0.0..1.7) cols=['V5_06_Props']
+  V5_Brake_1                   kids=  4 loc=[-782.3, -362.9, 0.0] center=[-782.2, -363.0, 0.8] hdist=0.03 z=0.00 (bbox z 0.0..1.7) cols=['V5_06_Props']
+  V5_Brake_2                   kids=  4 loc=[-232.8, 265.9, 0.0] center=[-232.8, 265.9, 0.8] hdist=0.01 z=0.00 (bbox z 0.0..1.7) cols=['V5_06_Props']
+  V5_Bridge_A                  kids=  3 loc=[-530.0, -595.1, 0.0] center=[-530.0, -595.1, 3.3] hdist=0.00 z=0.00 (bbox z 0.0..6.5) cols=['V5_06_Props']
+  V5_Bridge_B                  kids=  3 loc=[-58.5, 429.7, 0.0] center=[-58.5, 429.7, 3.3] hdist=0.00 z=0.00 (bbox z 0.0..6.5) cols=['V5_06_Props']
+  V5_Gantry                    kids=  9 loc=[-19.7, -35.8, 0.0] center=[-19.7, -35.8, 3.8] hdist=0.00 z=0.00 (bbox z 0.0..7.6) cols=['V5_06_Props']
+  V5_Marshal_0                 kids=  2 loc=[-10.5, 5.8, 0.0] center=[-10.5, 5.8, 0.8] hdist=0.00 z=0.00 (bbox z 0.0..1.6) cols=['V5_06_Props']
+  V5_Marshal_1                 kids=  2 loc=[-453.3, -685.0, 0.0] center=[-453.3, -685.0, 0.8] hdist=0.00 z=0.00 (bbox z 0.0..1.6) cols=['V5_06_Props']
+  V5_Marshal_2                 kids=  2 loc=[-794.1, -125.9, 0.0] center=[-794.1, -125.9, 0.8] hdist=0.00 z=0.00 (bbox z 0.0..1.6) cols=['V5_06_Props']
+  V5_Marshal_3                 kids=  2 loc=[-166.6, 321.1, 0.0] center=[-166.6, 321.1, 0.8] hdist=0.00 z=0.00 (bbox z 0.0..1.6) cols=['V5_06_Props']
+  V5_Marshal_4                 kids=  2 loc=[-333.8, 695.5, 0.0] center=[-333.8, 695.5, 0.8] hdist=0.00 z=0.00 (bbox z 0.0..1.6) cols=['V5_06_Props']
+  V5_Marshal_5                 kids=  2 loc=[-554.5, 979.6, 0.0] center=[-554.5, 979.6, 0.8] hdist=0.00 z=0.00 (bbox z 0.0..1.6) cols=['V5_06_Props']
+  V5_Marshal_6                 kids=  2 loc=[57.6, 737.7, 0.0] center=[57.6, 737.7, 0.8] hdist=0.00 z=0.00 (bbox z 0.0..1.6) cols=['V5_06_Props']
+  V5_Screen_A                  kids=  2 loc=[-231.4, -514.3, 0.0] center=[-231.4, -514.3, 5.0] hdist=0.00 z=0.00 (bbox z 0.0..10.0) cols=['V5_06_Props']
+  V5_Screen_B                  kids=  2 loc=[-61.3, 276.5, 0.0] center=[-61.3, 276.5, 5.0] hdist=0.00 z=0.00 (bbox z 0.0..10.0) cols=['V5_06_Props']
+  V5_Stand_Club                kids= 14 loc=[150.6, 218.5, 0.0] center=[150.6, 218.7, 6.1] hdist=0.24 z=0.00 (bbox z 0.0..12.2) cols=['V5_04_Stands']
+  V5_Stand_Complex             kids= 14 loc=[-513.0, 790.0, 0.0] center=[-513.0, 790.0, 6.4] hdist=0.05 z=0.00 (bbox z 0.0..12.8) cols=['V5_04_Stands']
+  V5_Stand_Main                kids= 15 loc=[-86.2, -90.7, 0.0] center=[-86.1, -90.4, 6.7] hdist=0.24 z=0.00 (bbox z 0.0..13.3) cols=['V5_04_Stands']
+  V5_Stand_Mid                 kids= 14 loc=[-132.1, 248.1, 0.0] center=[-132.4, 248.1, 6.4] hdist=0.39 z=0.00 (bbox z 0.0..12.8) cols=['V5_04_Stands']
+  V5_Stand_South               kids= 14 loc=[-346.0, 970.3, 0.0] center=[-346.1, 969.9, 6.1] hdist=0.40 z=0.00 (bbox z 0.0..12.2) cols=['V5_04_Stands']
+  V5_Stand_T1                  kids= 13 loc=[-653.5, -480.4, 0.0] center=[-653.4, -480.8, 6.1] hdist=0.31 z=0.00 (bbox z 0.0..12.2) cols=['V5_04_Stands']
+assembly meshes without parent: 0 []
+  empties for Stand: ['V5_Stand_Club', 'V5_Stand_Complex', 'V5_Stand_Main', 'V5_Stand_Mid', 'V5_Stand_South', 'V5_Stand_T1']
+  empties for Bridge: ['V5_Bridge_A', 'V5_Bridge_B']
+  empties for Screen: ['V5_Screen_A', 'V5_Screen_B']
+  empties for Brake: ['V5_Brake_0', 'V5_Brake_1', 'V5_Brake_2']
+  empties for Marshal: ['V5_Marshal_0', 'V5_Marshal_1', 'V5_Marshal_2', 'V5_Marshal_3', 'V5_Marshal_4', 'V5_Marshal_5', 'V5_Marshal_6']
+collections: ['01_Chassis_Monocoque', '02_Cockpit_Halo_HUD', '03_Sidepods_EngineCowl', '04_Wings_Aerodynamics', '05_Suspension_Steering', '06_Wheels_TurbineRims', '07_Telemetry_LED_Lights', '08_Sponsor_Decals', 'SCIFI_F1_2035', 'Steering_ShiftLEDs', 'Susp_Front_L', 'Susp_Front_R', 'Susp_Rear_L', 'Susp_Rear_R', 'V5_01_Road', 'V5_02_Terrain', 'V5_03_Barriers', 'V5_04_Stands', 'V5_05_Pit', 'V5_06_Props', 'V5_07_Lighting', 'V5_CarLightReceivers', 'Wheel_FL', 'Wheel_FR', 'Wheel_RL', 'Wheel_RR']
+V5 objects outside V5_0x collections: 0 []
+
+===== clay (d:\项目session\blender-supercar\LATEST\v5_stage_anim_clay.blend) =====
+V5 meshes: 348  near-origin (not in ref): 0
+same-name V5 meshes off vs 11/14 ref: 0
+ref V5 names missing in new (merged/renamed?): 75 ['V5_Brake_0_100_pole', 'V5_Brake_0_100_pole.001', 'V5_Brake_0_150_pole', 'V5_Brake_0_150_pole.001', 'V5_Brake_0_50_pole', 'V5_Brake_0_50_pole.001', 'V5_Brake_1_100_pole', 'V5_Brake_1_100_pole.001', 'V5_Brake_1_150_pole', 'V5_Brake_1_150_pole.001', 'V5_Brake_1_50_pole', 'V5_Brake_1_50_pole.001', 'V5_Brake_2_100_pole', 'V5_Brake_2_100_pole.001', 'V5_Brake_2_150_pole', 'V5_Brake_2_150_pole.001', 'V5_Brake_2_50_pole', 'V5_Brake_2_50_pole.001', 'V5_Bridge_A_pier', 'V5_Bridge_A_pier.001', 'V5_Bridge_A_rail', 'V5_Bridge_A_rail.001', 'V5_Bridge_B_pier', 'V5_Bridge_B_pier.001', 'V5_Bridge_B_rail', 'V5_Bridge_B_rail.001', 'V5_Gantry_Post_-1', 'V5_Gantry_Post_1', 'V5_Marshal_0_lamp', 'V5_Marshal_1_lamp', 'V5_Marshal_2_lamp', 'V5_Marshal_3_lamp', 'V5_Marshal_4_lamp', 'V5_Marshal_5_lamp', 'V5_Marshal_6_lamp', 'V5_Screen_A_leg', 'V5_Screen_A_leg.001', 'V5_Screen_B_leg', 'V5_Screen_B_leg.001', 'V5_Stand_Club_0']
+assemblies: 126  differing union bbox (>0.5 m): 0
+V5 meshes with loose/zero-area/dup faces: 0
+V5_FencePosts v3888 f972 loose0 zero0 dupf0 dims=[1093.73, 1770.2, 3.4]
+V5_FieldMasts v144 f60 loose0 zero0 dupf0 dims=[1090.28, 1608.24, 16.0]
+co-located duplicate V5 objects: []
+pole.00x: []  tiny(<0.2m) V5 meshes: 0 []  Truss#/TrussB# objects: 0
+PitBoxLine objects: ['V5_PitBoxLines'] 1
+  stand Club: 15 objs: ['V5_Stand_Club', 'V5_Stand_Club_Back', 'V5_Stand_Club_Columns', 'V5_Stand_Club_Flagpoles', 'V5_Stand_Club_Flags', 'V5_Stand_Club_FrontPosts', 'V5_Stand_Club_Rail', 'V5_Stand_Club_Roof', 'V5_Stand_Club_RoofStrip', 'V5_Stand_Club_Tier0', 'V5_Stand_Club_Tier1', 'V5_Stand_Club_Tier2', 'V5_Stand_Club_Tier3', 'V5_Stand_Club_Trusses', 'V5_Stand_Club_VIP']
+  stand Complex: 15 objs: ['V5_Stand_Complex', 'V5_Stand_Complex_Back', 'V5_Stand_Complex_Columns', 'V5_Stand_Complex_Flagpoles', 'V5_Stand_Complex_Flags', 'V5_Stand_Complex_FrontPosts', 'V5_Stand_Complex_Rail', 'V5_Stand_Complex_Roof', 'V5_Stand_Complex_RoofStrip', 'V5_Stand_Complex_Tier0', 'V5_Stand_Complex_Tier1', 'V5_Stand_Complex_Tier2', 'V5_Stand_Complex_Tier3', 'V5_Stand_Complex_Trusses', 'V5_Stand_Complex_VIP']
+  stand Main: 16 objs: ['V5_Stand_Main', 'V5_Stand_Main_Back', 'V5_Stand_Main_Columns', 'V5_Stand_Main_Flagpoles', 'V5_Stand_Main_Flags', 'V5_Stand_Main_FrontPosts', 'V5_Stand_Main_Rail', 'V5_Stand_Main_Roof', 'V5_Stand_Main_RoofStrip', 'V5_Stand_Main_Tier0', 'V5_Stand_Main_Tier1', 'V5_Stand_Main_Tier2', 'V5_Stand_Main_Tier3', 'V5_Stand_Main_Tier4', 'V5_Stand_Main_Trusses', 'V5_Stand_Main_VIP']
+  stand Mid: 15 objs: ['V5_Stand_Mid', 'V5_Stand_Mid_Back', 'V5_Stand_Mid_Columns', 'V5_Stand_Mid_Flagpoles', 'V5_Stand_Mid_Flags', 'V5_Stand_Mid_FrontPosts', 'V5_Stand_Mid_Rail', 'V5_Stand_Mid_Roof', 'V5_Stand_Mid_RoofStrip', 'V5_Stand_Mid_Tier0', 'V5_Stand_Mid_Tier1', 'V5_Stand_Mid_Tier2', 'V5_Stand_Mid_Tier3', 'V5_Stand_Mid_Trusses', 'V5_Stand_Mid_VIP']
+  stand South: 15 objs: ['V5_Stand_South', 'V5_Stand_South_Back', 'V5_Stand_South_Columns', 'V5_Stand_South_Flagpoles', 'V5_Stand_South_Flags', 'V5_Stand_South_FrontPosts', 'V5_Stand_South_Rail', 'V5_Stand_South_Roof', 'V5_Stand_South_RoofStrip', 'V5_Stand_South_Tier0', 'V5_Stand_South_Tier1', 'V5_Stand_South_Tier2', 'V5_Stand_South_Tier3', 'V5_Stand_South_Trusses', 'V5_Stand_South_VIP']
+  stand T1: 14 objs: ['V5_Stand_T1', 'V5_Stand_T1_Back', 'V5_Stand_T1_Columns', 'V5_Stand_T1_Flagpoles', 'V5_Stand_T1_Flags', 'V5_Stand_T1_FrontPosts', 'V5_Stand_T1_Rail', 'V5_Stand_T1_Roof', 'V5_Stand_T1_RoofStrip', 'V5_Stand_T1_Tier0', 'V5_Stand_T1_Tier1', 'V5_Stand_T1_Tier2', 'V5_Stand_T1_Trusses', 'V5_Stand_T1_VIP']
+V5 meshes with origin away from geometry: 0 []
+V5 empties: 21
+  V5_Brake_0                   kids=  4 loc=[-651.8, -416.2, 0.0] center=[-651.8, -416.2, 0.8] hdist=0.00 z=0.00 (bbox z 0.0..1.7) cols=['V5_06_Props']
+  V5_Brake_1                   kids=  4 loc=[-782.3, -362.9, 0.0] center=[-782.2, -363.0, 0.8] hdist=0.03 z=0.00 (bbox z 0.0..1.7) cols=['V5_06_Props']
+  V5_Brake_2                   kids=  4 loc=[-232.8, 265.9, 0.0] center=[-232.8, 265.9, 0.8] hdist=0.01 z=0.00 (bbox z 0.0..1.7) cols=['V5_06_Props']
+  V5_Bridge_A                  kids=  3 loc=[-530.0, -595.1, 0.0] center=[-530.0, -595.1, 3.3] hdist=0.00 z=0.00 (bbox z 0.0..6.5) cols=['V5_06_Props']
+  V5_Bridge_B                  kids=  3 loc=[-58.5, 429.7, 0.0] center=[-58.5, 429.7, 3.3] hdist=0.00 z=0.00 (bbox z 0.0..6.5) cols=['V5_06_Props']
+  V5_Gantry                    kids=  9 loc=[-19.7, -35.8, 0.0] center=[-19.7, -35.8, 3.8] hdist=0.00 z=0.00 (bbox z 0.0..7.6) cols=['V5_06_Props']
+  V5_Marshal_0                 kids=  2 loc=[-10.5, 5.8, 0.0] center=[-10.5, 5.8, 0.8] hdist=0.00 z=0.00 (bbox z 0.0..1.6) cols=['V5_06_Props']
+  V5_Marshal_1                 kids=  2 loc=[-453.3, -685.0, 0.0] center=[-453.3, -685.0, 0.8] hdist=0.00 z=0.00 (bbox z 0.0..1.6) cols=['V5_06_Props']
+  V5_Marshal_2                 kids=  2 loc=[-794.1, -125.9, 0.0] center=[-794.1, -125.9, 0.8] hdist=0.00 z=0.00 (bbox z 0.0..1.6) cols=['V5_06_Props']
+  V5_Marshal_3                 kids=  2 loc=[-166.6, 321.1, 0.0] center=[-166.6, 321.1, 0.8] hdist=0.00 z=0.00 (bbox z 0.0..1.6) cols=['V5_06_Props']
+  V5_Marshal_4                 kids=  2 loc=[-333.8, 695.5, 0.0] center=[-333.8, 695.5, 0.8] hdist=0.00 z=0.00 (bbox z 0.0..1.6) cols=['V5_06_Props']
+  V5_Marshal_5                 kids=  2 loc=[-554.5, 979.6, 0.0] center=[-554.5, 979.6, 0.8] hdist=0.00 z=0.00 (bbox z 0.0..1.6) cols=['V5_06_Props']
+  V5_Marshal_6                 kids=  2 loc=[57.6, 737.7, 0.0] center=[57.6, 737.7, 0.8] hdist=0.00 z=0.00 (bbox z 0.0..1.6) cols=['V5_06_Props']
+  V5_Screen_A                  kids=  2 loc=[-231.4, -514.3, 0.0] center=[-231.4, -514.3, 5.0] hdist=0.00 z=0.00 (bbox z 0.0..10.0) cols=['V5_06_Props']
+  V5_Screen_B                  kids=  2 loc=[-61.3, 276.5, 0.0] center=[-61.3, 276.5, 5.0] hdist=0.00 z=0.00 (bbox z 0.0..10.0) cols=['V5_06_Props']
+  V5_Stand_Club                kids= 14 loc=[150.6, 218.5, 0.0] center=[150.6, 218.7, 6.1] hdist=0.24 z=0.00 (bbox z 0.0..12.2) cols=['V5_04_Stands']
+  V5_Stand_Complex             kids= 14 loc=[-513.0, 790.0, 0.0] center=[-513.0, 790.0, 6.4] hdist=0.05 z=0.00 (bbox z 0.0..12.8) cols=['V5_04_Stands']
+  V5_Stand_Main                kids= 15 loc=[-86.2, -90.7, 0.0] center=[-86.1, -90.4, 6.7] hdist=0.24 z=0.00 (bbox z 0.0..13.3) cols=['V5_04_Stands']
+  V5_Stand_Mid                 kids= 14 loc=[-132.1, 248.1, 0.0] center=[-132.4, 248.1, 6.4] hdist=0.39 z=0.00 (bbox z 0.0..12.8) cols=['V5_04_Stands']
+  V5_Stand_South               kids= 14 loc=[-346.0, 970.3, 0.0] center=[-346.1, 969.9, 6.1] hdist=0.40 z=0.00 (bbox z 0.0..12.2) cols=['V5_04_Stands']
+  V5_Stand_T1                  kids= 13 loc=[-653.5, -480.4, 0.0] center=[-653.4, -480.8, 6.1] hdist=0.31 z=0.00 (bbox z 0.0..12.2) cols=['V5_04_Stands']
+assembly meshes without parent: 0 []
+  empties for Stand: ['V5_Stand_Club', 'V5_Stand_Complex', 'V5_Stand_Main', 'V5_Stand_Mid', 'V5_Stand_South', 'V5_Stand_T1']
+  empties for Bridge: ['V5_Bridge_A', 'V5_Bridge_B']
+  empties for Screen: ['V5_Screen_A', 'V5_Screen_B']
+  empties for Brake: ['V5_Brake_0', 'V5_Brake_1', 'V5_Brake_2']
+  empties for Marshal: ['V5_Marshal_0', 'V5_Marshal_1', 'V5_Marshal_2', 'V5_Marshal_3', 'V5_Marshal_4', 'V5_Marshal_5', 'V5_Marshal_6']
+collections: ['01_Chassis_Monocoque', '02_Cockpit_Halo_HUD', '03_Sidepods_EngineCowl', '04_Wings_Aerodynamics', '05_Suspension_Steering', '06_Wheels_TurbineRims', '07_Telemetry_LED_Lights', '08_Sponsor_Decals', 'SCIFI_F1_2035', 'Steering_ShiftLEDs', 'Susp_Front_L', 'Susp_Front_R', 'Susp_Rear_L', 'Susp_Rear_R', 'V5_01_Road', 'V5_02_Terrain', 'V5_03_Barriers', 'V5_04_Stands', 'V5_05_Pit', 'V5_06_Props', 'V5_07_Lighting', 'V5_CarLightReceivers', 'Wheel_FL', 'Wheel_FR', 'Wheel_RL', 'Wheel_RR']
+V5 objects outside V5_0x collections: 0 []
+
+===== non-V5 compare anim =====
+non-V5 changed: 30
+    ('Cam_S01_RearChase', 'action', 'Cam_S01_RearChase动作', 'Cam_S01_RearChaseAction')
+    ('Cam_S02_Onboard', 'action', 'Cam_S02_Onboard动作', 'Cam_S02_OnboardAction')
+    ('Cam_S03_ChaseRise', 'action', 'Cam_S03_ChaseRise动作', 'Cam_S03_ChaseRiseAction')
+    ('Cam_S04_Hairpin', 'action', 'Cam_S04_Hairpin动作', 'Cam_S04_HairpinAction')
+    ('Cam_S05_ChaseAintree', 'action', 'Cam_S05_ChaseAintree动作', 'Cam_S05_ChaseAintreeAction')
+    ('Cam_S06_Orbit1', 'action', 'Cam_S06_Orbit1动作', 'Cam_S06_Orbit1Action')
+    ('Cam_S07_ChaseAccel', 'action', 'Cam_S07_ChaseAccel动作', 'Cam_S07_ChaseAccelAction')
+    ('Cam_S08_FastPan', 'action', 'Cam_S08_FastPan动作', 'Cam_S08_FastPanAction')
+    ('Cam_S09_WheelMacro', 'action', 'Cam_S09_WheelMacro动作', 'Cam_S09_WheelMacroAction')
+    ('Cam_S09b_ChaseFast', 'action', 'Cam_S09b_ChaseFast动作', 'Cam_S09b_ChaseFastAction')
+    ('Cam_S10_OrbitBrooklands', 'action', 'Cam_S10_OrbitBrooklands动作', 'Cam_S10_OrbitBrooklandsAction')
+    ('Cam_S11_Luffield', 'action', 'Cam_S11_Luffield动作', 'Cam_S11_LuffieldAction')
+    ('Cam_S12_ChaseWoodcote', 'action', 'Cam_S12_ChaseWoodcote动作', 'Cam_S12_ChaseWoodcoteAction')
+    ('Cam_S13_WoodcoteTele', 'action', 'Cam_S13_WoodcoteTele动作', 'Cam_S13_WoodcoteTeleAction')
+    ('Cam_S14_HeliDrop', 'action', 'Cam_S14_HeliDrop动作', 'Cam_S14_HeliDropAction')
+    ('Cam_S15_OrbitCopse', 'action', 'Cam_S15_OrbitCopse动作', 'Cam_S15_OrbitCopseAction')
+    ('Cam_S16_ChaseCopse', 'action', 'Cam_S16_ChaseCopse动作', 'Cam_S16_ChaseCopseAction')
+    ('Cam_S17_Maggotts', 'action', 'Cam_S17_Maggotts动作', 'Cam_S17_MaggottsAction')
+    ('Cam_S18_ChaseRise2', 'action', 'Cam_S18_ChaseRise2动作', 'Cam_S18_ChaseRise2Action')
+    ('Cam_S19_Onboard3', 'action', 'Cam_S19_Onboard3动作', 'Cam_S19_Onboard3Action')
+    ('Cam_S20_StoweTele', 'action', 'Cam_S20_StoweTele动作', 'Cam_S20_StoweTeleAction')
+    ('Cam_S21_OrbitStowe', 'action', 'Cam_S21_OrbitStowe动作', 'Cam_S21_OrbitStoweAction')
+    ('Cam_S22_ChaseLow', 'action', 'Cam_S22_ChaseLow动作', 'Cam_S22_ChaseLowAction')
+    ('Cam_S23_HeliReveal', 'action', 'Cam_S23_HeliReveal动作', 'Cam_S23_HeliRevealAction')
+    ('Cam_S24_Club', 'action', 'Cam_S24_Club动作', 'Cam_S24_ClubAction')
+    ('Cam_S25_AerialOut', 'action', 'Cam_S25_AerialOut动作', 'Cam_S25_AerialOutAction')
+    ('LGT_V5Car_0', 'action', 'LGT_V5Car_0动作', 'LGT_V5Car_0Action')
+    ('LGT_V5Car_1', 'action', 'LGT_V5Car_1动作', 'LGT_V5Car_1Action')
+    ('LGT_V5Car_2', 'action', 'LGT_V5Car_2动作', 'LGT_V5Car_2Action')
+    ('RIG_F1_Race', 'action', 'RIG_F1_Race动作', 'RIG_F1_RaceAction')
+DEFECT: anim: 30 non-V5 object changes, e.g. [('Cam_S01_RearChase', 'action', 'Cam_S01_RearChase动作', 'Cam_S01_RearChaseAction'), ('Cam_S02_Onboard', 'action', 'Cam_S02_Onboard动作', 'Cam_S02_OnboardAction'), ('Cam_S03_ChaseRise', 'action', 'Cam_S03_ChaseRise动作', 'Cam_S03_ChaseRiseAction'), ('Cam_S04_Hairpin', 'action', 'Cam_S04_Hairpin动作', 'Cam_S04_HairpinAction'), ('Cam_S05_ChaseAintree', 'action', 'Cam_S05_ChaseAintree动作', 'Cam_S05_ChaseAintreeAction'), ('Cam_S06_Orbit1', 'action', 'Cam_S06_Orbit1动作', 'Cam_S06_Orbit1Action')]
+cameras: 26
+animated matrix diffs: 0
+frame range 1 2161  markers 26
+materials: old 63 new 63; removed []; added []
+DEFECT: anim: material node trees changed: ['V5_Flag_4', 'V5_Roof', 'V5_Flag_2', 'V5_Barrier', 'V5_Gravel', 'V5_SkyDome', 'V5_Brake150', 'V5_LightStrip', 'V5_Flag_3', 'V5_Grass']
+
+===== non-V5 compare clay =====
+non-V5 changed: 30
+    ('Cam_S01_RearChase', 'action', 'Cam_S01_RearChase动作', 'Cam_S01_RearChaseAction')
+    ('Cam_S02_Onboard', 'action', 'Cam_S02_Onboard动作', 'Cam_S02_OnboardAction')
+    ('Cam_S03_ChaseRise', 'action', 'Cam_S03_ChaseRise动作', 'Cam_S03_ChaseRiseAction')
+    ('Cam_S04_Hairpin', 'action', 'Cam_S04_Hairpin动作', 'Cam_S04_HairpinAction')
+    ('Cam_S05_ChaseAintree', 'action', 'Cam_S05_ChaseAintree动作', 'Cam_S05_ChaseAintreeAction')
+    ('Cam_S06_Orbit1', 'action', 'Cam_S06_Orbit1动作', 'Cam_S06_Orbit1Action')
+    ('Cam_S07_ChaseAccel', 'action', 'Cam_S07_ChaseAccel动作', 'Cam_S07_ChaseAccelAction')
+    ('Cam_S08_FastPan', 'action', 'Cam_S08_FastPan动作', 'Cam_S08_FastPanAction')
+    ('Cam_S09_WheelMacro', 'action', 'Cam_S09_WheelMacro动作', 'Cam_S09_WheelMacroAction')
+    ('Cam_S09b_ChaseFast', 'action', 'Cam_S09b_ChaseFast动作', 'Cam_S09b_ChaseFastAction')
+    ('Cam_S10_OrbitBrooklands', 'action', 'Cam_S10_OrbitBrooklands动作', 'Cam_S10_OrbitBrooklandsAction')
+    ('Cam_S11_Luffield', 'action', 'Cam_S11_Luffield动作', 'Cam_S11_LuffieldAction')
+    ('Cam_S12_ChaseWoodcote', 'action', 'Cam_S12_ChaseWoodcote动作', 'Cam_S12_ChaseWoodcoteAction')
+    ('Cam_S13_WoodcoteTele', 'action', 'Cam_S13_WoodcoteTele动作', 'Cam_S13_WoodcoteTeleAction')
+    ('Cam_S14_HeliDrop', 'action', 'Cam_S14_HeliDrop动作', 'Cam_S14_HeliDropAction')
+    ('Cam_S15_OrbitCopse', 'action', 'Cam_S15_OrbitCopse动作', 'Cam_S15_OrbitCopseAction')
+    ('Cam_S16_ChaseCopse', 'action', 'Cam_S16_ChaseCopse动作', 'Cam_S16_ChaseCopseAction')
+    ('Cam_S17_Maggotts', 'action', 'Cam_S17_Maggotts动作', 'Cam_S17_MaggottsAction')
+    ('Cam_S18_ChaseRise2', 'action', 'Cam_S18_ChaseRise2动作', 'Cam_S18_ChaseRise2Action')
+    ('Cam_S19_Onboard3', 'action', 'Cam_S19_Onboard3动作', 'Cam_S19_Onboard3Action')
+    ('Cam_S20_StoweTele', 'action', 'Cam_S20_StoweTele动作', 'Cam_S20_StoweTeleAction')
+    ('Cam_S21_OrbitStowe', 'action', 'Cam_S21_OrbitStowe动作', 'Cam_S21_OrbitStoweAction')
+    ('Cam_S22_ChaseLow', 'action', 'Cam_S22_ChaseLow动作', 'Cam_S22_ChaseLowAction')
+    ('Cam_S23_HeliReveal', 'action', 'Cam_S23_HeliReveal动作', 'Cam_S23_HeliRevealAction')
+    ('Cam_S24_Club', 'action', 'Cam_S24_Club动作', 'Cam_S24_ClubAction')
+    ('Cam_S25_AerialOut', 'action', 'Cam_S25_AerialOut动作', 'Cam_S25_AerialOutAction')
+    ('LGT_V5Car_0', 'action', 'LGT_V5Car_0动作', 'LGT_V5Car_0Action')
+    ('LGT_V5Car_1', 'action', 'LGT_V5Car_1动作', 'LGT_V5Car_1Action')
+    ('LGT_V5Car_2', 'action', 'LGT_V5Car_2动作', 'LGT_V5Car_2Action')
+    ('RIG_F1_Race', 'action', 'RIG_F1_Race动作', 'RIG_F1_RaceAction')
+DEFECT: clay: 30 non-V5 object changes, e.g. [('Cam_S01_RearChase', 'action', 'Cam_S01_RearChase动作', 'Cam_S01_RearChaseAction'), ('Cam_S02_Onboard', 'action', 'Cam_S02_Onboard动作', 'Cam_S02_OnboardAction'), ('Cam_S03_ChaseRise', 'action', 'Cam_S03_ChaseRise动作', 'Cam_S03_ChaseRiseAction'), ('Cam_S04_Hairpin', 'action', 'Cam_S04_Hairpin动作', 'Cam_S04_HairpinAction'), ('Cam_S05_ChaseAintree', 'action', 'Cam_S05_ChaseAintree动作', 'Cam_S05_ChaseAintreeAction'), ('Cam_S06_Orbit1', 'action', 'Cam_S06_Orbit1动作', 'Cam_S06_Orbit1Action')]
+cameras: 26
+animated matrix diffs: 0
+frame range 1 2161  markers 26
+materials: old 4 new 4; removed []; added []
+DEFECT: clay: material node trees changed: ['CLAY_Car', 'CLAY_Env', 'CLAY_SkyEmit']
+anim V5 mesh placement differs from new env: 0 []
+clay V5 mesh placement differs from new env: 0 []
+
+######## 4 DEFECTS ########
+1 anim: 30 non-V5 object changes, e.g. [('Cam_S01_RearChase', 'action', 'Cam_S01_RearChase动作', 'Cam_S01_RearChaseAction'), ('Cam_S02_Onboard', 'action', 'Cam_S02_Onboard动作', 'Cam_S02_OnboardAction'), ('Cam_S03_ChaseRise', 'action', 'Cam_S03_ChaseRise动作', 'Cam_S03_ChaseRiseAction'), ('Cam_S04_Hairpin', 'action', 'Cam_S04_Hairpin动作', 'Cam_S04_HairpinAction'), ('Cam_S05_ChaseAintree', 'action', 'Cam_S05_ChaseAintree动作', 'Cam_S05_ChaseAintreeAction'), ('Cam_S06_Orbit1', 'action', 'Cam_S06_Orbit1动作', 'Cam_S06_Orbit1Action')]
+2 anim: material node trees changed: ['V5_Flag_4', 'V5_Roof', 'V5_Flag_2', 'V5_Barrier', 'V5_Gravel', 'V5_SkyDome', 'V5_Brake150', 'V5_LightStrip', 'V5_Flag_3', 'V5_Grass']
+3 clay: 30 non-V5 object changes, e.g. [('Cam_S01_RearChase', 'action', 'Cam_S01_RearChase动作', 'Cam_S01_RearChaseAction'), ('Cam_S02_Onboard', 'action', 'Cam_S02_Onboard动作', 'Cam_S02_OnboardAction'), ('Cam_S03_ChaseRise', 'action', 'Cam_S03_ChaseRise动作', 'Cam_S03_ChaseRiseAction'), ('Cam_S04_Hairpin', 'action', 'Cam_S04_Hairpin动作', 'Cam_S04_HairpinAction'), ('Cam_S05_ChaseAintree', 'action', 'Cam_S05_ChaseAintree动作', 'Cam_S05_ChaseAintreeAction'), ('Cam_S06_Orbit1', 'action', 'Cam_S06_Orbit1动作', 'Cam_S06_Orbit1Action')]
+4 clay: material node trees changed: ['CLAY_Car', 'CLAY_Env', 'CLAY_SkyEmit']

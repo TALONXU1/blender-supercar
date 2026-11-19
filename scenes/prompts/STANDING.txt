@@ -1,0 +1,41 @@
+HEAD — 常驻头（质感），放最前，一字不改
+=========================================
+
+35mm cinema camera, natural colour science, physically plausible light. Surfaces
+carry real wear: brake dust on the wheel rims, rubber marbles scattered off the
+racing line, stone chips on the nosecone, scuffed paint on the barriers, fabric
+wrinkles in the sponsor banners, asphalt patches and tar seams. Fine film grain,
+180 degree shutter.
+
+
+TAIL — 常驻尾（限制），放最后，一字不改
+=========================================
+
+No text, logos, watermarks or added graphics. Sponsor panels are blank coloured
+surfaces, no invented branding, no real team livery or driver likeness. Single
+continuous photographic frame, one car, four wheels, halo present, no closed
+cockpit. No plastic sheen, no HDR oversaturation, no melted or duplicated parts.
+Add nothing not requested.
+
+
+VIDEO — 视频三句（40-80 词）
+=============================
+
+[主体动作 + 方向]。[次要动态一句]。[镜头运动]。[速度]。[时长]。
+
+Keep: [2-3 个必须不变的东西].
+Avoid: [2-3 个视频特有的漂移].
+
+
+拼装
+=====
+
+HEAD + 空行 + 正文(90-150词) + 空行 + TAIL
+
+
+赛道十条禁项（复用到每个场景）
+================================
+
+no traffic markings, no lane dividers, no traffic lights, no street lamps in
+daylight, no pedestrians on track, no painted arrows, no stadium, no smooth grey
+asphalt, no white line instead of a kerb, no repeated crowd tile

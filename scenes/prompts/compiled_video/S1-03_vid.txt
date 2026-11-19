@@ -1,0 +1,8 @@
+# 银石 · 车后三米水雾
+# 画风 ST2   时长 5s   motion 47 词
+# 首帧 S1-03.png（compiled/ 里对应的关键帧）
+
+Camera follows three meters behind and slightly above, holding the car centred. Both rear tyres throw spray that builds into two white plumes and trails backward, fading out inside fifteen meters. The red rain light stays lit. Road surface rushes past underneath. Fast, constant pace. 5 seconds.
+
+Keep: the rear wing geometry, the diffuser, the wet road.
+Avoid: no spray covering the whole frame, no camera bob, no cutting, no additional cars.

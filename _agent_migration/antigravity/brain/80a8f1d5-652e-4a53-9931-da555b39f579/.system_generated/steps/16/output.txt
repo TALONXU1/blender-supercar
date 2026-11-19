@@ -1,0 +1,92 @@
+Command exited with code 0.
+
+Command output:
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    15.21 GiB / 31.50 GiB (48%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    208.62 GiB / 300.00 GiB (70%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    436.92 GiB / 623.52 GiB (70%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+
+Name                  Length  
+----                  ------  
+diag                          
+preview                       
+analyze_audio.py      3464    
+analyze_cue.py        2436    
+audio.wav             15922078
+base_v4.blend         378108  
+beats.json            6379    
+check_carbon.py       777     
+check_endplate.py     829     
+check_mat.py          825     
+check_puff.py         536     
+check_render.py       2573    
+check_steer_keys.py   787     
+check_tex.py          503     
+check_track.py        4070    
+chk_tex.py            638     
+cue.json              2074    
+debug2.py             832     
+debug3.py             837     
+debug4.py             1045    
+debug5.py             323     
+debug6.py             1063    
+debug_drivers.py      1247    
+diag290.py            914     
+diag_base.py          4102    
+diag_render.py        2461    
+final_check.py        678     
+find_card.py          1208    
+id_card.py            687     
+inspect2.py           4844    
+inspect2_log.txt      74059   
+inspect3.py           3940    
+inspect_log.txt       66152   
+inspect_scene.py      3912    
+list_cols.py          341     
+make_merc_decals.py   4668    
+measure.py            1155    
+measure2.py           807     
+measure_decal.py      543     
+measure_rig.py        1360    
+measure_uv.py         694     
+min_driver.py         1513    
+mux_music.sh          602     
+preview.py            4670    
+probe2.py             586     
+probe3.py             489     
+probe_api.py          1394    
+probe_comp.py         219     
+quick_smoke.py        713     
+render_final.log      73689   
+render_final.py       928     
+run_base_build.py     517     
+time_frame.py         448     
+v4_anim.py            41876   
+v4_model.py           39259   
+v4_rig.py             9361    
+v4_stage_anim.blend   2377779 
+v4_stage_anim.blend1  2382295 
+v4_stage_model.blend  1913331 
+v4_stage_model.blend1 1913343 
+v4_stage_rig.blend    1882420 
+v4_stage_rig.blend1   1879932 
+validate_rig.py       2689    
+verify_rig_anim.py    1211    
+
+

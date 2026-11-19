@@ -1,0 +1,8 @@
+# 蒙扎 · 弯心低机位横掠
+# 画风 ST2   时长 4s   motion 43 词
+# 首帧 S4-02.png（compiled/ 里对应的关键帧）
+
+The car brakes hard into the chicane, nose dipping visibly, then snaps left then right across the kerbs. Tyre marbles scatter and bounce away. Camera static at kerb height, only panning minimally to hold the car. Deceleration then sharp direction change. 4 seconds.
+
+Keep: the kerb colour blocks, the rubbered racing line, the foreground heat ripple.
+Avoid: no smooth glide through the corner, no camera follow-through, no gravel, no wobble.

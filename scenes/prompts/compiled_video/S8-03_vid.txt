@@ -1,0 +1,8 @@
+# 英特拉格斯 · 长焦过 Senna S 黑云翻滚
+# 画风 ST3   时长 5s   motion 44 词
+# 首帧 S8-03.png（compiled/ 里对应的关键帧）
+
+The car tracks through the downhill left-right as a hard-edged silhouette against the cloud-base light. Camera pans with it, keeping the car centred. The cumulonimbus wall churns slowly behind, its yellow-green underside leak holding steady. Rain and spray move with the car. 5 seconds.
+
+Keep: the silhouette edge, the cloud base at four hundred meters, the light leak.
+Avoid: no lightning, no god rays, no sunset colours, no camera shake, no detail loss into mush.

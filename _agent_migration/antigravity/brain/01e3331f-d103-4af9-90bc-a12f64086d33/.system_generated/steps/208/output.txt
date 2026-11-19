@@ -1,0 +1,31 @@
+Task: 01e3331f-d103-4af9-90bc-a12f64086d33/task-204
+Status: DONE
+Log: file:///C:/Users/86052/.gemini/antigravity/brain/01e3331f-d103-4af9-90bc-a12f64086d33/.system_generated/tasks/task-204.log
+Log output:
+<truncated 30 lines>
+tch=1.336x -> 0.798x
+  [3D Doppler] SV10_StayCablePan      closest= 9.2m  pitch=1.320x -> 0.807x
+  [3D Doppler] SV15_PlungeWhip        closest= 8.5m  pitch=1.205x -> 0.838x
+  [3D Doppler] SV17_TunnelPortal      closest= 7.6m  pitch=1.345x -> 0.784x
+  [3D Doppler] SV20_TunnelExitSmash   closest= 8.2m  pitch=1.242x -> 0.796x
+  [3D Doppler] SV21_HairpinImpact     closest= 8.4m  pitch=1.151x -> 0.899x
+
+[Parsed_volumedetect_0 @ 000001e7fd289d80] mean_volume: -14.4 dB
+[Parsed_volumedetect_0 @ 000001e7fd289d80] max_volume: -1.6 dB
+  Integrated loudness:
+    I:         -11.6 LUFS
+    Threshold: -21.6 LUFS
+  Loudness range:
+    LRA:         4.8 LU
+    Threshold: -31.7 LUFS
+    LRA low:   -14.4 LUFS
+    LRA high:   -9.6 LUFS
+  True peak:
+    Peak:       -1.5 dBFS
+[out#0/null @ 000001eec7600b40] video:0KiB audio:10008KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing o
+verhead: unknown
+size=N/A time=00:00:53.37 bitrate=N/A speed= 159x elapsed=0:00:00.33    
+
+
+
+Last progress: 0s ago

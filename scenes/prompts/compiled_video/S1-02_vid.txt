@@ -1,0 +1,8 @@
+# 银石 · 长焦压缩穿越看台
+# 画风 ST2   时长 4s   motion 43 词
+# 首帧 S1-02.png（compiled/ 里对应的关键帧）
+
+The car approaches toward camera down the wet straight, growing from a small shape to filling the frame. Camera static on the long lens, no pan, background compressed and fixed. Wet kerbs hold a steady specular line. Constant speed, no braking. 4 seconds.
+
+Keep: the grey fabric-roofed grandstand, the compression of the 200mm framing.
+Avoid: no zoom, no pan, no camera shake, no added vehicles, no perspective change.

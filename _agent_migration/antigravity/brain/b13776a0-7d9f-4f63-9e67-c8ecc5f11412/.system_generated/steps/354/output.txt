@@ -1,0 +1,38 @@
+Command exited with code 0.
+
+Command output:
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    15.09 GiB / 31.50 GiB (48%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    280.91 GiB / 300.00 GiB (94%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    555.65 GiB / 623.52 GiB (89%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+=== V6 SPIDER-VERSE 3D MEGA-CIRCUIT PREVIEW QUANTITATIVE AUDIT ===
+v6_01_canyon_15mm_wet.jpg          | mean=0.249 p05=0.006 p95=0.871 | sat=0.175 | clip=0.55% | ink=32.2% | DiagAnis=1.36 | roadWedge=0.22% neonRefl=12.7% | HF=14.25 | sky=[0.241 0.202 0.281] fg=[0.242 0.256 0.331]
+v6_02_raidillon_climb_sparks.jpg   | mean=0.258 p05=0.010 p95=0.891 | sat=0.161 | clip=1.06% | ink=29.6% | DiagAnis=1.37 | roadWedge=1.78% neonRefl=5.9% | HF=9.07 | sky=[0.231 0.208 0.285] fg=[0.258 0.271 0.358]
+v6_03_crest_skybridge_moon.jpg     | mean=0.656 p05=0.290 p95=0.889 | sat=0.204 | clip=1.39% | ink=0.5% | DiagAnis=1.36 | roadWedge=3.95% neonRefl=38.4% | HF=9.98 | sky=[0.688 0.701 0.771] fg=[0.583 0.636 0.703]
+   -> Moon/SkyBridge center window: mean_lum=0.760, p90_lum=0.864, mean_sat=0.272
+v6_04_banked_bowl_17deg.jpg        | mean=0.399 p05=0.097 p95=0.888 | sat=0.202 | clip=1.70% | ink=1.0% | DiagAnis=1.37 | roadWedge=0.12% neonRefl=3.9% | HF=6.94 | sky=[0.475 0.618 0.664] fg=[0.222 0.322 0.408]
+v6_05_laser_strobe_tunnel_2099.jpg | mean=0.195 p05=0.014 p95=0.764 | sat=0.300 | clip=0.15% | ink=19.1% | DiagAnis=1.21 | roadWedge=0.01% neonRefl=6.8% | HF=9.41 | sky=[0.481 0.129 0.328] fg=[0.379 0.113 0.238]
+v6_06_harbor_hairpin_brake_2099.jpg | mean=0.194 p05=0.010 p95=0.838 | sat=0.229 | clip=0.61% | ink=27.8% | DiagAnis=1.46 | roadWedge=1.38% neonRefl=5.2% | HF=8.15 | sky=[0.297 0.154 0.308] fg=[0.321 0.144 0.269]
+
+=== V5 ISOLATION & BLEND ARTIFACT CHECK ===
+  EXISTS  LATEST\v5_stage_env.blend                  |   3.59 MB | mtime=2026-11-18 14:08:25
+  EXISTS  LATEST\v5_stage_anim.blend                 |   4.96 MB | mtime=2026-11-18 14:17:37
+  EXISTS  pipeline\v5_env.py                         |   0.08 MB | mtime=2026-11-18 14:07:57
+  EXISTS  v6_spiderverse\v6_stage_lookdev.blend      |   3.74 MB | mtime=2026-11-18 17:23:36
+  ABSENT  v6_spiderverse\v6_stage_lookdev.blend1

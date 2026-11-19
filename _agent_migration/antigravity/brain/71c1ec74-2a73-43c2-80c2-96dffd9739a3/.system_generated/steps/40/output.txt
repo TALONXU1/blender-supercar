@@ -1,0 +1,50 @@
+Command exited with code 0.
+
+Command output:
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    23.10 GiB / 31.50 GiB (73%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    278.08 GiB / 300.00 GiB (93%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    548.08 GiB / 623.52 GiB (88%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+00:00.750  blend            | Read blend: "D:\项目session\blender-supercar\LATEST\v5_stage_anim.blend"
+Traceback (most recent call last):
+  File "C:\Users\86052\.gemini\antigravity\brain\1a8ac0b5-f848-4c0e-bc45-8abba2abb2e8\scratch\audit_round1_detail.py", line 70, in <module>
+    track_pts = [track_ob.matrix_world @ v.co for v in track_ob.data.vertices[::8]]
+                                                       ~~~~~~~~~~~~~~~~~~~~~~^^^^^
+TypeError: bpy_prop_collection[slice]: slice steps not supported
+BlenderMCP addon registered
+BrakeGlow DRV: nodes["Emission"].inputs[1].default_value expr= heat*9.0 is_valid= True
+  var: heat id_type= OBJECT id= RIG_F1_Race path= ["brake_heat"]
+Max brake_heat sampled: (1.2999999523162842, 191)
+At max brake_heat frame, evaluated Mat_Brake_HeatGlow strength = 11.699999809265137
+  GEO_F1_BrakeGlow_FL        hide_render=False verts=128 local_min=[-0.023, -0.184, -0.184] local_max=[-0.023, 0.184, 0.184]
+  GEO_F1_BrakeDisc_FL        hide_render=False verts=288 local_min=[-0.045, -0.188, -0.188] local_max=[-0.024, 0.188, 0.188]
+  GEO_F1_BrakeCaliper_FL     hide_render=False verts=52 local_min=[-0.094, -0.207, 0.005] local_max=[-0.002, -0.05, 0.192]
+  GEO_F1_BrakeDuct_FL        hide_render=False verts=448 local_min=[-0.169, -0.223, -0.223] local_max=[-0.069, 0.223, 0.223]
+  GEO_F1_RimSpokes_FL        hide_render=False verts=520 local_min=[0.04, -0.231, -0.224] local_max=[0.142, 0.231, 0.224]
+  CAR_SPACE GEO_F1_Cockpit_SteeringWheel   min=[0.52, -1.63, 0.575] max=[0.754, -1.43, 0.74]
+  CAR_SPACE GEO_F1_Steering_LCDScreen      min=[0.621, -1.538, 0.648] max=[0.668, -1.501, 0.676]
+  CAR_SPACE GEO_F1_Halo_Hoop               min=[-1.163, -3.137, -0.245] max=[2.359, 0.516, 1.924]
+  CAR_SPACE GEO_F1_Halo_CenterPylon        min=[0.384, -1.902, 0.656] max=[0.523, -1.726, 0.898]
+  CAR_SPACE GEO_F1_Nosecone                min=[-1.366, -4.401, 0.068] max=[0.031, -2.641, 0.561]
+  CAR_SPACE GEO_F1_Airbox_Scoop            min=[0.642, -1.393, 0.749] max=[1.457, -0.416, 1.126]
+At frame 1016 (steer=15.02 deg), Bone_Steering_Wheel rot_euler=[0.0, 1.311, 0.0]
+BlenderMCP addon unregistered
+Blender 5.3.0 (hash 02f0899d78e3 built 2026-11-10 01:33:43)
+
+Blender quit

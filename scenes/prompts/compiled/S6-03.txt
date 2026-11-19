@@ -1,0 +1,7 @@
+# 赞德福特 · 侧面长焦沙粒横穿
+# 比例 16:9   限制词 95 词 / 正文 129 词 = 74%
+# 备注 这条最容易画成雾天或雪天，必须明确 horizontal grain streaks。
+
+Static 135mm side-on at 1.2 meters. The car passes left to right behind a foreground of blowing sand. Grains streak horizontally across the frame, partially obscuring the lower half of the car. Behind it a solid orange wall of spectators in the grandstand, softly out of focus. Overcast, 7000K, no shadows, 45 km/h crosswind. A single 2035 Formula 1 concept car. Bodywork: matte navy blue with bare 2x2 twill carbon fibre aero surfaces, low wedge monocoque, needle-thin high nosecone, floating thin-strut halo, cylindrical airbox intake, two-element rear wing with four vertical strakes, polished forged ten-spoke wheels with gold centre-lock nuts, thin cyan LED strip along the floor edge, slick tyres. Photorealistic, 35mm cinema camera, natural colour science, fine film grain, 180 degree shutter motion blur, physically plausible light response.
+
+No text, numbers, watermarks, logos or UI anywhere. No borders or graphic overlays added by the renderer. Barrier panels are blank colour blocks. No real team livery, constructor branding, driver likeness or sponsor trademark. Single continuous frame, single open-wheel car, four wheels, halo present, no closed cockpit. No plastic sheen, no HDR oversaturation, no melted or duplicated parts. Add nothing not requested. Sand reads as horizontal grain streaks, not fog, not a white veil, not snow. No direct sunlight. No trees or hills behind the grandstand. Crowd stays a soft orange mass, no individual faces.

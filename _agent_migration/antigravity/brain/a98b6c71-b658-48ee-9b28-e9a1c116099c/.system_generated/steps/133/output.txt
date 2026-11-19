@@ -1,0 +1,56 @@
+Command exited with code 0.
+
+Command output:
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    23.32 GiB / 31.50 GiB (74%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    279.29 GiB / 300.00 GiB (93%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    548.25 GiB / 623.52 GiB (88%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+diag_min.jpg                     800x450 MeanL= 74.3 P05/50/95=24.5/ 49.6/167.4 Clip=0.00% Dark= 0.0% Sharp(car/bg)=1.97/0.55 HotGlowPx=    0 LowDetail=0.54 LEDPx=    0
+diag_nodome.jpg                  1000x562 MeanL= 85.6 P05/50/95=18.0/ 83.6/253.1 Clip=5.49% Dark= 0.0% Sharp(car/bg)=5.05/0.17 HotGlowPx=   44 LowDetail=1.35 LEDPx=   96
+diag_nofill.jpg                  1200x675 MeanL=105.1 P05/50/95=17.0/112.6/253.8 Clip=5.50% Dark= 0.1% Sharp(car/bg)=4.81/0.42 HotGlowPx=   57 LowDetail=1.17 LEDPx=  127
+diag_nogrnd.jpg                  900x506 MeanL= 48.4 P05/50/95=16.1/ 40.1/ 76.8 Clip=0.12% Dark= 0.0% Sharp(car/bg)=2.40/3.48 HotGlowPx=  249 LowDetail=2.14 LEDPx=    6
+diag_notrack.jpg                 1000x562 MeanL= 88.9 P05/50/95=18.2/ 81.8/168.6 Clip=0.20% Dark= 0.2% Sharp(car/bg)=4.98/0.47 HotGlowPx=   42 LowDetail=1.25 LEDPx=   89
+diag_noverge.jpg                 900x506 MeanL= 52.0 P05/50/95=13.0/ 46.6/ 77.8 Clip=0.11% Dark= 0.0% Sharp(car/bg)=2.37/3.56 HotGlowPx=  252 LowDetail=2.12 LEDPx=    6
+diag_top2010.jpg                 900x506 MeanL= 49.4 P05/50/95=28.9/ 44.6/ 75.8 Clip=0.00% Dark= 0.0% Sharp(car/bg)=1.91/0.42 HotGlowPx=    0 LowDetail=1.66 LEDPx=   69
+diag_wide2010.jpg                900x506 MeanL= 54.9 P05/50/95=29.1/ 55.0/ 77.2 Clip=0.11% Dark= 0.0% Sharp(car/bg)=1.12/3.09 HotGlowPx=  120 LowDetail=0.78 LEDPx=    8
+test_0040.jpg                    1600x900 MeanL= 71.9 P05/50/95= 6.9/ 39.5/167.5 Clip=0.06% Dark= 2.8% Sharp(car/bg)=3.02/0.89 HotGlowPx=  526 LowDetail=0.68 LEDPx=  203
+test_0060.jpg                    1600x900 MeanL= 90.1 P05/50/95=30.9/ 93.6/148.4 Clip=0.50% Dark= 0.0% Sharp(car/bg)=3.41/0.85 HotGlowPx=  114 LowDetail=1.10 LEDPx=  134
+test_0075.jpg                    1600x900 MeanL= 73.8 P05/50/95=13.9/ 40.1/170.7 Clip=0.06% Dark= 2.3% Sharp(car/bg)=2.69/0.83 HotGlowPx=  113 LowDetail=0.61 LEDPx=  118
+test_0120.jpg                    1600x900 MeanL= 75.1 P05/50/95=22.2/ 76.9/160.1 Clip=0.09% Dark= 0.0% Sharp(car/bg)=1.74/0.36 HotGlowPx=    0 LowDetail=0.35 LEDPx=    0
+test_0150.jpg                    1600x900 MeanL= 68.3 P05/50/95= 7.9/ 63.8/163.5 Clip=0.09% Dark= 0.0% Sharp(car/bg)=1.43/0.37 HotGlowPx=    0 LowDetail=0.26 LEDPx=    0
+test_0200.jpg                    1600x900 MeanL= 83.8 P05/50/95=36.5/ 82.1/174.9 Clip=0.05% Dark= 0.0% Sharp(car/bg)=2.22/0.36 HotGlowPx= 2593 LowDetail=0.36 LEDPx=  817
+test_0300.jpg                    1600x900 MeanL= 41.8 P05/50/95=19.1/ 34.1/ 93.1 Clip=0.06% Dark= 0.0% Sharp(car/bg)=0.30/1.86 HotGlowPx=    0 LowDetail=0.23 LEDPx=    0
+test_0330.jpg                    1600x900 MeanL= 75.1 P05/50/95=20.7/ 40.1/157.5 Clip=0.52% Dark= 0.0% Sharp(car/bg)=3.35/0.80 HotGlowPx=    0 LowDetail=0.91 LEDPx=    0
+test_0400.jpg                    1600x900 MeanL=  0.1 P05/50/95= 0.0/  0.0/  1.0 Clip=0.00% Dark=100.0% Sharp(car/bg)=0.06/0.08 HotGlowPx=    0 LowDetail=0.07 LEDPx=    0
+test_0420.jpg                    1600x900 MeanL=135.2 P05/50/95=64.4/ 96.4/237.8 Clip=0.35% Dark= 0.0% Sharp(car/bg)=4.01/2.31 HotGlowPx=   99 LowDetail=1.48 LEDPx=   72
+test_0640.jpg                    1600x900 MeanL=198.7 P05/50/95=112.3/221.5/255.0 Clip=40.00% Dark= 0.0% Sharp(car/bg)=1.28/0.12 HotGlowPx=    0 LowDetail=0.53 LEDPx=    0
+test_0700.jpg                    1600x900 MeanL= 96.7 P05/50/95=23.4/ 69.8/178.1 Clip=0.45% Dark= 0.1% Sharp(car/bg)=4.28/0.28 HotGlowPx=   15 LowDetail=1.67 LEDPx=   55
+test_0760.jpg                    1600x900 MeanL= 64.9 P05/50/95= 3.7/ 39.1/168.0 Clip=0.79% Dark= 1.2% Sharp(car/bg)=2.32/2.13 HotGlowPx=    0 LowDetail=1.37 LEDPx=  286
+test_1080.jpg                    1600x900 MeanL= 86.1 P05/50/95=18.4/ 56.8/174.9 Clip=0.22% Dark= 0.3% Sharp(car/bg)=3.99/0.34 HotGlowPx=  127 LowDetail=0.88 LEDPx=  254
+test_1170.jpg                    1600x900 MeanL= 38.5 P05/50/95= 6.4/ 39.1/ 74.2 Clip=0.03% Dark= 1.1% Sharp(car/bg)=1.62/0.59 HotGlowPx=    0 LowDetail=1.88 LEDPx=  256
+test_1200.jpg                    1600x900 MeanL= 35.8 P05/50/95= 5.1/ 39.1/ 49.8 Clip=0.04% Dark= 2.3% Sharp(car/bg)=1.67/0.28 HotGlowPx=    0 LowDetail=2.02 LEDPx=  369
+test_1330.jpg                    1600x900 MeanL= 79.6 P05/50/95= 4.7/ 40.1/176.8 Clip=0.64% Dark= 0.5% Sharp(car/bg)=3.67/2.30 HotGlowPx= 2086 LowDetail=1.60 LEDPx=  823
+test_1420.jpg                    1600x900 MeanL=119.8 P05/50/95=26.9/ 61.4/220.4 Clip=2.06% Dark= 0.0% Sharp(car/bg)=5.65/0.21 HotGlowPx=    0 LowDetail=0.75 LEDPx=  380
+test_1470.jpg                    1600x900 MeanL=100.5 P05/50/95=21.4/ 81.1/179.6 Clip=0.71% Dark= 0.0% Sharp(car/bg)=5.08/4.59 HotGlowPx= 1975 LowDetail=1.90 LEDPx= 2163
+test_1500.jpg                    1600x900 MeanL=103.2 P05/50/95=37.5/ 83.3/178.5 Clip=0.34% Dark= 0.0% Sharp(car/bg)=5.37/0.88 HotGlowPx= 2758 LowDetail=1.55 LEDPx= 4433
+test_1650.jpg                    1600x900 MeanL= 69.9 P05/50/95=24.5/ 63.5/153.7 Clip=0.44% Dark= 0.0% Sharp(car/bg)=1.53/0.34 HotGlowPx=    0 LowDetail=0.34 LEDPx=    0
+test_1730.jpg                    1600x900 MeanL=107.7 P05/50/95= 8.4/ 92.0/190.1 Clip=1.32% Dark= 0.0% Sharp(car/bg)=4.56/0.19 HotGlowPx= 3871 LowDetail=3.16 LEDPx= 6372
+test_1900.jpg                    1600x900 MeanL= 88.3 P05/50/95=20.8/ 93.6/150.5 Clip=0.10% Dark= 0.0% Sharp(car/bg)=3.24/0.89 HotGlowPx=  462 LowDetail=1.50 LEDPx=  560
+test_2010.jpg                    1600x900 MeanL= 41.3 P05/50/95=19.0/ 39.1/ 72.2 Clip=0.01% Dark= 0.1% Sharp(car/bg)=1.64/0.77 HotGlowPx=    7 LowDetail=1.37 LEDPx=  215
+timeit48.jpg                     1920x1080 MeanL= 96.7 P05/50/95=22.9/ 69.6/178.3 Clip=0.45% Dark= 0.1% Sharp(car/bg)=3.67/0.24 HotGlowPx=   29 LowDetail=1.40 LEDPx=   39

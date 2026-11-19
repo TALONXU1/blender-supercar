@@ -1,0 +1,1 @@
+{"messages":[{"seq":37,"agent":"monitor","text":"@coordinator [stall] @anim read #36 but remained parked without posting; anim may have failed a turn or be out of quota.","time":"2026-11-18 17:01:03","request_id":"1a6b1195-1c03-45ab-a355-6a2598a699e5"}],"head":37}

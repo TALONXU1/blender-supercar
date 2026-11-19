@@ -1,0 +1,73 @@
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    25.52 GiB / 31.50 GiB (81%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    279.58 GiB / 300.00 GiB (93%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    548.73 GiB / 623.52 GiB (88%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+00:00.782  blend            | Read blend: "D:\项目session\blender-supercar\LATEST\v5_stage_env.blend"
+D:\项目session\blender-supercar\pipeline\v5_anim.py:203: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  _m_rain.use_nodes = True
+D:\项目session\blender-supercar\pipeline\v5_anim.py:299: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  _ml.use_nodes = True
+D:\项目session\blender-supercar\pipeline\v5_anim.py:1002: DeprecationWarning: 'Scene.compositing_node_group' is expected to be removed in Blender 6.0
+  scene.compositing_node_group = ng
+D:\项目session\blender-supercar\pipeline\v5_anim.py:1003: DeprecationWarning: 'Scene.use_nodes' is expected to be removed in Blender 6.0
+  scene.use_nodes = True
+BlenderMCP addon registered
+car light receivers linked: 244
+BAKE START: 2161 frames, dt=0.04182 s, lap=90.34 s
+BAKE DONE
+[check] 最坏横向 62.58 m/s^2 (6.38 g) @ frame 1774, t=74.2 s
+[check] 超限帧 0 -> PASS
+[check] 航向跳变帧(>6.9deg) 0 -> PASS
+[check] v_max 331.2 km/h, lap 90.34 s, 帧数 2161
+CAM Cam_S01_RearChase           1- 108  t= 0.00.. 4.48 s  chase     f/4.0
+CAM Cam_S02_Onboard           109- 201  t= 4.52.. 8.36 s  onboard   f/11.0
+CAM Cam_S03_ChaseRise         202- 294  t= 8.41..12.25 s  chase     f/4.0
+CAM Cam_S04_Hairpin           295- 401  t=12.30..16.73 s  fixed     DOF->V5_CamFocus f/3.5
+CAM Cam_S05_ChaseAintree      402- 481  t=16.77..20.08 s  chase     f/4.0
+CAM Cam_S06_Orbit1            482- 561  t=20.12..23.42 s  orbit     f/3.6
+CAM Cam_S07_ChaseAccel        562- 641  t=23.46..26.77 s  chase     f/4.0
+CAM Cam_S08_FastPan           642- 734  t=26.81..30.66 s  fixed     DOF->V5_CamFocus f/4.0
+CAM Cam_S09_WheelMacro        735- 788  t=30.70..32.92 s  wheel     DOF->V5_CamFocus f/2.8
+CAM Cam_S09b_ChaseFast        789- 841  t=32.96..35.13 s  chase     f/3.2
+CAM Cam_S10_OrbitBrooklands   842- 894  t=35.17..37.35 s  orbit     f/3.4
+CAM Cam_S11_Luffield          895-1001  t=37.39..41.82 s  fixed     DOF->V5_CamFocus f/3.8
+CAM Cam_S12_ChaseWoodcote    1002-1081  t=41.87..45.17 s  chase     f/4.0
+CAM Cam_S13_WoodcoteTele     1082-1161  t=45.21..48.52 s  fixed     DOF->V5_CamFocus f/4.0
+CAM Cam_S14_HeliDrop         1162-1241  t=48.56..51.86 s  heli      f/5.6
+CAM Cam_S15_OrbitCopse       1242-1334  t=51.90..55.75 s  orbit     f/3.4
+CAM Cam_S16_ChaseCopse       1335-1414  t=55.79..59.10 s  chase     f/4.0
+CAM Cam_S17_Maggotts         1415-1508  t=59.14..63.03 s  fixed     f/4.0
+CAM Cam_S18_ChaseRise2       1509-1601  t=63.07..66.92 s  chase     f/4.0
+CAM Cam_S19_Onboard3         1602-1681  t=66.96..70.26 s  onboard   f/11.0
+CAM Cam_S20_StoweTele        1682-1788  t=70.31..74.74 s  fixed     DOF->V5_CamFocus f/4.0
+CAM Cam_S21_OrbitStowe       1789-1881  t=74.78..78.63 s  orbit     f/3.4
+CAM Cam_S22_ChaseLow         1882-1961  t=78.67..81.98 s  chase     f/3.2
+CAM Cam_S23_HeliReveal       1962-2054  t=82.02..85.86 s  heli      f/6.3
+CAM Cam_S24_Club             2055-2121  t=85.91..88.67 s  fixed     DOF->V5_CamFocus f/3.5
+CAM Cam_S25_AerialOut        2122-2161  t=88.71..90.34 s  aerial    f/4.5
+LINEAR keyframes (all actions): 120527
+[check] camera occlusion: 5 blocked frames (min_cam_z=0.48 m) -> [(295, 'Cam_S04_Hairpin', 'V5_Brake_0_150'), (305, 'Cam_S04_Hairpin', 'V5_Brake_0_100'), (307, 'Cam_S04_Hairpin', 'V5_Brake_0_100'), (335, 'Cam_S04_Hairpin', 'V5_Brake_0_50'), (337, 'Cam_S04_Hairpin', 'V5_Brake_0_50')]
+[check] root Scene Collection direct objects: 0 -> PASS
+COMPOSITOR OK
+信息: 已另存为 "v5_stage_anim.blend"
+ANIM SAVED: D:\项目session\blender-supercar\LATEST\v5_stage_anim.blend
+BlenderMCP addon unregistered
+Blender 5.3.0 (hash 02f0899d78e3 built 2026-11-10 01:33:43)
+
+Blender quit

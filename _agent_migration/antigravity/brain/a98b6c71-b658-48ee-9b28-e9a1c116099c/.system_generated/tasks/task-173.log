@@ -1,0 +1,80 @@
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    26.42 GiB / 31.50 GiB (84%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    280.28 GiB / 300.00 GiB (93%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    551.85 GiB / 623.52 GiB (89%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+00:00.844  blend            | Read blend: "D:\项目session\blender-supercar\LATEST\v5_stage_anim.blend"
+00:03.687  render           | Saved: 'D:\项目session\blender-supercar\renders_v5\stills\shot_01_rear_chase.jpg'
+00:06.437  render           | Saved: 'D:\项目session\blender-supercar\renders_v5\stills\shot_02_onboard.jpg'
+00:08.594  render           | Saved: 'D:\项目session\blender-supercar\renders_v5\stills\shot_03_chase_rise.jpg'
+00:11.922  render           | Saved: 'D:\项目session\blender-supercar\renders_v5\stills\shot_04_hairpin.jpg'
+00:14.203  render           | Saved: 'D:\项目session\blender-supercar\renders_v5\stills\shot_05_chase_aintree.jpg'
+00:16.891  render           | Saved: 'D:\项目session\blender-supercar\renders_v5\stills\shot_06_orbit1.jpg'
+00:19.203  render           | Saved: 'D:\项目session\blender-supercar\renders_v5\stills\shot_07_chase_accel.jpg'
+00:22.078  render           | Saved: 'D:\项目session\blender-supercar\renders_v5\stills\shot_08_fast_pan.jpg'
+00:24.156  render           | Saved: 'D:\项目session\blender-supercar\renders_v5\stills\shot_09_wheel_macro.jpg'
+00:26.578  render           | Saved: 'D:\项目session\blender-supercar\renders_v5\stills\shot_10_chase_fast.jpg'
+00:29.781  render           | Saved: 'D:\项目session\blender-supercar\renders_v5\stills\shot_11_orbit_brooklands.jpg'
+00:31.687  render           | Saved: 'D:\项目session\blender-supercar\renders_v5\stills\shot_12_luffield.jpg'
+00:34.047  render           | Saved: 'D:\项目session\blender-supercar\renders_v5\stills\shot_13_chase_woodcote.jpg'
+00:36.234  render           | Saved: 'D:\项目session\blender-supercar\renders_v5\stills\shot_14_woodcote_tele.jpg'
+00:38.219  render           | Saved: 'D:\项目session\blender-supercar\renders_v5\stills\shot_15_heli_drop.jpg'
+00:40.531  render           | Saved: 'D:\项目session\blender-supercar\renders_v5\stills\shot_16_orbit_copse.jpg'
+00:42.875  render           | Saved: 'D:\项目session\blender-supercar\renders_v5\stills\shot_17_chase_copse.jpg'
+00:45.031  render           | Saved: 'D:\项目session\blender-supercar\renders_v5\stills\shot_18_maggotts.jpg'
+00:47.297  render           | Saved: 'D:\项目session\blender-supercar\renders_v5\stills\shot_19_chase_rise2.jpg'
+00:50.094  render           | Saved: 'D:\项目session\blender-supercar\renders_v5\stills\shot_20_onboard3.jpg'
+00:52.125  render           | Saved: 'D:\项目session\blender-supercar\renders_v5\stills\shot_21_stowe_tele.jpg'
+00:54.297  render           | Saved: 'D:\项目session\blender-supercar\renders_v5\stills\shot_22_orbit_stowe.jpg'
+00:56.422  render           | Saved: 'D:\项目session\blender-supercar\renders_v5\stills\shot_23_chase_low.jpg'
+00:58.531  render           | Saved: 'D:\项目session\blender-supercar\renders_v5\stills\shot_24_heli_reveal.jpg'
+01:01.031  render           | Saved: 'D:\项目session\blender-supercar\renders_v5\stills\shot_25_club.jpg'
+01:03.328  render           | Saved: 'D:\项目session\blender-supercar\renders_v5\stills\shot_26_aerial_out.jpg'
+stills: 26
+contact sheet: D:\项目session\blender-supercar\renders_v5\stills\contact_sheet.jpg (1920, 1476)
+BlenderMCP addon registered
+RENDERED shot_01_rear_chase.jpg (f=60, 34mm f/4.0 DOF)
+RENDERED shot_02_onboard.jpg (f=160, 18mm f/11.0)
+RENDERED shot_03_chase_rise.jpg (f=250, 29mm f/4.0 DOF)
+RENDERED shot_04_hairpin.jpg (f=350, 283mm f/3.5 DOF)
+RENDERED shot_05_chase_aintree.jpg (f=440, 34mm f/4.0 DOF)
+RENDERED shot_06_orbit1.jpg (f=520, 44mm f/3.6 DOF)
+RENDERED shot_07_chase_accel.jpg (f=600, 33mm f/4.0 DOF)
+RENDERED shot_08_fast_pan.jpg (f=700, 82mm f/4.0 DOF)
+RENDERED shot_09_wheel_macro.jpg (f=760, 33mm f/2.8 DOF)
+RENDERED shot_10_chase_fast.jpg (f=820, 28mm f/3.2 DOF)
+RENDERED shot_11_orbit_brooklands.jpg (f=870, 42mm f/3.4 DOF)
+RENDERED shot_12_luffield.jpg (f=950, 320mm f/3.8 DOF)
+RENDERED shot_13_chase_woodcote.jpg (f=1040, 32mm f/4.0 DOF)
+RENDERED shot_14_woodcote_tele.jpg (f=1120, 250mm f/4.0 DOF)
+RENDERED shot_15_heli_drop.jpg (f=1200, 78mm f/5.6 DOF)
+RENDERED shot_16_orbit_copse.jpg (f=1300, 40mm f/3.4 DOF)
+RENDERED shot_17_chase_copse.jpg (f=1380, 34mm f/4.0 DOF)
+RENDERED shot_18_maggotts.jpg (f=1470, 98mm f/4.0 DOF)
+RENDERED shot_19_chase_rise2.jpg (f=1560, 29mm f/4.0 DOF)
+RENDERED shot_20_onboard3.jpg (f=1640, 18mm f/11.0)
+RENDERED shot_21_stowe_tele.jpg (f=1730, 320mm f/4.0 DOF)
+RENDERED shot_22_orbit_stowe.jpg (f=1830, 38mm f/3.4 DOF)
+RENDERED shot_23_chase_low.jpg (f=1920, 35mm f/3.2 DOF)
+RENDERED shot_24_heli_reveal.jpg (f=2010, 70mm f/6.3 DOF)
+RENDERED shot_25_club.jpg (f=2090, 31mm f/3.5 DOF)
+RENDERED shot_26_aerial_out.jpg (f=2145, 50mm f/4.5 DOF)
+BlenderMCP addon unregistered
+Blender 5.3.0 (hash 02f0899d78e3 built 2026-11-10 01:33:43)
+
+Blender quit

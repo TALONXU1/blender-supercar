@@ -1,0 +1,132 @@
+Command exited with code 0.
+
+Command output:
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    26.88 GiB / 31.50 GiB (85%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    282.10 GiB / 300.00 GiB (94%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    566.37 GiB / 623.52 GiB (91%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+
+
+    目录: C:\Users\86052\AppData\Roaming\Open Design
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+d-----        2026/10/24     18:49                launcher                                                             
+d-----        2026/10/24     18:49                namespaces                                                           
+-a----        2026/11/18     15:43             63 installation.json                                                    
+-a----        2026/10/24     18:49            490 Local State                                                          
+-a----        2026/11/18     15:42             46 stability-launch.json                                                
+
+Id          : 139392
+ProcessName : audiodg
+Path        : 
+
+
+Id          : 21544
+ProcessName : codex-windows-sandbox-service
+Path        : 
+
+
+Id          : 99612
+ProcessName : node
+Path        : C:\Users\86052\AppData\Local\cursor-agent\versions\2026.10.22-27dcf5f\node.exe
+
+
+Id          : 179088
+ProcessName : node
+Path        : C:\Program Files\nodejs\node.exe
+
+
+Id          : 221316
+ProcessName : node
+Path        : C:\Program Files\nodejs\node.exe
+
+
+Id          : 59828
+ProcessName : Open Design
+Path        : D:\APPs\新建文件夹 (3)\Open Design\Open Design.exe
+
+
+Id          : 90656
+ProcessName : Open Design
+Path        : D:\APPs\新建文件夹 (3)\Open Design\Open Design.exe
+
+
+Id          : 93812
+ProcessName : Open Design
+Path        : D:\APPs\新建文件夹 (3)\Open Design\Open Design.exe
+
+
+Id          : 94224
+ProcessName : Open Design
+Path        : D:\APPs\新建文件夹 (3)\Open Design\Open Design.exe
+
+
+Id          : 137068
+ProcessName : Open Design
+Path        : D:\APPs\新建文件夹 (3)\Open Design\Open Design.exe
+
+
+Id          : 145776
+ProcessName : Open Design
+Path        : D:\APPs\新建文件夹 (3)\Open Design\Open Design.exe
+
+
+Id          : 174480
+ProcessName : Open Design
+Path        : D:\APPs\新建文件夹 (3)\Open Design\Open Design.exe
+
+
+Id          : 193804
+ProcessName : Open Design
+Path        : D:\APPs\新建文件夹 (3)\Open Design\Open Design.exe
+
+
+Id          : 199544
+ProcessName : Open Design
+Path        : D:\APPs\新建文件夹 (3)\Open Design\Open Design.exe
+
+
+Id          : 209596
+ProcessName : Open Design
+Path        : D:\APPs\新建文件夹 (3)\Open Design\Open Design.exe
+
+
+Id          : 243848
+ProcessName : Open Design
+Path        : D:\APPs\新建文件夹 (3)\Open Design\Open Design.exe
+
+
+Id          : 217680
+ProcessName : OpenConsole
+Path        : C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.25.3131.0_x64__8wekyb3d8bbwe\OpenConsole.exe
+
+
+IgnoreCase : True
+LineNumber : 218
+Line       :     "motion-showreel": {
+Filename   : .claude.json
+Path       : C:\Users\86052\.claude.json
+Pattern    : open-design|opendesign|motion
+Context    : Microsoft.PowerShell.Commands.MatchInfoContext
+Matches    : {0}
+
+
+

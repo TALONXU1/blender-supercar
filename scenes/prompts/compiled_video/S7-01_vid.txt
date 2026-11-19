@@ -1,0 +1,8 @@
+# 维加斯 · 直道尽头车从光海浮出
+# 画风 ST4   时长 4s   motion 43 词
+# 首帧 S7-01.png（compiled/ 里对应的关键帧）
+
+The car approaches toward camera out of the neon wall, holding as a black silhouette for most of the shot, then resolving into detail only in the final hundred meters. LED screens scroll abstract colour behind it. Camera static, hard compression. 4 seconds.
+
+Keep: the silhouette stage, the clean dry air, the scrolling screens.
+Avoid: no fog or light cones, no readable screen text, no early detail reveal, no camera movement.

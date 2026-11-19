@@ -1,0 +1,183 @@
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    21.90 GiB / 31.50 GiB (70%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    283.17 GiB / 300.00 GiB (94%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    567.14 GiB / 623.52 GiB (91%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+00:00.766  blend            | Read blend: "D:\项目session\blender-supercar\v6_spiderverse\v6_stage_anim_sv.blend"
+00:04.062  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\stills\shot_01_canyon_fpv_drop.jpg'
+BlenderMCP addon registered
+V6 STILL RENDERED: shot_01_canyon_fpv_drop.jpg (f=28, E-1610)
+00:06.891  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\stills\shot_02_scraper_front_wing.jpg'
+V6 STILL RENDERED: shot_02_scraper_front_wing.jpg (f=82, E-1610)
+00:09.719  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\stills\shot_03_chicane_whip_pan.jpg'
+V6 STILL RENDERED: shot_03_chicane_whip_pan.jpg (f=128, E-1610)
+00:12.891  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\stills\shot_04_halo_cockpit_canyon.jpg'
+V6 STILL RENDERED: shot_04_halo_cockpit_canyon.jpg (f=188, E-1610)
+00:16.859  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\stills\shot_05_viaduct_fov_warp.jpg'
+V6 STILL RENDERED: shot_05_viaduct_fov_warp.jpg (f=248, E-1610)
+00:20.656  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\stills\shot_06_eau_rouge_sparks.jpg'
+V6 STILL RENDERED: shot_06_eau_rouge_sparks.jpg (f=282, E-1610)
+00:24.312  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\stills\shot_07_raidillon_sky_climb.jpg'
+V6 STILL RENDERED: shot_07_raidillon_sky_climb.jpg (f=348, E-1610)
+00:26.984  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\stills\shot_08_moon_crest_tele300.jpg'
+V6 STILL RENDERED: shot_08_moon_crest_tele300.jpg (f=406, E-1610)
+00:31.062  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\stills\shot_09_bridge_pylon_reveal.jpg'
+V6 STILL RENDERED: shot_09_bridge_pylon_reveal.jpg (f=456, E-65)
+00:35.328  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\stills\shot_10_cable_stay_side.jpg'
+V6 STILL RENDERED: shot_10_cable_stay_side.jpg (f=508, E-65)
+00:40.047  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\stills\shot_11_bridge_deck_pursuit.jpg'
+V6 STILL RENDERED: shot_11_bridge_deck_pursuit.jpg (f=568, E-65)
+00:44.641  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\stills\shot_12_banked_wall_rail.jpg'
+V6 STILL RENDERED: shot_12_banked_wall_rail.jpg (f=635, E-65)
+00:49.125  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\stills\shot_13_bowl_whip_orbit.jpg'
+V6 STILL RENDERED: shot_13_bowl_whip_orbit.jpg (f=695, E-65)
+00:53.359  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\stills\shot_14_corkscrew_crest_dive.jpg'
+V6 STILL RENDERED: shot_14_corkscrew_crest_dive.jpg (f=755, E-65)
+00:58.078  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\stills\shot_15_corkscrew_plunge_pov.jpg'
+V6 STILL RENDERED: shot_15_corkscrew_plunge_pov.jpg (f=815, E-65)
+01:02.937  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\stills\shot_16_bottom_out_sparks.jpg'
+V6 STILL RENDERED: shot_16_bottom_out_sparks.jpg (f=868, E-65)
+01:06.203  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\stills\shot_17_tunnel_portal_warp.jpg'
+V6 STILL RENDERED: shot_17_tunnel_portal_warp.jpg (f=922, E-928)
+01:09.922  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\stills\shot_18_tunnel_cockpit_strobe.jpg'
+V6 STILL RENDERED: shot_18_tunnel_cockpit_strobe.jpg (f=975, E-928)
+01:13.344  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\stills\shot_19_tunnel_whip_orbit180.jpg'
+V6 STILL RENDERED: shot_19_tunnel_whip_orbit180.jpg (f=1022, E-928)
+01:16.391  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\stills\shot_20_harbor_brake_slam.jpg'
+V6 STILL RENDERED: shot_20_harbor_brake_slam.jpg (f=1058, E-928)
+01:19.172  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\stills\shot_21_hairpin_wheel_macro.jpg'
+V6 STILL RENDERED: shot_21_hairpin_wheel_macro.jpg (f=1132, E-928)
+01:22.234  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\stills\shot_22_harbor_launch_chase.jpg'
+V6 STILL RENDERED: shot_22_harbor_launch_chase.jpg (f=1175, E-928)
+01:25.578  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\stills\shot_23_wet_mirror_skyline.jpg'
+V6 STILL RENDERED: shot_23_wet_mirror_skyline.jpg (f=1222, E-928)
+01:28.437  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\stills\shot_24_finish_gantry_rise.jpg'
+V6 STILL RENDERED: shot_24_finish_gantry_rise.jpg (f=1262, E-928)
+01:31.531  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\stills\_impact_f1067.jpg'
+V6 IMPACT INSET RENDERED: _impact_f1067.jpg
+v6 stills found: 24
+V6 CONTACT SHEET: D:\项目session\blender-supercar\renders_v6\stills\contact_sheet_v6.jpg (2304, 1016)
+V6 COMIC PAGE POSTER: D:\项目session\blender-supercar\renders_v6\stills\comic_page_sheet.jpg (2200, 3100)
+BlenderMCP addon unregistered
+Blender 5.3.0 (hash 02f0899d78e3 built 2026-11-10 01:33:43)
+
+Blender quit
+00:00.843  blend            | Read blend: "D:\项目session\blender-supercar\v6_spiderverse\v6_stage_anim_sv.blend"
+BlenderMCP addon registered
+V6 RENDER START: frames 269..364 (96f) -> D:\项目session\blender-supercar\renders_v6/clips_frames/clip1_miles_1610 (init_cam=Cam_S06_EauRougeSparkScrape)
+00:06.359  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0269.jpg'
+00:09.859  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0270.jpg'
+00:12.968  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0271.jpg'
+00:15.921  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0272.jpg'
+00:18.796  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0273.jpg'
+00:21.687  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0274.jpg'
+00:24.890  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0275.jpg'
+00:28.437  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0276.jpg'
+00:31.328  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0277.jpg'
+00:33.984  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0278.jpg'
+00:36.984  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0279.jpg'
+00:40.609  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0280.jpg'
+00:43.562  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0281.jpg'
+00:46.187  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0282.jpg'
+00:49.140  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0283.jpg'
+00:52.312  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0284.jpg'
+00:55.578  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0285.jpg'
+00:58.359  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0286.jpg'
+01:01.312  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0287.jpg'
+01:04.156  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0288.jpg'
+01:06.937  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0289.jpg'
+01:09.312  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0290.jpg'
+01:12.031  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0291.jpg'
+01:19.062  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0292.jpg'
+01:22.062  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0293.jpg'
+01:25.578  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0294.jpg'
+01:30.718  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0295.jpg'
+01:33.703  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0296.jpg'
+01:36.937  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0297.jpg'
+01:43.984  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0298.jpg'
+01:46.703  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0299.jpg'
+01:49.468  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0300.jpg'
+01:53.906  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0301.jpg'
+01:56.453  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0302.jpg'
+01:59.375  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0303.jpg'
+02:06.203  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0304.jpg'
+02:08.453  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0305.jpg'
+02:11.234  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0306.jpg'
+02:26.625  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0307.jpg'
+02:28.890  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0308.jpg'
+02:31.875  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0309.jpg'
+02:34.609  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0310.jpg'
+02:37.609  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0311.jpg'
+02:40.312  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0312.jpg'
+02:53.812  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0313.jpg'
+02:56.187  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0314.jpg'
+02:58.843  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0315.jpg'
+03:01.562  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0316.jpg'
+03:03.796  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0317.jpg'
+03:06.343  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0318.jpg'
+03:12.281  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0319.jpg'
+03:14.625  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0320.jpg'
+03:17.281  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0321.jpg'
+03:26.921  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0322.jpg'
+03:29.453  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0323.jpg'
+03:36.125  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0324.jpg'
+03:38.406  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0325.jpg'
+03:41.171  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0326.jpg'
+03:46.500  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0327.jpg'
+03:48.609  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0328.jpg'
+03:51.281  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0329.jpg'
+03:56.484  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0330.jpg'
+03:58.953  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0331.jpg'
+04:01.484  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0332.jpg'
+04:07.296  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0333.jpg'
+04:09.656  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0334.jpg'
+04:12.375  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0335.jpg'
+04:15.515  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0336.jpg'
+04:17.718  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0337.jpg'
+04:20.328  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0338.jpg'
+04:30.046  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0339.jpg'
+04:32.265  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0340.jpg'
+04:35.015  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0341.jpg'
+04:48.296  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0342.jpg'
+04:50.515  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0343.jpg'
+04:53.390  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0344.jpg'
+04:56.015  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0345.jpg'
+05:01.812  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0346.jpg'
+05:04.390  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0347.jpg'
+05:07.671  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0348.jpg'
+05:11.281  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0349.jpg'
+05:13.984  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0350.jpg'
+05:16.781  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0351.jpg'
+05:19.750  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0352.jpg'
+05:24.390  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0353.jpg'
+05:27.500  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0354.jpg'
+05:30.281  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0355.jpg'
+05:33.046  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0356.jpg'
+05:36.078  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0357.jpg'
+05:41.250  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0358.jpg'
+05:44.453  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0359.jpg'
+05:47.156  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0360.jpg'
+05:50.781  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0361.jpg'
+05:52.937  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0362.jpg'
+05:55.437  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0363.jpg'
+06:05.953  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip1_miles_1610\f_0364.jpg'
+V6 RENDER DONE: 96 frames in 364.9s (3.80 s/frame)
+BlenderMCP addon unregistered
+Blender 5.3.0 (hash 02f0899d78e3 built 2026-11-10 01:33:43)
+
+Blender quit

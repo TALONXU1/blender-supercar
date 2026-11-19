@@ -1,0 +1,36 @@
+Command exited with code 0.
+
+Command output:
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    15.34 GiB / 31.50 GiB (49%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    208.60 GiB / 300.00 GiB (70%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    437.00 GiB / 623.52 GiB (70%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+00:00.984  blend            | Read blend: "d:\项目session\blender-supercar\scifi_f1_2035_v4_racing.blend"
+--- Updating Image Paths ---
+Set merc_engine.png -> //textures/merc_engine.png (exists on disk: True)
+Set merc_halo.png -> //textures/merc_halo.png (exists on disk: True)
+Set merc_nose.png -> //textures/merc_nose.png (exists on disk: True)
+Set merc_sidepod.png -> //textures/merc_sidepod.png (exists on disk: True)
+Set steering_display.png -> //textures/steering_display.png (exists on disk: True)
+Set tire_sidewall_pirelli.png -> //textures/tire_sidewall_pirelli.png (exists on disk: True)
+信息: 已另存为 "scifi_f1_2035_v4_racing.blend"
+--- Saved successfully to: d:\项目session\blender-supercar-slim\scifi_f1_2035_v4_racing.blend
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+
+Blender quit

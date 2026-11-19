@@ -1,0 +1,44 @@
+Command exited with code 0.
+
+Command output:
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    26.52 GiB / 31.50 GiB (84%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    280.25 GiB / 300.00 GiB (93%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    551.83 GiB / 623.52 GiB (89%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+[synth_sfx] Loading Silverstone telemetry & 26-shot timeline...
+[synth_sfx] Saved: D:\项目session\blender-supercar\renders_v5\sfx_engine_90s.wav (17,288,044 bytes) in 16.31 s
+[synth_sfx] Duration: 90.0417 s (4,322,000 samples @ 48000 Hz stereo, 2161 frames)
+[synth_sfx] Gearbox: 8-speed, 51 upshifts, 51 downshifts | RPM (v>=80 km/h): 9712..12516 RPM
+[synth_sfx] Levels: Peak = -1.50 dBFS, RMS = -17.99 dBFS
+  [Doppler] Cam_S04_Hairpin        closest= 10.0 m  pitch=1.367x -> 0.944x
+  [Doppler] Cam_S08_FastPan        closest= 14.0 m  pitch=1.365x -> 0.888x
+  [Doppler] Cam_S11_Luffield       closest= 11.5 m  pitch=1.174x -> 0.977x
+  [Doppler] Cam_S13_WoodcoteTele   closest=  9.6 m  pitch=1.217x -> 0.913x
+  [Doppler] Cam_S17_Maggotts       closest= 11.3 m  pitch=1.134x -> 0.935x
+  [Doppler] Cam_S20_StoweTele      closest= 13.8 m  pitch=1.366x -> 0.801x
+  [Doppler] Cam_S24_Club           closest=  9.5 m  pitch=1.214x -> 0.848x
+[aist#1:0/pcm_s16le @ 00000225eb3a5b40] Guessed Channel Layout: stereo
+-rw-r--r-- 1 86052 197609  2943354 Nov 18 14:21 D:/项目session/blender-supercar/renders_v5/audio_v5_sfx_mix_90s.m4a
+-rw-r--r-- 1 86052 197609 63343672 Nov 14 15:34 D:/项目session/blender-supercar/renders_v5/f1_silverstone_lap_1080p.mp4
+-rw-r--r-- 1 86052 197609 65019265 Nov 18 14:21 D:/项目session/blender-supercar/renders_v5/f1_silverstone_lap_sfx_1080p.mp4
+-rw-r--r-- 1 86052 197609 62058198 Nov 14 15:34 D:/项目session/blender-supercar/renders_v5/f1_silverstone_lap_silent.mp4
+-rw-r--r-- 1 86052 197609  2943354 Nov 18 14:21 D:/项目session/blender-supercar/renders_v5/audio_v5_sfx_mix_90s.m4a
+-rw-r--r-- 1 86052 197609 35343889 Nov 18 13:42 D:/项目session/blender-supercar/renders_v5/f1_silverstone_clay_1080p.mp4
+-rw-r--r-- 1 86052 197609 36107297 Nov 18 14:21 D:/项目session/blender-supercar/renders_v5/f1_silverstone_clay_sfx_1080p.mp4
+-rw-r--r-- 1 86052 197609 33145766 Nov 18 13:27 D:/项目session/blender-supercar/renders_v5/f1_silverstone_clay_silent.mp4

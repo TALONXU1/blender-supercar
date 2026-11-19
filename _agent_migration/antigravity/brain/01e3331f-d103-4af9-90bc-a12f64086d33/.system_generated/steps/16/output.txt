@@ -1,0 +1,87 @@
+Command exited with code 1.
+
+Command output:
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    24.63 GiB / 31.50 GiB (78%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    278.09 GiB / 300.00 GiB (93%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    548.05 GiB / 623.52 GiB (88%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+ffmpeg.exe : Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'D:\项目session\blender-supercar\renders_v5\audio_v5_90s.m4a':
+At line:1 char:122
++ ... } catch {}; & "C:\Users\86052\scoop\shims\ffmpeg.exe" -hide_banner -n ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Input #0, mov,m...io_v5_90s.m4a'::String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  Metadata:
+    major_brand     : M4A 
+    minor_version   : 512
+    compatible_brands: M4A isomiso2
+    title           : After Hours
+    artist          : The Weeknd
+    album           : After Hours
+    encoder         : Lavf63.1.102
+    comment         : 163 key(Don't modify):L64FU3W4YxX3ZFTmbZ+8/Rna7mWPBrlAbd6zQ1EY4yQ7DQRsBz2pKCx50mlVZsy3coNr5nsz2kk
+xHzhu9fpCPv14eHjF5VUBl+wICaB3Li4RjbbbZ47xNG2xc81AKZmyueV6RCRR1WAhQCQ7Qj887c2MPlAXIawe3E0/UJ2Bh+i/2rLmJAKtafgwhJx7cPSj8V
+V4tiucITM9o0YjyM/C9jC+VMp0p+qWBCnGvk+qy
+    track           : 13
+  Duration: 00:01:30.10, start: 0.000000, bitrate: 111 kb/s
+  Stream #0:0[0x1](und): Audio: aac (LC) (mp4a / 0x6134706D), 22050 Hz, mono, fltp, 110 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+[Parsed_volumedetect_0 @ 00000203e6a5e200] n_samples: 0
+Stream mapping:
+  Stream #0:0 -> #0:0 (aac (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : M4A 
+    minor_version   : 512
+    compatible_brands: M4A isomiso2
+    title           : After Hours
+    artist          : The Weeknd
+    album           : After Hours
+    track           : 13
+    comment         : 163 key(Don't modify):L64FU3W4YxX3ZFTmbZ+8/Rna7mWPBrlAbd6zQ1EY4yQ7DQRsBz2pKCx50mlVZsy3coNr5nsz2kk
+xHzhu9fpCPv14eHjF5VUBl+wICaB3Li4RjbbbZ47xNG2xc81AKZmyueV6RCRR1WAhQCQ7Qj887c2MPlAXIawe3E0/UJ2Bh+i/2rLmJAKtafgwhJx7cPSj8V
+V4tiucITM9o0YjyM/C9jC+VMp0p+qWBCnGvk+qy
+    encoder         : Lavf63.1.102
+  Stream #0:0(und): Audio: pcm_s16le, 22050 Hz, mono, s16, 352 kb/s (default)
+    Metadata:
+      encoder         : Lavc63.1.102 pcm_s16le
+      handler_name    : SoundHandler
+[Parsed_volumedetect_0 @ 00000203e89f4f80] n_samples: 1986705
+[Parsed_volumedetect_0 @ 00000203e89f4f80] mean_volume: -12.9 dB
+[Parsed_volumedetect_0 @ 00000203e89f4f80] max_volume: 0.0 dB
+[Parsed_volumedetect_0 @ 00000203e89f4f80] histogram_0db: 6787
+[out#0/null @ 00000203e69aea80] video:0KiB audio:3880KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing ov
+erhead: unknown
+size=N/A time=00:01:30.10 bitrate=N/A speed=2.87e+03x elapsed=0:00:00.03    
+  Integrated loudness:
+    I:         -14.1 LUFS
+    Threshold: -24.3 LUFS
+  Loudness range:
+    LRA:         7.2 LU
+    Threshold: -34.4 LUFS
+    LRA low:   -18.6 LUFS
+    LRA high:  -11.4 LUFS
+  True peak:
+    Peak:        1.8 dBFS
+[out#0/null @ 00000240469a0d40] video:0KiB audio:3880KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing ov
+erhead: unknown
+size=N/A time=00:01:30.10 bitrate=N/A speed= 446x elapsed=0:00:00.20    

@@ -1,0 +1,5 @@
+﻿
+V5 objects parented to non-empties: []
+MOVE TEST: 21 empties OK, 0 FAIL
+
+

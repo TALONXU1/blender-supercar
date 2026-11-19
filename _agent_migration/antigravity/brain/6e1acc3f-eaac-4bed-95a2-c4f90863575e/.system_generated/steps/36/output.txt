@@ -1,0 +1,2 @@
+You have 1 background task(s) currently running:
+[{"taskId":"6e1acc3f-eaac-4bed-95a2-c4f90863575e/task-9","toolName":"schedule","toolSummary":"cron (every 3 minutes)","description":"Cron: */3 * * * *, Prompt: [monitor] tick: check the swarm for a stall","startTime":"2026-11-18T05:26:41Z","logUri":"file:///C:/Users/86052/.gemini/antigravity/brain/6e1acc3f-eaac-4bed-95a2-c4f90863575e/.system_generated/tasks/task-9.log","isDaemon":true}]

@@ -1,0 +1,62 @@
+Command exited with code 0.
+
+Command output:
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    26.06 GiB / 31.50 GiB (83%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    282.91 GiB / 300.00 GiB (94%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    566.44 GiB / 623.52 GiB (91%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+
+FullName                                                                         Name                                  
+--------                                                                         ----                                  
+D:\项目session\blender-supercar\pipeline\__pycache__                               __pycache__                           
+D:\项目session\blender-supercar\pipeline\gen_textures.py                           gen_textures.py                       
+D:\项目session\blender-supercar\pipeline\mux_clay.sh                               mux_clay.sh                           
+D:\项目session\blender-supercar\pipeline\mux_v5.sh                                 mux_v5.sh                             
+D:\项目session\blender-supercar\pipeline\mux_v6_sv.sh                              mux_v6_sv.sh                          
+D:\项目session\blender-supercar\pipeline\render_clay.log                           render_clay.log                       
+D:\项目session\blender-supercar\pipeline\render_clay.py                            render_clay.py                        
+D:\项目session\blender-supercar\pipeline\render_v5.log                             render_v5.log                         
+D:\项目session\blender-supercar\pipeline\render_v5.py                              render_v5.py                          
+D:\项目session\blender-supercar\pipeline\render_v6_sv.py                           render_v6_sv.py                       
+D:\项目session\blender-supercar\pipeline\synth_sfx.py                              synth_sfx.py                          
+D:\项目session\blender-supercar\pipeline\synth_sfx_sv.py                           synth_sfx_sv.py                       
+D:\项目session\blender-supercar\pipeline\v4_stage_rig.blend                        v4_stage_rig.blend                    
+D:\项目session\blender-supercar\pipeline\v4_stage_rig.blend1                       v4_stage_rig.blend1                   
+D:\项目session\blender-supercar\pipeline\v5_anim.py                                v5_anim.py                            
+D:\项目session\blender-supercar\pipeline\v5_clay.py                                v5_clay.py                            
+D:\项目session\blender-supercar\pipeline\v5_env.py                                 v5_env.py                             
+D:\项目session\blender-supercar\pipeline\v5_preview.py                             v5_preview.py                         
+D:\项目session\blender-supercar\pipeline\v5_stills.py                              v5_stills.py                          
+D:\项目session\blender-supercar\pipeline\v5_viewport_fast.py                       v5_viewport_fast.py                   
+D:\项目session\blender-supercar\pipeline\v6_sv_build.py                            v6_sv_build.py                        
+D:\项目session\blender-supercar\pipeline\v6_sv_comp.py                             v6_sv_comp.py                         
+D:\项目session\blender-supercar\pipeline\v6_sv_stills.py                           v6_sv_stills.py                       
+D:\项目session\blender-supercar\pipeline\v6_sv_textures.py                         v6_sv_textures.py                     
+D:\项目session\blender-supercar\track_data\autodromo_nazionale_di_monza_map.png    autodromo_nazionale_di_monza_map.png  
+D:\项目session\blender-supercar\track_data\autodromo_nazionale_di_monza_path.csv   autodromo_nazionale_di_monza_path.csv 
+D:\项目session\blender-supercar\track_data\autodromo_nazionale_di_monza_track.json autodromo_nazionale_di_monza_track....
+D:\项目session\blender-supercar\track_data\blender_apply.py                        blender_apply.py                      
+D:\项目session\blender-supercar\track_data\build_track.py                          build_track.py                        
+D:\项目session\blender-supercar\track_data\diag_speed.py                           diag_speed.py                         
+D:\项目session\blender-supercar\track_data\silverstone_map.png                     silverstone_map.png                   
+D:\项目session\blender-supercar\track_data\silverstone_path.csv                    silverstone_path.csv                  
+D:\项目session\blender-supercar\track_data\silverstone_track.json                  silverstone_track.json                
+D:\项目session\blender-supercar\track_data\TRACK_SPEC.md                           TRACK_SPEC.md                         
+
+

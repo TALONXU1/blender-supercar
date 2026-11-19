@@ -1,0 +1,1 @@
+{"messages":[{"seq":46,"agent":"monitor","text":"@anim [stall] #45 (env-2's Iteration-2 lookdev handoff) has been unanswered since 09:45, and every member is waiting.","time":"2026-11-19 09:55:52","request_id":"da31e727-9594-476d-a450-309e016b3658"}],"head":46}

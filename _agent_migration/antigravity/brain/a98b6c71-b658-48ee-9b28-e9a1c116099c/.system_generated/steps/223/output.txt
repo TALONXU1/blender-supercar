@@ -1,0 +1,48 @@
+Command exited with code 0.
+
+Command output:
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    25.18 GiB / 31.50 GiB (80%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    281.28 GiB / 300.00 GiB (94%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    565.31 GiB / 623.52 GiB (91%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+00:01.328  blend            | Read blend: "D:\项目session\blender-supercar\LATEST\v5_stage_anim.blend"
+D:\项目session\blender-supercar\pipeline\v6_sv_comp.py:720: DeprecationWarning: 'Scene.compositing_node_group' is expected to be removed in Blender 6.0
+  scene.compositing_node_group = ng
+D:\项目session\blender-supercar\pipeline\v6_sv_comp.py:721: DeprecationWarning: 'Scene.use_nodes' is expected to be removed in Blender 6.0
+  scene.use_nodes = True
+BlenderMCP addon registered
+[v6_on_twos] stepped 12fps curves=21 | kept 24fps world curves=6
+[v6_comic_fx] animated vortex/aero=0, wheel_smear=0
+[v6_ink_scale] adaptive Solidify modifiers driven: 0
+信息: 已另存为 "proto_v6_comp.blend"
+V6 ANIM+COMP SAVED: C:\Users\86052\.gemini\antigravity\brain\a98b6c71-b658-48ee-9b28-e9a1c116099c\scratch\proto_v6_comp.blend
+00:32.203  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\test\sv_test_0160.jpg'
+SV TEST RENDERED: 160 Cam_S02_Onboard
+00:34.062  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\test\sv_test_1300.jpg'
+SV TEST RENDERED: 1300 Cam_S15_OrbitCopse
+00:35.890  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\test\sv_test_1698.jpg'
+SV TEST RENDERED: 1698 Cam_S20_StoweTele
+00:37.734  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\test\sv_test_1699.jpg'
+SV TEST RENDERED: 1699 Cam_S20_StoweTele
+00:39.578  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\test\sv_test_1730.jpg'
+SV TEST RENDERED: 1730 Cam_S20_StoweTele
+BlenderMCP addon unregistered
+Blender 5.3.0 (hash 02f0899d78e3 built 2026-11-10 01:33:43)
+
+Blender quit

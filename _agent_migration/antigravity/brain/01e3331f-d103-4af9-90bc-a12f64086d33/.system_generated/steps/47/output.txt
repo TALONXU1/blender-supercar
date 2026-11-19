@@ -1,0 +1,50 @@
+Command exited with code 0.
+
+Command output:
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    23.09 GiB / 31.50 GiB (73%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    278.09 GiB / 300.00 GiB (93%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    548.07 GiB / 623.52 GiB (88%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+Global max sample-to-sample step: L=0.3412, R=0.3362
+Cam_S01_RearChase       (chase  ) RMS=-10.51 dB  Pk= -2.81 dB  R/L= -0.3-> -0.1 dB  cut_step=0.0000
+Cam_S02_Onboard         (onboard) RMS=-11.71 dB  Pk= -2.55 dB  R/L= +0.0-> +0.2 dB  cut_step=0.2522
+Cam_S03_ChaseRise       (chase  ) RMS=-10.85 dB  Pk= -2.85 dB  R/L= +0.3-> -1.1 dB  cut_step=0.0539
+Cam_S04_Hairpin         (fixed  ) RMS=-18.63 dB  Pk= -2.34 dB  R/L= +1.1-> +2.4 dB  cut_step=0.0374
+Cam_S05_ChaseAintree    (chase  ) RMS=-11.33 dB  Pk= -2.15 dB  R/L= -0.2-> +0.4 dB  cut_step=0.0669
+Cam_S06_Orbit1          (orbit  ) RMS=-11.84 dB  Pk= -2.77 dB  R/L= -3.0-> +2.9 dB  cut_step=0.0788
+Cam_S07_ChaseAccel      (chase  ) RMS= -9.90 dB  Pk= -2.72 dB  R/L= +0.3-> -0.4 dB  cut_step=0.0917
+Cam_S08_FastPan         (fixed  ) RMS=-19.24 dB  Pk= -3.05 dB  R/L= -4.4->+12.0 dB  cut_step=0.0414
+Cam_S09_WheelMacro      (wheel  ) RMS= -8.98 dB  Pk= -1.50 dB  R/L= -4.9-> -4.1 dB  cut_step=0.0671
+Cam_S09b_ChaseFast      (chase  ) RMS= -9.83 dB  Pk= -2.20 dB  R/L= +0.6-> -0.8 dB  cut_step=0.1294
+Cam_S10_OrbitBrooklands (orbit  ) RMS=-15.87 dB  Pk= -2.27 dB  R/L= -3.1-> +2.3 dB  cut_step=0.0848
+Cam_S11_Luffield        (fixed  ) RMS=-19.00 dB  Pk= -4.37 dB  R/L= -6.1-> -0.9 dB  cut_step=0.0843
+Cam_S12_ChaseWoodcote   (chase  ) RMS=-10.95 dB  Pk= -2.98 dB  R/L= +0.9-> -0.4 dB  cut_step=0.0369
+Cam_S13_WoodcoteTele    (fixed  ) RMS=-17.81 dB  Pk= -5.83 dB  R/L= -1.3-> -1.2 dB  cut_step=0.0252
+Cam_S14_HeliDrop        (heli   ) RMS=-11.53 dB  Pk= -2.94 dB  R/L= -2.2-> +1.6 dB  cut_step=0.0463
+Cam_S15_OrbitCopse      (orbit  ) RMS=-11.18 dB  Pk= -2.98 dB  R/L= -3.3-> +3.2 dB  cut_step=0.0457
+Cam_S16_ChaseCopse      (chase  ) RMS=-12.80 dB  Pk= -3.15 dB  R/L= -0.1-> +0.4 dB  cut_step=0.0486
+Cam_S17_Maggotts        (fixed  ) RMS=-16.28 dB  Pk= -2.72 dB  R/L= -6.4->+10.0 dB  cut_step=0.0426
+Cam_S18_ChaseRise2      (chase  ) RMS=-10.95 dB  Pk= -2.75 dB  R/L= +0.3-> -1.2 dB  cut_step=0.0373
+Cam_S19_Onboard3        (onboard) RMS=-11.13 dB  Pk= -2.57 dB  R/L= +0.1-> +0.0 dB  cut_step=0.1242
+Cam_S20_StoweTele       (fixed  ) RMS=-20.54 dB  Pk= -5.21 dB  R/L= -3.8-> -0.1 dB  cut_step=0.0924
+Cam_S21_OrbitStowe      (orbit  ) RMS=-10.39 dB  Pk= -2.83 dB  R/L= -3.0-> +2.6 dB  cut_step=0.1869
+Cam_S22_ChaseLow        (chase  ) RMS=-11.66 dB  Pk= -3.02 dB  R/L= -0.7-> +0.4 dB  cut_step=0.1207
+Cam_S23_HeliReveal      (heli   ) RMS=-13.58 dB  Pk= -3.33 dB  R/L= -2.1-> +1.7 dB  cut_step=0.0186
+Cam_S24_Club            (fixed  ) RMS=-13.83 dB  Pk= -1.55 dB  R/L=+11.6->-13.6 dB  cut_step=0.0121
+Cam_S25_AerialOut       (aerial ) RMS=-13.02 dB  Pk= -2.38 dB  R/L= -0.7-> +2.1 dB  cut_step=0.0691

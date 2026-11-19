@@ -1,0 +1,137 @@
+Command exited with code 0.
+
+Command output:
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    21.62 GiB / 31.50 GiB (69%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    279.31 GiB / 300.00 GiB (93%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    547.66 GiB / 623.52 GiB (88%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+00:00.703  blend            | Read blend: "D:\项目session\blender-supercar\LATEST\v5_stage_anim.blend"
+Total base verts: 169,811 | Total evaluated verts: 179,670
+
+Top heavy evaluated meshes (>=2000 verts):
+  V5_BarrierStrip                        base= 11732v/ 5866f -> eval=  11732v/  5866f  mods=[]
+  V5_BarrierBase                         base= 11732v/ 5866f -> eval=  11732v/  5866f  mods=[]
+  V5_Barrier                             base= 11732v/ 5866f -> eval=  11732v/  5866f  mods=[]
+  DEC_Engine_RedBull_R_PATCH             base= 11001v/10719f -> eval=  11001v/ 10719f  mods=[]
+  DEC_Engine_RedBull_L_PATCH             base= 10842v/10564f -> eval=  10842v/ 10564f  mods=[]
+  DEC_Nose_Livery_PATCH                  base=  8840v/ 8595f -> eval=   8840v/  8595f  mods=[]
+  DEC_Sidepod_Oracle_L_PATCH             base=  8790v/ 8553f -> eval=   8790v/  8553f  mods=[]
+  DEC_Sidepod_Oracle_R_PATCH             base=  8740v/ 8504f -> eval=   8740v/  8504f  mods=[]
+  V5_Track                               base=  5868v/ 2933f -> eval=   5868v/  2933f  mods=[]
+  V5_RacingLine                          base=  5868v/ 2933f -> eval=   5868v/  2933f  mods=[]
+  V5_Line_R                              base=  5868v/ 2933f -> eval=   5868v/  2933f  mods=[]
+  V5_Line_L                              base=  5868v/ 2933f -> eval=   5868v/  2933f  mods=[]
+  V5_FencePosts                          base=  3888v/  972f -> eval=   3888v/   972f  mods=[]
+  V5_Verge_R                             base=  2936v/ 1467f -> eval=   2936v/  1467f  mods=[]
+  V5_Verge_L                             base=  2936v/ 1467f -> eval=   2936v/  1467f  mods=[]
+  GEO_F1_Tire_RR                         base=  2112v/ 2112f -> eval=   2112v/  2112f  mods=[]
+  GEO_F1_Tire_RL                         base=  2112v/ 2112f -> eval=   2112v/  2112f  mods=[]
+  GEO_F1_Tire_FR                         base=  2112v/ 2112f -> eval=   2112v/  2112f  mods=[]
+  GEO_F1_Tire_FL                         base=  2112v/ 2112f -> eval=   2112v/  2112f  mods=[]
+
+Degenerate / loose-vert meshes:
+  ('DEC_Engine_RedBull_L_PATCH (loose_verts=30)', 10842, 10564)
+  ('DEC_Engine_RedBull_R_PATCH (loose_verts=22)', 11001, 10719)
+  ('DEC_Halo_Top_Oracle_PATCH (loose_verts=4)', 1646, 1543)
+  ('DEC_Nose_Livery_PATCH (loose_verts=1)', 8840, 8595)
+  ('DEC_Sidepod_Oracle_L_PATCH (loose_verts=6)', 8790, 8553)
+  ('DEC_Sidepod_Oracle_R_PATCH (loose_verts=6)', 8740, 8504)
+  ('GEO_F1_Monocoque_Chassis (loose_verts=1)', 42, 29)
+  ('V5_FieldMasts (loose_verts=88)', 144, 16)
+
+Exact overlapping bbox (center + dims) groups:
+  loc=(0.0, 0.0, 0.0) dims=(6.796, 8.797, 3.6) -> ['V5_Ad_23', 'V5_Ad_24']
+  loc=(0.0, 0.0, 0.0) dims=(8.249, 7.456, 3.6) -> ['V5_Ad_47', 'V5_Ad_48']
+  loc=(0.0, 0.0, 0.0) dims=(0.071, 0.071, 1.0) -> ['V5_Brake_0_100_pole', 'V5_Brake_0_100_pole.001', 'V5_Brake_0_150_pole', 'V5_Brake_0_150_pole.001', 'V5_Brake_0_50_pole', 'V5_Brake_0_50_pole.001']
+  loc=(0.0, 0.0, 0.0) dims=(0.065, 0.065, 1.0) -> ['V5_Brake_1_100_pole', 'V5_Brake_1_100_pole.001']
+  loc=(0.0, 0.0, 0.0) dims=(0.063, 0.063, 1.0) -> ['V5_Brake_1_150_pole', 'V5_Brake_1_150_pole.001']
+  loc=(0.0, 0.0, 0.0) dims=(0.07, 0.07, 1.0) -> ['V5_Brake_1_50_pole', 'V5_Brake_1_50_pole.001', 'V5_Brake_2_100_pole', 'V5_Brake_2_100_pole.001', 'V5_Brake_2_150_pole', 'V5_Brake_2_150_pole.001', 'V5_Brake_2_50_pole', 'V5_Brake_2_50_pole.001']
+  loc=(0.0, 0.0, 0.0) dims=(0.6, 0.6, 5.6) -> ['V5_Bridge_A_pier', 'V5_Bridge_A_pier.001', 'V5_Bridge_B_pier', 'V5_Bridge_B_pier.001']
+  loc=(0.0, 0.0, 0.0) dims=(24.669, 13.421, 0.1) -> ['V5_Bridge_A_rail', 'V5_Bridge_A_rail.001']
+  loc=(0.0, 0.0, 0.0) dims=(19.396, 20.332, 0.1) -> ['V5_Bridge_B_rail', 'V5_Bridge_B_rail.001']
+  loc=(0.0, 0.0, 0.0) dims=(0.613, 0.613, 7.2) -> ['V5_Gantry_Post_-1', 'V5_Gantry_Post_1']
+  loc=(0.0, 0.0, 0.0) dims=(0.685, 0.685, 4.0) -> ['V5_Screen_A_leg', 'V5_Screen_A_leg.001']
+  loc=(0.0, 0.0, 0.0) dims=(0.65, 0.65, 4.0) -> ['V5_Screen_B_leg', 'V5_Screen_B_leg.001']
+  loc=(0.0, 0.0, 0.0) dims=(0.326, 0.326, 12.18) -> ['V5_Stand_Club_Col0', 'V5_Stand_Club_Col1', 'V5_Stand_Club_Col2', 'V5_Stand_Club_Col3', 'V5_Stand_Club_Col4', 'V5_Stand_Club_Col5', 'V5_Stand_Club_Col6', 'V5_Stand_Club_Col7']
+  loc=(0.0, 0.0, 0.0) dims=(0.109, 0.109, 6.0) -> ['V5_Stand_Club_Flagpole0', 'V5_Stand_Club_Flagpole1', 'V5_Stand_Club_Flagpole2', 'V5_Stand_Main_Flagpole0', 'V5_Stand_Main_Flagpole1', 'V5_Stand_Main_Flagpole2', 'V5_Stand_Main_Flagpole3']
+  loc=(0.0, 0.0, 0.0) dims=(0.38, 0.38, 9.38) -> ['V5_Stand_Club_Post-1', 'V5_Stand_Club_Post1']
+  loc=(0.0, 0.0, 0.0) dims=(0.217, 0.217, 0.16) -> ['V5_Stand_Club_Truss0', 'V5_Stand_Club_Truss1', 'V5_Stand_Club_Truss10', 'V5_Stand_Club_Truss11', 'V5_Stand_Club_Truss12', 'V5_Stand_Club_Truss2', 'V5_Stand_Club_Truss3', 'V5_Stand_Club_Truss4', 'V5_Stand_Club_Truss5', 'V5_Stand_Club_Truss6', 'V5_Stand_Club_Truss7', 'V5_Stand_Club_Truss8', 'V5_Stand_Club_Truss9', 'V5_Stand_Club_TrussB0', 'V5_Stand_Club_TrussB1', 'V5_Stand_Club_TrussB10', 'V5_Stand_Club_TrussB11', 'V5_Stand_Club_TrussB12', 'V5_Stand_Club_TrussB2', 'V5_Stand_Club_TrussB3', 'V5_Stand_Club_TrussB4', 'V5_Stand_Club_TrussB5', 'V5_Stand_Club_TrussB6', 'V5_Stand_Club_TrussB7', 'V5_Stand_Club_TrussB8', 'V5_Stand_Club_TrussB9', 'V5_Stand_Main_Truss0', 'V5_Stand_Main_Truss1', 'V5_Stand_Main_Truss10', 'V5_Stand_Main_Truss11', 'V5_Stand_Main_Truss12', 'V5_Stand_Main_Truss13', 'V5_Stand_Main_Truss14', 'V5_Stand_Main_Truss15', 'V5_Stand_Main_Truss16', 'V5_Stand_Main_Truss17', 'V5_Stand_Main_Truss18', 'V5_Stand_Main_Truss2', 'V5_Stand_Main_Truss3', 'V5_Stand_Main_Truss4', 'V5_Stand_Main_Truss5', 'V5_Stand_Main_Truss6', 'V5_Stand_Main_Truss7', 'V5_Stand_Main_Truss8', 'V5_Stand_Main_Truss9', 'V5_Stand_Main_TrussB0', 'V5_Stand_Main_TrussB1', 'V5_Stand_Main_TrussB10', 'V5_Stand_Main_TrussB11', 'V5_Stand_Main_TrussB12', 'V5_Stand_Main_TrussB13', 'V5_Stand_Main_TrussB14', 'V5_Stand_Main_TrussB15', 'V5_Stand_Main_TrussB16', 'V5_Stand_Main_TrussB17', 'V5_Stand_Main_TrussB18', 'V5_Stand_Main_TrussB2', 'V5_Stand_Main_TrussB3', 'V5_Stand_Main_TrussB4', 'V5_Stand_Main_TrussB5', 'V5_Stand_Main_TrussB6', 'V5_Stand_Main_TrussB7', 'V5_Stand_Main_TrussB8', 'V5_Stand_Main_TrussB9']
+  loc=(0.0, 0.0, 0.0) dims=(0.317, 0.317, 12.76) -> ['V5_Stand_Complex_Col0', 'V5_Stand_Complex_Col1', 'V5_Stand_Complex_Col2', 'V5_Stand_Complex_Col3', 'V5_Stand_Complex_Col4', 'V5_Stand_Complex_Col5', 'V5_Stand_Complex_Col6', 'V5_Stand_Complex_Col7', 'V5_Stand_Complex_Col8']
+  loc=(0.0, 0.0, 0.0) dims=(0.106, 0.106, 6.0) -> ['V5_Stand_Complex_Flagpole0', 'V5_Stand_Complex_Flagpole1', 'V5_Stand_Complex_Flagpole2', 'V5_Stand_Complex_Flagpole3']
+  loc=(0.0, 0.0, 0.0) dims=(0.37, 0.37, 9.96) -> ['V5_Stand_Complex_Post-1', 'V5_Stand_Complex_Post1']
+  loc=(0.0, 0.0, 0.0) dims=(0.211, 0.211, 0.16) -> ['V5_Stand_Complex_Truss0', 'V5_Stand_Complex_Truss1', 'V5_Stand_Complex_Truss10', 'V5_Stand_Complex_Truss11', 'V5_Stand_Complex_Truss12', 'V5_Stand_Complex_Truss13', 'V5_Stand_Complex_Truss14', 'V5_Stand_Complex_Truss15', 'V5_Stand_Complex_Truss2', 'V5_Stand_Complex_Truss3', 'V5_Stand_Complex_Truss4', 'V5_Stand_Complex_Truss5', 'V5_Stand_Complex_Truss6', 'V5_Stand_Complex_Truss7', 'V5_Stand_Complex_Truss8', 'V5_Stand_Complex_Truss9', 'V5_Stand_Complex_TrussB0', 'V5_Stand_Complex_TrussB1', 'V5_Stand_Complex_TrussB10', 'V5_Stand_Complex_TrussB11', 'V5_Stand_Complex_TrussB12', 'V5_Stand_Complex_TrussB13', 'V5_Stand_Complex_TrussB14', 'V5_Stand_Complex_TrussB15', 'V5_Stand_Complex_TrussB2', 'V5_Stand_Complex_TrussB3', 'V5_Stand_Complex_TrussB4', 'V5_Stand_Complex_TrussB5', 'V5_Stand_Complex_TrussB6', 'V5_Stand_Complex_TrussB7', 'V5_Stand_Complex_TrussB8', 'V5_Stand_Complex_TrussB9']
+  loc=(0.0, 0.0, 0.0) dims=(0.326, 0.326, 13.34) -> ['V5_Stand_Main_Col0', 'V5_Stand_Main_Col1', 'V5_Stand_Main_Col10', 'V5_Stand_Main_Col2', 'V5_Stand_Main_Col3', 'V5_Stand_Main_Col4', 'V5_Stand_Main_Col5', 'V5_Stand_Main_Col6', 'V5_Stand_Main_Col7', 'V5_Stand_Main_Col8', 'V5_Stand_Main_Col9']
+  loc=(0.0, 0.0, 0.0) dims=(0.38, 0.38, 10.54) -> ['V5_Stand_Main_Post-1', 'V5_Stand_Main_Post1']
+  loc=(0.0, 0.0, 0.0) dims=(0.312, 0.312, 12.76) -> ['V5_Stand_Mid_Col0', 'V5_Stand_Mid_Col1', 'V5_Stand_Mid_Col2', 'V5_Stand_Mid_Col3', 'V5_Stand_Mid_Col4', 'V5_Stand_Mid_Col5', 'V5_Stand_Mid_Col6', 'V5_Stand_Mid_Col7']
+  loc=(0.0, 0.0, 0.0) dims=(0.104, 0.104, 6.0) -> ['V5_Stand_Mid_Flagpole0', 'V5_Stand_Mid_Flagpole1', 'V5_Stand_Mid_Flagpole2']
+  loc=(0.0, 0.0, 0.0) dims=(0.364, 0.364, 9.96) -> ['V5_Stand_Mid_Post-1', 'V5_Stand_Mid_Post1']
+  loc=(0.0, 0.0, 0.0) dims=(0.208, 0.208, 0.16) -> ['V5_Stand_Mid_Truss0', 'V5_Stand_Mid_Truss1', 'V5_Stand_Mid_Truss10', 'V5_Stand_Mid_Truss11', 'V5_Stand_Mid_Truss12', 'V5_Stand_Mid_Truss13', 'V5_Stand_Mid_Truss2', 'V5_Stand_Mid_Truss3', 'V5_Stand_Mid_Truss4', 'V5_Stand_Mid_Truss5', 'V5_Stand_Mid_Truss6', 'V5_Stand_Mid_Truss7', 'V5_Stand_Mid_Truss8', 'V5_Stand_Mid_Truss9', 'V5_Stand_Mid_TrussB0', 'V5_Stand_Mid_TrussB1', 'V5_Stand_Mid_TrussB10', 'V5_Stand_Mid_TrussB11', 'V5_Stand_Mid_TrussB12', 'V5_Stand_Mid_TrussB13', 'V5_Stand_Mid_TrussB2', 'V5_Stand_Mid_TrussB3', 'V5_Stand_Mid_TrussB4', 'V5_Stand_Mid_TrussB5', 'V5_Stand_Mid_TrussB6', 'V5_Stand_Mid_TrussB7', 'V5_Stand_Mid_TrussB8', 'V5_Stand_Mid_TrussB9']
+  loc=(0.0, 0.0, 0.0) dims=(0.262, 0.262, 12.18) -> ['V5_Stand_South_Col0', 'V5_Stand_South_Col1', 'V5_Stand_South_Col2', 'V5_Stand_South_Col3', 'V5_Stand_South_Col4', 'V5_Stand_South_Col5', 'V5_Stand_South_Col6']
+  loc=(0.0, 0.0, 0.0) dims=(0.087, 0.087, 6.0) -> ['V5_Stand_South_Flagpole0', 'V5_Stand_South_Flagpole1', 'V5_Stand_South_Flagpole2']
+  loc=(0.0, 0.0, 0.0) dims=(0.305, 0.305, 9.38) -> ['V5_Stand_South_Post-1', 'V5_Stand_South_Post1']
+  loc=(0.0, 0.0, 0.0) dims=(0.174, 0.174, 0.16) -> ['V5_Stand_South_Truss0', 'V5_Stand_South_Truss1', 'V5_Stand_South_Truss10', 'V5_Stand_South_Truss11', 'V5_Stand_South_Truss2', 'V5_Stand_South_Truss3', 'V5_Stand_South_Truss4', 'V5_Stand_South_Truss5', 'V5_Stand_South_Truss6', 'V5_Stand_South_Truss7', 'V5_Stand_South_Truss8', 'V5_Stand_South_Truss9', 'V5_Stand_South_TrussB0', 'V5_Stand_South_TrussB1', 'V5_Stand_South_TrussB10', 'V5_Stand_South_TrussB11', 'V5_Stand_South_TrussB2', 'V5_Stand_South_TrussB3', 'V5_Stand_South_TrussB4', 'V5_Stand_South_TrussB5', 'V5_Stand_South_TrussB6', 'V5_Stand_South_TrussB7', 'V5_Stand_South_TrussB8', 'V5_Stand_South_TrussB9']
+  loc=(0.0, 0.0, 0.0) dims=(0.339, 0.339, 12.18) -> ['V5_Stand_T1_Col0', 'V5_Stand_T1_Col1', 'V5_Stand_T1_Col2', 'V5_Stand_T1_Col3', 'V5_Stand_T1_Col4', 'V5_Stand_T1_Col5', 'V5_Stand_T1_Col6']
+  loc=(0.0, 0.0, 0.0) dims=(0.113, 0.113, 6.0) -> ['V5_Stand_T1_Flagpole0', 'V5_Stand_T1_Flagpole1', 'V5_Stand_T1_Flagpole2']
+  loc=(0.0, 0.0, 0.0) dims=(0.396, 0.396, 9.38) -> ['V5_Stand_T1_Post-1', 'V5_Stand_T1_Post1']
+  loc=(0.0, 0.0, 0.0) dims=(0.226, 0.226, 0.16) -> ['V5_Stand_T1_Truss0', 'V5_Stand_T1_Truss1', 'V5_Stand_T1_Truss10', 'V5_Stand_T1_Truss11', 'V5_Stand_T1_Truss2', 'V5_Stand_T1_Truss3', 'V5_Stand_T1_Truss4', 'V5_Stand_T1_Truss5', 'V5_Stand_T1_Truss6', 'V5_Stand_T1_Truss7', 'V5_Stand_T1_Truss8', 'V5_Stand_T1_Truss9', 'V5_Stand_T1_TrussB0', 'V5_Stand_T1_TrussB1', 'V5_Stand_T1_TrussB10', 'V5_Stand_T1_TrussB11', 'V5_Stand_T1_TrussB2', 'V5_Stand_T1_TrussB3', 'V5_Stand_T1_TrussB4', 'V5_Stand_T1_TrussB5', 'V5_Stand_T1_TrussB6', 'V5_Stand_T1_TrussB7', 'V5_Stand_T1_TrussB8', 'V5_Stand_T1_TrussB9']
+  loc=(0.0, 0.0, 0.0) dims=(0.36, 0.36, 0.36) -> ['V5_StartLight_0', 'V5_StartLight_1', 'V5_StartLight_2', 'V5_StartLight_3', 'V5_StartLight_4']
+
+Rig bones & custom props:
+  Bones: ['Bone_Root', 'Bone_Heading', 'Bone_Body', 'Bone_Steering_Wheel', 'Bone_DRS', 'Bone_Aim', 'Bone_CamAnchor', 'Bone_Susp_FL', 'Bone_Hub_FL', 'Bone_Wheel_FL', 'Bone_Susp_FR', 'Bone_Hub_FR', 'Bone_Wheel_FR', 'Bone_Susp_RL', 'Bone_Hub_RL', 'Bone_Wheel_RL', 'Bone_Susp_RR', 'Bone_Hub_RR', 'Bone_Wheel_RR']
+  Custom props: {'steer': 0.7215142846107483, 'wheel_spin': 0.0, 'rear_slip': 1.0, 'drs': 0.5, 'brake_heat': 0.0, 'susp_f': -0.004, 'susp_r': -0.019061604514718056, 'steer_ratio': 5.0, 'rig_note': 'V4 赛车骨架: steer=转向角, wheel_spin=累计滚动弧度, drs=尾翼开度, brake_heat=刹车过热'}
+  Rig drivers: 12
+Total drivers in file: 12
+Unused materials: []
+Images:
+  ad_boards.png                  users=1 filepath=D:\项目session\blender-supercar\textures\ad_boards.png exists=True
+  bigscreen.png                  users=1 filepath=D:\项目session\blender-supercar\textures\bigscreen.png exists=True
+  brake_100.png                  users=1 filepath=D:\项目session\blender-supercar\textures\brake_100.png exists=True
+  brake_150.png                  users=1 filepath=D:\项目session\blender-supercar\textures\brake_150.png exists=True
+  brake_50.png                   users=1 filepath=D:\项目session\blender-supercar\textures\brake_50.png exists=True
+  crowd_silverstone.png          users=1 filepath=D:\项目session\blender-supercar\textures\crowd_silverstone.png exists=True
+  merc_engine.png                users=1 filepath=D:\项目session\blender-supercar\textures\merc_engine.png exists=True
+  merc_halo.png                  users=1 filepath=D:\项目session\blender-supercar\textures\merc_halo.png exists=True
+  merc_nose.png                  users=1 filepath=D:\项目session\blender-supercar\textures\merc_nose.png exists=True
+  merc_sidepod.png               users=1 filepath=D:\项目session\blender-supercar\textures\merc_sidepod.png exists=True
+  pit_garage.png                 users=1 filepath=D:\项目session\blender-supercar\textures\pit_garage.png exists=True
+  steering_display.png           users=1 filepath=//..\textures\steering_display.png exists=True
+  tire_sidewall_pirelli.png      users=1 filepath=//..\textures\tire_sidewall_pirelli.png exists=True
+
+Car livery objects (DEC_* and GEO_MERC_*):
+  DEC_Engine_RedBull_L_PATCH         verts= 10842 mats=['Mat_DEC_Engine_RedBull']
+  DEC_Engine_RedBull_R_PATCH         verts= 11001 mats=['Mat_DEC_Engine_RedBull']
+  DEC_Halo_Top_Oracle_PATCH          verts=  1646 mats=['Mat_DEC_Halo_Oracle']
+  DEC_Nose_Livery_PATCH              verts=  8840 mats=['Mat_DEC_Nose_Livery']
+  DEC_Sidepod_Oracle_L_PATCH         verts=  8790 mats=['Mat_DEC_Sidepod_Oracle']
+  DEC_Sidepod_Oracle_R_PATCH         verts=  8740 mats=['Mat_DEC_Sidepod_Oracle']
+  DEC_Tire_Sidewall_FL               verts=   640 mats=['Mat_PZero_Pirelli_Sidewall']
+  DEC_Tire_Sidewall_FR               verts=   640 mats=['Mat_PZero_Pirelli_Sidewall']
+  DEC_Tire_Sidewall_RL               verts=   640 mats=['Mat_PZero_Pirelli_Sidewall']
+  DEC_Tire_Sidewall_RR               verts=   640 mats=['Mat_PZero_Pirelli_Sidewall']
+  GEO_MERC_Stripe_Cowl_L             verts=     4 mats=['Mat_Merc_Silver']
+  GEO_MERC_Stripe_Cowl_R             verts=     4 mats=['Mat_Merc_Silver']
+  GEO_MERC_Stripe_Halo_L             verts=     4 mats=['Mat_Merc_Petronas']
+  GEO_MERC_Stripe_Halo_R             verts=     4 mats=['Mat_Merc_Petronas']
+  GEO_MERC_Stripe_Sidepod2_L         verts=     4 mats=['Mat_Merc_Silver']
+  GEO_MERC_Stripe_Sidepod2_R         verts=     4 mats=['Mat_Merc_Silver']
+  GEO_MERC_Stripe_Sidepod_L          verts=     4 mats=['Mat_Merc_Petronas']
+  GEO_MERC_Stripe_Sidepod_R          verts=     4 mats=['Mat_Merc_Petronas']
+Blender 5.3.0 (hash 02f0899d78e3 built 2026-11-10 01:33:43)
+
+Blender quit

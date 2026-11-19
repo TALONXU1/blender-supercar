@@ -1,0 +1,53 @@
+Command exited with code 0.
+
+Command output:
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    21.28 GiB / 31.50 GiB (68%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    278.02 GiB / 300.00 GiB (93%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    547.77 GiB / 623.52 GiB (88%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+
+FullName                                                       LastWriteTime        Length
+--------                                                       -------------        ------
+D:\项目session\blender-supercar\pipeline\mux_clay.sh             2026/11/17 14:47:59     695
+D:\项目session\blender-supercar\pipeline\mux_v5.sh               2026/11/14 10:26:40     718
+D:\项目session\blender-supercar\pipeline\render_clay.log         2026/11/18 13:19:00  450006
+D:\项目session\blender-supercar\pipeline\render_clay.py          2026/11/17 14:40:43    1000
+D:\项目session\blender-supercar\pipeline\render_v5.log           2026/11/14 15:31:21  220727
+D:\项目session\blender-supercar\pipeline\render_v5.py            2026/11/17 10:47:59    1007
+D:\项目session\blender-supercar\pipeline\v4_stage_rig.blend      2026/10/27 15:37:36 1882420
+D:\项目session\blender-supercar\pipeline\v4_stage_rig.blend1     2026/10/25 21:53:07 1879932
+D:\项目session\blender-supercar\pipeline\v5_anim.py              2026/11/18 12:55:59   28572
+D:\项目session\blender-supercar\pipeline\v5_clay.py              2026/11/17 14:42:01    3342
+D:\项目session\blender-supercar\pipeline\v5_env.py               2026/11/18 13:02:17   51913
+D:\项目session\blender-supercar\pipeline\v5_preview.py           2026/11/17 10:47:59    2991
+D:\项目session\blender-supercar\pipeline\v5_stills.py            2026/11/14 10:33:08    1925
+D:\项目session\blender-supercar\pipeline\v5_viewport_fast.py     2026/11/17 10:50:10    1622
+D:\项目session\blender-supercar\LATEST\README.txt                2026/11/17 10:49:34    1187
+D:\项目session\blender-supercar\LATEST\v5_stage_anim.blend       2026/11/18 13:02:26 4173270
+D:\项目session\blender-supercar\LATEST\v5_stage_anim.blend1      2026/11/18 13:01:28 4174764
+D:\项目session\blender-supercar\LATEST\v5_stage_anim_clay.blend  2026/11/18 13:02:27 4097582
+D:\项目session\blender-supercar\LATEST\v5_stage_anim_clay.blend1 2026/11/17 14:42:02 4187002
+D:\项目session\blender-supercar\LATEST\v5_stage_env.blend        2026/11/18 13:02:20 2966601
+D:\项目session\blender-supercar\LATEST\v5_stage_env.blend1       2026/11/18 13:00:29 2967072
+D:\项目session\blender-supercar\docs\F1_IMAGE25_PROMPTS.md       2026/10/27 15:02:23   25098
+D:\项目session\blender-supercar\docs\README_V4.md                2026/11/18 12:55:02   10791
+D:\项目session\blender-supercar\docs\README_V5.md                2026/11/18 12:55:00   16617
+D:\项目session\blender-supercar\docs\TRACK_DATA_README.md        2026/10/28 23:02:19    7780
+
+

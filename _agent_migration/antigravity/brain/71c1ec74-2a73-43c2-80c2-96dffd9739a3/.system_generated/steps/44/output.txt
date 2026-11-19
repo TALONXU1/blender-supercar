@@ -1,0 +1,52 @@
+Command exited with code 0.
+
+Command output:
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    23.15 GiB / 31.50 GiB (74%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    278.08 GiB / 300.00 GiB (93%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    548.09 GiB / 623.52 GiB (88%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+00:00.750  blend            | Read blend: "D:\项目session\blender-supercar\LATEST\v5_stage_anim.blend"
+BlenderMCP addon registered
+BrakeGlow DRV: nodes["Emission"].inputs[1].default_value expr= heat*9.0 is_valid= True
+  var: heat id_type= OBJECT id= RIG_F1_Race path= ["brake_heat"]
+Max brake_heat sampled: (1.2999999523162842, 191)
+At max brake_heat frame, evaluated Mat_Brake_HeatGlow strength = 11.699999809265137
+  GEO_F1_BrakeGlow_FL        hide_render=False verts=128 local_min=[-0.023, -0.184, -0.184] local_max=[-0.023, 0.184, 0.184]
+  GEO_F1_BrakeDisc_FL        hide_render=False verts=288 local_min=[-0.045, -0.188, -0.188] local_max=[-0.024, 0.188, 0.188]
+  GEO_F1_BrakeCaliper_FL     hide_render=False verts=52 local_min=[-0.094, -0.207, 0.005] local_max=[-0.002, -0.05, 0.192]
+  GEO_F1_BrakeDuct_FL        hide_render=False verts=448 local_min=[-0.169, -0.223, -0.223] local_max=[-0.069, 0.223, 0.223]
+  GEO_F1_RimSpokes_FL        hide_render=False verts=520 local_min=[0.04, -0.231, -0.224] local_max=[0.142, 0.231, 0.224]
+  CAR_LOCAL GEO_F1_Cockpit_SteeringWheel   min=[-0.129, 0.117, 0.563] max=[0.121, 0.194, 0.728]
+  CAR_LOCAL GEO_F1_Steering_LCDScreen      min=[-0.031, 0.137, 0.636] max=[0.023, 0.147, 0.664]
+  CAR_LOCAL GEO_F1_Halo_Hoop               min=[-1.018, -1.442, -0.257] max=[1.316, 1.427, 1.912]
+  CAR_LOCAL GEO_F1_Halo_CenterPylon        min=[-0.029, 0.403, 0.644] max=[0.018, 0.584, 0.886]
+  CAR_LOCAL GEO_F1_Nosecone                min=[-0.255, 1.647, 0.056] max=[0.255, 3.423, 0.549]
+  CAR_LOCAL GEO_F1_Airbox_Scoop            min=[-0.189, -1.061, 0.737] max=[0.175, -0.126, 1.114]
+  V5_Hangar_0: loc=(775.4, -287.0) dims=[84.6, 32.5, 14.3] min_dist_to_track=751.1m
+  V5_Hangar_1: loc=(-1070.6, 123.6) dims=[49.6, 43.3, 11.0] min_dist_to_track=352.3m
+  V5_Hangar_2: loc=(425.5, 384.4) dims=[75.5, 42.6, 13.6] min_dist_to_track=293.8m
+  V5_Hangar_3: loc=(-775.5, 835.2) dims=[79.2, 47.7, 14.9] min_dist_to_track=94.4m
+  V5_Hangar_4: loc=(571.7, 104.1) dims=[78.0, 41.1, 14.1] min_dist_to_track=424.4m
+  V5_Hangar_5: loc=(-606.8, 955.4) dims=[63.7, 51.5, 14.3] min_dist_to_track=17.2m
+  V5_HedgeRing: min_dist_to_track=5.6m, max_track_radius_from_hedge_center=929.7m
+Cam_S20_StoweTele blockers by object: {'V5_FencePosts': [1712, 1748], 'V5_Ad_70': [1714, 1716], 'V5_Ad_72': [1722, 1724, 1726, 1728, 1730, 1732], 'V5_Ad_73': [1762, 1764, 1766, 1768, 1770, 1772, 1774, 1776, 1778, 1780, 1782, 1784, 1786, 1788]}
+BlenderMCP addon unregistered
+Blender 5.3.0 (hash 02f0899d78e3 built 2026-11-10 01:33:43)
+
+Blender quit

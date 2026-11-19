@@ -1,0 +1,97 @@
+Command exited with code 0.
+
+Command output:
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    21.13 GiB / 31.50 GiB (67%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    277.96 GiB / 300.00 GiB (93%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    547.75 GiB / 623.52 GiB (88%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+
+Name               
+----               
+diag               
+preview            
+v5                 
+analyze_audio.py   
+analyze_cue.py     
+check_carbon.py    
+check_endplate.py  
+check_mat.py       
+check_puff.py      
+check_render.py    
+check_steer_keys.py
+check_tex.py       
+check_track.py     
+chk_tex.py         
+debug2.py          
+debug3.py          
+debug4.py          
+debug5.py          
+debug6.py          
+debug_drivers.py   
+diag290.py         
+diag_base.py       
+diag_render.py     
+final_check.py     
+find_card.py       
+id_card.py         
+inspect2.py        
+inspect3.py        
+inspect_scene.py   
+list_cols.py       
+make_merc_decals.py
+measure.py         
+measure2.py        
+measure_decal.py   
+measure_rig.py     
+measure_uv.py      
+min_driver.py      
+mux_music.sh       
+preview.py         
+probe2.py          
+probe3.py          
+probe_api.py       
+probe_comp.py      
+quick_smoke.py     
+render_final.py    
+run_base_build.py  
+time_frame.py      
+v4_anim.py         
+v4_model.py        
+v4_rig.py          
+validate_rig.py    
+verify_rig_anim.py 
+
+Path                                                  LineNumber Line                                                                                                                                                                                     
+----                                                  ---------- ----                                                                                                                                                                                     
+D:\项目session\blender-supercar\README.md                       10 | [pipeline/](pipeline/) | `v5_env.py`、`v5_anim.py`、`render_v5.py`、`v5_organize.py`、`v5_viewport_fast.py`、`v5_stills.py`、`mux_v5.sh`、`v4_stage_rig.blend` | 现役管线；`v4_stage_rig.blend` ...
+D:\项目session\blender-supercar\docs\README_V4.md                3 > **已被 V5 取代**：真实银石赛道整圈（90 s / 25 机位 / 数据驱动）见 `README_V5.md`。本文保留作为 V4 的对照记录。                                                                                                            
+D:\项目session\blender-supercar\docs\README_V5.md                1 # V5 — 真实银石赛道整圈（90 s / 25 机位 / 数据驱动）                                                                                                                                                     
+D:\项目session\blender-supercar\docs\README_V5.md              104 ## 5. 25 个机位                                                                                                                                                                             
+D:\项目session\blender-supercar\docs\README_V5.md              167 | `pipeline/v5_anim.py` | 轨迹采样 + 骨架烘焙 + 25 机位 + 物理自检 |                                                                                                                                   
+D:\项目session\blender-supercar\docs\README_V5.md              170 | `pipeline/v5_stage_env.blend` | 中间产物：模型 + 骨架 + 环境 |                                                                                                                                    
+D:\项目session\blender-supercar\docs\README_V5.md              171 | `pipeline/v5_stage_anim.blend` | 交付工程：含整圈动画与全部机位 |                                                                                                                                     
+D:\项目session\blender-supercar\pipeline\v5_anim.py              4 输入: pipeline/v5_stage_env.blend                                                                                                                                                          
+D:\项目session\blender-supercar\pipeline\v5_anim.py              5 输出: pipeline/v5_stage_anim.blend                                                                                                                                                         
+D:\项目session\blender-supercar\pipeline\v5_env.py               5 输出: pipeline/v5_stage_env.blend                                                                                                                                                          
+D:\项目session\blender-supercar\pipeline\v5_organize.py          9 用法: blender -b -P pipeline/v5_organize.py                                                                                                                                                
+
+
+
+
+

@@ -1,0 +1,220 @@
+Command exited with code 0.
+
+Command output:
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    21.39 GiB / 31.50 GiB (68%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    277.96 GiB / 300.00 GiB (93%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    547.81 GiB / 623.52 GiB (88%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+# -*- coding: utf-8 -*-
+"""
+V5 鐧芥ā锛坈lay锛夌増鏈細鎶婃墍鏈夋潗璐ㄦ浛鎹㈡垚缁熶竴鐏版ā锛屼繚鐣欏厜褰变笌鍔ㄧ敾銆?
+杈撳叆: LATEST/v5_stage_anim.blend
+杈撳嚭: LATEST/v5_stage_anim_clay.blend锛堝師鏂囦欢涓嶅姩锛?
+
+鐢ㄦ硶: blender -b -P pipeline/v5_clay.py
+"""
+import bpy
+import os
+
+PROJ = r"D:\椤圭洰session\blender-supercar"
+SRC = os.path.join(PROJ, "LATEST", "v5_stage_anim.blend")
+DST = os.path.join(PROJ, "LATEST", "v5_stage_anim_clay.blend")
+
+bpy.ops.wm.open_mainfile(filepath=SRC)
+scene = bpy.context.scene
+
+
+def clay(name, value, rough=0.62):
+    m = bpy.data.materials.get(name) or bpy.data.materials.new(name)
+    m.use_nodes = True
+    nt = m.node_tree
+    nt.nodes.clear()
+    b = nt.nodes.new("ShaderNodeBsdfPrincipled")
+    b.inputs['Base Color'].default_value = (value, value, value, 1.0)
+    b.inputs['Roughness'].default_value = rough
+    b.inputs['Specular IOR Level'].default_value = 0.12
+    b.inputs['Metallic'].default_value = 0.0
+    out = nt.nodes.new("ShaderNodeOutputMaterial")
+    nt.links.new(b.outputs['BSDF'], out.inputs['Surface'])
+    return m
+
+
+M_CAR = clay("CLAY_Car", 0.88, 0.52)
+M_ENV = clay("CLAY_Env", 0.40, 0.72)
+M_SKY = clay("CLAY_Sky", 0.22, 0.9)
+
+# 澶╃┖绌归《锛氭崲鎴愪腑鎬х伆鑷彂鍏夛紝閬垮厤淇濈暀榛勬槒閰嶈壊
+sky = bpy.data.objects.get("V5_SkyDome")
+if sky and sky.data.materials:
+    _m = bpy.data.materials.get("CLAY_SkyEmit")
+    if not _m:
+        _m = bpy.data.materials.new("CLAY_SkyEmit")
+        _m.use_nodes = True
+        nt = _m.node_tree
+        nt.nodes.clear()
+        e = nt.nodes.new("ShaderNodeEmission")
+        e.inputs['Color'].default_value = (0.145, 0.150, 0.160, 1.0)
+        e.inputs['Strength'].default_value = 1.0
+        o = nt.nodes.new("ShaderNodeOutputMaterial")
+        nt.links.new(e.outputs['Emission'], o.inputs['Surface'])
+    for i in range(len(sky.data.materials)):
+        sky.data.materials[i] = _m
+
+# 杞?vs 鐜
+n_car = n_env = 0
+for ob in bpy.data.objects:
+    if ob.type != 'MESH':
+        continue
+    if ob.name.startswith("V5_SkyDome"):
+        continue
+    is_car = (not ob.name.startswith("V5_")) and (not ob.name.startswith("GEO_Race"))
+    mat = M_CAR if is_car else M_ENV
+    me = ob.data
+    if me.materials:
+        for i in range(len(me.materials)):
+            me.materials[i] = mat
+    else:
+        me.materials.append(mat)
+    if is_car:
+        n_car += 1
+    else:
+        n_env += 1
+
+# 涓栫晫锛氫腑鎬х伆锛屽幓鎺夎壊褰?
+world = scene.world
+if world:
+    world.use_nodes = True
+    nt = world.node_tree
+    nt.nodes.clear()
+    bg = nt.nodes.new("ShaderNodeBackground")
+    bg.inputs['Color'].default_value = (0.05, 0.052, 0.058, 1.0)
+    bg.inputs['Strength'].default_value = 1.0
+    out = nt.nodes.new("ShaderNodeOutputWorld")
+    nt.links.new(bg.outputs[0], out.inputs[0])
+
+# 鍏虫帀娉涘厜锛堢櫧妯′笉闇€瑕侊級
+try:
+    scene.use_nodes = False
+except Exception:
+    pass
+
+# 鏇濆厜鍥炲埌涓€?
+try:
+    scene.view_settings.view_transform = 'Standard'
+    scene.view_settings.look = 'None'
+    scene.view_settings.exposure = 0.20
+    scene.view_settings.gamma = 1.0
+except Exception:
+    pass
+
+print("clay: car meshes=%d env meshes=%d" % (n_car, n_env))
+
+bpy.ops.wm.save_as_mainfile(filepath=DST)
+print("CLAY SAVED:", DST)
+# -*- coding: utf-8 -*-
+"""鐧芥ā娓叉煋锛?920x1080 / 24fps / 2161 甯?/ EEVEE clay"""
+import bpy, os, time
+
+PROJ = r"D:\椤圭洰session\blender-supercar"
+BLEND = os.path.join(PROJ, "LATEST", "v5_stage_anim_clay.blend")
+FRAMES = os.path.join(PROJ, "renders_v5", "clay_frames")
+
+bpy.ops.wm.open_mainfile(filepath=BLEND)
+sc = bpy.context.scene
+os.makedirs(FRAMES, exist_ok=True)
+sc.render.engine = 'BLENDER_EEVEE'
+sc.eevee.taa_render_samples = 16
+sc.eevee.use_raytracing = True
+sc.render.resolution_x = 1920
+sc.render.resolution_y = 1080
+sc.render.resolution_percentage = 100
+sc.render.fps = 24
+sc.frame_start = 1
+sc.frame_end = 2161
+sc.render.use_motion_blur = True
+sc.render.image_settings.file_format = 'JPEG'
+sc.render.image_settings.quality = 95
+sc.render.filepath = os.path.join(FRAMES, "f_")
+sc.render.use_overwrite = False
+sc.render.use_placeholder = True
+print("CLAY RENDER START", time.time(), flush=True)
+bpy.ops.render.render(animation=True)
+print("CLAY RENDER END", time.time(), flush=True)
+#!/bin/bash
+# 鐧芥ā鎴愮墖锛歝lay_frames -> H.264锛涘啀鍙犲悓涓€娈?90 s 閰嶄箰锛堟柟渚垮拰姝ｇ墖瀵圭収锛?set -e
+FF=/c/Users/86052/scoop/shims/ffmpeg.exe
+PROJ="D:/椤圭洰session/blender-supercar"
+FR="$PROJ/renders_v5/clay_frames"
+AUD="$PROJ/renders_v5/audio_v5_90s.m4a"
+SILENT="$PROJ/renders_v5/f1_silverstone_clay_silent.mp4"
+OUT="$PROJ/renders_v5/f1_silverstone_clay_1080p.mp4"
+
+"$FF" -y -framerate 24 -i "$FR/f_%04d.jpg" \
+  -c:v libx264 -preset slow -crf 18 -pix_fmt yuv420p \
+  -movflags +faststart "$SILENT" 2>&1 | tail -2
+
+"$FF" -y -i "$SILENT" -i "$AUD" \
+  -map 0:v -map 1:a -c:v copy -c:a aac -b:a 192k -shortest \
+  -movflags +faststart "$OUT" 2>&1 | tail -2
+
+ls -la "$SILENT" "$OUT"
+# -*- coding: utf-8 -*-
+"""
+瑙嗗彛鍔犻€熷紑鍏筹細鎶婇噸鐗╀欢鍦ㄨ鍙ｉ噷闄嶇骇锛屾覆鏌撳畬鍏ㄤ笉鍙楀奖鍝嶃€?
+鐢ㄦ硶:
+  blender -b LATEST/v5_stage_anim.blend -P pipeline/v5_viewport_fast.py -- fast
+  blender -b LATEST/v5_stage_anim.blend -P pipeline/v5_viewport_fast.py -- normal
+
+fast   : 鐪嬪彴/閬撳叿闆嗗悎瑙嗗彛闅愯棌 + 閲嶇墿浠跺彧鏄剧ず鍖呭洿鐩掞紙BOUNDS锛?normal : 鎭㈠瀹炰綋鏄剧ず
+
+娉ㄦ剰锛氭敼鐨勬槸 hide_viewport / display_type锛岄兘鏄鍙ｄ笓灞炲睘鎬э紝
+娓叉煋锛團12锛変笉鍙椾换浣曞奖鍝嶃€備繚瀛樺悗閲嶅紑浠嶇劧鏈夋晥銆?"""
+import bpy
+import sys
+
+ARGV = sys.argv[sys.argv.index("--") + 1:] if "--" in sys.argv else []
+MODE = (ARGV[0] if ARGV else "fast").lower()
+
+HEAVY_COLLS = ("V5_04_Stands", "V5_06_Props", "V5_02_Terrain")
+HEAVY_OBJ_PREFIX = ("V5_Stand_", "V5_Ad_", "V5_Brake_", "V5_Marshal_",
+                    "V5_Screen_", "V5_Bridge_", "V5_Hangar_", "V5_Gantry")
+
+fast = MODE.startswith("fast")
+
+# 1) 闆嗗悎瑙嗗彛鏄鹃殣
+for c in bpy.data.collections:
+    if c.name in HEAVY_COLLS:
+        c.hide_viewport = fast
+
+# 2) 閲嶇墿浠舵樉绀烘ā寮?changed = 0
+for ob in bpy.data.objects:
+    if not ob.name.startswith(HEAVY_OBJ_PREFIX):
+        continue
+    ob.display_type = 'BOUNDS' if fast else 'TEXTURED'
+    changed += 1
+
+# 3) 瑙嗗彛閲囨牱锛堝彧褰卞搷瑙嗗彛锛屼笉褰卞搷娓叉煋锛?sc = bpy.context.scene
+try:
+    sc.eevee.taa_samples = 8 if fast else 16
+except Exception:
+    pass
+
+print("viewport mode = %s | display_type changed = %d | collections hidden = %s"
+      % (MODE, changed, [c.name for c in bpy.data.collections
+                         if c.name in HEAVY_COLLS and c.hide_viewport]))

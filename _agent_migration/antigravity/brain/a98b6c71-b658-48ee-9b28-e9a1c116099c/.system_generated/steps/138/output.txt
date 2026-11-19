@@ -1,0 +1,37 @@
+Command exited with code 0.
+
+Command output:
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    23.07 GiB / 31.50 GiB (73%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    279.28 GiB / 300.00 GiB (93%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    548.23 GiB / 623.52 GiB (88%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+00:00.734  blend            | Read blend: "C:\Users\86052\.gemini\antigravity\brain\a98b6c71-b658-48ee-9b28-e9a1c116099c\scratch\test_anim.blend"
+00:02.359  render           | Saved: 'D:\项目session\blender-supercar\renders_v5\test\proto_0160.jpg'
+00:03.312  render           | Saved: 'D:\项目session\blender-supercar\renders_v5\test\proto_0350.jpg'
+00:04.687  render           | Saved: 'D:\项目session\blender-supercar\renders_v5\test\proto_1640.jpg'
+00:06.000  render           | Saved: 'D:\项目session\blender-supercar\renders_v5\test\proto_1730.jpg'
+BlenderMCP addon registered
+BlenderMCP addon unregistered
+Blender 5.3.0 (hash 02f0899d78e3 built 2026-11-10 01:33:43)
+
+Blender quit
+proto_0160.jpg                   1280x720 MeanL= 72.2 P05/50/95= 5.0/ 53.8/164.3 Clip=0.27% Dark= 0.2% Sharp(car/bg)=5.56/1.62 HotGlowPx=   11 LowDetail=3.08 LEDPx=  292
+proto_0350.jpg                   1280x720 MeanL= 88.4 P05/50/95=12.1/ 65.8/180.1 Clip=1.06% Dark= 0.0% Sharp(car/bg)=4.94/3.68 HotGlowPx=  766 LowDetail=2.93 LEDPx= 1107
+proto_1640.jpg                   1280x720 MeanL= 77.8 P05/50/95= 6.1/ 56.4/173.7 Clip=0.44% Dark= 0.1% Sharp(car/bg)=6.97/0.78 HotGlowPx=   11 LowDetail=4.16 LEDPx=  198
+proto_1730.jpg                   1280x720 MeanL= 74.7 P05/50/95=24.1/ 66.3/117.6 Clip=0.11% Dark= 0.0% Sharp(car/bg)=3.04/1.27 HotGlowPx=    0 LowDetail=1.18 LEDPx=    0

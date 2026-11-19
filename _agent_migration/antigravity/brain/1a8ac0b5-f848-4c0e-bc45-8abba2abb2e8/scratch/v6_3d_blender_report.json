@@ -1,0 +1,644 @@
+{
+  "frame_end": 1281,
+  "total_objects": 306,
+  "root_objects": [],
+  "use_raytracing": true,
+  "taa_render_samples": 20,
+  "motion_blur_shutter": 0.07,
+  "view_layer_passes": {
+    "use_pass_normal": true,
+    "use_pass_mist": true,
+    "use_pass_z": true,
+    "use_pass_emit": false,
+    "use_pass_cryptomatte_object": true
+  },
+  "fx_objects": [
+    "V6_FX_AeroRibbon_FL",
+    "V6_FX_AeroRibbon_FR",
+    "V6_FX_AeroRibbon_RL",
+    "V6_FX_AeroRibbon_RR",
+    "V6_FX_ExhaustCone",
+    "V6_FX_KerbSparks_L",
+    "V6_FX_KerbSparks_R",
+    "V6_FX_RoosterSpray_RL",
+    "V6_FX_RoosterSpray_RR",
+    "V6_FX_WheelSmear_FL",
+    "V6_FX_WheelSmear_FR",
+    "V6_FX_WheelSmear_RL",
+    "V6_FX_WheelSmear_RR"
+  ],
+  "max_tire_road_err_m": 0.9882,
+  "worst_tire_contacts": [
+    [
+      761,
+      "Bone_Wheel_FL",
+      0.9882
+    ],
+    [
+      761,
+      "Bone_Wheel_FR",
+      0.983
+    ],
+    [
+      321,
+      "Bone_Wheel_FL",
+      0.9791
+    ],
+    [
+      321,
+      "Bone_Wheel_FR",
+      0.9772
+    ],
+    [
+      301,
+      "Bone_Wheel_FL",
+      0.9708
+    ],
+    [
+      781,
+      "Bone_Wheel_RR",
+      0.9703
+    ],
+    [
+      861,
+      "Bone_Wheel_FL",
+      0.9698
+    ],
+    [
+      241,
+      "Bone_Wheel_RR",
+      0.9694
+    ]
+  ],
+  "cam_constant_violations": [],
+  "rig_root_constant_violations": [],
+  "rig_twos_channel_count": 9,
+  "compositor_nodes": [
+    "VALUE:V6_FocusDist",
+    "VALUE:V6_DofSpan",
+    "VALUE:V6_KuwaharaSize",
+    "VALUE:V6_KuwaharaMix",
+    "VALUE:V6_GwenWash",
+    "VALUE:V6_Cyber2099Wash",
+    "VALUE:V6_SplitPxX",
+    "VALUE:V6_SplitPxY",
+    "VALUE:V6_GlitchMask",
+    "VALUE:V6_CarInkScale",
+    "VALUE:V6_HalftoneFac",
+    "VALUE:V6_SpeedLineFac",
+    "VALUE:V6_SLFlipX",
+    "VALUE:V6_SLFlipY",
+    "VALUE:V6_TunnelExitFlash",
+    "VALUE:V6_ImpactFrameA",
+    "VALUE:V6_ImpactFrameB",
+    "R_LAYERS:渲染层",
+    "CRYPTOMATTE_V2:Cryptomatte",
+    "MATH:运算",
+    "GLARE:眩光",
+    "KUWAHARA:Kuwahara桑原滤镜",
+    "VALTORGB:颜色渐变",
+    "RGBTOBW:去色",
+    "MATH:运算.001",
+    "MATH:运算.002",
+    "MIX:混合",
+    "VALTORGB:颜色渐变.001",
+    "MATH:运算.003",
+    "MIX:混合.001",
+    "VALTORGB:颜色渐变.002",
+    "MATH:运算.004",
+    "MIX:混合.002",
+    "MATH:运算.005",
+    "MATH:运算.006",
+    "MATH:运算.007",
+    "MATH:运算.008",
+    "MATH:运算.009",
+    "MATH:运算.010",
+    "MATH:运算.011",
+    "MATH:运算.012",
+    "MATH:运算.013",
+    "TRANSLATE:移动",
+    "TRANSLATE:移动.001",
+    "MATH:运算.014",
+    "MATH:运算.015",
+    "SEPARATE_COLOR:分离颜色",
+    "SEPARATE_COLOR:分离颜色.001",
+    "SEPARATE_COLOR:分离颜色.002",
+    "COMBINE_COLOR:合并颜色",
+    "MIX:混合.003",
+    "RGBTOBW:去色.001",
+    "VALTORGB:颜色渐变.003",
+    "RGBTOBW:去色.002",
+    "IMAGE:图像",
+    "MATH:运算.016",
+    "MIX:混合.004",
+    "IMAGE:图像.001",
+    "SCALE:缩放",
+    "MIX:混合.005",
+    "SEPARATE_COLOR:分离颜色.003",
+    "COMBINE_COLOR:合并颜色.001",
+    "FILTER:滤镜(过滤)",
+    "RGBTOBW:去色.003",
+    "RGBTOBW:去色.004",
+    "VALTORGB:颜色渐变.004",
+    "COMBINE_COLOR:合并颜色.002",
+    "FILTER:滤镜(过滤).001",
+    "RGBTOBW:去色.005",
+    "RGBTOBW:去色.006",
+    "VALTORGB:颜色渐变.005",
+    "MATH:运算.017",
+    "MATH:运算.018",
+    "MATH:运算.019",
+    "MATH:运算.020",
+    "MATH:运算.021",
+    "MATH:运算.022",
+    "MATH:运算.023",
+    "MATH:运算.024",
+    "MATH:运算.025",
+    "MIX:混合.006",
+    "IMAGE:图像.002",
+    "SCALE:缩放.001",
+    "RGBTOBW:去色.007",
+    "MATH:运算.026",
+    "MIX:混合.007",
+    "MIX:混合.008",
+    "MATH:运算.027",
+    "MATH:运算.028",
+    "MATH:运算.029",
+    "MATH:运算.030",
+    "MATH:运算.031",
+    "VALTORGB:颜色渐变.006",
+    "VALTORGB:颜色渐变.007",
+    "MIX:混合.009",
+    "MIX:混合.010",
+    "IMAGE:图像.003",
+    "RGBTOBW:去色.008",
+    "MIX:混合.011",
+    "GROUP_OUTPUT:组输出"
+  ],
+  "bench_1080p_sec": {
+    "100": 4.713,
+    "980": 2.629
+  },
+  "shot_count": 24,
+  "shots_with_occlusions": [],
+  "shot_audit": [
+    {
+      "shot": "Cam_S01_CanyonFPVDrop",
+      "f0": 1,
+      "f1": 54,
+      "lens": 18.6,
+      "occ_count": 0,
+      "occs": [],
+      "oof_count": 0,
+      "oof": []
+    },
+    {
+      "shot": "Cam_S02_ScraperFrontWing",
+      "f0": 55,
+      "f1": 108,
+      "lens": 15.5,
+      "occ_count": 0,
+      "occs": [],
+      "oof_count": 0,
+      "oof": []
+    },
+    {
+      "shot": "Cam_S03_ChicaneWhipPan",
+      "f0": 109,
+      "f1": 161,
+      "lens": 54.1,
+      "occ_count": 0,
+      "occs": [],
+      "oof_count": 0,
+      "oof": []
+    },
+    {
+      "shot": "Cam_S04_HaloCockpitCanyon",
+      "f0": 162,
+      "f1": 214,
+      "lens": 17.0,
+      "occ_count": 0,
+      "occs": [],
+      "oof_count": 0,
+      "oof": []
+    },
+    {
+      "shot": "Cam_S05_ViaductFOVWarp",
+      "f0": 215,
+      "f1": 268,
+      "lens": 20.4,
+      "occ_count": 0,
+      "occs": [],
+      "oof_count": 0,
+      "oof": []
+    },
+    {
+      "shot": "Cam_S06_EauRougeSparkScrape",
+      "f0": 269,
+      "f1": 321,
+      "lens": 16.0,
+      "occ_count": 0,
+      "occs": [],
+      "oof_count": 0,
+      "oof": []
+    },
+    {
+      "shot": "Cam_S07_RaidillonSkyClimb",
+      "f0": 322,
+      "f1": 374,
+      "lens": 21.0,
+      "occ_count": 0,
+      "occs": [],
+      "oof_count": 0,
+      "oof": []
+    },
+    {
+      "shot": "Cam_S08_MoonCrestTele300",
+      "f0": 375,
+      "f1": 428,
+      "lens": 91.1,
+      "occ_count": 0,
+      "occs": [],
+      "oof_count": 0,
+      "oof": []
+    },
+    {
+      "shot": "Cam_S09_BridgePylonReveal",
+      "f0": 429,
+      "f1": 481,
+      "lens": 18.5,
+      "occ_count": 0,
+      "occs": [],
+      "oof_count": 0,
+      "oof": []
+    },
+    {
+      "shot": "Cam_S10_CableStaySideBlade",
+      "f0": 482,
+      "f1": 534,
+      "lens": 30.0,
+      "occ_count": 0,
+      "occs": [],
+      "oof_count": 0,
+      "oof": []
+    },
+    {
+      "shot": "Cam_S11_BridgeDeckPursuit",
+      "f0": 535,
+      "f1": 601,
+      "lens": 17.0,
+      "occ_count": 0,
+      "occs": [],
+      "oof_count": 0,
+      "oof": []
+    },
+    {
+      "shot": "Cam_S12_BankedWallRailCam",
+      "f0": 602,
+      "f1": 668,
+      "lens": 17.0,
+      "occ_count": 0,
+      "occs": [],
+      "oof_count": 0,
+      "oof": []
+    },
+    {
+      "shot": "Cam_S13_BowlWhipOrbit",
+      "f0": 669,
+      "f1": 721,
+      "lens": 22.0,
+      "occ_count": 0,
+      "occs": [],
+      "oof_count": 0,
+      "oof": []
+    },
+    {
+      "shot": "Cam_S14_CorkscrewCrestDive",
+      "f0": 722,
+      "f1": 788,
+      "lens": 20.0,
+      "occ_count": 0,
+      "occs": [],
+      "oof_count": 0,
+      "oof": []
+    },
+    {
+      "shot": "Cam_S15_CorkscrewPlungePOV",
+      "f0": 789,
+      "f1": 841,
+      "lens": 16.0,
+      "occ_count": 0,
+      "occs": [],
+      "oof_count": 0,
+      "oof": []
+    },
+    {
+      "shot": "Cam_S16_BottomOutSparks",
+      "f0": 842,
+      "f1": 894,
+      "lens": 16.0,
+      "occ_count": 0,
+      "occs": [],
+      "oof_count": 0,
+      "oof": []
+    },
+    {
+      "shot": "Cam_S17_TunnelPortalWarp",
+      "f0": 895,
+      "f1": 948,
+      "lens": 21.2,
+      "occ_count": 0,
+      "occs": [],
+      "oof_count": 0,
+      "oof": []
+    },
+    {
+      "shot": "Cam_S18_TunnelCockpitStrobe",
+      "f0": 949,
+      "f1": 1001,
+      "lens": 16.0,
+      "occ_count": 0,
+      "occs": [],
+      "oof_count": 0,
+      "oof": []
+    },
+    {
+      "shot": "Cam_S19_TunnelWhipOrbit180",
+      "f0": 1002,
+      "f1": 1041,
+      "lens": 16.0,
+      "occ_count": 0,
+      "occs": [],
+      "oof_count": 0,
+      "oof": []
+    },
+    {
+      "shot": "Cam_S20_HarborBrakeImpact",
+      "f0": 1042,
+      "f1": 1094,
+      "lens": 29.0,
+      "occ_count": 0,
+      "occs": [],
+      "oof_count": 0,
+      "oof": []
+    },
+    {
+      "shot": "Cam_S21_HairpinWheelMacro",
+      "f0": 1095,
+      "f1": 1148,
+      "lens": 24.1,
+      "occ_count": 0,
+      "occs": [],
+      "oof_count": 0,
+      "oof": []
+    },
+    {
+      "shot": "Cam_S22_HarborLaunchChase",
+      "f0": 1149,
+      "f1": 1201,
+      "lens": 18.5,
+      "occ_count": 0,
+      "occs": [],
+      "oof_count": 0,
+      "oof": []
+    },
+    {
+      "shot": "Cam_S23_WetMirrorSkyline",
+      "f0": 1202,
+      "f1": 1241,
+      "lens": 21.0,
+      "occ_count": 0,
+      "occs": [],
+      "oof_count": 0,
+      "oof": []
+    },
+    {
+      "shot": "Cam_S24_FinishGantryRise",
+      "f0": 1242,
+      "f1": 1281,
+      "lens": 23.1,
+      "occ_count": 0,
+      "occs": [],
+      "oof_count": 0,
+      "oof": []
+    }
+  ],
+  "rois_2d": {
+    "Cam_S01_CanyonFPVDrop": {
+      "f_mid": 27,
+      "box": [
+        0.4457,
+        0.5017,
+        0.6312,
+        0.8443
+      ]
+    },
+    "Cam_S02_ScraperFrontWing": {
+      "f_mid": 81,
+      "box": [
+        0.3729,
+        0.3554,
+        1,
+        0.8176
+      ]
+    },
+    "Cam_S03_ChicaneWhipPan": {
+      "f_mid": 135,
+      "box": [
+        0.1521,
+        0.3412,
+        0.7238,
+        0.6224
+      ]
+    },
+    "Cam_S04_HaloCockpitCanyon": {
+      "f_mid": 188,
+      "box": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    "Cam_S05_ViaductFOVWarp": {
+      "f_mid": 241,
+      "box": [
+        0.3535,
+        0.3372,
+        0.6519,
+        0.6454
+      ]
+    },
+    "Cam_S06_EauRougeSparkScrape": {
+      "f_mid": 295,
+      "box": [
+        0.3172,
+        0.201,
+        0.7111,
+        0.6297
+      ]
+    },
+    "Cam_S07_RaidillonSkyClimb": {
+      "f_mid": 348,
+      "box": [
+        0.1178,
+        0.3733,
+        0.7759,
+        0.6344
+      ]
+    },
+    "Cam_S08_MoonCrestTele300": {
+      "f_mid": 401,
+      "box": [
+        0.242,
+        0.1948,
+        0.7747,
+        0.6977
+      ]
+    },
+    "Cam_S09_BridgePylonReveal": {
+      "f_mid": 455,
+      "box": [
+        0.396,
+        0.443,
+        0.6017,
+        0.6693
+      ]
+    },
+    "Cam_S10_CableStaySideBlade": {
+      "f_mid": 508,
+      "box": [
+        0,
+        0.2686,
+        1,
+        0.684
+      ]
+    },
+    "Cam_S11_BridgeDeckPursuit": {
+      "f_mid": 568,
+      "box": [
+        0.1957,
+        0.3868,
+        0.7475,
+        0.6133
+      ]
+    },
+    "Cam_S12_BankedWallRailCam": {
+      "f_mid": 635,
+      "box": [
+        0.228,
+        0.366,
+        0.6937,
+        0.6239
+      ]
+    },
+    "Cam_S13_BowlWhipOrbit": {
+      "f_mid": 695,
+      "box": [
+        0.0254,
+        0.3526,
+        0.8103,
+        0.6334
+      ]
+    },
+    "Cam_S14_CorkscrewCrestDive": {
+      "f_mid": 755,
+      "box": [
+        0.379,
+        0.4805,
+        0.6519,
+        0.8303
+      ]
+    },
+    "Cam_S15_CorkscrewPlungePOV": {
+      "f_mid": 815,
+      "box": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    "Cam_S16_BottomOutSparks": {
+      "f_mid": 868,
+      "box": [
+        0.3207,
+        0.2973,
+        0.6481,
+        0.6439
+      ]
+    },
+    "Cam_S17_TunnelPortalWarp": {
+      "f_mid": 921,
+      "box": [
+        0.3165,
+        0.3215,
+        0.6457,
+        0.6728
+      ]
+    },
+    "Cam_S18_TunnelCockpitStrobe": {
+      "f_mid": 975,
+      "box": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    "Cam_S19_TunnelWhipOrbit180": {
+      "f_mid": 1021,
+      "box": [
+        0.1276,
+        0.3802,
+        0.7573,
+        0.6037
+      ]
+    },
+    "Cam_S20_HarborBrakeImpact": {
+      "f_mid": 1068,
+      "box": [
+        0.1116,
+        0.3531,
+        0.6486,
+        0.6719
+      ]
+    },
+    "Cam_S21_HairpinWheelMacro": {
+      "f_mid": 1121,
+      "box": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    "Cam_S22_HarborLaunchChase": {
+      "f_mid": 1175,
+      "box": [
+        0.3347,
+        0.3297,
+        0.6576,
+        0.6585
+      ]
+    },
+    "Cam_S23_WetMirrorSkyline": {
+      "f_mid": 1221,
+      "box": [
+        0.0304,
+        0.3194,
+        1,
+        0.6805
+      ]
+    },
+    "Cam_S24_FinishGantryRise": {
+      "f_mid": 1261,
+      "box": [
+        0.395,
+        0.4648,
+        0.556,
+        0.7509
+      ]
+    }
+  }
+}

@@ -1,0 +1,42 @@
+Command exited with code 0.
+
+Command output:
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    21.68 GiB / 31.50 GiB (69%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    277.99 GiB / 300.00 GiB (93%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    547.75 GiB / 623.52 GiB (88%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+
+00:00.750  blend            | Read blend: "D:\项目session\blender-supercar\LATEST\v5_stage_env.blend"
+V5_FencePosts faces 972 verts 3888 mats ['V5_Steel'] parent None
+   width hist [(0.14, 972)]  height hist [(3.4, 972)]
+V5_FieldMasts faces 60 verts 144 mats ['V5_Steel'] parent None
+   width hist [(0.24, 48), (1.87, 12)]  height hist [(16.0, 48), (0.0, 12)]
+V5_Stand_Main_Trusses faces 114 verts 152 mats ['V5_Steel'] parent V5_Stand_Main
+   width hist [(0.16, 38), (14.29, 38), (14.16, 38)]  height hist [(0.16, 38), (2.8, 38), (2.96, 38)]
+V5_Brake_0_Poles faces 36 verts 48 mats ['V5_Steel'] parent V5_Brake_0
+   width hist [(0.05, 24), (0.1, 12)]  height hist [(1.0, 24), (0.0, 12)]
+V5_PitBoxLines faces 60 verts 240 mats ['V5_WhiteLine'] parent None
+   width hist [(9.1, 60)]  height hist [(0.0, 60)]
+V5_Stand_Main_Flags faces 4 verts 12 mats ['V5_Flag_3', 'V5_Flag_4'] parent V5_Stand_Main
+   width hist [(1.5, 4)]  height hist [(0.7, 4)]
+379: CAR_LEN = 4.7          # 定焦用：让车在画面里的宽度占比稳定（侧面投影 = 车长）
+381: SENSOR_W = 36.0
+384: def lens_for_framing(dist, frac, cos_a=0.0):
+
+

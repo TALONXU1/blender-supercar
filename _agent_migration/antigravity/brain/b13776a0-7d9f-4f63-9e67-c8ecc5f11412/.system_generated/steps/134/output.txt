@@ -1,0 +1,43 @@
+Command exited with code 0.
+
+Command output:
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    26.65 GiB / 31.50 GiB (85%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    281.26 GiB / 300.00 GiB (94%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    565.25 GiB / 623.52 GiB (91%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+00:00.672  blend            | Read blend: "D:\项目session\blender-supercar\LATEST\v5_stage_anim.blend"
+BlenderMCP addon registered
+BONE REST: Bone_Body head= (0.0, 0.18, 0.3) tail= (0.0, 0.78, 0.3)
+BONE REST: Bone_Wheel_FL head= (-0.9, 1.45, 0.355) tail= (-0.9, 1.67, 0.355)
+BONE REST: Bone_Wheel_FR head= (0.9, 1.45, 0.355) tail= (0.9, 1.67, 0.355)
+BONE REST: Bone_Wheel_RL head= (-0.86, -1.55, 0.355) tail= (-0.86, -1.33, 0.355)
+BONE REST: Bone_Wheel_RR head= (0.86, -1.55, 0.355) tail= (0.86, -1.33, 0.355)
+OBJ GEO_F1_RearWing_Endplate_L    : loc=(0.0, -0.78, -0.3) parent_bone=Bone_Body bb=(-0.508, -2.46, 0.885)..(-0.494, -2.02, 1.095)
+OBJ GEO_F1_RearWing_Endplate_R    : loc=(0.0, -0.78, -0.3) parent_bone=Bone_Body bb=(0.494, -2.46, 0.885)..(0.508, -2.02, 1.095)
+OBJ GEO_F1_FrontWing_Endplate_L   : loc=(-1.02, 2.17, -0.08) parent_bone=Bone_Body bb=(-0.5, -0.5, -0.5)..(0.5, 0.5, 0.5)
+OBJ GEO_F1_FrontWing_Endplate_R   : loc=(1.02, 2.17, -0.08) parent_bone=Bone_Body bb=(-0.5, -0.5, -0.5)..(0.5, 0.5, 0.5)
+OBJ GEO_F1_Tire_FL                : loc=(0.0, -0.22, 0.0) parent_bone=Bone_Wheel_FL bb=(-0.1746, -0.361, -0.361)..(0.1746, 0.361, 0.361)
+OBJ GEO_F1_Tire_RL                : loc=(0.0, -0.22, 0.0) parent_bone=Bone_Wheel_RL bb=(-0.215, -0.361, -0.361)..(0.215, 0.361, 0.361)
+OBJ GEO_F1_Monocoque_Chassis      : loc=(0.0, -0.78, -0.3) parent_bone=Bone_Body bb=(0.0, -0.7, 0.158)..(0.415, 1.65, 0.815)
+OBJ GEO_F1_Nosecone               : loc=(0.0, -0.78, -0.3) parent_bone=Bone_Body bb=(0.0, 1.65, 0.042)..(0.252, 3.42, 0.505)
+OBJ GEO_F1_EngineCowl_Body        : loc=(0.0, -0.78, -0.3) parent_bone=Bone_Body bb=(0.0, -2.15, 0.18)..(0.64, -0.45, 0.865)
+BlenderMCP addon unregistered
+Blender 5.3.0 (hash 02f0899d78e3 built 2026-11-10 01:33:43)
+
+Blender quit

@@ -1,0 +1,33 @@
+Command exited with code 0.
+
+Command output:
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    23.15 GiB / 31.50 GiB (74%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    278.09 GiB / 300.00 GiB (93%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    548.04 GiB / 623.52 GiB (88%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+Found bash: C:\Program Files\Git\bin\bash.exe
+[aist#1:0/pcm_s16le @ 00000254514a65c0] Guessed Channel Layout: stereo
+-rw-r--r-- 1 86052 197609  2941632 Nov 18 13:43 D:/项目session/blender-supercar/renders_v5/audio_v5_sfx_mix_90s.m4a
+-rw-r--r-- 1 86052 197609 63343672 Nov 14 15:34 D:/项目session/blender-supercar/renders_v5/f1_silverstone_lap_1080p.mp4
+-rw-r--r-- 1 86052 197609 65017543 Nov 18 13:43 D:/项目session/blender-supercar/renders_v5/f1_silverstone_lap_sfx_1080p.mp4
+-rw-r--r-- 1 86052 197609 62058198 Nov 14 15:34 D:/项目session/blender-supercar/renders_v5/f1_silverstone_lap_silent.mp4
+-rw-r--r-- 1 86052 197609  2941632 Nov 18 13:43 D:/项目session/blender-supercar/renders_v5/audio_v5_sfx_mix_90s.m4a
+-rw-r--r-- 1 86052 197609 35343889 Nov 18 13:42 D:/项目session/blender-supercar/renders_v5/f1_silverstone_clay_1080p.mp4
+-rw-r--r-- 1 86052 197609 36105575 Nov 18 13:43 D:/项目session/blender-supercar/renders_v5/f1_silverstone_clay_sfx_1080p.mp4
+-rw-r--r-- 1 86052 197609 33145766 Nov 18 13:27 D:/项目session/blender-supercar/renders_v5/f1_silverstone_clay_silent.mp4

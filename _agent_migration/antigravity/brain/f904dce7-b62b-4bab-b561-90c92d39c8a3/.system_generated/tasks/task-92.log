@@ -1,0 +1,41 @@
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    21.55 GiB / 31.50 GiB (68%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    277.97 GiB / 300.00 GiB (93%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    547.69 GiB / 623.52 GiB (88%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+d to be removed in Blender 6.0
+D:\项目session\blender-supercar\pipeline\v5_env.py:434: DeprecationWarning: 'World.use_nodes' is expected to be removed i
+assemblies: 21 empties, 129 parented parts
+removed empty collections: ['09_Studio_Stage_Rig', 'WheelSpokes_FL', 'WheelSpokes_FR', 'WheelSpokes_RL', 'WheelSpokes_RR']
+FINAL objects: 616 | V5 meshes: 348 | empties: 21
+Info: Saved as "v5_stage_env.blend"
+ENV SAVED: D:\项目session\blender-supercar\LATEST\v5_stage_env.blend
+ is expected to be removed in Blender 6.0
+D:\项目session\blender-supercar\pipeline\v5_anim.py:662: DeprecationWarning: 'Scene.use_nodes' is expected to be removed 
+[check] 最坏横向 62.58 m/s^2 (6.38 g) @ frame 1774, t=74.2 s
+[check] 超限帧 0 -> PASS
+[check] 航向跳变帧(>6.9deg) 0 -> PASS
+[check] v_max 331.2 km/h, lap 90.34 s, 帧数 2161
+Info: Saved as "v5_stage_anim.blend"
+ANIM SAVED: D:\项目session\blender-supercar\LATEST\v5_stage_anim.blend
+d to be removed in Blender 6.0
+D:\项目session\blender-supercar\pipeline\v5_clay.py:79: DeprecationWarning: 'World.use_nodes' is expected to be removed i
+D:\项目session\blender-supercar\pipeline\v5_clay.py:90: DeprecationWarning: 'Scene.use_nodes' is expected to be removed i
+clay: car meshes=243 env meshes=347
+Info: Saved as "v5_stage_anim_clay.blend"
+CLAY SAVED: D:\项目session\blender-supercar\LATEST\v5_stage_anim_clay.blend

@@ -1,0 +1,49 @@
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    24.67 GiB / 31.50 GiB (78%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    282.26 GiB / 300.00 GiB (94%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    566.87 GiB / 623.52 GiB (91%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+True
+[aist#0:0/pcm_s16le @ 000001e83817bc80] Guessed Channel Layout: stereo
+[synth_sfx_sv] Loading 3D Sky-Harbor circuit telemetry (53.375s / 1,281 frames)...
+[synth_sfx_sv] Slicing After Hours peak drop (audio.wav @ 240.814s, 96 beats) & mixing...
+[synth_sfx_sv] Done in 13.04 s:
+  WAV: D:\项目session\blender-supercar\renders_v6\sfx_spiderverse_53s.wav (10,248,044 B, 53.3750 s)
+  M4A: D:\项目session\blender-supercar\renders_v6\audio_v6_sv_mix_53s.m4a (1,725,429 B)
+  Gearbox: 26 upshifts, 26 downshifts | RPM: 9566..12443 | Impacts @ frames [413, 1067]
+  [3D Doppler] Cam_S03_ChicaneWhipPan closest= 0.8m  pitch=1.152x -> 0.856x
+  [3D Doppler] Cam_S08_MoonCrestTele300 closest= 0.8m  pitch=1.343x -> 0.811x
+  [3D Doppler] Cam_S20_HarborBrakeImpact closest= 1.7m  pitch=1.367x -> 1.087x
+
+[Parsed_volumedetect_0 @ 000001b1e556b700] mean_volume: -15.9 dB
+[Parsed_volumedetect_0 @ 000001b1e556b700] max_volume: -1.9 dB
+  Integrated loudness:
+    I:         -13.0 LUFS
+    Threshold: -23.1 LUFS
+  Loudness range:
+    LRA:         5.0 LU
+    Threshold: -33.1 LUFS
+    LRA low:   -16.0 LUFS
+    LRA high:  -11.0 LUFS
+  True peak:
+    Peak:       -1.8 dBFS
+[out#0/null @ 0000018be801ff40] video:0KiB audio:10008KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing o
+verhead: unknown
+size=N/A time=00:00:53.37 bitrate=N/A speed= 192x elapsed=0:00:00.27    
+
+

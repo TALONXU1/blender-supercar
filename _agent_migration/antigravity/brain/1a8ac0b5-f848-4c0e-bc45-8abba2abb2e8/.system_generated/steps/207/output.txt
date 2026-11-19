@@ -1,0 +1,56 @@
+Command exited with code 0.
+
+Command output:
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    20.60 GiB / 31.50 GiB (65%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    280.46 GiB / 300.00 GiB (93%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    555.62 GiB / 623.52 GiB (89%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+github.com
+  ✓ Logged in to github.com account TALONXU1 (keyring)
+  - Active account: true
+  - Git operations protocol: https
+  - Token: gho_************************************
+  - Token scopes: 'gist', 'read:org', 'repo', 'workflow'
+--- GIT / LFS ---
+git version 2.53.0.windows.1
+git-lfs/3.7.1 (GitHub; windows amd64; go 1.25.1; git b84b3384)
+--- SIZES ---
+archive                       284.68 MB
+audio                          15.19 MB
+docs                            0.07 MB
+images                         45.34 MB
+LATEST                         12.81 MB
+pipeline                        5.13 MB
+renders_v5                  1,039.36 MB
+renders_v6                    247.69 MB
+scenes                          0.28 MB
+textures                        1.69 MB
+track_data                      3.73 MB
+v6_spiderverse                 15.79 MB
+_unrelated                     64.14 MB
+README.md                       0.01 MB
+--- LARGE FILES > 45MB ---
+
+FullName                                                                     MB
+--------                                                                     --
+D:\项目session\blender-supercar\renders_v5\f1_silverstone_lap_1080p.mp4     60.41
+D:\项目session\blender-supercar\renders_v5\f1_silverstone_lap_sfx_1080p.mp4 62.01
+D:\项目session\blender-supercar\renders_v5\f1_silverstone_lap_silent.mp4    59.18
+
+

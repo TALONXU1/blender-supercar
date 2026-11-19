@@ -1,0 +1,38 @@
+Command exited with code 0.
+
+Command output:
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    23.16 GiB / 31.50 GiB (74%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    278.10 GiB / 300.00 GiB (93%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    548.07 GiB / 623.52 GiB (88%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+00:00.719  blend            | Read blend: "D:\项目session\blender-supercar\LATEST\v5_stage_anim.blend"
+BlenderMCP addon registered
+LOW CAMS: []
+TOTAL ENV OCCLUSION HITS (step 2): 29
+  OCCLUSION: Cam_S03_ChaseRise        hit V5_HedgeRing              frames 277..277 (1 hits)
+  OCCLUSION: Cam_S04_Hairpin          hit V5_Brake_1_150            frames 375..375 (1 hits)
+  OCCLUSION: Cam_S14_HeliDrop         hit V5_Bridge_B_Deck          frames 1171..1171 (1 hits)
+  OCCLUSION: Cam_S17_Maggotts         hit V5_Barrier                frames 1415..1417 (2 hits)
+  OCCLUSION: Cam_S20_StoweTele        hit V5_Ad_70                  frames 1713..1717 (3 hits)
+  OCCLUSION: Cam_S20_StoweTele        hit V5_Ad_72                  frames 1721..1733 (7 hits)
+  OCCLUSION: Cam_S20_StoweTele        hit V5_Ad_73                  frames 1761..1787 (14 hits)
+BlenderMCP addon unregistered
+Blender 5.3.0 (hash 02f0899d78e3 built 2026-11-10 01:33:43)
+
+Blender quit

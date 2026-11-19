@@ -1,0 +1,86 @@
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    20.27 GiB / 31.50 GiB (64%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    280.46 GiB / 300.00 GiB (93%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    555.63 GiB / 623.52 GiB (89%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+
+Name                                                   Mode   LastWriteTime      
+----                                                   ----   -------------      
+antigravity                                            d----- 2026/11/19 10:25:19
+antigravity-backup                                     d----- 2026/10/20 23:21:56
+antigravity-cli                                        d----- 2026/11/19 9:39:37 
+antigravity-ide                                        d----- 2026/10/24 13:58:03
+config                                                 d----- 2026/11/18 12:50:45
+skills                                                 d----- 2026/10/30 20:15:24
+GEMINI.md                                              -a---- 2026/10/24 13:58:24
+projects.json.09935ece-1efd-498b-ade8-c94b03beb0e2.tmp -a---- 2026/11/13 16:28:06
+projects.json.308bde3f-7be6-45c9-88f4-e3539163ba16.tmp -a---- 2026/11/13 14:39:14
+projects.json.42559ed7-ad2b-452a-a339-99465ae8257c.tmp -a---- 2026/11/13 16:28:08
+projects.json.6b8685e9-dd8f-4cdb-854c-66a4eaa81688.tmp -a---- 2026/11/13 16:28:06
+projects.json.87e3fb3b-34c2-4470-921a-4ed2afec5b48.tmp -a---- 2026/11/13 14:39:09
+projects.json.8ff4d8df-3f2f-4b1c-8967-8b37fd455d7c.tmp -a---- 2026/11/13 16:28:02
+projects.json.9bdbf3c6-8763-4592-9c71-6ba7d755d5f2.tmp -a---- 2026/11/13 14:39:09
+projects.json.9ce9ccb0-3d1e-4db7-af61-e3291df73ae3.tmp -a---- 2026/11/13 16:28:08
+projects.json.9e252372-f500-4e54-aa8f-9288e1c1d901.tmp -a---- 2026/11/13 14:39:13
+projects.json.a20dc538-4225-4fdc-86ef-ed073ab07bb8.tmp -a---- 2026/11/13 16:28:02
+projects.json.e0e5681c-b403-4a0d-b2e8-41aa7346825a.tmp -a---- 2026/11/13 14:39:14
+projects.json.ff60e648-fba2-4edb-945a-760277acea35.tmp -a---- 2026/11/13 14:39:13
+
+
+--- AGY SUBDIRS ---
+
+Name                          Mode   LastWriteTime      
+----                          ----   -------------      
+annotations                   d----- 2026/11/19 10:23:38
+bin                           d----- 2026/11/13 16:59:26
+brain                         d----- 2026/11/18 15:48:52
+builtin                       d----- 2026/11/11 13:32:28
+cache                         d----- 2026/10/27 9:21:51 
+code_tracker                  d----- 2026/10/24 13:58:24
+context_state                 d----- 2026/10/24 13:58:24
+conversations                 d----- 2026/11/19 10:25:29
+crashes                       d----- 2026/11/19 9:39:07 
+daemon                        d----- 2026/11/19 9:39:03 
+lib                           d----- 2026/10/20 23:07:24
+mcp                           d----- 2026/11/18 12:50:46
+plugin_data                   d----- 2026/11/18 12:50:45
+presence                      d----- 2026/11/18 15:43:14
+scratch                       d----- 2026/10/24 13:03:52
+sidecar_data                  d----- 2026/11/11 13:32:30
+agyhub_summaries_proto.pb     -a---- 2026/11/19 10:25:19
+antigravity_state.pbtxt       -a---- 2026/11/19 9:41:09 
+browserAllowlist.txt          -a---- 2026/10/24 13:58:22
+conversation_summaries.db     -a---- 2026/11/19 10:25:09
+conversation_summaries.db-shm -a---- 2026/11/19 10:25:19
+conversation_summaries.db-wal -a---- 2026/11/19 10:25:19
+installation_id               -a---- 2026/10/20 23:01:37
+mcp_config.json               -a---- 2026/10/24 13:58:24
+user_settings.pb              -a---- 2026/10/24 13:58:40
+
+
+--- KNOWLEDGE / MEMORY ---
+--- GH REPOS ---
+TALONXU1/registrar-enrollment-verification-letter	Parameterised enrollment verification layout lab: three profiles, real paper specs, official assets, data rules engine	private	2026-11-17T13:09:41Z
+TALONXU1/antigravity-proxy	Deployment kit for running Google Antigravity quota as an OpenAI-compatible relay: deadline-free OAuth, sanitized config, Windows/Linux service scripts.	private	2026-11-03T12:41:23Z
+TALONXU1/brand-ui-archive		public	2026-10-01T04:01:16Z
+TALONXU1/cet4-test-paper-skill	Generate reusable, standards-aligned CET-4 non-listening practice papers with answer sheets, scoring guidance, novelty checks, and PDF-ready workflows.	public	2026-09-01T06:41:40Z
+TALONXU1/talonx-portfolio	TalonX AI visual design, UI/UX and AI-native portfolio	public	2026-08-20T14:12:35Z
+TALONXU1/opencode-dotfiles		private	2026-08-11T10:48:04Z
+TALONXU1/Secrets		private	2026-08-05T03:53:09Z
+TALONXU1/TALONXU1.github.io		public	2026-07-05T09:49:59Z
+TALONXU1/trash-toss-3d		public	2026-07-04T15:27:13Z

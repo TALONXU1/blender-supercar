@@ -1,0 +1,48 @@
+Command exited with code 0.
+
+Command output:
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    26.27 GiB / 31.50 GiB (83%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    281.28 GiB / 300.00 GiB (94%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    565.31 GiB / 623.52 GiB (91%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+[aist#0:0/pcm_s16le @ 00000194a71e4ac0] Guessed Channel Layout: stereo
+[synth_sfx_sv] Reading V5 base engine WAV & Silverstone telemetry (read-only)...
+[synth_sfx_sv] Mixing After Hours (108 BPM) + V6 Spider-Verse SFX -> audio_v6_sv_mix_90s.m4a...
+[synth_sfx_sv] Done in 8.51 s:
+  WAV: D:\项目session\blender-supercar\renders_v6\sfx_spiderverse_90s.wav (17,288,044 B)
+  M4A: D:\项目session\blender-supercar\renders_v6\audio_v6_sv_mix_90s.m4a (2,937,373 B)
+
+[Parsed_volumedetect_0 @ 0000020123d22500] mean_volume: -17.0 dB
+[Parsed_volumedetect_0 @ 0000020123d22500] max_volume: -1.6 dB
+  Integrated loudness:
+    I:         -14.3 LUFS
+    Threshold: -24.4 LUFS
+  Loudness range:
+    LRA:         5.5 LU
+    Threshold: -34.4 LUFS
+    LRA low:   -17.6 LUFS
+    LRA high:  -12.1 LUFS
+  True peak:
+    Peak:       -1.6 dBFS
+[out#0/null @ 0000022b867e0ec0] video:0KiB audio:16883KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing o
+verhead: unknown
+size=N/A time=00:01:30.04 bitrate=N/A speed= 267x elapsed=0:00:00.33    
+rgbashift filter OK!
+
+

@@ -1,0 +1,8 @@
+# 英特拉格斯 · 低机位逆光雨幕
+# 画风 ST3   时长 3s   motion 46 词
+# 首帧 S8-02.png（compiled/ 里对应的关键帧）
+
+The car drives toward camera into frame, headlights and rain light cutting white and red cones through the downpour. Front wheel spray fans out to both sides and falls away. Rain streaks stay visible throughout. Backlight from the cloud-base leak stays fixed. Fast approach. 3 seconds.
+
+Keep: the light cones through rain, the yellow-green backlight, the spray fan.
+Avoid: no visible sun, no sunset colours, no lens water, no drying, no camera shake.

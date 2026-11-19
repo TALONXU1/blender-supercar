@@ -1,0 +1,107 @@
+Command exited with code 1.
+
+Command output:
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    20.88 GiB / 31.50 GiB (66%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    277.96 GiB / 300.00 GiB (93%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    547.71 GiB / 623.52 GiB (88%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+
+
+    目录: D:\项目session\blender-supercar
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+d-----        2026/11/17     10:47                archive                                                              
+d-----        2026/11/17     10:47                audio                                                                
+d-----        2026/11/17     10:47                docs                                                                 
+d-----        2026/11/17     10:47                images                                                               
+d-----        2026/11/17     14:42                LATEST                                                               
+d-----        2026/11/17     14:47                pipeline                                                             
+d-----        2026/11/17     14:54                renders_v5                                                           
+d-----        2026/11/17     14:49                scenes                                                               
+d-----        2026/11/14     14:53                textures                                                             
+d-----        2026/11/14     10:11                track_data                                                           
+d-----        2026/11/17     10:47                _unrelated                                                           
+-a----        2026/11/17     14:55           5221 README.md                                                            
+
+Name   : mux_clay.sh
+Length : 695
+
+
+Name   : mux_v5.sh
+Length : 718
+
+
+Name   : render_clay.log
+Length : 231545
+
+
+Name   : render_clay.py
+Length : 1000
+
+
+Name   : render_v5.log
+Length : 220727
+
+
+Name   : render_v5.py
+Length : 1007
+
+
+Name   : v4_stage_rig.blend
+Length : 1882420
+
+
+Name   : v4_stage_rig.blend1
+Length : 1879932
+
+
+Name   : v5_anim.py
+Length : 28782
+
+
+Name   : v5_clay.py
+Length : 3342
+
+
+Name   : v5_env.py
+Length : 42576
+
+
+Name   : v5_organize.py
+Length : 3007
+
+
+Name   : v5_preview.py
+Length : 2991
+
+
+Name   : v5_stills.py
+Length : 1925
+
+
+Name   : v5_viewport_fast.py
+Length : 1622
+
+1103
+707
+fatal: not a git repository (or any of the parent directories): .git
+
+

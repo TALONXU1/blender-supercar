@@ -1,0 +1,57 @@
+Command exited with code 0.
+
+Command output:
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    21.23 GiB / 31.50 GiB (67%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    277.96 GiB / 300.00 GiB (93%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    547.81 GiB / 623.52 GiB (88%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+
+Name                          
+----                          
+audio_v5_90s.m4a              
+f1_silverstone_clay_1080p.mp4 
+f1_silverstone_clay_silent.mp4
+f1_silverstone_lap_1080p.mp4  
+f1_silverstone_lap_silent.mp4 
+#!/bin/bash
+# 白模成片：clay_frames -> H.264；再叠同一段 90 s 配乐（方便和正片对照）
+set -e
+FF=/c/Users/86052/scoop/shims/ffmpeg.exe
+PROJ="D:/项目session/blender-supercar"
+FR="$PROJ/renders_v5/clay_frames"
+AUD="$PROJ/renders_v5/audio_v5_90s.m4a"
+SILENT="$PROJ/renders_v5/f1_silverstone_clay_silent.mp4"
+OUT="$PROJ/renders_v5/f1_silverstone_clay_1080p.mp4"
+
+"$FF" -y -framerate 24 -i "$FR/f_%04d.jpg" \
+  -c:v libx264 -preset slow -crf 18 -pix_fmt yuv420p \
+# -*- coding: utf-8 -*-
+"""V5 预览渲染 — 检查赛道几何 / 光照 / 材质（不动画）"""
+import bpy, json, os, math
+from mathutils import Vector, Matrix, Euler
+
+PROJ = r"D:\项目session\blender-supercar"
+BLEND = os.path.join(PROJ, "LATEST", "v5_stage_env.blend")
+OUT = os.path.join(PROJ, "renders_v5", "preview")
+os.makedirs(OUT, exist_ok=True)
+bpy.ops.wm.open_mainfile(filepath=BLEND)
+sc = bpy.context.scene
+P = json.load(open(os.path.join(PROJ, "track_data", "silverstone_track.json"), encoding="utf-8"))["points"]
+
+

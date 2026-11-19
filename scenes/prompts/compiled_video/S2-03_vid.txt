@@ -1,0 +1,8 @@
+# 斯帕 · 车载前车只剩雾团
+# 画风 ST3   时长 4s   motion 49 词
+# 首帧 S2-03.png（compiled/ 里对应的关键帧）
+
+Camera fixed behind the halo, moving forward with the car. The car ahead fades in and out of visibility as fog density shifts, staying a diffuse red glow without resolving into shape. Tree trunks slide past as dark vertical smears. Road surface moves underneath. Steady forward motion. 4 seconds.
+
+Keep: the halo struts in the foreground, the fog density, the wet featureless road.
+Avoid: no wipers activating, no lens water, no car ahead becoming sharp, no camera shake.

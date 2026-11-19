@@ -1,0 +1,43 @@
+Command exited with code 0.
+
+Command output:
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    26.67 GiB / 31.50 GiB (85%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    281.25 GiB / 300.00 GiB (94%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    565.25 GiB / 623.52 GiB (91%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+00:00.734  blend            | Read blend: "D:\项目session\blender-supercar\LATEST\v5_stage_anim.blend"
+C:\Users\86052\.gemini\antigravity\brain\a98b6c71-b658-48ee-9b28-e9a1c116099c\scratch\inspect_b53_enums.py:65: DeprecationWarning: 'Scene.compositing_node_group' is expected to be removed in Blender 6.0
+  sc.compositing_node_group = ng
+C:\Users\86052\.gemini\antigravity\brain\a98b6c71-b658-48ee-9b28-e9a1c116099c\scratch\inspect_b53_enums.py:66: DeprecationWarning: 'Scene.use_nodes' is expected to be removed in Blender 6.0
+  sc.use_nodes = True
+00:05.797  render           | Saved: 'C:\Users\86052\.gemini\antigravity\brain\a98b6c71-b658-48ee-9b28-e9a1c116099c\scratch\bench_comp.jpg'
+00:07.875  render           | Saved: 'C:\Users\86052\.gemini\antigravity\brain\a98b6c71-b658-48ee-9b28-e9a1c116099c\scratch\bench_comp.jpg'
+BlenderMCP addon registered
+ENUM Filter.Type: bpy_struct: item.attr = val: enum "__INVALID__" not found in ('Soften', 'Box Sharpen', 'Diamond Sharpen', 'Laplace', 'Sobel', 'Prewitt', 'Kirsch', 'Shadow')
+ENUM Kuwahara.Type: bpy_struct: item.attr = val: enum "__INVALID__" not found in ('Classic', 'Anisotropic')
+ENUM Translate.ExtX: bpy_struct: item.attr = val: enum "__INVALID__" not found in ('Clip', 'Extend', 'Repeat')
+ENUM Scale.Type: bpy_struct: item.attr = val: enum "__INVALID__" not found in ('Relative', 'Absolute', 'Scene Size', 'Render Size')
+ENUM Scale.FrameType: bpy_struct: item.attr = val: enum "__INVALID__" not found in ('Stretch', 'Fit', 'Crop')
+Mix RGBA sockets: [(0, 'Factor', 'VALUE', True), (1, 'Factor', 'VECTOR', False), (2, 'A', 'VALUE', False), (3, 'B', 'VALUE', False), (4, 'A', 'VECTOR', False), (5, 'B', 'VECTOR', False), (6, 'A', 'RGBA', True), (7, 'B', 'RGBA', True), (8, 'A', 'ROTATION', False), (9, 'B', 'ROTATION', False)] -> [(0, 'Result', 'VALUE', False), (1, 'Result', 'VECTOR', False), (2, 'Result', 'RGBA', True), (3, 'Result', 'ROTATION', False)]
+Cryptomatte props: source= RENDER layer_name= ViewLayer.CryptoObject
+BENCH cold=4.93s warm=2.08s
+BlenderMCP addon unregistered
+Blender 5.3.0 (hash 02f0899d78e3 built 2026-11-10 01:33:43)
+
+Blender quit

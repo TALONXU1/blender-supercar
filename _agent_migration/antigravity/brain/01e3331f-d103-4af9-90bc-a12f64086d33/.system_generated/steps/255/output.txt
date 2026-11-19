@@ -1,0 +1,52 @@
+Command exited with code 1.
+
+Command output:
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    21.01 GiB / 31.50 GiB (67%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    283.19 GiB / 300.00 GiB (94%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    567.34 GiB / 623.52 GiB (91%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+[aist#0:0/pcm_s16le @ 0000028eb39c1dc0] Guessed Channel Layout: stereo
+[synth_sfx_sv] Loading 3D Sky-Harbor circuit telemetry (53.375s / 1,281 frames)...
+[synth_sfx_sv] Slicing After Hours peak drop (audio.wav @ 240.814s, 96 beats) & mixing...
+[synth_sfx_sv] Done in 14.29 s:
+  WAV: D:\项目session\blender-supercar\renders_v6\sfx_spiderverse_53s.wav (10,248,044 B, 53.3750 s)
+  M4A: D:\项目session\blender-supercar\renders_v6\audio_v6_sv_mix_53s.m4a (1,725,509 B)
+  Gearbox: 26 upshifts, 26 downshifts | RPM: 9566..12443 | Impacts @ frames [413, 1067]
+  [3D Doppler] Cam_S03_ChicaneWhipPan closest= 0.8m  pitch=1.152x -> 0.856x
+[mjpeg @ 0000027874f92f00] Invalid sequence number in APP2
+[mjpeg @ 0000027874f99900] Invalid sequence number in APP2
+[swscaler @ 0000027876ec7940] deprecated pixel format used, make sure you did set range correctly
+[mjpeg @ 0000027874f99900] Invalid sequence number in APP2
+    Last message repeated 94 times
+[mjpeg @ 000001fd4ea73340] Invalid sequence number in APP2
+[mjpeg @ 000001fd4ea77880] Invalid sequence number in APP2
+    Last message repeated 1 times
+[swscaler @ 000001fd5082f940] deprecated pixel format used, make sure you did set range correctly
+[mjpeg @ 000001fd4ea77880] Invalid sequence number in APP2
+    Last message repeated 93 times
+[mjpeg @ 0000013246761cc0] Invalid sequence number in APP2
+[mjpeg @ 0000013246786680] Invalid sequence number in APP2
+    Last message repeated 1 times
+[swscaler @ 0000013248b45880] deprecated pixel format used, make sure you did set range correctly
+[mjpeg @ 0000013246786680] Invalid sequence number in APP2
+    Last message repeated 93 times
+[synth_sfx_sv] Built 12.0000s showcase reel WAV from [('clip1_miles_1610', 269, 96), ('clip2_gwen_65', 585, 96), ('clip3_2099_impact', 993, 96)]
+Option frames:v (set the number of frames to output) cannot be applied to input url D:/项目session/blender-supercar/renders_v6/clips_frames/clip1_miles_1610/f_%04d.jpg -- you are trying to apply an input option to an output file or vice versa. Move this option before the file it belongs to.
+Error parsing options for input file D:/项目session/blender-supercar/renders_v6/clips_frames/clip1_miles_1610/f_%04d.jpg.
+Error opening input files: Invalid argument

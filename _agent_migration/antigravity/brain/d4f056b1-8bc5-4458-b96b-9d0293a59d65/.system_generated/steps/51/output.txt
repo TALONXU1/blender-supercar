@@ -1,0 +1,98 @@
+Command exited with code 0.
+
+Command output:
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    21.68 GiB / 31.50 GiB (69%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    277.98 GiB / 300.00 GiB (93%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    547.70 GiB / 623.52 GiB (88%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+== V5_Brake50 names: ['原理化 BSDF', '图像纹理', '材质输出'] -> ['Image Texture', 'Material Output', 'Principled BSDF']
+   same node types+values (names/links only)
+   links old 3 new 3
+== V5_Concrete names: ['原理化 BSDF', '材质输出'] -> ['Material Output', 'Principled BSDF']
+   same node types+values (names/links only)
+   links old 1 new 1
+== V5_Crowd names: ['原理化 BSDF', '图像纹理', '材质输出'] -> ['Image Texture', 'Material Output', 'Principled BSDF']
+   same node types+values (names/links only)
+   links old 3 new 3
+== V5_CurbRed names: ['原理化 BSDF', '材质输出'] -> ['Material Output', 'Principled BSDF']
+   same node types+values (names/links only)
+   links old 1 new 1
+== V5_CurbWhite names: ['原理化 BSDF', '材质输出'] -> ['Material Output', 'Principled BSDF']
+   same node types+values (names/links only)
+   links old 1 new 1
+== V5_Flag_0 names: ['原理化 BSDF', '材质输出'] -> ['Material Output', 'Principled BSDF']
+   same node types+values (names/links only)
+   links old 1 new 1
+== V5_Flag_1 names: ['原理化 BSDF', '材质输出'] -> ['Material Output', 'Principled BSDF']
+   same node types+values (names/links only)
+   links old 1 new 1
+== V5_Flag_2 names: ['原理化 BSDF', '材质输出'] -> ['Material Output', 'Principled BSDF']
+   same node types+values (names/links only)
+   links old 1 new 1
+== V5_Flag_3 names: ['原理化 BSDF', '材质输出'] -> ['Material Output', 'Principled BSDF']
+   same node types+values (names/links only)
+   links old 1 new 1
+== V5_Flag_4 names: ['原理化 BSDF', '材质输出'] -> ['Material Output', 'Principled BSDF']
+   same node types+values (names/links only)
+   links old 1 new 1
+== V5_Grass names: ['凹凸', '分离 XYZ', '原理化 BSDF', '噪波纹理', '材质输出', '混合 (旧版)', '混合 (旧版).001', '纹理坐标', '纹理坐标.001', '运算', '运算.001', '运算.002', '运算.003'] -> ['Bump', 'Geometry', 'Material Output', 'Math', 'Math.001', 'Math.002', 'Math.003', 'Mix (Legacy)', 'Mix (Legacy).001', 'Noise Texture', 'Principled BSDF', 'Separate XYZ']
+   OLD only: ShaderNodeTexCoord []
+   NEW only: ShaderNodeNewGeometry []
+== V5_Gravel names: ['原理化 BSDF', '材质输出'] -> ['Material Output', 'Principled BSDF']
+   same node types+values (names/links only)
+   links old 1 new 1
+== V5_Hangar names: ['原理化 BSDF', '材质输出'] -> ['Material Output', 'Principled BSDF']
+   same node types+values (names/links only)
+   links old 1 new 1
+== V5_LightStrip names: ['原理化 BSDF', '材质输出'] -> ['Material Output', 'Principled BSDF']
+   same node types+values (names/links only)
+   links old 1 new 1
+== V5_PitGarage names: ['原理化 BSDF', '图像纹理', '材质输出'] -> ['Image Texture', 'Material Output', 'Principled BSDF']
+   same node types+values (names/links only)
+   links old 3 new 3
+== V5_Roof names: ['原理化 BSDF', '材质输出'] -> ['Material Output', 'Principled BSDF']
+   same node types+values (names/links only)
+   links old 1 new 1
+== V5_RubberLine names: ['原理化 BSDF', '材质输出'] -> ['Material Output', 'Principled BSDF']
+   same node types+values (names/links only)
+   links old 1 new 1
+== V5_SkyDome names: ['材质输出', '自发光', '颜色属性'] -> ['Color Attribute', 'Emission', 'Material Output']
+   same node types+values (names/links only)
+   links old 2 new 2
+== V5_StartLight names: ['原理化 BSDF', '材质输出'] -> ['Material Output', 'Principled BSDF']
+   same node types+values (names/links only)
+   links old 1 new 1
+== V5_Steel names: ['原理化 BSDF', '材质输出'] -> ['Material Output', 'Principled BSDF']
+   same node types+values (names/links only)
+   links old 1 new 1
+== V5_Tree names: ['原理化 BSDF', '材质输出'] -> ['Material Output', 'Principled BSDF']
+   same node types+values (names/links only)
+   links old 1 new 1
+== V5_WhiteLine names: ['原理化 BSDF', '材质输出'] -> ['Material Output', 'Principled BSDF']
+   same node types+values (names/links only)
+   links old 1 new 1
+== CLAY_Car names: ['原理化 BSDF', '材质输出'] -> ['Material Output', 'Principled BSDF']
+   same node types+values (names/links only)
+   links old 1 new 1
+== CLAY_Env names: ['原理化 BSDF', '材质输出'] -> ['Material Output', 'Principled BSDF']
+   same node types+values (names/links only)
+   links old 1 new 1
+== CLAY_SkyEmit names: ['材质输出', '自发光'] -> ['Emission', 'Material Output']
+   same node types+values (names/links only)
+   links old 1 new 1

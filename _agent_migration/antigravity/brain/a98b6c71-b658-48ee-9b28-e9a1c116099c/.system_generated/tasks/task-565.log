@@ -1,0 +1,119 @@
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    18.09 GiB / 31.50 GiB (57%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    280.47 GiB / 300.00 GiB (93%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    555.65 GiB / 623.52 GiB (89%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+00:00.922  blend            | Read blend: "D:\项目session\blender-supercar\v6_spiderverse\v6_stage_anim_sv.blend"
+BlenderMCP addon registered
+V6 RENDER START: frames 1001..1088 (88f) -> D:\项目session\blender-supercar\renders_v6/clips_frames/clip3_2099_impact (init_cam=Cam_S18_TunnelCockpitStrobe)
+00:05.141  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1001.jpg'
+00:07.969  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1002.jpg'
+00:10.828  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1003.jpg'
+00:13.688  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1004.jpg'
+00:16.625  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1005.jpg'
+00:19.406  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1006.jpg'
+00:22.250  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1007.jpg'
+00:25.156  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1008.jpg'
+00:27.859  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1009.jpg'
+00:30.703  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1010.jpg'
+00:33.547  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1011.jpg'
+00:36.656  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1012.jpg'
+00:39.578  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1013.jpg'
+00:42.578  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1014.jpg'
+00:45.391  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1015.jpg'
+00:48.281  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1016.jpg'
+00:50.969  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1017.jpg'
+00:53.734  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1018.jpg'
+00:56.375  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1019.jpg'
+00:59.172  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1020.jpg'
+01:02.250  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1021.jpg'
+01:05.063  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1022.jpg'
+01:07.797  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1023.jpg'
+01:10.625  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1024.jpg'
+01:13.406  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1025.jpg'
+01:16.031  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1026.jpg'
+01:18.781  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1027.jpg'
+01:21.609  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1028.jpg'
+01:24.422  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1029.jpg'
+01:27.094  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1030.jpg'
+01:29.953  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1031.jpg'
+01:32.766  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1032.jpg'
+01:35.656  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1033.jpg'
+01:38.406  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1034.jpg'
+01:41.172  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1035.jpg'
+01:43.938  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1036.jpg'
+01:46.656  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1037.jpg'
+01:49.359  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1038.jpg'
+01:52.156  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1039.jpg'
+01:54.828  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1040.jpg'
+01:57.703  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1041.jpg'
+02:00.641  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1042.jpg'
+02:03.594  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1043.jpg'
+02:06.500  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1044.jpg'
+02:09.359  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1045.jpg'
+02:12.313  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1046.jpg'
+02:15.250  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1047.jpg'
+02:18.172  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1048.jpg'
+02:21.094  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1049.jpg'
+02:23.984  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1050.jpg'
+02:26.969  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1051.jpg'
+02:29.875  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1052.jpg'
+02:32.859  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1053.jpg'
+02:35.875  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1054.jpg'
+02:38.859  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1055.jpg'
+02:41.750  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1056.jpg'
+02:44.734  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1057.jpg'
+02:47.703  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1058.jpg'
+02:50.625  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1059.jpg'
+02:53.594  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1060.jpg'
+02:56.578  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1061.jpg'
+02:59.500  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1062.jpg'
+03:02.469  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1063.jpg'
+03:05.438  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1064.jpg'
+03:08.516  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1065.jpg'
+03:11.672  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1066.jpg'
+03:14.609  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1067.jpg'
+03:17.688  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1068.jpg'
+03:20.734  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1069.jpg'
+03:23.703  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1070.jpg'
+03:26.578  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1071.jpg'
+03:29.547  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1072.jpg'
+03:32.484  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1073.jpg'
+03:35.391  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1074.jpg'
+03:38.781  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1075.jpg'
+03:41.797  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1076.jpg'
+03:44.719  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1077.jpg'
+03:47.828  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1078.jpg'
+03:50.875  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1079.jpg'
+03:53.922  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1080.jpg'
+03:56.750  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1081.jpg'
+03:59.688  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1082.jpg'
+04:02.734  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1083.jpg'
+04:06.063  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1084.jpg'
+04:09.188  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1085.jpg'
+04:12.281  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1086.jpg'
+04:15.438  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1087.jpg'
+04:18.563  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\clips_frames\clip3_2099_impact\f_1088.jpg'
+V6 RENDER DONE: 88 frames in 257.5s (2.93 s/frame)
+BlenderMCP addon unregistered
+Blender 5.3.0 (hash 02f0899d78e3 built 2026-11-10 01:33:43)
+
+Blender quit
+v6 stills found: 24
+V6 CONTACT SHEET: D:\项目session\blender-supercar\renders_v6\stills\contact_sheet_v6.jpg (2304, 1016)
+V6 COMIC PAGE POSTER: D:\项目session\blender-supercar\renders_v6\stills\comic_page_sheet.jpg (2200, 3100)

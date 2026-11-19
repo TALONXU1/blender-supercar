@@ -1,0 +1,19 @@
+Task: 01e3331f-d103-4af9-90bc-a12f64086d33/task-255
+Status: DONE
+Log: file:///C:/Users/86052/.gemini/antigravity/brain/01e3331f-d103-4af9-90bc-a12f64086d33/.system_generated/tasks/task-255.log
+Log output:
+<truncated 38 lines>
+2
+    Last message repeated 93 times
+[mjpeg @ 0000013246761cc0] Invalid sequence number in APP2
+[mjpeg @ 0000013246786680] Invalid sequence number in APP2
+    Last message repeated 1 times
+[swscaler @ 0000013248b45880] deprecated pixel format used, make sure you did set range correctly
+[mjpeg @ 0000013246786680] Invalid sequence number in APP2
+    Last message repeated 93 times
+[synth_sfx_sv] Built 12.0000s showcase reel WAV from [('clip1_miles_1610', 269, 96), ('clip2_gwen_65', 585, 96), ('clip3_2099_impact', 993, 96)]
+Option frames:v (set the number of frames to output) cannot be applied to input url D:/项目session/blender-supercar/renders_v6/clips_frames/clip1_miles_1610/f_%04d.jpg -- you are trying to apply an input option to an output file or vice versa. Move this option before the file it belongs to.
+Error parsing options for input file D:/项目session/blender-supercar/renders_v6/clips_frames/clip1_miles_1610/f_%04d.jpg.
+Error opening input files: Invalid argument
+
+Last progress: 16s ago

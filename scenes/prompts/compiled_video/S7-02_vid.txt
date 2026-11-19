@@ -1,0 +1,8 @@
+# 维加斯 · 高机位光带切过城市
+# 画风 ST4   时长 5s   motion 45 词
+# 首帧 S7-02.png（compiled/ 里对应的关键帧）
+
+Camera static high above. The car moves along the bright band of circuit that cuts across the dark street grid. LED content on the spherical arena shifts colour slowly. Street grid stays dark. Desert blackness beyond the edge stays unlit. Slow, continuous motion. 5 seconds.
+
+Keep: the bright band against dark grid, the glowing sphere, the unlit desert edge.
+Avoid: no camera drift, no daylight, no light pollution dome, no readable billboards, no haze.

@@ -1,0 +1,8 @@
+# 蒙扎 · 车顶跟拍直道极速
+# 画风 ST2   时长 5s   motion 46 词
+# 首帧 S4-03.png（compiled/ 里对应的关键帧）
+
+Camera holds directly above the car and tracks forward at full speed. The white track-limit line streaks past as a continuous blur on both sides. Grandstand roofs slide by underneath as grey shapes. The car stays fixed in frame centre. Fast, unbroken forward motion. 5 seconds.
+
+Keep: the overhead framing, the white line blur, the treeline ahead.
+Avoid: no camera tilt, no orbit, no lane markings, no other vehicles, no speed ramp.

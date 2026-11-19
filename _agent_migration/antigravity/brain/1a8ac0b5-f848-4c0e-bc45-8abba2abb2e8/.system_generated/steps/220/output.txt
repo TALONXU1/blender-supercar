@@ -1,0 +1,122 @@
+Command exited with code 0.
+
+Command output:
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    19.51 GiB / 31.50 GiB (62%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    280.47 GiB / 300.00 GiB (93%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    555.65 GiB / 623.52 GiB (89%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+=== CLAUDE PROJECTS ===
+=== CUSTOM SKILLS ===
+C:\Users\86052\.claude\skills -> beautiful-article
+C:\Users\86052\.claude\skills -> gpt-image-2
+C:\Users\86052\.claude\skills -> kb-retriever
+C:\Users\86052\.claude\skills -> motion-showreel
+C:\Users\86052\.claude\skills -> vision
+C:\Users\86052\.claude\skills -> web-design-engineer
+C:\Users\86052\.claude\skills -> web-video-presentation
+C:\Users\86052\.claude\skills -> xyq-marketing-skill
+C:\Users\86052\.claude\skills -> xyq-short-drama-skill
+C:\Users\86052\.claude\skills -> xyq-skill
+C:\Users\86052\.gemini\skills -> agent-browser
+C:\Users\86052\.gemini\skills -> animator-skill
+C:\Users\86052\.gemini\skills -> anti-defensive-writing
+C:\Users\86052\.gemini\skills -> autoresearch
+C:\Users\86052\.gemini\skills -> blender-director
+C:\Users\86052\.gemini\skills -> blender-hard-surface
+C:\Users\86052\.gemini\skills -> blender-lighting
+C:\Users\86052\.gemini\skills -> blender-lookdev
+C:\Users\86052\.gemini\skills -> blender-materials
+C:\Users\86052\.gemini\skills -> blender-modeling
+C:\Users\86052\.gemini\skills -> camera-cinematography
+C:\Users\86052\.gemini\skills -> cinematic-director
+C:\Users\86052\.gemini\skills -> collect-reference-images-for-processing
+C:\Users\86052\.gemini\skills -> computeruse-antigravity
+C:\Users\86052\.gemini\skills -> config-sync
+C:\Users\86052\.gemini\skills -> context-engineering-collection
+C:\Users\86052\.gemini\skills -> design-taste-frontend
+C:\Users\86052\.gemini\skills -> digital-human-avatar
+C:\Users\86052\.gemini\skills -> export-pdf
+C:\Users\86052\.gemini\skills -> film-storyboard-skill
+C:\Users\86052\.gemini\skills -> firecrawl-deep-research
+C:\Users\86052\.gemini\skills -> frank
+C:\Users\86052\.gemini\skills -> full-output-enforcement
+C:\Users\86052\.gemini\skills -> github-manager
+C:\Users\86052\.gemini\skills -> grill-me
+C:\Users\86052\.gemini\skills -> high-end-visual-design
+C:\Users\86052\.gemini\skills -> humanizer
+C:\Users\86052\.gemini\skills -> hypit
+C:\Users\86052\.gemini\skills -> image-to-code
+C:\Users\86052\.gemini\skills -> improve-codebase-architecture
+C:\Users\86052\.gemini\skills -> industrial-brutalist-ui
+C:\Users\86052\.gemini\skills -> macro-monitor
+C:\Users\86052\.gemini\skills -> memory-distiller
+C:\Users\86052\.gemini\skills -> morandi-cinematic-poster-zeejay
+C:\Users\86052\.gemini\skills -> obsidian
+C:\Users\86052\.gemini\skills -> personal-homepage-skill
+C:\Users\86052\.gemini\skills -> poster-design-protocol
+C:\Users\86052\.gemini\skills -> poster-grid-reverse-engineer
+C:\Users\86052\.gemini\skills -> primary-source-research
+C:\Users\86052\.gemini\skills -> redesign-existing-projects
+C:\Users\86052\.gemini\skills -> research
+C:\Users\86052\.gemini\skills -> research-add-fields
+C:\Users\86052\.gemini\skills -> research-add-items
+C:\Users\86052\.gemini\skills -> research-deep
+C:\Users\86052\.gemini\skills -> research-report
+C:\Users\86052\.gemini\skills -> research-synthesis
+C:\Users\86052\.gemini\skills -> research-weighted
+C:\Users\86052\.gemini\skills -> save-memory
+C:\Users\86052\.gemini\skills -> scene-distillation-zine-v1-3
+C:\Users\86052\.gemini\skills -> scenes-gathered-zine-v1-3
+C:\Users\86052\.gemini\skills -> scriptwriter-skill
+C:\Users\86052\.gemini\skills -> seedance-prompt-en
+C:\Users\86052\.gemini\skills -> stitch-design-taste
+C:\Users\86052\.gemini\skills -> stock-market
+C:\Users\86052\.gemini\skills -> storyboard-review-skill
+C:\Users\86052\.gemini\skills -> tdd
+C:\Users\86052\.gemini\skills -> text-optimizer
+C:\Users\86052\.gemini\skills -> valuation-analysis
+C:\Users\86052\.gemini\skills -> vehicle-artist
+C:\Users\86052\.gemini\skills -> vision
+C:\Users\86052\.gemini\skills -> web-design-guidelines
+C:\Users\86052\.gemini\skills -> word-docx
+C:\Users\86052\.gemini\config -> .migrated
+C:\Users\86052\.gemini\config -> config.json
+C:\Users\86052\.gemini\config -> mcp_config.json
+C:\Users\86052\.gemini\config -> node_modules
+C:\Users\86052\.gemini\config -> plugins
+C:\Users\86052\.gemini\config -> projects
+C:\Users\86052\.gemini\config -> sidecars
+C:\Users\86052\.gemini\config -> skills
+=== AGY BRAIN MATCHING blender-supercar ===
+01e3331f-d103-4af9-90bc-a12f64086d33: brain=4.85 MB, conv_pb=0.00 MB
+16b5f3cb-4bce-43d1-a09a-ebf98bd665b7: brain=22.64 MB, conv_pb=0.00 MB
+1a8ac0b5-f848-4c0e-bc45-8abba2abb2e8: brain=6.34 MB, conv_pb=0.00 MB
+46b51757-eef7-4958-943d-57de1b64a881: brain=1.71 MB, conv_pb=0.00 MB
+4cc01d4d-c499-4f55-b213-878718617fe0: brain=1.30 MB, conv_pb=0.00 MB
+62527b59-0213-41b2-b3ab-ff115c915c3b: brain=1.34 MB, conv_pb=0.00 MB
+6e1acc3f-eaac-4bed-95a2-c4f90863575e: brain=2.29 MB, conv_pb=0.00 MB
+71c1ec74-2a73-43c2-80c2-96dffd9739a3: brain=2.81 MB, conv_pb=0.00 MB
+7ac4a8d6-66bf-47ac-b14f-dc6a6fd3deb0: brain=1.02 MB, conv_pb=0.00 MB
+80a8f1d5-652e-4a53-9931-da555b39f579: brain=0.81 MB, conv_pb=0.00 MB
+8717e77d-a125-4b01-893b-0669d971d4d8: brain=0.28 MB, conv_pb=0.00 MB
+a98b6c71-b658-48ee-9b28-e9a1c116099c: brain=17.17 MB, conv_pb=0.00 MB
+b13776a0-7d9f-4f63-9e67-c8ecc5f11412: brain=5.50 MB, conv_pb=0.00 MB
+d4f056b1-8bc5-4458-b96b-9d0293a59d65: brain=1.93 MB, conv_pb=0.00 MB
+f5adc3c6-00d5-45e7-919a-267af295b5d1: brain=0.19 MB, conv_pb=0.00 MB
+f904dce7-b62b-4bab-b561-90c92d39c8a3: brain=3.09 MB, conv_pb=0.00 MB

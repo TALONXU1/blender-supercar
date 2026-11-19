@@ -1,0 +1,67 @@
+Command exited with code 0.
+
+Command output:
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    24.05 GiB / 31.50 GiB (76%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    279.45 GiB / 300.00 GiB (93%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    548.23 GiB / 623.52 GiB (88%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+00:01.047  blend            | Read blend: "D:\项目session\blender-supercar\LATEST\v5_stage_env.blend"
+00:10.859  render           | Saved: 'D:\项目session\blender-supercar\renders_v5\preview\01_top.jpg'
+00:12.297  render           | Saved: 'D:\项目session\blender-supercar\renders_v5\preview\02_startline.jpg'
+00:13.625  render           | Saved: 'D:\项目session\blender-supercar\renders_v5\preview\03_corner_low.jpg'
+00:15.094  render           | Saved: 'D:\项目session\blender-supercar\renders_v5\preview\04_stand.jpg'
+00:16.531  render           | Saved: 'D:\项目session\blender-supercar\renders_v5\preview\05_kerb.jpg'
+BlenderMCP addon registered
+SHOT 01_top
+SHOT 02_startline
+SHOT 03_corner_low
+SHOT 04_stand
+SHOT 05_kerb
+PREVIEW DONE
+BlenderMCP addon unregistered
+Blender 5.3.0 (hash 02f0899d78e3 built 2026-11-10 01:33:43)
+
+Blender quit
+00:01.094  blend            | Read blend: "D:\项目session\blender-supercar\LATEST\v5_stage_env.blend"
+00:04.828  render           | Saved: 'D:\项目session\blender-supercar\renders_v5\preview\06_pit_lane.jpg'
+00:06.391  render           | Saved: 'D:\项目session\blender-supercar\renders_v5\preview\07_sky_drs.jpg'
+00:08.110  render           | Saved: 'D:\项目session\blender-supercar\renders_v5\preview\08_car_hero.jpg'
+BlenderMCP addon registered
+=== SCENE AUDIT ===
+Total objects: 638 | Root objs: []
+Unbucketed V5/Empty objs: []
+Road specular > 0.03 violations: []
+Clearances: Hangar_to_XY=403.3m | Hedge_to_XY=379.0m | Stand_to_XY=15.0m
+Clearances: Sausage_to_racing_xy=2.15m | Bollard_to_racing_xy=3.01m
+EXTRA SHOT 06_pit_lane: 2.93 s
+EXTRA SHOT 07_sky_drs: 1.56 s
+EXTRA SHOT 08_car_hero: 1.71 s
+BlenderMCP addon unregistered
+Blender 5.3.0 (hash 02f0899d78e3 built 2026-11-10 01:33:43)
+
+Blender quit
+=== PREVIEW IMAGE METRICS (PIL + NumPy) ===
+01_top.jpg               | size=(1600, 900) | mean=0.166 p05=0.098 p95=0.227 | clip>0.98=0.00% | SkyStepMax=0.16/255 | RoadBright>0.85=0.00%
+02_startline.jpg         | size=(1600, 900) | mean=0.094 p05=0.002 p95=0.180 | clip>0.98=0.00% | SkyStepMax=63.97/255 | RoadBright>0.85=0.00%
+03_corner_low.jpg        | size=(1600, 900) | mean=0.336 p05=0.071 p95=0.595 | clip>0.98=0.16% | SkyStepMax=0.42/255 | RoadBright>0.85=0.00%
+04_stand.jpg             | size=(1600, 900) | mean=0.129 p05=0.051 p95=0.254 | clip>0.98=0.00% | SkyStepMax=4.05/255 | RoadBright>0.85=0.00%
+05_kerb.jpg              | size=(1600, 900) | mean=0.115 p05=0.027 p95=0.136 | clip>0.98=0.00% | SkyStepMax=1.42/255 | RoadBright>0.85=0.00%
+06_pit_lane.jpg          | size=(1920, 1080) | mean=0.303 p05=0.020 p95=0.637 | clip>0.98=0.12% | SkyStepMax=0.46/255 | RoadBright>0.85=0.00%
+07_sky_drs.jpg           | size=(1920, 1080) | mean=0.450 p05=0.104 p95=0.764 | clip>0.98=0.41% | SkyStepMax=0.09/255 | RoadBright>0.85=0.00%
+08_car_hero.jpg          | size=(1920, 1080) | mean=0.187 p05=0.004 p95=0.659 | clip>0.98=0.88% | SkyStepMax=88.69/255 | RoadBright>0.85=1.50%

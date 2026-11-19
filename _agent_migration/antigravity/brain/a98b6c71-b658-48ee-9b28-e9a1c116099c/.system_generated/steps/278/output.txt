@@ -1,0 +1,77 @@
+Command exited with code 1.
+
+Command output:
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    24.58 GiB / 31.50 GiB (78%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    282.39 GiB / 300.00 GiB (94%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    566.72 GiB / 623.52 GiB (91%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+META: {'name': 'Neo-Monaco x Nueva York 2099 Sky-Harbor', 'measured_length_km': 3.72, 'track_half_width_m': 7.0, 'sim_lap_s': 53.3333, 'fps': 24, 'beats': 96, 'bpm': 108, 'frame_end': 1281, 'max_z_m': 42.35, 'max_bank_deg': 17.4, 'min_z_m': 0.8, 'max_pitch_deg': 13.508, 'min_pitch_deg': -13.937, 'v_max_kmh': 341.19, 'v_min_kmh': 81.1, 'sim_avg_kmh': 251.1, 'points_count': 1860, 'sample_step_m': 2.0, 'calibration_scalar': 0.94529, 'closure_gap_m': 0.0, 'seam_step_3d_m': 2.0, 'min_non_adjacent_xy_sep_m': 76.48, 'anti_drift_max_lat_g': 7.21, 'anti_drift_violations': 0, 'frame_convention': {'units': 'SI: meters, seconds, m/s, degrees', 'heading_deg': 'CCW from +X in [-180, 180], exact racing-line horizontal tangent', 'pitch_deg': 'atan2(dz, ds_xy), +uphill climb, -downhill plunge', 'bank_deg': 'Right-hand roll around +Forward tangent T: +bank tilts road normal toward +Right (inward on right turns), -bank tilts toward +Left (inward on left turns)', 'curv_1pm': 'Signed horizontal curvature of racing_xy (+left CCW, -right CW)', 'racing_offset_m': 'Signed lateral offset along banked surface (+left = -Right_vec, -right = +Right_vec): P_race_3d = C_3d - racing_offset_m * Right_banked', 'ribbon_basis_python': 'h, pt, bk = radians(heading_deg), radians(pitch_deg), radians(bank_deg); T = Vector((cos(pt)*cos(h), cos(pt)*sin(h), sin(pt))); R0 = Vector((sin(h), -cos(h), 0.0)); U0 = Vector((-sin(pt)*cos(h), -sin(pt)*sin(h), cos(pt))); R = cos(bk)*R0 - sin(bk)*U0; U = sin(bk)*R0 + cos(bk)*U0'}, 'zones': [{'zone': 'canyon_grid', 's_frac': [0.0, 0.16], 'idx_range': [0, 297], 's_m': [0.0, 596.0], 't_s': [0.0, 9.276], 'frames': [1, 224], 'z_range_m': [0.8, 3.0], 'pitch_range_deg': [-0.0, 0.61], 'bank_range_deg': [0.0, 0.0], 'v_range_kmh': [129.5, 318.5]}, {'zone': 'eau_rouge_climb', 's_frac': [0.16, 0.33], 'idx_range': [298, 613], 's_m': [596.0, 1228.0], 't_s': [9.276, 17.56], 'frames': [224, 422], 'z_range_m': [3.0, 42.0], 'pitch_range_deg': [-0.28, 13.51], 'bank_range_deg': [-4.0, 6.2], 'v_range_kmh': [208.7, 318.5]}, {'zone': 'sky_bridge', 's_frac': [0.33, 0.5], 'idx_range': [614, 929], 's_m': [1228.0, 1860.0], 't_s': [17.56, 25.139], 'frames': [422, 604], 'z_range_m': [42.0, 42.35], 'pitch_range_deg': [-0.1, 0.1], 'bank_range_deg': [0.0, 0.03], 'v_range_kmh': [217.4, 318.5]}, {'zone': 'banked_bowl_plunge', 's_frac': [0.5, 0.7], 'idx_range': [930, 1301], 's_m': [1860.0, 2604.0], 't_s': [25.139, 37.382], 'frames': [604, 898], 'z_range_m': [1.5, 42.0], 'pitch_range_deg': [-13.94, 1.01], 'bank_range_deg': [-5.5, 17.4], 'v_range_kmh': [137.4, 318.5]}, {'zone': 'strobe_tunnel_harbor', 's_frac': [0.7, 1.0], 'idx_range': [1302, 1859], 's_m': [2604.0, 3720.0], 't_s': [37.382, 53.333], 'frames': [898, 1281], 'z_range_m': [0.8, 1.5], 'pitch_range_deg': [-0.17, 0.0], 'bank_range_deg': [0.0, 0.0], 'v_range_kmh': [81.1, 341.2]}], 'landmarks': [{'event': 'canyon_chicane_apex', 'idx': 199, 's_m': 398.0, 's_frac': 0.107, 't_s': 5.168, 'frame': 125, 'z_m': 1.98, 'v_kmh': 129.5, 'pitch_deg': 0.61, 'bank_deg': 0.0}, {'event': 'eau_rouge_compression_sparks', 'idx': 392, 's_m': 784.0, 's_frac': 0.2108, 't_s': 11.705, 'frame': 282, 'z_m': 5.67, 'v_kmh': 318.5, 'pitch_deg': 5.65, 'bank_deg': 1.57}, {'event': 'raidillon_max_climb_pitch', 'idx': 437, 's_m': 874.0, 's_frac': 0.2349, 't_s': 12.817, 'frame': 309, 'z_m': 22.23, 'v_kmh': 245.0, 'pitch_deg': 13.51, 'bank_deg': 6.19}, {'event': 'eau_rouge_42m_blind_crest', 'idx': 599, 's_m': 1198.0, 's_frac': 0.322, 't_s': 17.22, 'frame': 414, 'z_m': 42.0, 'v_kmh': 318.5, 'pitch_deg': 0.01, 'bank_deg': 0.0}, {'event': 'carousel_bowl_17deg_apex', 'idx': 974, 's_m': 1948.0, 's_frac': 0.5237, 't_s': 26.41, 'frame': 635, 'z_m': 42.0, 'v_kmh': 188.2, 'pitch_deg': 0.56, 'bank_deg': 17.4}, {'event': 'corkscrew_max_plunge_pitch', 'idx': 1189, 's_m': 2378.0, 's_frac': 0.6392, 't_s': 34.526, 'frame': 830, 'z_m': 20.68, 'v_kmh': 238.1, 'pitch_deg': -13.94, 'bank_deg': 2.67}, {'event': 'strobe_tunnel_entry', 'idx': 1321, 's_m': 2642.0, 's_frac': 0.7102, 't_s': 37.811, 'frame': 908, 'z_m': 1.5, 'v_kmh': 319.4, 'pitch_deg': -0.0, 'bank_deg': 0.0}, {'event': 'strobe_tunnel_exit', 'idx': 1581, 's_m': 3162.0, 's_frac': 0.85, 't_s': 43.326, 'frame': 1041, 'z_m': 1.5, 'v_kmh': 340.2, 'pitch_deg': -0.0, 'bank_deg': 0.0}, {'event': 'top_speed_peak', 'idx': 1369, 's_m': 2738.0, 's_frac': 0.736, 't_s': 38.852, 'frame': 933, 'z_m': 1.5, 'v_kmh': 341.2, 'pitch_deg': -0.0, 'bank_deg': 0.0}, {'event': 'harbor_hairpin_heavy_brake_slam', 'idx': 1631, 's_m': 3262.0, 's_frac': 0.8769, 't_s': 44.427, 'frame': 1067, 'z_m': 1.48, 'v_kmh': 316.7, 'pitch_deg': -0.04, 'bank_deg': 0.0}, {'event': 'harbor_hairpin_82kmh_apex', 'idx': 1687, 's_m': 3374.0, 's_frac': 0.907, 't_s': 47.212, 'frame': 1134, 'z_m': 1.27, 'v_kmh': 81.1, 'pitch_deg': -0.13, 'bank_deg': 0.0}]}
+Beat  0  f=   1  t= 0.00s  canyon_grid           s=   0.0  z=  0.8  pt= +0.0  bk= +0.0  k=+0.0012  off=-0.04  v=318.5  tun=0 br=0
+Beat  2  f=  28  t= 1.12s  canyon_grid           s= 100.0  z=  0.8  pt= -0.0  bk= +0.0  k=+0.0003  off=-0.02  v=318.5  tun=0 br=0
+Beat  4  f=  54  t= 2.21s  canyon_grid           s= 196.0  z=  0.8  pt= +0.0  bk= +0.0  k=-0.0003  off=+0.08  v=318.5  tun=0 br=0
+Beat  6  f=  81  t= 3.33s  canyon_grid           s= 296.0  z=  1.1  pt= +0.4  bk= +0.0  k=+0.0018  off=+0.36  v=318.5  tun=0 br=0
+Beat  8  f= 108  t= 4.46s  canyon_grid           s= 370.0  z=  1.7  pt= +0.6  bk= +0.0  k=-0.0127  off=+1.62  v=164.7  tun=0 br=0
+Beat 10  f= 134  t= 5.54s  canyon_grid           s= 414.0  z=  2.1  pt= +0.6  bk= +0.0  k=-0.0167  off=-4.25  v=144.3  tun=0 br=0
+Beat 12  f= 161  t= 6.67s  canyon_grid           s= 470.0  z=  2.6  pt= +0.4  bk= +0.0  k=+0.0053  off=+2.35  v=206.7  tun=0 br=0
+Beat 14  f= 188  t= 7.79s  canyon_grid           s= 524.0  z=  2.9  pt= +0.2  bk= +0.0  k=+0.0174  off=+1.98  v=140.0  tun=0 br=0
+Beat 16  f= 214  t= 8.87s  canyon_grid           s= 574.0  z=  3.0  pt= +0.0  bk= +0.0  k=+0.0035  off=-3.77  v=197.7  tun=0 br=0
+Beat 18  f= 241  t=10.00s  eau_rouge_climb       s= 646.0  z=  3.0  pt= -0.2  bk= -3.7  k=+0.0038  off=+1.65  v=258.7  tun=0 br=0
+Beat 20  f= 268  t=11.12s  eau_rouge_climb       s= 734.0  z=  3.4  pt= +0.5  bk= -0.0  k=+0.0009  off=-0.43  v=307.6  tun=0 br=0
+Beat 22  f= 294  t=12.21s  eau_rouge_climb       s= 830.0  z= 12.6  pt=+11.2  bk= +4.9  k=-0.0074  off=-0.31  v=313.1  tun=0 br=0
+Beat 24  f= 321  t=13.33s  eau_rouge_climb       s= 906.0  z= 29.4  pt=+12.2  bk= +6.2  k=-0.0119  off=+0.56  v=211.5  tun=0 br=0
+Beat 26  f= 348  t=14.46s  eau_rouge_climb       s= 974.0  z= 39.6  pt= +4.2  bk= +6.1  k=-0.0106  off=-0.22  v=236.4  tun=0 br=0
+Beat 28  f= 374  t=15.54s  eau_rouge_climb       s=1054.0  z= 41.5  pt= +0.4  bk= +1.6  k=-0.0038  off=+0.41  v=287.8  tun=0 br=0
+Beat 30  f= 401  t=16.67s  eau_rouge_climb       s=1150.0  z= 42.0  pt= +0.1  bk= +0.0  k=+0.0034  off=+0.90  v=318.5  tun=0 br=0
+Beat 32  f= 428  t=17.79s  sky_bridge            s=1250.0  z= 42.0  pt= +0.0  bk= +0.0  k=+0.0006  off=-0.53  v=318.5  tun=0 br=1
+Beat 34  f= 454  t=18.87s  sky_bridge            s=1346.0  z= 42.1  pt= +0.1  bk= +0.0  k=+0.0015  off=-0.21  v=318.5  tun=0 br=1
+Beat 36  f= 481  t=20.00s  sky_bridge            s=1444.0  z= 42.3  pt= +0.1  bk= +0.0  k=-0.0059  off=+0.01  v=318.5  tun=0 br=1
+Beat 38  f= 508  t=21.12s  sky_bridge            s=1546.0  z= 42.4  pt= -0.0  bk= +0.0  k=-0.0005  off=-0.24  v=318.5  tun=0 br=1
+Beat 40  f= 534  t=22.21s  sky_bridge            s=1626.0  z= 42.3  pt= -0.1  bk= +0.0  k=+0.0110  off=+1.71  v=224.4  tun=0 br=1
+Beat 42  f= 561  t=23.33s  sky_bridge            s=1706.0  z= 42.2  pt= -0.1  bk= +0.0  k=+0.0015  off=-1.39  v=280.6  tun=0 br=1
+Beat 44  f= 588  t=24.46s  sky_bridge            s=1800.0  z= 42.0  pt= -0.1  bk= +0.0  k=+0.0006  off=-0.08  v=318.5  tun=0 br=1
+Beat 46  f= 614  t=25.54s  banked_bowl_plunge    s=1896.0  z= 42.0  pt= -0.1  bk= +7.5  k=-0.0059  off=+0.89  v=278.2  tun=0 br=0
+Beat 48  f= 641  t=26.67s  banked_bowl_plunge    s=1962.0  z= 42.0  pt= +1.0  bk=+17.4  k=-0.0147  off=+0.21  v=177.8  tun=0 br=0
+Beat 50  f= 668  t=27.79s  banked_bowl_plunge    s=2012.0  z= 42.0  pt= -0.2  bk=+17.4  k=-0.0165  off=+1.90  v=159.8  tun=0 br=0
+Beat 52  f= 694  t=28.87s  banked_bowl_plunge    s=2058.0  z= 41.8  pt= -1.2  bk=+17.4  k=-0.0144  off=-0.02  v=176.9  tun=0 br=0
+Beat 54  f= 721  t=30.00s  banked_bowl_plunge    s=2124.0  z= 41.5  pt= -0.5  bk= +6.7  k=-0.0054  off=+1.39  v=240.3  tun=0 br=0
+Beat 56  f= 748  t=31.12s  banked_bowl_plunge    s=2206.0  z= 40.6  pt= -0.7  bk= +0.0  k=+0.0034  off=-2.82  v=269.7  tun=0 br=0
+Beat 58  f= 774  t=32.21s  banked_bowl_plunge    s=2266.0  z= 39.4  pt= -3.6  bk= -5.5  k=+0.0165  off=+1.73  v=150.5  tun=0 br=0
+Beat 60  f= 801  t=33.33s  banked_bowl_plunge    s=2312.0  z= 34.5  pt= -8.6  bk= -4.6  k=+0.0146  off=+0.69  v=163.0  tun=0 br=0
+Beat 62  f= 828  t=34.46s  banked_bowl_plunge    s=2374.0  z= 21.6  pt=-13.9  bk= +2.1  k=-0.0047  off=-1.52  v=234.3  tun=0 br=0
+Beat 64  f= 854  t=35.54s  banked_bowl_plunge    s=2450.0  z=  6.0  pt= -8.1  bk= +4.2  k=-0.0076  off=-0.95  v=267.6  tun=0 br=0
+Beat 66  f= 881  t=36.67s  banked_bowl_plunge    s=2542.0  z=  1.5  pt= -0.1  bk= +0.0  k=+0.0004  off=+0.42  v=317.8  tun=0 br=0
+Beat 68  f= 908  t=37.79s  strobe_tunnel_harbor  s=2642.0  z=  1.5  pt= -0.0  bk= +0.0  k=-0.0004  off=+0.07  v=319.4  tun=1 br=0
+Beat 70  f= 934  t=38.87s  strobe_tunnel_harbor  s=2742.0  z=  1.5  pt= -0.0  bk= +0.0  k=+0.0005  off=-0.03  v=341.2  tun=1 br=0
+Beat 72  f= 961  t=40.00s  strobe_tunnel_harbor  s=2848.0  z=  1.5  pt= +0.0  bk= +0.0  k=+0.0007  off=+0.03  v=341.2  tun=1 br=0
+Beat 74  f= 988  t=41.12s  strobe_tunnel_harbor  s=2954.0  z=  1.5  pt= -0.0  bk= +0.0  k=+0.0012  off=+0.01  v=341.2  tun=1 br=0
+Beat 76  f=1014  t=42.21s  strobe_tunnel_harbor  s=3058.0  z=  1.5  pt= -0.0  bk= +0.0  k=-0.0002  off=+0.05  v=341.2  tun=1 br=0
+Beat 78  f=1041  t=43.33s  strobe_tunnel_harbor  s=3164.0  z=  1.5  pt= +0.0  bk= +0.0  k=+0.0032  off=-0.78  v=339.9  tun=0 br=0
+Beat 80  f=1068  t=44.46s  strobe_tunnel_harbor  s=3266.0  z=  1.5  pt= -0.0  bk= +0.0  k=+0.0044  off=-0.25  v=307.9  tun=0 br=0
+Beat 82  f=1094  t=45.54s  strobe_tunnel_harbor  s=3334.0  z=  1.4  pt= -0.1  bk= +0.0  k=-0.0031  off=+5.04  v=151.9  tun=0 br=0
+Beat 84  f=1121  t=46.67s  strobe_tunnel_harbor  s=3364.0  z=  1.3  pt= -0.1  bk= +0.0  k=-0.0352  off=+4.71  v= 84.8  tun=0 br=0
+Beat 86  f=1148  t=47.79s  strobe_tunnel_harbor  s=3386.0  z=  1.2  pt= -0.1  bk= +0.0  k=-0.0342  off=+4.64  v= 86.4  tun=0 br=0
+Beat 88  f=1174  t=48.87s  strobe_tunnel_harbor  s=3414.0  z=  1.1  pt= -0.2  bk= +0.0  k=-0.0024  off=+5.08  v=132.9  tun=0 br=0
+Beat 90  f=1201  t=50.00s  strobe_tunnel_harbor  s=3466.0  z=  1.0  pt= -0.2  bk= +0.0  k=+0.0012  off=+1.77  v=197.4  tun=0 br=0
+Beat 92  f=1228  t=51.12s  strobe_tunnel_harbor  s=3536.0  z=  0.8  pt= -0.1  bk= +0.0  k=-0.0034  off=+0.57  v=257.0  tun=0 br=0
+Beat 94  f=1254  t=52.21s  strobe_tunnel_harbor  s=3622.0  z=  0.8  pt= -0.0  bk= +0.0  k=-0.0057  off=-0.60  v=305.7  tun=0 br=0
+Traceback (most recent call last):
+  File "C:\Users\86052\.gemini\antigravity\brain\a98b6c71-b658-48ee-9b28-e9a1c116099c\scratch\print_v6_beats.py", line 12, in <module>
+    p = next(x for x in pts if x["t"] >= t)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+StopIteration

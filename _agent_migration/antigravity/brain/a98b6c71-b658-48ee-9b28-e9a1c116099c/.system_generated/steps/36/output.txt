@@ -1,0 +1,158 @@
+Command exited with code 0.
+
+Command output:
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    24.32 GiB / 31.50 GiB (77%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    278.09 GiB / 300.00 GiB (93%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    548.05 GiB / 623.52 GiB (88%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+00:00.688  blend            | Read blend: "D:\项目session\blender-supercar\LATEST\v5_stage_anim.blend"
+BlenderMCP addon registered
+=== STEERING & COCKPIT OBJECTS ===
+  GEO_F1_BrakeCaliper_FL           parent_type=BONE     parent_bone='Bone_Hub_FL'        vgs=[] mods=[] loc=(0.0, -0.22, 0.0) bbox_local_approx=((0.489, -3.277, 0.368)..(0.651, -3.096, 0.555))
+  GEO_F1_BrakeCaliper_FR           parent_type=BONE     parent_bone='Bone_Hub_FR'        vgs=[] mods=[] loc=(0.0, -0.22, 0.0) bbox_local_approx=((-0.799, -2.128, 0.368)..(-0.637, -1.947, 0.555))
+  GEO_F1_BrakeCaliper_RL           parent_type=BONE     parent_bone='Bone_Hub_RL'        vgs=[] mods=[] loc=(0.0, -0.22, 0.0) bbox_local_approx=((2.088, -0.738, 0.353)..(2.251, -0.556, 0.54))
+  GEO_F1_BrakeCaliper_RR           parent_type=BONE     parent_bone='Bone_Hub_RR'        vgs=[] mods=[] loc=(0.0, -0.22, 0.0) bbox_local_approx=((0.883, 0.356, 0.353)..(1.046, 0.537, 0.54))
+  GEO_F1_BrakeDisc_FL              parent_type=BONE     parent_bone='Bone_Wheel_FL'      vgs=[] mods=[] loc=(0.0, -0.22, 0.0) bbox_local_approx=((0.541, -3.25, 0.175)..(0.76, -2.922, 0.551))
+  GEO_F1_BrakeDisc_FR              parent_type=BONE     parent_bone='Bone_Wheel_FR'      vgs=[] mods=[] loc=(0.0, -0.22, 0.0) bbox_local_approx=((-0.908, -2.302, 0.175)..(-0.689, -1.974, 0.551))
+  GEO_F1_BrakeDisc_RL              parent_type=BONE     parent_bone='Bone_Wheel_RL'      vgs=[] mods=[] loc=(0.0, -0.22, 0.0) bbox_local_approx=((2.14, -0.71, 0.16)..(2.362, -0.384, 0.536))
+  GEO_F1_BrakeDisc_RR              parent_type=BONE     parent_bone='Bone_Wheel_RR'      vgs=[] mods=[] loc=(0.0, -0.22, 0.0) bbox_local_approx=((0.771, 0.184, 0.16)..(0.993, 0.51, 0.536))
+  GEO_F1_BrakeDuct_FL              parent_type=BONE     parent_bone='Bone_Hub_FL'        vgs=[] mods=[] loc=(0.0, -0.22, 0.0) bbox_local_approx=((0.418, -3.255, 0.14)..(0.741, -2.826, 0.586))
+  GEO_F1_BrakeDuct_FR              parent_type=BONE     parent_bone='Bone_Hub_FR'        vgs=[] mods=[] loc=(0.0, -0.22, 0.0) bbox_local_approx=((-0.889, -2.398, 0.14)..(-0.565, -1.969, 0.586))
+  GEO_F1_BrakeDuct_RL              parent_type=BONE     parent_bone='Bone_Hub_RL'        vgs=[] mods=[] loc=(0.0, -0.22, 0.0) bbox_local_approx=((1.991, -0.71, 0.125)..(2.337, -0.27, 0.571))
+  GEO_F1_BrakeDuct_RR              parent_type=BONE     parent_bone='Bone_Hub_RR'        vgs=[] mods=[] loc=(0.0, -0.22, 0.0) bbox_local_approx=((0.796, 0.07, 0.125)..(1.143, 0.51, 0.571))
+  GEO_F1_BrakeGlow_FL              parent_type=BONE     parent_bone='Bone_Wheel_FL'      vgs=[] mods=[] loc=(0.0, -0.22, 0.0) bbox_local_approx=((0.562, -3.247, 0.179)..(0.759, -2.937, 0.547))
+  GEO_F1_BrakeGlow_FR              parent_type=BONE     parent_bone='Bone_Wheel_FR'      vgs=[] mods=[] loc=(0.0, -0.22, 0.0) bbox_local_approx=((-0.907, -2.287, 0.179)..(-0.709, -1.977, 0.547))
+  GEO_F1_BrakeGlow_RL              parent_type=BONE     parent_bone='Bone_Wheel_RL'      vgs=[] mods=[] loc=(0.0, -0.22, 0.0) bbox_local_approx=((2.16, -0.708, 0.164)..(2.361, -0.4, 0.532))
+  GEO_F1_BrakeGlow_RR              parent_type=BONE     parent_bone='Bone_Wheel_RR'      vgs=[] mods=[] loc=(0.0, -0.22, 0.0) bbox_local_approx=((0.772, 0.199, 0.164)..(0.973, 0.507, 0.532))
+  GEO_F1_BrakeHoles_FL             parent_type=BONE     parent_bone='Bone_Wheel_FL'      vgs=[] mods=[] loc=(0.0, -0.22, 0.0) bbox_local_approx=((0.575, -3.226, 0.202)..(0.745, -2.957, 0.524))
+  GEO_F1_BrakeHoles_FR             parent_type=BONE     parent_bone='Bone_Wheel_FR'      vgs=[] mods=[] loc=(0.0, -0.22, 0.0) bbox_local_approx=((-0.893, -2.267, 0.202)..(-0.722, -1.998, 0.524))
+  GEO_F1_BrakeHoles_RL             parent_type=BONE     parent_bone='Bone_Wheel_RL'      vgs=[] mods=[] loc=(0.0, -0.22, 0.0) bbox_local_approx=((2.173, -0.687, 0.187)..(2.347, -0.42, 0.509))
+  GEO_F1_BrakeHoles_RR             parent_type=BONE     parent_bone='Bone_Wheel_RR'      vgs=[] mods=[] loc=(0.0, -0.22, 0.0) bbox_local_approx=((0.786, 0.22, 0.187)..(0.96, 0.486, 0.509))
+  GEO_F1_Cockpit_BucketSeat_Back   parent_type=BONE     parent_bone='Bone_Body'          vgs=[] mods=[] loc=(0.0, -1.0, 0.18) bbox_local_approx=((0.672, -1.373, 0.3)..(1.012, -1.052, 0.664))
+  GEO_F1_Cockpit_BucketSeat_Base   parent_type=BONE     parent_bone='Bone_Body'          vgs=[] mods=[] loc=(0.0, -0.83, -0.02) bbox_local_approx=((0.535, -1.575, 0.261)..(0.956, -1.137, 0.309))
+  GEO_F1_Cockpit_HoloHUD           parent_type=BONE     parent_bone='Bone_Body'          vgs=[] mods=[] loc=(0.0, -0.53, 0.42) bbox_local_approx=((0.434, -1.725, 0.645)..(0.745, -1.485, 0.813))
+  GEO_F1_Cockpit_SteeringWheel     parent_type=BONE     parent_bone='Bone_Steering_Wheel' vgs=[] mods=[('Bevel', 'BEVEL')] loc=(0.0, -0.1, 0.0) bbox_local_approx=((0.52, -1.63, 0.575)..(0.754, -1.43, 0.74))
+  GEO_F1_Exhaust_GoldHeatShield    parent_type=BONE     parent_bone='Bone_Body'          vgs=[] mods=[] loc=(0.0, -2.84, 0.18) bbox_local_approx=((1.711, 0.177, 0.365)..(1.985, 0.478, 0.548))
+  GEO_F1_Exhaust_InnerGlow         parent_type=BONE     parent_bone='Bone_Body'          vgs=[] mods=[] loc=(0.0, -3.14, 0.18) bbox_local_approx=((1.957, 0.539, 0.392)..(2.068, 0.618, 0.513))
+  GEO_F1_Exhaust_TitaniumTail      parent_type=BONE     parent_bone='Bone_Body'          vgs=[] mods=[] loc=(0.0, -2.96, 0.18) bbox_local_approx=((1.754, 0.23, 0.375)..(2.074, 0.627, 0.534))
+  GEO_F1_FIA_RainLight             parent_type=BONE     parent_bone='Bone_Body'          vgs=[] mods=[] loc=(0.0, -3.22, -0.06) bbox_local_approx=((2.021, 0.62, 0.186)..(2.083, 0.669, 0.237))
+  GEO_F1_Halo_CenterPylon          parent_type=BONE     parent_bone='Bone_Body'          vgs=[] mods=[('Bevel', 'BEVEL')] loc=(0.0, -0.28, 0.465) bbox_local_approx=((0.384, -1.902, 0.656)..(0.523, -1.726, 0.898))
+  GEO_F1_Halo_Hoop                 parent_type=BONE     parent_bone='Bone_Body'          vgs=[] mods=[('Mirror_X', 'MIRROR')] loc=(0.0, -0.78, -0.3) bbox_local_approx=((0.205, -1.949, 0.752)..(1.244, -0.853, 0.924))
+  GEO_F1_Halo_VortexFin_00         parent_type=BONE     parent_bone='Bone_Body'          vgs=[] mods=[] loc=(-0.22, -0.54, 0.605) bbox_local_approx=((0.774, -1.723, 0.905)..(0.79, -1.708, 0.917))
+  GEO_F1_Halo_VortexFin_01         parent_type=BONE     parent_bone='Bone_Body'          vgs=[] mods=[] loc=(-0.18, -0.518, 0.605) bbox_local_approx=((0.729, -1.72, 0.906)..(0.745, -1.704, 0.918))
+  GEO_F1_Halo_VortexFin_02         parent_type=BONE     parent_bone='Bone_Body'          vgs=[] mods=[] loc=(-0.14, -0.496, 0.605) bbox_local_approx=((0.684, -1.717, 0.907)..(0.699, -1.701, 0.919))
+  GEO_F1_Halo_VortexFin_03         parent_type=BONE     parent_bone='Bone_Body'          vgs=[] mods=[] loc=(-0.1, -0.475, 0.605) bbox_local_approx=((0.639, -1.713, 0.907)..(0.653, -1.697, 0.92))
+  GEO_F1_Halo_VortexFin_04         parent_type=BONE     parent_bone='Bone_Body'          vgs=[] mods=[] loc=(-0.06, -0.453, 0.605) bbox_local_approx=((0.593, -1.71, 0.908)..(0.608, -1.693, 0.92))
+  GEO_F1_Halo_VortexFin_05         parent_type=BONE     parent_bone='Bone_Body'          vgs=[] mods=[] loc=(-0.02, -0.431, 0.605) bbox_local_approx=((0.548, -1.706, 0.909)..(0.562, -1.689, 0.921))
+  GEO_F1_Halo_VortexFin_06         parent_type=BONE     parent_bone='Bone_Body'          vgs=[] mods=[] loc=(0.02, -0.431, 0.605) bbox_local_approx=((0.515, -1.685, 0.909)..(0.528, -1.667, 0.922))
+  GEO_F1_Halo_VortexFin_07         parent_type=BONE     parent_bone='Bone_Body'          vgs=[] mods=[] loc=(0.06, -0.453, 0.605) bbox_local_approx=((0.494, -1.645, 0.909)..(0.506, -1.627, 0.922))
+  GEO_F1_Halo_VortexFin_08         parent_type=BONE     parent_bone='Bone_Body'          vgs=[] mods=[] loc=(0.1, -0.475, 0.605) bbox_local_approx=((0.473, -1.605, 0.909)..(0.484, -1.587, 0.922))
+  GEO_F1_Halo_VortexFin_09         parent_type=BONE     parent_bone='Bone_Body'          vgs=[] mods=[] loc=(0.14, -0.496, 0.605) bbox_local_approx=((0.451, -1.565, 0.91)..(0.462, -1.546, 0.922))
+  GEO_F1_Halo_VortexFin_10         parent_type=BONE     parent_bone='Bone_Body'          vgs=[] mods=[] loc=(0.18, -0.518, 0.605) bbox_local_approx=((0.43, -1.525, 0.91)..(0.441, -1.506, 0.922))
+  GEO_F1_Halo_VortexFin_11         parent_type=BONE     parent_bone='Bone_Body'          vgs=[] mods=[] loc=(0.22, -0.54, 0.605) bbox_local_approx=((0.409, -1.484, 0.91)..(0.419, -1.466, 0.922))
+  GEO_F1_Overhead_TCam             parent_type=BONE     parent_bone='Bone_Body'          vgs=[] mods=[] loc=(0.0, -1.06, 0.85) bbox_local_approx=((0.804, -1.226, 1.131)..(0.969, -1.092, 1.172))
+  GEO_F1_ShiftLED_00               parent_type=BONE     parent_bone='Bone_Steering_Wheel' vgs=[] mods=[] loc=(0.07, -0.085, 0.04) bbox_local_approx=((0.702, -1.562, 0.688)..(0.711, -1.552, 0.696))
+  GEO_F1_ShiftLED_01               parent_type=BONE     parent_bone='Bone_Steering_Wheel' vgs=[] mods=[] loc=(0.06, -0.085, 0.04) bbox_local_approx=((0.694, -1.556, 0.689)..(0.703, -1.546, 0.697))
+  GEO_F1_ShiftLED_02               parent_type=BONE     parent_bone='Bone_Steering_Wheel' vgs=[] mods=[] loc=(0.05, -0.085, 0.04) bbox_local_approx=((0.686, -1.551, 0.689)..(0.695, -1.541, 0.698))
+  GEO_F1_ShiftLED_03               parent_type=BONE     parent_bone='Bone_Steering_Wheel' vgs=[] mods=[] loc=(0.04, -0.085, 0.04) bbox_local_approx=((0.677, -1.545, 0.69)..(0.686, -1.535, 0.698))
+  GEO_F1_ShiftLED_04               parent_type=BONE     parent_bone='Bone_Steering_Wheel' vgs=[] mods=[] loc=(0.03, -0.085, 0.04) bbox_local_approx=((0.669, -1.54, 0.691)..(0.678, -1.53, 0.699))
+  GEO_F1_ShiftLED_05               parent_type=BONE     parent_bone='Bone_Steering_Wheel' vgs=[] mods=[] loc=(0.02, -0.085, 0.04) bbox_local_approx=((0.661, -1.534, 0.692)..(0.67, -1.525, 0.7))
+  GEO_F1_ShiftLED_06               parent_type=BONE     parent_bone='Bone_Steering_Wheel' vgs=[] mods=[] loc=(0.01, -0.085, 0.04) bbox_local_approx=((0.652, -1.529, 0.692)..(0.661, -1.519, 0.701))
+  GEO_F1_ShiftLED_07               parent_type=BONE     parent_bone='Bone_Steering_Wheel' vgs=[] mods=[] loc=(0.0, -0.085, 0.04) bbox_local_approx=((0.644, -1.524, 0.693)..(0.653, -1.514, 0.701))
+  GEO_F1_ShiftLED_08               parent_type=BONE     parent_bone='Bone_Steering_Wheel' vgs=[] mods=[] loc=(-0.01, -0.085, 0.04) bbox_local_approx=((0.636, -1.518, 0.694)..(0.645, -1.508, 0.702))
+  GEO_F1_ShiftLED_09               parent_type=BONE     parent_bone='Bone_Steering_Wheel' vgs=[] mods=[] loc=(-0.02, -0.085, 0.04) bbox_local_approx=((0.627, -1.513, 0.695)..(0.636, -1.503, 0.703))
+  GEO_F1_ShiftLED_10               parent_type=BONE     parent_bone='Bone_Steering_Wheel' vgs=[] mods=[] loc=(-0.03, -0.085, 0.04) bbox_local_approx=((0.619, -1.507, 0.695)..(0.628, -1.497, 0.704))
+  GEO_F1_ShiftLED_11               parent_type=BONE     parent_bone='Bone_Steering_Wheel' vgs=[] mods=[] loc=(-0.04, -0.085, 0.04) bbox_local_approx=((0.61, -1.502, 0.696)..(0.62, -1.492, 0.704))
+  GEO_F1_ShiftLED_12               parent_type=BONE     parent_bone='Bone_Steering_Wheel' vgs=[] mods=[] loc=(-0.05, -0.085, 0.04) bbox_local_approx=((0.602, -1.496, 0.697)..(0.611, -1.486, 0.705))
+  GEO_F1_ShiftLED_13               parent_type=BONE     parent_bone='Bone_Steering_Wheel' vgs=[] mods=[] loc=(-0.06, -0.085, 0.04) bbox_local_approx=((0.594, -1.491, 0.698)..(0.603, -1.481, 0.706))
+  GEO_F1_ShiftLED_14               parent_type=BONE     parent_bone='Bone_Steering_Wheel' vgs=[] mods=[] loc=(-0.07, -0.085, 0.04) bbox_local_approx=((0.585, -1.485, 0.698)..(0.595, -1.475, 0.706))
+  GEO_F1_Steering_Dial_0           parent_type=BONE     parent_bone='Bone_Steering_Wheel' vgs=[] mods=[] loc=(0.075, -0.086, -0.025) bbox_local_approx=((0.695, -1.569, 0.617)..(0.716, -1.548, 0.637))
+  GEO_F1_Steering_Dial_1           parent_type=BONE     parent_bone='Bone_Steering_Wheel' vgs=[] mods=[] loc=(0.045, -0.086, -0.025) bbox_local_approx=((0.67, -1.553, 0.619)..(0.691, -1.531, 0.639))
+  GEO_F1_Steering_Dial_2           parent_type=BONE     parent_bone='Bone_Steering_Wheel' vgs=[] mods=[] loc=(0.015, -0.086, -0.025) bbox_local_approx=((0.645, -1.537, 0.621)..(0.666, -1.515, 0.641))
+  GEO_F1_Steering_Dial_3           parent_type=BONE     parent_bone='Bone_Steering_Wheel' vgs=[] mods=[] loc=(-0.015, -0.086, -0.025) bbox_local_approx=((0.62, -1.52, 0.624)..(0.641, -1.498, 0.643))
+  GEO_F1_Steering_Dial_4           parent_type=BONE     parent_bone='Bone_Steering_Wheel' vgs=[] mods=[] loc=(-0.045, -0.086, -0.025) bbox_local_approx=((0.595, -1.504, 0.626)..(0.616, -1.482, 0.646))
+  GEO_F1_Steering_Dial_5           parent_type=BONE     parent_bone='Bone_Steering_Wheel' vgs=[] mods=[] loc=(-0.075, -0.086, -0.025) bbox_local_approx=((0.57, -1.488, 0.628)..(0.591, -1.466, 0.648))
+  GEO_F1_Steering_LCDScreen        parent_type=BONE     parent_bone='Bone_Steering_Wheel' vgs=[] mods=[] loc=(0.0, -0.087, 0.005) bbox_local_approx=((0.621, -1.538, 0.648)..(0.668, -1.501, 0.676))
+  GEO_F1_Steering_Paddle_Down      parent_type=BONE     parent_bone='Bone_Steering_Wheel' vgs=[] mods=[] loc=(0.09, -0.115, 0.0) bbox_local_approx=((0.679, -1.619, 0.613)..(0.73, -1.564, 0.689))
+  GEO_F1_Steering_Paddle_Up        parent_type=BONE     parent_bone='Bone_Steering_Wheel' vgs=[] mods=[] loc=(-0.09, -0.115, 0.0) bbox_local_approx=((0.528, -1.521, 0.627)..(0.58, -1.466, 0.702))
+  GEO_F1_Steering_TieRod_L         parent_type=BONE     parent_bone='Bone_Body'          vgs=[] mods=[('Bevel', 'BEVEL')] loc=(-0.55, 0.84, 0.053) bbox_local_approx=((0.031, -3.221, 0.35)..(0.558, -2.889, 0.399))
+  GEO_F1_Steering_TieRod_R         parent_type=BONE     parent_bone='Bone_Body'          vgs=[] mods=[('Bevel', 'BEVEL')] loc=(0.55, 0.84, 0.053) bbox_local_approx=((-0.878, -2.635, 0.355)..(-0.374, -2.271, 0.418))
+
+=== BONE CONSTRAINTS DETAIL ===
+  Bone_Steering_Wheel.V4_LimitRot (LIMIT_ROTATION): {'max_x': 0.0, 'max_y': 3.4906585216522217, 'max_z': 0.0, 'min_x': 0.0, 'min_y': -3.4906585216522217, 'min_z': 0.0, 'owner_space': 'LOCAL', 'target_space': 'WORLD', 'use_legacy_behavior': False, 'use_limit_x': False, 'use_limit_y': True, 'use_limit_z': False, 'use_transform_limit': False}
+  Bone_DRS.V4_LimitRot (LIMIT_ROTATION): {'max_x': 0.3141592741012573, 'max_y': 0.0, 'max_z': 0.0, 'min_x': -0.05235987901687622, 'min_y': 0.0, 'min_z': 0.0, 'owner_space': 'LOCAL', 'target_space': 'WORLD', 'use_legacy_behavior': False, 'use_limit_x': True, 'use_limit_y': False, 'use_limit_z': False, 'use_transform_limit': False}
+  Bone_Susp_FL.V4_SuspTravel (LIMIT_LOCATION): {'max_x': 0.0, 'max_y': 0.029999999329447746, 'max_z': 0.0, 'min_x': 0.0, 'min_y': -0.05999999865889549, 'min_z': 0.0, 'owner_space': 'LOCAL', 'target_space': 'WORLD', 'use_max_x': False, 'use_max_y': True, 'use_max_z': False, 'use_min_x': False, 'use_min_y': True, 'use_min_z': False, 'use_transform_limit': False}
+  Bone_Hub_FL.V4_LimitRot (LIMIT_ROTATION): {'max_x': 0.0, 'max_y': 0.0, 'max_z': 0.6632251143455505, 'min_x': 0.0, 'min_y': 0.0, 'min_z': -0.6632251143455505, 'owner_space': 'LOCAL', 'target_space': 'WORLD', 'use_legacy_behavior': False, 'use_limit_x': False, 'use_limit_y': False, 'use_limit_z': True, 'use_transform_limit': False}
+  Bone_Susp_FR.V4_SuspTravel (LIMIT_LOCATION): {'max_x': 0.0, 'max_y': 0.029999999329447746, 'max_z': 0.0, 'min_x': 0.0, 'min_y': -0.05999999865889549, 'min_z': 0.0, 'owner_space': 'LOCAL', 'target_space': 'WORLD', 'use_max_x': False, 'use_max_y': True, 'use_max_z': False, 'use_min_x': False, 'use_min_y': True, 'use_min_z': False, 'use_transform_limit': False}
+  Bone_Hub_FR.V4_LimitRot (LIMIT_ROTATION): {'max_x': 0.0, 'max_y': 0.0, 'max_z': 0.6632251143455505, 'min_x': 0.0, 'min_y': 0.0, 'min_z': -0.6632251143455505, 'owner_space': 'LOCAL', 'target_space': 'WORLD', 'use_legacy_behavior': False, 'use_limit_x': False, 'use_limit_y': False, 'use_limit_z': True, 'use_transform_limit': False}
+  Bone_Susp_RL.V4_SuspTravel (LIMIT_LOCATION): {'max_x': 0.0, 'max_y': 0.029999999329447746, 'max_z': 0.0, 'min_x': 0.0, 'min_y': -0.05999999865889549, 'min_z': 0.0, 'owner_space': 'LOCAL', 'target_space': 'WORLD', 'use_max_x': False, 'use_max_y': True, 'use_max_z': False, 'use_min_x': False, 'use_min_y': True, 'use_min_z': False, 'use_transform_limit': False}
+  Bone_Susp_RR.V4_SuspTravel (LIMIT_LOCATION): {'max_x': 0.0, 'max_y': 0.029999999329447746, 'max_z': 0.0, 'min_x': 0.0, 'min_y': -0.05999999865889549, 'min_z': 0.0, 'owner_space': 'LOCAL', 'target_space': 'WORLD', 'use_max_x': False, 'use_max_y': True, 'use_max_z': False, 'use_min_x': False, 'use_min_y': True, 'use_min_z': False, 'use_transform_limit': False}00:00.829  blend            | Read blend: "D:\项目session\blender-supercar\LATEST\v5_stage_env.blend"
+
+
+=== RIG DRIVERS DETAIL ===
+  pose.bones["Bone_Wheel_FL"].rotation_euler[0] expr='-spin' vars=[('spin', 'SINGLE_PROP', [('RIG_F1_Race', '["wheel_spin"]')])]
+  pose.bones["Bone_Wheel_FR"].rotation_euler[0] expr='-spin' vars=[('spin', 'SINGLE_PROP', [('RIG_F1_Race', '["wheel_spin"]')])]
+  pose.bones["Bone_Wheel_RL"].rotation_euler[0] expr='-spin*slip' vars=[('spin', 'SINGLE_PROP', [('RIG_F1_Race', '["wheel_spin"]')]), ('slip', 'SINGLE_PROP', [('RIG_F1_Race', '["rear_slip"]')])]
+  pose.bones["Bone_Wheel_RR"].rotation_euler[0] expr='-spin*slip' vars=[('spin', 'SINGLE_PROP', [('RIG_F1_Race', '["wheel_spin"]')]), ('slip', 'SINGLE_PROP', [('RIG_F1_Race', '["rear_slip"]')])]
+  pose.bones["Bone_Hub_FL"].rotation_euler[2] expr='steer*0.0174532925' vars=[('steer', 'SINGLE_PROP', [('RIG_F1_Race', '["steer"]')])]
+  pose.bones["Bone_Hub_FR"].rotation_euler[2] expr='steer*0.0174532925' vars=[('steer', 'SINGLE_PROP', [('RIG_F1_Race', '["steer"]')])]
+  pose.bones["Bone_Steering_Wheel"].rotation_euler[1] expr='steer*ratio*0.0174532925' vars=[('steer', 'SINGLE_PROP', [('RIG_F1_Race', '["steer"]')]), ('ratio', 'SINGLE_PROP', [('RIG_F1_Race', '["steer_ratio"]')])]
+  pose.bones["Bone_DRS"].rotation_euler[0] expr='-0.2792527*drs' vars=[('drs', 'SINGLE_PROP', [('RIG_F1_Race', '["drs"]')])]
+  pose.bones["Bone_Susp_FL"].location[1] expr='susp' vars=[('susp', 'SINGLE_PROP', [('RIG_F1_Race', '["susp_f"]')])]
+  pose.bones["Bone_Susp_FR"].location[1] expr='susp' vars=[('susp', 'SINGLE_PROP', [('RIG_F1_Race', '["susp_f"]')])]
+  pose.bones["Bone_Susp_RL"].location[1] expr='susp' vars=[('susp', 'SINGLE_PROP', [('RIG_F1_Race', '["susp_r"]')])]
+  pose.bones["Bone_Susp_RR"].location[1] expr='susp' vars=[('susp', 'SINGLE_PROP', [('RIG_F1_Race', '["susp_r"]')])]
+
+=== MAT_BRAKE_HEATGLOW & MAT_NEON_ORANGE DETAIL ===
+Material: Mat_Brake_HeatGlow (users=4)
+  Node Emission (EMISSION): {'Color': (1.0, 0.28, 0.05, 1.0), 'Strength': 0.0, 'Weight': 0.0}
+  Node Material Output (OUTPUT_MATERIAL): {'Displacement': (0.0, 0.0, 0.0), 'Thickness': 0.0}
+  Driver nodes["Emission"].inputs[1].default_value[0] expr='heat*9.0' vars=[('heat', 'SINGLE_PROP', [('RIG_F1_Race', '["brake_heat"]')])]
+Material: Mat_BrakeDisc_CarbonCeramic (users=4)
+  Node Principled BSDF (BSDF_PRINCIPLED): {'Base Color': (0.075, 0.07, 0.066, 1.0), 'Metallic': 0.4, 'Roughness': 0.52, 'IOR': 1.5, 'Alpha': 1.0, 'Thin Wall': 0.0, 'Normal': (0.0, 0.0, 0.0), 'Weight': 0.0, 'Diffuse Roughness': 0.0, 'Subsurface Weight': 0.0, 'Subsurface Radius': (1.0, 0.2, 0.1), 'Subsurface Scale': 0.005, 'Subsurface IOR': 1.4, 'Subsurface Anisotropy': 0.0, 'Specular IOR Level': 0.5, 'Specular Tint': (1.0, 1.0, 1.0, 1.0), 'Anisotropic': 0.0, 'Anisotropic Rotation': 0.0, 'Tangent': (0.0, 0.0, 0.0), 'Transmission Weight': 0.0, 'Transmission Dispersion Scale': 0.0, 'Transmission Dispersion Abbe Number': 20.0, 'Coat Weight': 0.0, 'Coat Roughness': 0.03, 'Coat IOR': 1.5, 'Coat Tint': (1.0, 1.0, 1.0, 1.0), 'Coat Normal': (0.0, 0.0, 0.0), 'Sheen Weight': 0.0, 'Sheen Roughness': 0.5, 'Sheen Tint': (1.0, 1.0, 1.0, 1.0), 'Emission Color': (1.0, 1.0, 1.0, 1.0), 'Emission Strength': 0.0, 'Thin Film Thickness': 0.0, 'Thin Film IOR': 1.33}
+  Node Material Output (OUTPUT_MATERIAL): {'Displacement': (0.0, 0.0, 0.0), 'Thickness': 0.0}
+  Node Texture Coordinate (TEX_COORD): {}
+  Node Noise Texture (TEX_NOISE): {'Vector': (0.0, 0.0, 0.0), 'W': 0.0, 'Scale': 420.0, 'Detail': 2.0, 'Roughness': 0.5, 'Lacunarity': 2.0, 'Offset': 0.0, 'Gain': 1.0, 'Distortion': 0.0}
+  Node Bump (BUMP): {'Strength': 0.3, 'Distance': 0.001, 'Filter Width': 0.1, 'Height': 1.0, 'Normal': (0.0, 0.0, 0.0)}
+Material: Mat_Caliper_Anodized (users=4)
+  Node Principled BSDF (BSDF_PRINCIPLED): {'Base Color': (0.05, 0.05, 0.06, 1.0), 'Metallic': 0.4, 'Roughness': 0.35, 'IOR': 1.5, 'Alpha': 1.0, 'Thin Wall': 0.0, 'Normal': (0.0, 0.0, 0.0), 'Weight': 0.0, 'Diffuse Roughness': 0.0, 'Subsurface Weight': 0.0, 'Subsurface Radius': (1.0, 0.2, 0.1), 'Subsurface Scale': 0.005, 'Subsurface IOR': 1.4, 'Subsurface Anisotropy': 0.0, 'Specular IOR Level': 0.5, 'Specular Tint': (1.0, 1.0, 1.0, 1.0), 'Anisotropic': 0.0, 'Anisotropic Rotation': 0.0, 'Tangent': (0.0, 0.0, 0.0), 'Transmission Weight': 0.0, 'Transmission Dispersion Scale': 0.0, 'Transmission Dispersion Abbe Number': 20.0, 'Coat Weight': 0.0, 'Coat Roughness': 0.03, 'Coat IOR': 1.5, 'Coat Tint': (1.0, 1.0, 1.0, 1.0), 'Coat Normal': (0.0, 0.0, 0.0), 'Sheen Weight': 0.0, 'Sheen Roughness': 0.5, 'Sheen Tint': (1.0, 1.0, 1.0, 1.0), 'Emission Color': (1.0, 1.0, 1.0, 1.0), 'Emission Strength': 0.0, 'Thin Film Thickness': 0.0, 'Thin Film IOR': 1.33}
+  Node Material Output (OUTPUT_MATERIAL): {'Displacement': (0.0, 0.0, 0.0), 'Thickness': 0.0}
+Material: Mat_Neon_Orange (users=3)
+  Node Material Output (OUTPUT_MATERIAL): {'Displacement': (0.0, 0.0, 0.0), 'Thickness': 0.0}
+  Node Emission (EMISSION): {'Color': (1.0, 0.4, 0.0, 1.0), 'Strength': 1.0, 'Weight': 0.0}
+Material: Mat_Steering_LCD_Telemetry (users=1)
+  Node Material Output (OUTPUT_MATERIAL): {'Displacement': (0.0, 0.0, 0.0), 'Thickness': 0.0}
+  Node Principled BSDF (BSDF_PRINCIPLED): {'Base Color': (0.8, 0.8, 0.8, 1.0), 'Metallic': 0.0, 'Roughness': 0.15, 'IOR': 1.5, 'Alpha': 1.0, 'Thin Wall': 0.0, 'Normal': (0.0, 0.0, 0.0), 'Weight': 0.0, 'Diffuse Roughness': 0.0, 'Subsurface Weight': 0.0, 'Subsurface Radius': (1.0, 0.2, 0.1), 'Subsurface Scale': 0.005, 'Subsurface IOR': 1.4, 'Subsurface Anisotropy': 0.0, 'Specular IOR Level': 0.5, 'Specular Tint': (1.0, 1.0, 1.0, 1.0), 'Anisotropic': 0.0, 'Anisotropic Rotation': 0.0, 'Tangent': (0.0, 0.0, 0.0), 'Transmission Weight': 0.0, 'Transmission Dispersion Scale': 0.0, 'Transmission Dispersion Abbe Number': 20.0, 'Coat Weight': 0.0, 'Coat Roughness': 0.03, 'Coat IOR': 1.5, 'Coat Tint': (1.0, 1.0, 1.0, 1.0), 'Coat Normal': (0.0, 0.0, 0.0), 'Sheen Weight': 0.0, 'Sheen Roughness': 0.5, 'Sheen Tint': (1.0, 1.0, 1.0, 1.0), 'Emission Color': (1.0, 1.0, 1.0, 1.0), 'Emission Strength': 2.8, 'Thin Film Thickness': 0.0, 'Thin Film IOR': 1.33}
+  Node Image Texture (TEX_IMAGE): {'Vector': (0.0, 0.0, 0.0)}
+
+=== CHECK LOCAL REST COORDINATES IN v4_stage_rig.blend / v5_stage_env.blend ===
+  ENV GEO_F1_Cockpit_SteeringWheel  : parent_type=BONE parent_bone='Bone_Steering_Wheel' bbox=(-0.12, 0.121, 0.576) .. (0.12, 0.199, 0.724)
+  ENV GEO_F1_Steering_LCDScreen     : parent_type=BONE parent_bone='Bone_Steering_Wheel' bbox=(-0.026, 0.142, 0.643) .. (0.026, 0.152, 0.667)
+  ENV GEO_F1_Halo_CenterPylon       : parent_type=BONE parent_bone='Bone_Body' bbox=(-0.023, 0.411, 0.643) .. (0.022, 0.589, 0.887)
+  ENV GEO_F1_Halo_Hoop              : parent_type=BONE parent_bone='Bone_Body' bbox=(-0.334, -0.429, 0.757) .. (0.334, 0.443, 0.909)
+  ENV GEO_F1_Overhead_TCam          : parent_type=BONE parent_bone='Bone_Body' bbox=(-0.08, -0.307, 1.131) .. (0.08, -0.252, 1.169)
+  ENV GEO_F1_Nosecone               : parent_type=BONE parent_bone='Bone_Body' bbox=(-0.252, 1.65, 0.042) .. (0.252, 3.42, 0.505)
+  ENV GEO_F1_FIA_RainLight          : parent_type=BONE parent_bone='Bone_Body' bbox=(-0.03, -2.45, 0.215) .. (0.03, -2.43, 0.265)
+  ENV GEO_F1_BrakeGlow_FL           : parent_type=BONE parent_bone='Bone_Wheel_FL' bbox=(-0.877, 1.266, 0.171) .. (-0.877, 1.634, 0.539)
+  ENV GEO_F1_BrakeDisc_FL           : parent_type=BONE parent_bone='Bone_Wheel_FL' bbox=(-0.876, 1.262, 0.167) .. (-0.855, 1.638, 0.543)
+  ENV GEO_F1_BrakeCaliper_FL        : parent_type=BONE parent_bone='Bone_Hub_FL' bbox=(-0.897, 1.5, 0.36) .. (-0.805, 1.657, 0.547)
+BlenderMCP addon unregistered
+Blender 5.3.0 (hash 02f0899d78e3 built 2026-11-10 01:33:43)
+
+Blender quit

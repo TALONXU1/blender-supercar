@@ -1,0 +1,8 @@
+# 斯帕 · 无人机上升跟随落差
+# 画风 ST3   时长 6s   motion 49 词
+# 首帧 S2-02.png（compiled/ 里对应的关键帧）
+
+Camera rises steadily from forty to ninety meters while the car climbs the hillside road. The forest canopy opens below as altitude increases, trunks and crowns becoming distinguishable. Fog banks shift slowly in the valleys. The elevation change becomes obvious as the horizon drops. Slow, smooth ascent. 6 seconds.
+
+Keep: the single ribbon of wet asphalt, the pine forest density, the fog in the valleys.
+Avoid: no hovering, no orbit, no fast movement, no buildings, no clear sky.

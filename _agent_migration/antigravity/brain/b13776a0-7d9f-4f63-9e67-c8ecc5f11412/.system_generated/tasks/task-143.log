@@ -1,0 +1,49 @@
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    26.25 GiB / 31.50 GiB (83%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    281.27 GiB / 300.00 GiB (94%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    565.30 GiB / 623.52 GiB (91%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+00:01.125  blend            | Read blend: "D:\项目session\blender-supercar\LATEST\v5_stage_anim.blend"
+D:\项目session\blender-supercar\pipeline\v6_sv_build.py:531: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  if not mat or not mat.use_nodes:
+D:\项目session\blender-supercar\pipeline\v6_sv_build.py:745: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  m.use_nodes = True
+D:\项目session\blender-supercar\pipeline\v6_sv_build.py:874: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  m.use_nodes = True
+D:\项目session\blender-supercar\pipeline\v6_sv_build.py:1098: DeprecationWarning: 'Scene.use_nodes' is expected to be removed in Blender 6.0
+  scene.use_nodes = False
+00:14.203  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\preview\sv_prev_01_act1_chase_f0068.jpg'
+00:16.828  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\preview\sv_prev_02_act1_onboard_f0145.jpg'
+00:19.437  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\preview\sv_prev_03_act2_gwen_f1320.jpg'
+00:21.250  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\preview\sv_prev_04_act3_2099_f1715.jpg'
+BlenderMCP addon registered
+3D Ink Outlines applied to hero car parts: 22
+信息: 已另存为 "v6_stage_lookdev.blend"
+=== V6 SPIDER-VERSE LOOKDEV BUILD SUMMARY ===
+Saved: D:\项目session\blender-supercar\v6_spiderverse\v6_stage_lookdev.blend in 2.69 s
+Total objects: 679 | Root objs: []
+V6_09_ComicFX objects: ['V6_FX_AeroRibbon_FL', 'V6_FX_AeroRibbon_FR', 'V6_FX_AeroRibbon_RL', 'V6_FX_AeroRibbon_RR', 'V6_FX_ExhaustCone', 'V6_FX_KerbSparks_L', 'V6_FX_KerbSparks_R', 'V6_FX_WheelSmear_FL', 'V6_FX_WheelSmear_FR', 'V6_FX_WheelSmear_RL', 'V6_FX_WheelSmear_RR']
+FX camera-to-focus raycast hits: 0 []
+RENDERED sv_prev_01_act1_chase_f0068 (frame=68, cam=Cam_S01_RearChase, dim=0.0): 10.41 s
+RENDERED sv_prev_02_act1_onboard_f0145 (frame=145, cam=Cam_S02_Onboard, dim=0.0): 2.61 s
+RENDERED sv_prev_03_act2_gwen_f1320 (frame=1320, cam=Cam_S15_OrbitCopse, dim=1.0): 2.61 s
+RENDERED sv_prev_04_act3_2099_f1715 (frame=1715, cam=Cam_S20_StoweTele, dim=2.0): 1.81 s
+BlenderMCP addon unregistered
+Blender 5.3.0 (hash 02f0899d78e3 built 2026-11-10 01:33:43)
+
+Blender quit

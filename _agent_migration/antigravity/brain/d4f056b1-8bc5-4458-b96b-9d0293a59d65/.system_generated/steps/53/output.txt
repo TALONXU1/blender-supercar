@@ -1,0 +1,54 @@
+Command exited with code 0.
+
+Command output:
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    21.62 GiB / 31.50 GiB (69%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    277.98 GiB / 300.00 GiB (93%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    547.70 GiB / 623.52 GiB (88%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+
+EMPTY V5_Brake_0                   children=  4 OK
+EMPTY V5_Brake_1                   children=  4 OK
+EMPTY V5_Brake_2                   children=  4 OK
+EMPTY V5_Bridge_A                  children=  3 OK
+EMPTY V5_Bridge_B                  children=  3 OK
+EMPTY V5_Gantry                    children=  9 OK
+EMPTY V5_Marshal_0                 children=  2 OK
+EMPTY V5_Marshal_1                 children=  2 OK
+EMPTY V5_Marshal_2                 children=  2 OK
+EMPTY V5_Marshal_3                 children=  2 OK
+EMPTY V5_Marshal_4                 children=  2 OK
+EMPTY V5_Marshal_5                 children=  2 OK
+EMPTY V5_Marshal_6                 children=  2 OK
+EMPTY V5_Screen_A                  children=  2 OK
+EMPTY V5_Screen_B                  children=  2 OK
+EMPTY V5_Stand_Club                children= 14 OK
+EMPTY V5_Stand_Complex             children= 14 OK
+EMPTY V5_Stand_Main                children= 15 OK
+EMPTY V5_Stand_Mid                 children= 14 OK
+EMPTY V5_Stand_South               children= 14 OK
+EMPTY V5_Stand_T1                  children= 13 OK
+V5 objects parented to non-empties: []
+MOVE TEST: 21 empties OK, 0 FAIL
+
+
+
+V5 objects parented to non-empties: []
+MOVE TEST: 21 empties OK, 0 FAIL
+
+

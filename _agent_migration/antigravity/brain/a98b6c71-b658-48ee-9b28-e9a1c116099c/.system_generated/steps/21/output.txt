@@ -1,0 +1,524 @@
+Command exited with code 0.
+
+Command output:
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    25.51 GiB / 31.50 GiB (81%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    278.09 GiB / 300.00 GiB (93%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    548.03 GiB / 623.52 GiB (88%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+00:02.297  blend            | Read blend: "D:\项目session\blender-supercar\LATEST\v5_stage_anim.blend"
+BlenderMCP addon registered
+=== COLLECTIONS ===
+[Scene Collection] direct_objs=30 sample=['RIG_F1_Race', 'LGT_V5Car_0', 'LGT_V5Car_1', 'LGT_V5Car_2', 'Cam_S01_RearChase', 'Cam_S02_Onboard', 'Cam_S03_ChaseRise', 'Cam_S04_Hairpin']
+  [SCIFI_F1_2035] direct_objs=0 sample=[]
+    [01_Chassis_Monocoque] direct_objs=16 sample=['GEO_F1_Nosecone', 'GEO_F1_Nose_SuspensionAccessHatch', 'GEO_F1_DzusFastener_-0.065_1.95', 'GEO_F1_DzusFastener_0.065_1.95', 'GEO_F1_DzusFastener_-0.065_1.8', 'GEO_F1_DzusFastener_0.065_1.8', 'GEO_F1_Telemetry_Antenna_0', 'GEO_F1_Telemetry_Antenna_1']
+    [02_Cockpit_Halo_HUD] direct_objs=41 sample=['GEO_F1_Halo_CenterPylon', 'GEO_F1_Halo_Hoop', 'GEO_F1_Cockpit_HoloHUD', 'GEO_F1_Cockpit_SteeringWheel', 'GEO_F1_Steering_LCDScreen', 'GEO_F1_Steering_Dial_0', 'GEO_F1_Steering_Dial_1', 'GEO_F1_Steering_Dial_2']
+      [Steering_ShiftLEDs] direct_objs=15 sample=['GEO_F1_ShiftLED_00', 'GEO_F1_ShiftLED_01', 'GEO_F1_ShiftLED_02', 'GEO_F1_ShiftLED_03', 'GEO_F1_ShiftLED_04', 'GEO_F1_ShiftLED_05', 'GEO_F1_ShiftLED_06', 'GEO_F1_ShiftLED_07']
+    [03_Sidepods_EngineCowl] direct_objs=22 sample=['GEO_F1_EngineCowl_Body', 'GEO_F1_Sidepod_IntakeLip_L', 'GEO_F1_Sidepod_RadiatorCore_L', 'GEO_F1_Sidepod_Louver_L_0', 'GEO_F1_Sidepod_Louver_L_1', 'GEO_F1_Sidepod_Louver_L_2', 'GEO_F1_Sidepod_Louver_L_3', 'GEO_F1_Sidepod_Louver_L_4']
+    [04_Wings_Aerodynamics] direct_objs=48 sample=['GEO_F1_FrontWing_Mainplane', 'GEO_F1_FrontWing_Flap_1', 'GEO_F1_FrontWing_Flap_2', 'GEO_F1_FrontWing_Flap_3', 'GEO_F1_FrontWing_Flap_4', 'GEO_F1_SlotGapSeparator_0.28_0', 'GEO_F1_SlotGapSeparator_L_0.28_0', 'GEO_F1_SlotGapSeparator_0.28_1']
+    [05_Suspension_Steering] direct_objs=0 sample=[]
+      [Susp_Front_L] direct_objs=8 sample=['GEO_F1_Front_UpperArmFwd_L', 'GEO_F1_Front_UpperArmAft_L', 'GEO_F1_Front_LowerArmFwd_L', 'GEO_F1_Front_LowerArmAft_L', 'GEO_F1_Front_Pushrod_L', 'GEO_F1_Steering_TieRod_L', 'GEO_F1_Front_BallJoint_Upper_L', 'GEO_F1_Front_BallJoint_Lower_L']
+      [Susp_Front_R] direct_objs=8 sample=['GEO_F1_Front_UpperArmFwd_R', 'GEO_F1_Front_UpperArmAft_R', 'GEO_F1_Front_LowerArmFwd_R', 'GEO_F1_Front_LowerArmAft_R', 'GEO_F1_Front_Pushrod_R', 'GEO_F1_Steering_TieRod_R', 'GEO_F1_Front_BallJoint_Upper_R', 'GEO_F1_Front_BallJoint_Lower_R']
+      [Susp_Rear_L] direct_objs=7 sample=['GEO_F1_Rear_UpperArmFwd_L', 'GEO_F1_Rear_UpperArmAft_L', 'GEO_F1_Rear_LowerArmFwd_L', 'GEO_F1_Rear_LowerArmAft_L', 'GEO_F1_Rear_Pushrod_L', 'GEO_F1_Rear_BallJoint_Upper_L', 'GEO_F1_Rear_BallJoint_Lower_L']
+      [Susp_Rear_R] direct_objs=7 sample=['GEO_F1_Rear_UpperArmFwd_R', 'GEO_F1_Rear_UpperArmAft_R', 'GEO_F1_Rear_LowerArmFwd_R', 'GEO_F1_Rear_LowerArmAft_R', 'GEO_F1_Rear_Pushrod_R', 'GEO_F1_Rear_BallJoint_Upper_R', 'GEO_F1_Rear_BallJoint_Lower_R']
+    [06_Wheels_TurbineRims] direct_objs=0 sample=[]
+      [Wheel_FL] direct_objs=12 sample=['GEO_F1_Tire_FL', 'GEO_F1_Rim_FL', 'GEO_F1_RimLip_FL', 'GEO_F1_RimHubPlate_FL', 'GEO_F1_RimSpokes_FL', 'GEO_F1_CenterLock_FL', 'GEO_F1_BrakeDisc_FL', 'GEO_F1_BrakeHoles_FL']
+      [Wheel_FR] direct_objs=12 sample=['GEO_F1_Tire_FR', 'GEO_F1_Rim_FR', 'GEO_F1_RimLip_FR', 'GEO_F1_RimHubPlate_FR', 'GEO_F1_RimSpokes_FR', 'GEO_F1_CenterLock_FR', 'GEO_F1_BrakeDisc_FR', 'GEO_F1_BrakeHoles_FR']
+      [Wheel_RL] direct_objs=12 sample=['GEO_F1_Tire_RL', 'GEO_F1_Rim_RL', 'GEO_F1_RimLip_RL', 'GEO_F1_RimHubPlate_RL', 'GEO_F1_RimSpokes_RL', 'GEO_F1_CenterLock_RL', 'GEO_F1_BrakeDisc_RL', 'GEO_F1_BrakeHoles_RL']
+      [Wheel_RR] direct_objs=12 sample=['GEO_F1_Tire_RR', 'GEO_F1_Rim_RR', 'GEO_F1_RimLip_RR', 'GEO_F1_RimHubPlate_RR', 'GEO_F1_RimSpokes_RR', 'GEO_F1_CenterLock_RR', 'GEO_F1_BrakeDisc_RR', 'GEO_F1_BrakeHoles_RR']
+    [07_Telemetry_LED_Lights] direct_objs=10 sample=['GEO_F1_Nose_NeonStripe', 'GEO_F1_FrontWing_Endplate_Light_L', 'GEO_F1_FrontWing_Endplate_Light_R', 'GEO_F1_Airbox_NeonRing', 'GEO_F1_FloorEdge_Neon_L', 'GEO_F1_FloorEdge_Neon_R', 'GEO_F1_RearWing_Endplate_Light_L', 'GEO_F1_RearWing_Endplate_Light_R']
+    [08_Sponsor_Decals] direct_objs=14 sample=['GEO_MERC_Stripe_Sidepod_L', 'GEO_MERC_Stripe_Sidepod2_L', 'GEO_MERC_Stripe_Cowl_L', 'GEO_MERC_Stripe_Halo_L', 'GEO_MERC_Stripe_Sidepod_R', 'GEO_MERC_Stripe_Sidepod2_R', 'GEO_MERC_Stripe_Cowl_R', 'GEO_MERC_Stripe_Halo_R']
+  [V5_01_Road] direct_objs=89 sample=['V5_Kerb_0_L_R', 'V5_Kerb_0_L_W', 'V5_Kerb_0_R_R', 'V5_Kerb_0_R_W', 'V5_Kerb_10_L_R', 'V5_Kerb_10_L_W', 'V5_Kerb_10_R_R', 'V5_Kerb_10_R_W']
+  [V5_02_Terrain] direct_objs=18 sample=['V5_Gravel_0', 'V5_Gravel_1', 'V5_Gravel_10', 'V5_Gravel_11', 'V5_Gravel_12', 'V5_Gravel_2', 'V5_Gravel_3', 'V5_Gravel_4']
+  [V5_03_Barriers] direct_objs=4 sample=['V5_Barrier', 'V5_BarrierBase', 'V5_BarrierStrip', 'V5_FencePosts']
+  [V5_04_Stands] direct_objs=90 sample=['V5_Stand_Club', 'V5_Stand_Club_Back', 'V5_Stand_Club_Columns', 'V5_Stand_Club_Flagpoles', 'V5_Stand_Club_Flags', 'V5_Stand_Club_FrontPosts', 'V5_Stand_Club_Rail', 'V5_Stand_Club_Roof']
+  [V5_05_Pit] direct_objs=10 sample=['V5_PitGarage', 'V5_PitGarageFront', 'V5_PitRoofBanner', 'V5_PitTopRail', 'V5_PitTopTier_0', 'V5_PitTopTier_1', 'V5_PitTopTier_2', 'V5_PitTopTier_3']
+  [V5_06_Props] direct_objs=158 sample=['V5_Ad_0', 'V5_Ad_1', 'V5_Ad_10', 'V5_Ad_11', 'V5_Ad_12', 'V5_Ad_13', 'V5_Ad_14', 'V5_Ad_15']
+  [V5_07_Lighting] direct_objs=2 sample=['LGT_V5SkyFill', 'LGT_V5Sun']
+Unlinked collections: ['V5_CarLightReceivers']
+
+=== ALL NON-V5 OBJECTS ===
+  DEC_Engine_RedBull_L_PATCH         type=MESH     parent=RIG_F1_Race colls=['08_Sponsor_Decals', 'V5_CarLightReceivers'] mats=['Mat_DEC_Engine_RedBull']
+  DEC_Engine_RedBull_R_PATCH         type=MESH     parent=RIG_F1_Race colls=['08_Sponsor_Decals', 'V5_CarLightReceivers'] mats=['Mat_DEC_Engine_RedBull']
+  DEC_Halo_Top_Oracle_PATCH          type=MESH     parent=RIG_F1_Race colls=['08_Sponsor_Decals', 'V5_CarLightReceivers'] mats=['Mat_DEC_Halo_Oracle']
+  DEC_Nose_Livery_PATCH              type=MESH     parent=RIG_F1_Race colls=['08_Sponsor_Decals', 'V5_CarLightReceivers'] mats=['Mat_DEC_Nose_Livery']
+  DEC_Sidepod_Oracle_L_PATCH         type=MESH     parent=RIG_F1_Race colls=['08_Sponsor_Decals', 'V5_CarLightReceivers'] mats=['Mat_DEC_Sidepod_Oracle']
+  DEC_Sidepod_Oracle_R_PATCH         type=MESH     parent=RIG_F1_Race colls=['08_Sponsor_Decals', 'V5_CarLightReceivers'] mats=['Mat_DEC_Sidepod_Oracle']
+  DEC_Tire_Sidewall_FL               type=MESH     parent=RIG_F1_Race colls=['V5_CarLightReceivers', 'Wheel_FL'] mats=['Mat_PZero_Pirelli_Sidewall']
+  DEC_Tire_Sidewall_FR               type=MESH     parent=RIG_F1_Race colls=['V5_CarLightReceivers', 'Wheel_FR'] mats=['Mat_PZero_Pirelli_Sidewall']
+  DEC_Tire_Sidewall_RL               type=MESH     parent=RIG_F1_Race colls=['V5_CarLightReceivers', 'Wheel_RL'] mats=['Mat_PZero_Pirelli_Sidewall']
+  DEC_Tire_Sidewall_RR               type=MESH     parent=RIG_F1_Race colls=['V5_CarLightReceivers', 'Wheel_RR'] mats=['Mat_PZero_Pirelli_Sidewall']
+  GEO_F1_AeroMirror_L                type=MESH     parent=RIG_F1_Race colls=['02_Cockpit_Halo_HUD'] mats=['Mat_RedBull_MatteNavy']
+  GEO_F1_AeroMirror_R                type=MESH     parent=RIG_F1_Race colls=['02_Cockpit_Halo_HUD'] mats=['Mat_RedBull_MatteNavy']
+  GEO_F1_Airbox_NeonRing             type=MESH     parent=RIG_F1_Race colls=['07_Telemetry_LED_Lights'] mats=['Mat_Neon_Cyan']
+  GEO_F1_Airbox_Scoop                type=MESH     parent=RIG_F1_Race colls=['03_Sidepods_EngineCowl'] mats=['Mat_RedBull_MatteNavy']
+  GEO_F1_BrakeCaliper_FL             type=MESH     parent=RIG_F1_Race colls=['Wheel_FL'] mats=['Mat_Caliper_Anodized']
+  GEO_F1_BrakeCaliper_FR             type=MESH     parent=RIG_F1_Race colls=['Wheel_FR'] mats=['Mat_Caliper_Anodized']
+  GEO_F1_BrakeCaliper_RL             type=MESH     parent=RIG_F1_Race colls=['Wheel_RL'] mats=['Mat_Caliper_Anodized']
+  GEO_F1_BrakeCaliper_RR             type=MESH     parent=RIG_F1_Race colls=['Wheel_RR'] mats=['Mat_Caliper_Anodized']
+  GEO_F1_BrakeDisc_FL                type=MESH     parent=RIG_F1_Race colls=['Wheel_FL'] mats=['Mat_BrakeDisc_CarbonCeramic']
+  GEO_F1_BrakeDisc_FR                type=MESH     parent=RIG_F1_Race colls=['Wheel_FR'] mats=['Mat_BrakeDisc_CarbonCeramic']
+  GEO_F1_BrakeDisc_RL                type=MESH     parent=RIG_F1_Race colls=['Wheel_RL'] mats=['Mat_BrakeDisc_CarbonCeramic']
+  GEO_F1_BrakeDisc_RR                type=MESH     parent=RIG_F1_Race colls=['Wheel_RR'] mats=['Mat_BrakeDisc_CarbonCeramic']
+  GEO_F1_BrakeDuct_FL                type=MESH     parent=RIG_F1_Race colls=['Wheel_FL'] mats=['Mat_Duct_Carbon']
+  GEO_F1_BrakeDuct_FR                type=MESH     parent=RIG_F1_Race colls=['Wheel_FR'] mats=['Mat_Duct_Carbon']
+  GEO_F1_BrakeDuct_RL                type=MESH     parent=RIG_F1_Race colls=['Wheel_RL'] mats=['Mat_Duct_Carbon']
+  GEO_F1_BrakeDuct_RR                type=MESH     parent=RIG_F1_Race colls=['Wheel_RR'] mats=['Mat_Duct_Carbon']
+  GEO_F1_BrakeGlow_FL                type=MESH     parent=RIG_F1_Race colls=['Wheel_FL'] mats=['Mat_Brake_HeatGlow']
+  GEO_F1_BrakeGlow_FR                type=MESH     parent=RIG_F1_Race colls=['Wheel_FR'] mats=['Mat_Brake_HeatGlow']
+  GEO_F1_BrakeGlow_RL                type=MESH     parent=RIG_F1_Race colls=['Wheel_RL'] mats=['Mat_Brake_HeatGlow']
+  GEO_F1_BrakeGlow_RR                type=MESH     parent=RIG_F1_Race colls=['Wheel_RR'] mats=['Mat_Brake_HeatGlow']
+  GEO_F1_BrakeHoles_FL               type=MESH     parent=RIG_F1_Race colls=['Wheel_FL'] mats=['Mat_BrakeHole_Shadow']
+  GEO_F1_BrakeHoles_FR               type=MESH     parent=RIG_F1_Race colls=['Wheel_FR'] mats=['Mat_BrakeHole_Shadow']
+  GEO_F1_BrakeHoles_RL               type=MESH     parent=RIG_F1_Race colls=['Wheel_RL'] mats=['Mat_BrakeHole_Shadow']
+  GEO_F1_BrakeHoles_RR               type=MESH     parent=RIG_F1_Race colls=['Wheel_RR'] mats=['Mat_BrakeHole_Shadow']
+  GEO_F1_CenterLock_FL               type=MESH     parent=RIG_F1_Race colls=['Wheel_FL'] mats=['Mat_CenterLock_Cyan']
+  GEO_F1_CenterLock_FR               type=MESH     parent=RIG_F1_Race colls=['Wheel_FR'] mats=['Mat_CenterLock_Cyan']
+  GEO_F1_CenterLock_RL               type=MESH     parent=RIG_F1_Race colls=['Wheel_RL'] mats=['Mat_CenterLock_Cyan']
+  GEO_F1_CenterLock_RR               type=MESH     parent=RIG_F1_Race colls=['Wheel_RR'] mats=['Mat_CenterLock_Cyan']
+  GEO_F1_Chassis_BulkheadSeam        type=MESH     parent=RIG_F1_Race colls=['01_Chassis_Monocoque'] mats=['Mat_Forged_Carbon']
+  GEO_F1_Cockpit_BucketSeat_Back     type=MESH     parent=RIG_F1_Race colls=['02_Cockpit_Halo_HUD'] mats=['Mat_Forged_Carbon']
+  GEO_F1_Cockpit_BucketSeat_Base     type=MESH     parent=RIG_F1_Race colls=['02_Cockpit_Halo_HUD'] mats=['Mat_Carbon_Satin']
+  GEO_F1_Cockpit_HoloHUD             type=MESH     parent=RIG_F1_Race colls=['02_Cockpit_Halo_HUD'] mats=['Mat_HUD_Green']
+  GEO_F1_Cockpit_SteeringWheel       type=MESH     parent=RIG_F1_Race colls=['02_Cockpit_Halo_HUD'] mats=['Mat_Forged_Carbon']
+  GEO_F1_Diffuser_Ramp               type=MESH     parent=RIG_F1_Race colls=['04_Wings_Aerodynamics'] mats=['Mat_Forged_Carbon']
+  GEO_F1_Diffuser_Strake_0           type=MESH     parent=RIG_F1_Race colls=['04_Wings_Aerodynamics'] mats=['Mat_Forged_Carbon']
+  GEO_F1_Diffuser_Strake_1           type=MESH     parent=RIG_F1_Race colls=['04_Wings_Aerodynamics'] mats=['Mat_Forged_Carbon']
+  GEO_F1_Diffuser_Strake_2           type=MESH     parent=RIG_F1_Race colls=['04_Wings_Aerodynamics'] mats=['Mat_Forged_Carbon']
+  GEO_F1_Diffuser_Strake_3           type=MESH     parent=RIG_F1_Race colls=['04_Wings_Aerodynamics'] mats=['Mat_Forged_Carbon']
+  GEO_F1_Diffuser_Strake_4           type=MESH     parent=RIG_F1_Race colls=['04_Wings_Aerodynamics'] mats=['Mat_Forged_Carbon']
+  GEO_F1_Diffuser_Strake_5           type=MESH     parent=RIG_F1_Race colls=['04_Wings_Aerodynamics'] mats=['Mat_Forged_Carbon']
+  GEO_F1_Dorsal_SharkFin             type=MESH     parent=RIG_F1_Race colls=['03_Sidepods_EngineCowl'] mats=['Mat_Forged_Carbon']
+  GEO_F1_DzusFastener_-0.065_1.8     type=MESH     parent=RIG_F1_Race colls=['01_Chassis_Monocoque'] mats=['Mat_Titanium_Hardware']
+  GEO_F1_DzusFastener_-0.065_1.95    type=MESH     parent=RIG_F1_Race colls=['01_Chassis_Monocoque'] mats=['Mat_Titanium_Hardware']
+  GEO_F1_DzusFastener_0.065_1.8      type=MESH     parent=RIG_F1_Race colls=['01_Chassis_Monocoque'] mats=['Mat_Titanium_Hardware']
+  GEO_F1_DzusFastener_0.065_1.95     type=MESH     parent=RIG_F1_Race colls=['01_Chassis_Monocoque'] mats=['Mat_Titanium_Hardware']
+  GEO_F1_EngineCowl_Body             type=MESH     parent=RIG_F1_Race colls=['03_Sidepods_EngineCowl'] mats=['Mat_RedBull_MatteNavy']
+  GEO_F1_Exhaust_GoldHeatShield      type=MESH     parent=RIG_F1_Race colls=['03_Sidepods_EngineCowl'] mats=['Mat_Inconel_GoldHeatShield']
+  GEO_F1_Exhaust_InnerGlow           type=MESH     parent=RIG_F1_Race colls=['07_Telemetry_LED_Lights'] mats=['Mat_Neon_Orange']
+  GEO_F1_Exhaust_TitaniumTail        type=MESH     parent=RIG_F1_Race colls=['03_Sidepods_EngineCowl'] mats=['Mat_Exhaust_Titanium']
+  GEO_F1_FIA_RainLight               type=MESH     parent=RIG_F1_Race colls=['07_Telemetry_LED_Lights'] mats=['Mat_Neon_Orange']
+  GEO_F1_FloorEdge_Neon_L            type=MESH     parent=RIG_F1_Race colls=['07_Telemetry_LED_Lights'] mats=['Mat_Neon_Cyan']
+  GEO_F1_FloorEdge_Neon_R            type=MESH     parent=RIG_F1_Race colls=['07_Telemetry_LED_Lights'] mats=['Mat_Neon_Cyan']
+  GEO_F1_FloorStay_L                 type=MESH     parent=RIG_F1_Race colls=['01_Chassis_Monocoque'] mats=['Mat_Titanium_Hardware']
+  GEO_F1_FloorStay_R                 type=MESH     parent=RIG_F1_Race colls=['01_Chassis_Monocoque'] mats=['Mat_Titanium_Hardware']
+  GEO_F1_FrontWing_Canard_L          type=MESH     parent=RIG_F1_Race colls=['04_Wings_Aerodynamics'] mats=['Mat_Forged_Carbon']
+  GEO_F1_FrontWing_Canard_R          type=MESH     parent=RIG_F1_Race colls=['04_Wings_Aerodynamics'] mats=['Mat_Forged_Carbon']
+  GEO_F1_FrontWing_Endplate_L        type=MESH     parent=RIG_F1_Race colls=['04_Wings_Aerodynamics'] mats=['Mat_Carbon_Endplate_Matte']
+  GEO_F1_FrontWing_Endplate_Light_L  type=MESH     parent=RIG_F1_Race colls=['07_Telemetry_LED_Lights'] mats=['Mat_Neon_Cyan']
+  GEO_F1_FrontWing_Endplate_Light_R  type=MESH     parent=RIG_F1_Race colls=['07_Telemetry_LED_Lights'] mats=['Mat_Neon_Cyan']
+  GEO_F1_FrontWing_Endplate_R        type=MESH     parent=RIG_F1_Race colls=['04_Wings_Aerodynamics'] mats=['Mat_Carbon_Endplate_Matte']
+  GEO_F1_FrontWing_Flap_1            type=MESH     parent=RIG_F1_Race colls=['04_Wings_Aerodynamics'] mats=['Mat_Forged_Carbon']
+  GEO_F1_FrontWing_Flap_2            type=MESH     parent=RIG_F1_Race colls=['04_Wings_Aerodynamics'] mats=['Mat_Forged_Carbon']
+  GEO_F1_FrontWing_Flap_3            type=MESH     parent=RIG_F1_Race colls=['04_Wings_Aerodynamics'] mats=['Mat_Forged_Carbon']
+  GEO_F1_FrontWing_Flap_4            type=MESH     parent=RIG_F1_Race colls=['04_Wings_Aerodynamics'] mats=['Mat_Forged_Carbon']
+  GEO_F1_FrontWing_Mainplane         type=MESH     parent=RIG_F1_Race colls=['04_Wings_Aerodynamics'] mats=['Mat_Forged_Carbon']
+  GEO_F1_FrontWing_NosePylon_-0.07   type=MESH     parent=RIG_F1_Race colls=['04_Wings_Aerodynamics'] mats=['Mat_Forged_Carbon']
+  GEO_F1_FrontWing_NosePylon_0.07    type=MESH     parent=RIG_F1_Race colls=['04_Wings_Aerodynamics'] mats=['Mat_Forged_Carbon']
+  GEO_F1_Front_BallJoint_Lower_L     type=MESH     parent=RIG_F1_Race colls=['Susp_Front_L'] mats=['Mat_Anodized_Gold']
+  GEO_F1_Front_BallJoint_Lower_R     type=MESH     parent=RIG_F1_Race colls=['Susp_Front_R'] mats=['Mat_Anodized_Gold']
+  GEO_F1_Front_BallJoint_Upper_L     type=MESH     parent=RIG_F1_Race colls=['Susp_Front_L'] mats=['Mat_Anodized_Gold']
+  GEO_F1_Front_BallJoint_Upper_R     type=MESH     parent=RIG_F1_Race colls=['Susp_Front_R'] mats=['Mat_Anodized_Gold']
+  GEO_F1_Front_LowerArmAft_L         type=MESH     parent=RIG_F1_Race colls=['Susp_Front_L'] mats=['Mat_Forged_Carbon']
+  GEO_F1_Front_LowerArmAft_R         type=MESH     parent=RIG_F1_Race colls=['Susp_Front_R'] mats=['Mat_Forged_Carbon']
+  GEO_F1_Front_LowerArmFwd_L         type=MESH     parent=RIG_F1_Race colls=['Susp_Front_L'] mats=['Mat_Forged_Carbon']
+  GEO_F1_Front_LowerArmFwd_R         type=MESH     parent=RIG_F1_Race colls=['Susp_Front_R'] mats=['Mat_Forged_Carbon']
+  GEO_F1_Front_Pushrod_L             type=MESH     parent=RIG_F1_Race colls=['Susp_Front_L'] mats=['Mat_Forged_Carbon']
+  GEO_F1_Front_Pushrod_R             type=MESH     parent=RIG_F1_Race colls=['Susp_Front_R'] mats=['Mat_Forged_Carbon']
+  GEO_F1_Front_UpperArmAft_L         type=MESH     parent=RIG_F1_Race colls=['Susp_Front_L'] mats=['Mat_Forged_Carbon']
+  GEO_F1_Front_UpperArmAft_R         type=MESH     parent=RIG_F1_Race colls=['Susp_Front_R'] mats=['Mat_Forged_Carbon']
+  GEO_F1_Front_UpperArmFwd_L         type=MESH     parent=RIG_F1_Race colls=['Susp_Front_L'] mats=['Mat_Forged_Carbon']
+  GEO_F1_Front_UpperArmFwd_R         type=MESH     parent=RIG_F1_Race colls=['Susp_Front_R'] mats=['Mat_Forged_Carbon']
+  GEO_F1_Halo_CenterPylon            type=MESH     parent=RIG_F1_Race colls=['02_Cockpit_Halo_HUD'] mats=['Mat_Liquid_Titanium']
+  GEO_F1_Halo_Hoop                   type=CURVE    parent=RIG_F1_Race colls=['02_Cockpit_Halo_HUD'] mats=['Mat_Liquid_Titanium']
+  GEO_F1_Halo_VortexFin_00           type=MESH     parent=RIG_F1_Race colls=['02_Cockpit_Halo_HUD'] mats=['Mat_Forged_Carbon']
+  GEO_F1_Halo_VortexFin_01           type=MESH     parent=RIG_F1_Race colls=['02_Cockpit_Halo_HUD'] mats=['Mat_Forged_Carbon']
+  GEO_F1_Halo_VortexFin_02           type=MESH     parent=RIG_F1_Race colls=['02_Cockpit_Halo_HUD'] mats=['Mat_Forged_Carbon']
+  GEO_F1_Halo_VortexFin_03           type=MESH     parent=RIG_F1_Race colls=['02_Cockpit_Halo_HUD'] mats=['Mat_Forged_Carbon']
+  GEO_F1_Halo_VortexFin_04           type=MESH     parent=RIG_F1_Race colls=['02_Cockpit_Halo_HUD'] mats=['Mat_Forged_Carbon']
+  GEO_F1_Halo_VortexFin_05           type=MESH     parent=RIG_F1_Race colls=['02_Cockpit_Halo_HUD'] mats=['Mat_Forged_Carbon']
+  GEO_F1_Halo_VortexFin_06           type=MESH     parent=RIG_F1_Race colls=['02_Cockpit_Halo_HUD'] mats=['Mat_Forged_Carbon']
+  GEO_F1_Halo_VortexFin_07           type=MESH     parent=RIG_F1_Race colls=['02_Cockpit_Halo_HUD'] mats=['Mat_Forged_Carbon']
+  GEO_F1_Halo_VortexFin_08           type=MESH     parent=RIG_F1_Race colls=['02_Cockpit_Halo_HUD'] mats=['Mat_Forged_Carbon']
+  GEO_F1_Halo_VortexFin_09           type=MESH     parent=RIG_F1_Race colls=['02_Cockpit_Halo_HUD'] mats=['Mat_Forged_Carbon']
+  GEO_F1_Halo_VortexFin_10           type=MESH     parent=RIG_F1_Race colls=['02_Cockpit_Halo_HUD'] mats=['Mat_Forged_Carbon']
+  GEO_F1_Halo_VortexFin_11           type=MESH     parent=RIG_F1_Race colls=['02_Cockpit_Halo_HUD'] mats=['Mat_Forged_Carbon']
+  GEO_F1_HarnessBuckle_L             type=MESH     parent=RIG_F1_Race colls=['02_Cockpit_Halo_HUD'] mats=['Mat_Titanium_Hardware']
+  GEO_F1_HarnessBuckle_R             type=MESH     parent=RIG_F1_Race colls=['02_Cockpit_Halo_HUD'] mats=['Mat_Titanium_Hardware']
+  GEO_F1_HarnessStrap_L              type=MESH     parent=RIG_F1_Race colls=['02_Cockpit_Halo_HUD'] mats=['Mat_Seatbelt_Webbing']
+  GEO_F1_HarnessStrap_R              type=MESH     parent=RIG_F1_Race colls=['02_Cockpit_Halo_HUD'] mats=['Mat_Seatbelt_Webbing']
+  GEO_F1_Harness_CentralCamlock      type=MESH     parent=RIG_F1_Race colls=['02_Cockpit_Halo_HUD'] mats=['Mat_Titanium_Hardware']
+  GEO_F1_Headrest_Back               type=MESH     parent=RIG_F1_Race colls=['02_Cockpit_Halo_HUD'] mats=['Mat_Carbon_Satin']
+  GEO_F1_Headrest_Collar_L           type=MESH     parent=RIG_F1_Race colls=['02_Cockpit_Halo_HUD'] mats=['Mat_Carbon_Satin']
+  GEO_F1_Headrest_Collar_R           type=MESH     parent=RIG_F1_Race colls=['02_Cockpit_Halo_HUD'] mats=['Mat_Carbon_Satin']
+  GEO_F1_MirrorStalk_L               type=MESH     parent=RIG_F1_Race colls=['02_Cockpit_Halo_HUD'] mats=['Mat_Forged_Carbon']
+  GEO_F1_MirrorStalk_R               type=MESH     parent=RIG_F1_Race colls=['02_Cockpit_Halo_HUD'] mats=['Mat_Forged_Carbon']
+  GEO_F1_Monocoque_Chassis           type=MESH     parent=RIG_F1_Race colls=['01_Chassis_Monocoque'] mats=['Mat_RedBull_MatteNavy']
+  GEO_F1_Nose_NeonStripe             type=MESH     parent=RIG_F1_Race colls=['07_Telemetry_LED_Lights'] mats=['Mat_Merc_Petronas']
+  GEO_F1_Nose_SductBlade             type=MESH     parent=RIG_F1_Race colls=['01_Chassis_Monocoque'] mats=['Mat_Forged_Carbon']
+  GEO_F1_Nose_SuspensionAccessHatch  type=MESH     parent=RIG_F1_Race colls=['01_Chassis_Monocoque'] mats=['Mat_Forged_Carbon']
+  GEO_F1_Nosecone                    type=MESH     parent=RIG_F1_Race colls=['01_Chassis_Monocoque'] mats=['Mat_RedBull_MatteNavy']
+  GEO_F1_Overhead_TCam               type=MESH     parent=RIG_F1_Race colls=['03_Sidepods_EngineCowl'] mats=['Mat_Forged_Carbon']
+  GEO_F1_Pedal_Brake                 type=MESH     parent=RIG_F1_Race colls=['02_Cockpit_Halo_HUD'] mats=['Mat_Titanium_Hardware']
+  GEO_F1_Pedal_Throttle              type=MESH     parent=RIG_F1_Race colls=['02_Cockpit_Halo_HUD'] mats=['Mat_Titanium_Hardware']
+  GEO_F1_PitotTube_L                 type=MESH     parent=RIG_F1_Race colls=['01_Chassis_Monocoque'] mats=['Mat_Liquid_Titanium']
+  GEO_F1_PitotTube_R                 type=MESH     parent=RIG_F1_Race colls=['01_Chassis_Monocoque'] mats=['Mat_Liquid_Titanium']
+  GEO_F1_RearWing_DRSFlap            type=MESH     parent=RIG_F1_Race colls=['04_Wings_Aerodynamics'] mats=['Mat_Forged_Carbon']
+  GEO_F1_RearWing_DRS_Actuator       type=MESH     parent=RIG_F1_Race colls=['04_Wings_Aerodynamics'] mats=['Mat_Forged_Carbon']
+  GEO_F1_RearWing_Endplate_L         type=MESH     parent=RIG_F1_Race colls=['04_Wings_Aerodynamics'] mats=['Mat_Carbon_Endplate_Matte']
+  GEO_F1_RearWing_Endplate_Light_L   type=MESH     parent=RIG_F1_Race colls=['07_Telemetry_LED_Lights'] mats=['Mat_Neon_Cyan']
+  GEO_F1_RearWing_Endplate_Light_R   type=MESH     parent=RIG_F1_Race colls=['07_Telemetry_LED_Lights'] mats=['Mat_Neon_Cyan']
+  GEO_F1_RearWing_Endplate_R         type=MESH     parent=RIG_F1_Race colls=['04_Wings_Aerodynamics'] mats=['Mat_Carbon_Endplate_Matte']
+  GEO_F1_RearWing_Mainplane          type=MESH     parent=RIG_F1_Race colls=['04_Wings_Aerodynamics'] mats=['Mat_Forged_Carbon']
+  GEO_F1_RearWing_Pylon              type=MESH     parent=RIG_F1_Race colls=['04_Wings_Aerodynamics'] mats=['Mat_Forged_Carbon']
+  GEO_F1_Rear_BallJoint_Lower_L      type=MESH     parent=RIG_F1_Race colls=['Susp_Rear_L'] mats=['Mat_Anodized_Gold']
+  GEO_F1_Rear_BallJoint_Lower_R      type=MESH     parent=RIG_F1_Race colls=['Susp_Rear_R'] mats=['Mat_Anodized_Gold']
+  GEO_F1_Rear_BallJoint_Upper_L      type=MESH     parent=RIG_F1_Race colls=['Susp_Rear_L'] mats=['Mat_Anodized_Gold']
+  GEO_F1_Rear_BallJoint_Upper_R      type=MESH     parent=RIG_F1_Race colls=['Susp_Rear_R'] mats=['Mat_Anodized_Gold']
+  GEO_F1_Rear_LowerArmAft_L          type=MESH     parent=RIG_F1_Race colls=['Susp_Rear_L'] mats=['Mat_Forged_Carbon']
+  GEO_F1_Rear_LowerArmAft_R          type=MESH     parent=RIG_F1_Race colls=['Susp_Rear_R'] mats=['Mat_Forged_Carbon']
+  GEO_F1_Rear_LowerArmFwd_L          type=MESH     parent=RIG_F1_Race colls=['Susp_Rear_L'] mats=['Mat_Forged_Carbon']
+  GEO_F1_Rear_LowerArmFwd_R          type=MESH     parent=RIG_F1_Race colls=['Susp_Rear_R'] mats=['Mat_Forged_Carbon']
+  GEO_F1_Rear_Pushrod_L              type=MESH     parent=RIG_F1_Race colls=['Susp_Rear_L'] mats=['Mat_Forged_Carbon']
+  GEO_F1_Rear_Pushrod_R              type=MESH     parent=RIG_F1_Race colls=['Susp_Rear_R'] mats=['Mat_Forged_Carbon']
+  GEO_F1_Rear_UpperArmAft_L          type=MESH     parent=RIG_F1_Race colls=['Susp_Rear_L'] mats=['Mat_Forged_Carbon']
+  GEO_F1_Rear_UpperArmAft_R          type=MESH     parent=RIG_F1_Race colls=['Susp_Rear_R'] mats=['Mat_Forged_Carbon']
+  GEO_F1_Rear_UpperArmFwd_L          type=MESH     parent=RIG_F1_Race colls=['Susp_Rear_L'] mats=['Mat_Forged_Carbon']
+  GEO_F1_Rear_UpperArmFwd_R          type=MESH     parent=RIG_F1_Race colls=['Susp_Rear_R'] mats=['Mat_Forged_Carbon']
+  GEO_F1_RimHubPlate_FL              type=MESH     parent=RIG_F1_Race colls=['Wheel_FL'] mats=['Mat_Rim_Forged_Dark']
+  GEO_F1_RimHubPlate_FR              type=MESH     parent=RIG_F1_Race colls=['Wheel_FR'] mats=['Mat_Rim_Forged_Dark']
+  GEO_F1_RimHubPlate_RL              type=MESH     parent=RIG_F1_Race colls=['Wheel_RL'] mats=['Mat_Rim_Forged_Dark']
+  GEO_F1_RimHubPlate_RR              type=MESH     parent=RIG_F1_Race colls=['Wheel_RR'] mats=['Mat_Rim_Forged_Dark']
+  GEO_F1_RimLip_FL                   type=MESH     parent=RIG_F1_Race colls=['Wheel_FL'] mats=['Mat_Rim_Machined_Lip']
+  GEO_F1_RimLip_FR                   type=MESH     parent=RIG_F1_Race colls=['Wheel_FR'] mats=['Mat_Rim_Machined_Lip']
+  GEO_F1_RimLip_RL                   type=MESH     parent=RIG_F1_Race colls=['Wheel_RL'] mats=['Mat_Rim_Machined_Lip']
+  GEO_F1_RimLip_RR                   type=MESH     parent=RIG_F1_Race colls=['Wheel_RR'] mats=['Mat_Rim_Machined_Lip']
+  GEO_F1_RimSpokes_FL                type=MESH     parent=RIG_F1_Race colls=['Wheel_FL'] mats=['Mat_Rim_Forged_Dark']
+  GEO_F1_RimSpokes_FR                type=MESH     parent=RIG_F1_Race colls=['Wheel_FR'] mats=['Mat_Rim_Forged_Dark']
+  GEO_F1_RimSpokes_RL                type=MESH     parent=RIG_F1_Race colls=['Wheel_RL'] mats=['Mat_Rim_Forged_Dark']
+  GEO_F1_RimSpokes_RR                type=MESH     parent=RIG_F1_Race colls=['Wheel_RR'] mats=['Mat_Rim_Forged_Dark']
+  GEO_F1_Rim_FL                      type=MESH     parent=RIG_F1_Race colls=['Wheel_FL'] mats=['Mat_Rim_Forged_Dark']
+  GEO_F1_Rim_FR                      type=MESH     parent=RIG_F1_Race colls=['Wheel_FR'] mats=['Mat_Rim_Forged_Dark']
+  GEO_F1_Rim_RL                      type=MESH     parent=RIG_F1_Race colls=['Wheel_RL'] mats=['Mat_Rim_Forged_Dark']
+  GEO_F1_Rim_RR                      type=MESH     parent=RIG_F1_Race colls=['Wheel_RR'] mats=['Mat_Rim_Forged_Dark']
+  GEO_F1_ShiftLED_00                 type=MESH     parent=RIG_F1_Race colls=['Steering_ShiftLEDs'] mats=['Mat_Neon_Cyan']
+  GEO_F1_ShiftLED_01                 type=MESH     parent=RIG_F1_Race colls=['Steering_ShiftLEDs'] mats=['Mat_Neon_Cyan']
+  GEO_F1_ShiftLED_02                 type=MESH     parent=RIG_F1_Race colls=['Steering_ShiftLEDs'] mats=['Mat_Neon_Cyan']
+  GEO_F1_ShiftLED_03                 type=MESH     parent=RIG_F1_Race colls=['Steering_ShiftLEDs'] mats=['Mat_Neon_Cyan']
+  GEO_F1_ShiftLED_04                 type=MESH     parent=RIG_F1_Race colls=['Steering_ShiftLEDs'] mats=['Mat_Neon_Cyan']
+  GEO_F1_ShiftLED_05                 type=MESH     parent=RIG_F1_Race colls=['Steering_ShiftLEDs'] mats=['Mat_RedBull_SolarYellow']
+  GEO_F1_ShiftLED_06                 type=MESH     parent=RIG_F1_Race colls=['Steering_ShiftLEDs'] mats=['Mat_RedBull_SolarYellow']
+  GEO_F1_ShiftLED_07                 type=MESH     parent=RIG_F1_Race colls=['Steering_ShiftLEDs'] mats=['Mat_RedBull_SolarYellow']
+  GEO_F1_ShiftLED_08                 type=MESH     parent=RIG_F1_Race colls=['Steering_ShiftLEDs'] mats=['Mat_RedBull_SolarYellow']
+  GEO_F1_ShiftLED_09                 type=MESH     parent=RIG_F1_Race colls=['Steering_ShiftLEDs'] mats=['Mat_RedBull_SolarYellow']
+  GEO_F1_ShiftLED_10                 type=MESH     parent=RIG_F1_Race colls=['Steering_ShiftLEDs'] mats=['Mat_RedBull_Crimson']
+  GEO_F1_ShiftLED_11                 type=MESH     parent=RIG_F1_Race colls=['Steering_ShiftLEDs'] mats=['Mat_RedBull_Crimson']
+  GEO_F1_ShiftLED_12                 type=MESH     parent=RIG_F1_Race colls=['Steering_ShiftLEDs'] mats=['Mat_RedBull_Crimson']
+  GEO_F1_ShiftLED_13                 type=MESH     parent=RIG_F1_Race colls=['Steering_ShiftLEDs'] mats=['Mat_RedBull_Crimson']
+  GEO_F1_ShiftLED_14                 type=MESH     parent=RIG_F1_Race colls=['Steering_ShiftLEDs'] mats=['Mat_RedBull_Crimson']
+  GEO_F1_Sidepod_IntakeLip_L         type=MESH     parent=RIG_F1_Race colls=['03_Sidepods_EngineCowl'] mats=['Mat_RedBull_MatteNavy']
+  GEO_F1_Sidepod_IntakeLip_R         type=MESH     parent=RIG_F1_Race colls=['03_Sidepods_EngineCowl'] mats=['Mat_RedBull_MatteNavy']
+  GEO_F1_Sidepod_Louver_L_0          type=MESH     parent=RIG_F1_Race colls=['03_Sidepods_EngineCowl'] mats=['Mat_Forged_Carbon']
+  GEO_F1_Sidepod_Louver_L_1          type=MESH     parent=RIG_F1_Race colls=['03_Sidepods_EngineCowl'] mats=['Mat_Forged_Carbon']
+  GEO_F1_Sidepod_Louver_L_2          type=MESH     parent=RIG_F1_Race colls=['03_Sidepods_EngineCowl'] mats=['Mat_Forged_Carbon']
+  GEO_F1_Sidepod_Louver_L_3          type=MESH     parent=RIG_F1_Race colls=['03_Sidepods_EngineCowl'] mats=['Mat_Forged_Carbon']
+  GEO_F1_Sidepod_Louver_L_4          type=MESH     parent=RIG_F1_Race colls=['03_Sidepods_EngineCowl'] mats=['Mat_Forged_Carbon']
+  GEO_F1_Sidepod_Louver_L_5          type=MESH     parent=RIG_F1_Race colls=['03_Sidepods_EngineCowl'] mats=['Mat_Forged_Carbon']
+  GEO_F1_Sidepod_Louver_R_0          type=MESH     parent=RIG_F1_Race colls=['03_Sidepods_EngineCowl'] mats=['Mat_Forged_Carbon']
+  GEO_F1_Sidepod_Louver_R_1          type=MESH     parent=RIG_F1_Race colls=['03_Sidepods_EngineCowl'] mats=['Mat_Forged_Carbon']
+  GEO_F1_Sidepod_Louver_R_2          type=MESH     parent=RIG_F1_Race colls=['03_Sidepods_EngineCowl'] mats=['Mat_Forged_Carbon']
+  GEO_F1_Sidepod_Louver_R_3          type=MESH     parent=RIG_F1_Race colls=['03_Sidepods_EngineCowl'] mats=['Mat_Forged_Carbon']
+  GEO_F1_Sidepod_Louver_R_4          type=MESH     parent=RIG_F1_Race colls=['03_Sidepods_EngineCowl'] mats=['Mat_Forged_Carbon']
+  GEO_F1_Sidepod_Louver_R_5          type=MESH     parent=RIG_F1_Race colls=['03_Sidepods_EngineCowl'] mats=['Mat_Forged_Carbon']
+  GEO_F1_Sidepod_RadiatorCore_L      type=MESH     parent=RIG_F1_Race colls=['03_Sidepods_EngineCowl'] mats=['Mat_Radiator_Mesh']
+  GEO_F1_Sidepod_RadiatorCore_R      type=MESH     parent=RIG_F1_Race colls=['03_Sidepods_EngineCowl'] mats=['Mat_Radiator_Mesh']
+  GEO_F1_SlotGapSeparator_0.28_0     type=MESH     parent=RIG_F1_Race colls=['04_Wings_Aerodynamics'] mats=['Mat_Forged_Carbon']
+  GEO_F1_SlotGapSeparator_0.28_1     type=MESH     parent=RIG_F1_Race colls=['04_Wings_Aerodynamics'] mats=['Mat_Forged_Carbon']
+  GEO_F1_SlotGapSeparator_0.28_2     type=MESH     parent=RIG_F1_Race colls=['04_Wings_Aerodynamics'] mats=['Mat_Forged_Carbon']
+  GEO_F1_SlotGapSeparator_0.48_0     type=MESH     parent=RIG_F1_Race colls=['04_Wings_Aerodynamics'] mats=['Mat_Forged_Carbon']
+  GEO_F1_SlotGapSeparator_0.48_1     type=MESH     parent=RIG_F1_Race colls=['04_Wings_Aerodynamics'] mats=['Mat_Forged_Carbon']
+  GEO_F1_SlotGapSeparator_0.48_2     type=MESH     parent=RIG_F1_Race colls=['04_Wings_Aerodynamics'] mats=['Mat_Forged_Carbon']
+  GEO_F1_SlotGapSeparator_0.68_0     type=MESH     parent=RIG_F1_Race colls=['04_Wings_Aerodynamics'] mats=['Mat_Forged_Carbon']
+  GEO_F1_SlotGapSeparator_0.68_1     type=MESH     parent=RIG_F1_Race colls=['04_Wings_Aerodynamics'] mats=['Mat_Forged_Carbon']
+  GEO_F1_SlotGapSeparator_0.68_2     type=MESH     parent=RIG_F1_Race colls=['04_Wings_Aerodynamics'] mats=['Mat_Forged_Carbon']
+  GEO_F1_SlotGapSeparator_0.88_0     type=MESH     parent=RIG_F1_Race colls=['04_Wings_Aerodynamics'] mats=['Mat_Forged_Carbon']
+  GEO_F1_SlotGapSeparator_0.88_1     type=MESH     parent=RIG_F1_Race colls=['04_Wings_Aerodynamics'] mats=['Mat_Forged_Carbon']
+  GEO_F1_SlotGapSeparator_0.88_2     type=MESH     parent=RIG_F1_Race colls=['04_Wings_Aerodynamics'] mats=['Mat_Forged_Carbon']
+  GEO_F1_SlotGapSeparator_L_0.28_0   type=MESH     parent=RIG_F1_Race colls=['04_Wings_Aerodynamics'] mats=['Mat_Forged_Carbon']
+  GEO_F1_SlotGapSeparator_L_0.28_1   type=MESH     parent=RIG_F1_Race colls=['04_Wings_Aerodynamics'] mats=['Mat_Forged_Carbon']
+  GEO_F1_SlotGapSeparator_L_0.28_2   type=MESH     parent=RIG_F1_Race colls=['04_Wings_Aerodynamics'] mats=['Mat_Forged_Carbon']
+  GEO_F1_SlotGapSeparator_L_0.48_0   type=MESH     parent=RIG_F1_Race colls=['04_Wings_Aerodynamics'] mats=['Mat_Forged_Carbon']
+  GEO_F1_SlotGapSeparator_L_0.48_1   type=MESH     parent=RIG_F1_Race colls=['04_Wings_Aerodynamics'] mats=['Mat_Forged_Carbon']
+  GEO_F1_SlotGapSeparator_L_0.48_2   type=MESH     parent=RIG_F1_Race colls=['04_Wings_Aerodynamics'] mats=['Mat_Forged_Carbon']
+  GEO_F1_SlotGapSeparator_L_0.68_0   type=MESH     parent=RIG_F1_Race colls=['04_Wings_Aerodynamics'] mats=['Mat_Forged_Carbon']
+  GEO_F1_SlotGapSeparator_L_0.68_1   type=MESH     parent=RIG_F1_Race colls=['04_Wings_Aerodynamics'] mats=['Mat_Forged_Carbon']
+  GEO_F1_SlotGapSeparator_L_0.68_2   type=MESH     parent=RIG_F1_Race colls=['04_Wings_Aerodynamics'] mats=['Mat_Forged_Carbon']
+  GEO_F1_SlotGapSeparator_L_0.88_0   type=MESH     parent=RIG_F1_Race colls=['04_Wings_Aerodynamics'] mats=['Mat_Forged_Carbon']
+  GEO_F1_SlotGapSeparator_L_0.88_1   type=MESH     parent=RIG_F1_Race colls=['04_Wings_Aerodynamics'] mats=['Mat_Forged_Carbon']
+  GEO_F1_SlotGapSeparator_L_0.88_2   type=MESH     parent=RIG_F1_Race colls=['04_Wings_Aerodynamics'] mats=['Mat_Forged_Carbon']
+  GEO_F1_Steering_Dial_0             type=MESH     parent=RIG_F1_Race colls=['02_Cockpit_Halo_HUD'] mats=['Mat_Neon_Cyan']
+  GEO_F1_Steering_Dial_1             type=MESH     parent=RIG_F1_Race colls=['02_Cockpit_Halo_HUD'] mats=['Mat_Anodized_Gold']
+  GEO_F1_Steering_Dial_2             type=MESH     parent=RIG_F1_Race colls=['02_Cockpit_Halo_HUD'] mats=['Mat_Neon_Orange']
+  GEO_F1_Steering_Dial_3             type=MESH     parent=RIG_F1_Race colls=['02_Cockpit_Halo_HUD'] mats=['Mat_PZero_White']
+  GEO_F1_Steering_Dial_4             type=MESH     parent=RIG_F1_Race colls=['02_Cockpit_Halo_HUD'] mats=['Mat_Neon_Cyan']
+  GEO_F1_Steering_Dial_5             type=MESH     parent=RIG_F1_Race colls=['02_Cockpit_Halo_HUD'] mats=['Mat_Anodized_Gold']
+  GEO_F1_Steering_LCDScreen          type=MESH     parent=RIG_F1_Race colls=['02_Cockpit_Halo_HUD'] mats=['Mat_Steering_LCD_Telemetry']
+  GEO_F1_Steering_Paddle_Down        type=MESH     parent=RIG_F1_Race colls=['02_Cockpit_Halo_HUD'] mats=['Mat_Forged_Carbon']
+  GEO_F1_Steering_Paddle_Up          type=MESH     parent=RIG_F1_Race colls=['02_Cockpit_Halo_HUD'] mats=['Mat_Forged_Carbon']
+  GEO_F1_Steering_TieRod_L           type=MESH     parent=RIG_F1_Race colls=['Susp_Front_L'] mats=['Mat_Forged_Carbon']
+  GEO_F1_Steering_TieRod_R           type=MESH     parent=RIG_F1_Race colls=['Susp_Front_R'] mats=['Mat_Forged_Carbon']
+  GEO_F1_Telemetry_Antenna_0         type=MESH     parent=RIG_F1_Race colls=['01_Chassis_Monocoque'] mats=['Mat_Forged_Carbon']
+  GEO_F1_Telemetry_Antenna_1         type=MESH     parent=RIG_F1_Race colls=['01_Chassis_Monocoque'] mats=['Mat_Forged_Carbon']
+  GEO_F1_Tire_FL                     type=MESH     parent=RIG_F1_Race colls=['Wheel_FL'] mats=['Mat_Tire_Slick_Compound']
+  GEO_F1_Tire_FR                     type=MESH     parent=RIG_F1_Race colls=['Wheel_FR'] mats=['Mat_Tire_Slick_Compound']
+  GEO_F1_Tire_RL                     type=MESH     parent=RIG_F1_Race colls=['Wheel_RL'] mats=['Mat_Tire_Slick_Compound']
+  GEO_F1_Tire_RR                     type=MESH     parent=RIG_F1_Race colls=['Wheel_RR'] mats=['Mat_Tire_Slick_Compound']
+  GEO_F1_Underbody_Floor             type=MESH     parent=RIG_F1_Race colls=['01_Chassis_Monocoque'] mats=['Mat_Forged_Carbon']
+  GEO_MERC_Stripe_Cowl_L             type=MESH     parent=RIG_F1_Race colls=['08_Sponsor_Decals'] mats=['Mat_Merc_Silver']
+  GEO_MERC_Stripe_Cowl_R             type=MESH     parent=RIG_F1_Race colls=['08_Sponsor_Decals'] mats=['Mat_Merc_Silver']
+  GEO_MERC_Stripe_Halo_L             type=MESH     parent=RIG_F1_Race colls=['08_Sponsor_Decals'] mats=['Mat_Merc_Petronas']
+  GEO_MERC_Stripe_Halo_R             type=MESH     parent=RIG_F1_Race colls=['08_Sponsor_Decals'] mats=['Mat_Merc_Petronas']
+  GEO_MERC_Stripe_Sidepod2_L         type=MESH     parent=RIG_F1_Race colls=['08_Sponsor_Decals'] mats=['Mat_Merc_Silver']
+  GEO_MERC_Stripe_Sidepod2_R         type=MESH     parent=RIG_F1_Race colls=['08_Sponsor_Decals'] mats=['Mat_Merc_Silver']
+  GEO_MERC_Stripe_Sidepod_L          type=MESH     parent=RIG_F1_Race colls=['08_Sponsor_Decals'] mats=['Mat_Merc_Petronas']
+  GEO_MERC_Stripe_Sidepod_R          type=MESH     parent=RIG_F1_Race colls=['08_Sponsor_Decals'] mats=['Mat_Merc_Petronas']
+  LGT_V5Car_0                        type=LIGHT    parent=None colls=['Scene Collection'] mats=[]
+  LGT_V5Car_1                        type=LIGHT    parent=None colls=['Scene Collection'] mats=[]
+  LGT_V5Car_2                        type=LIGHT    parent=None colls=['Scene Collection'] mats=[]
+  LGT_V5SkyFill                      type=LIGHT    parent=None colls=['V5_07_Lighting'] mats=[]
+  LGT_V5Sun                          type=LIGHT    parent=None colls=['V5_07_Lighting'] mats=[]
+  RIG_F1_Race                        type=ARMATURE parent=None colls=['Scene Collection'] mats=[]
+
+=== RIG BONES & CONSTRAINTS & DRIVERS ===
+Custom props: {'steer': 0.7215142846107483, 'wheel_spin': 0.0, 'rear_slip': 1.0, 'drs': 0.5, 'brake_heat': 0.0, 'susp_f': -0.004, 'susp_r': -0.019061604514718056, 'steer_ratio': 5.0, 'rig_note': 'V4 赛车骨架: steer=转向角, wheel_spin=累计滚动弧度, drs=尾翼开度, brake_heat=刹车过热'}
+  Bone: Bone_Root                parent=None rot_mode=XYZ head=(0.0, 0.0, 0.0) tail=(0.0, 0.5, 0.0)
+  Bone: Bone_Heading             parent=Bone_Root rot_mode=XYZ head=(0.0, 0.0, 0.0) tail=(0.0, 0.5, 0.0)
+  Bone: Bone_Body                parent=Bone_Heading rot_mode=XYZ head=(0.0, 0.18, 0.3) tail=(0.0, 0.78, 0.3)
+  Bone: Bone_Steering_Wheel      parent=Bone_Body rot_mode=XYZ head=(0.0, 0.16, 0.65) tail=(0.0, 0.06, 0.65)
+    constraint: V4_LimitRot (LIMIT_ROTATION)
+  Bone: Bone_DRS                 parent=Bone_Body rot_mode=XYZ head=(0.0, -2.2, 1.035) tail=(0.0, -2.1, 1.035)
+    constraint: V4_LimitRot (LIMIT_ROTATION)
+  Bone: Bone_Aim                 parent=Bone_Body rot_mode=XYZ head=(0.0, 0.3, 0.48) tail=(0.0, 0.42, 0.48)
+  Bone: Bone_CamAnchor           parent=Bone_Body rot_mode=XYZ head=(0.0, -0.3, 1.1) tail=(0.0, -0.2, 1.1)
+  Bone: Bone_Susp_FL             parent=Bone_Heading rot_mode=XYZ head=(-0.9, 1.45, 0.355) tail=(-0.9, 1.45, 0.655)
+    constraint: V4_SuspTravel (LIMIT_LOCATION)
+  Bone: Bone_Hub_FL              parent=Bone_Susp_FL rot_mode=XYZ head=(-0.9, 1.45, 0.355) tail=(-0.9, 1.67, 0.355)
+    constraint: V4_LimitRot (LIMIT_ROTATION)
+  Bone: Bone_Wheel_FL            parent=Bone_Hub_FL rot_mode=XYZ head=(-0.9, 1.45, 0.355) tail=(-0.9, 1.67, 0.355)
+  Bone: Bone_Susp_FR             parent=Bone_Heading rot_mode=XYZ head=(0.9, 1.45, 0.355) tail=(0.9, 1.45, 0.655)
+    constraint: V4_SuspTravel (LIMIT_LOCATION)
+  Bone: Bone_Hub_FR              parent=Bone_Susp_FR rot_mode=XYZ head=(0.9, 1.45, 0.355) tail=(0.9, 1.67, 0.355)
+    constraint: V4_LimitRot (LIMIT_ROTATION)
+  Bone: Bone_Wheel_FR            parent=Bone_Hub_FR rot_mode=XYZ head=(0.9, 1.45, 0.355) tail=(0.9, 1.67, 0.355)
+  Bone: Bone_Susp_RL             parent=Bone_Heading rot_mode=XYZ head=(-0.86, -1.55, 0.355) tail=(-0.86, -1.55, 0.655)
+    constraint: V4_SuspTravel (LIMIT_LOCATION)
+  Bone: Bone_Hub_RL              parent=Bone_Susp_RL rot_mode=XYZ head=(-0.86, -1.55, 0.355) tail=(-0.86, -1.33, 0.355)
+  Bone: Bone_Wheel_RL            parent=Bone_Hub_RL rot_mode=XYZ head=(-0.86, -1.55, 0.355) tail=(-0.86, -1.33, 0.355)
+  Bone: Bone_Susp_RR             parent=Bone_Heading rot_mode=XYZ head=(0.86, -1.55, 0.355) tail=(0.86, -1.55, 0.655)
+    constraint: V4_SuspTravel (LIMIT_LOCATION)
+  Bone: Bone_Hub_RR              parent=Bone_Susp_RR rot_mode=XYZ head=(0.86, -1.55, 0.355) tail=(0.86, -1.33, 0.355)
+  Bone: Bone_Wheel_RR            parent=Bone_Hub_RR rot_mode=XYZ head=(0.86, -1.55, 0.355) tail=(0.86, -1.33, 0.355)
+  Rig drivers:
+    pose.bones["Bone_Wheel_FL"].rotation_euler[0] -> -spin
+    pose.bones["Bone_Wheel_FR"].rotation_euler[0] -> -spin
+    pose.bones["Bone_Wheel_RL"].rotation_euler[0] -> -spin*slip
+    pose.bones["Bone_Wheel_RR"].rotation_euler[0] -> -spin*slip
+    pose.bones["Bone_Hub_FL"].rotation_euler[2] -> steer*0.0174532925
+    pose.bones["Bone_Hub_FR"].rotation_euler[2] -> steer*0.0174532925
+    pose.bones["Bone_Steering_Wheel"].rotation_euler[1] -> steer*ratio*0.0174532925
+    pose.bones["Bone_DRS"].rotation_euler[0] -> -0.2792527*drs
+    pose.bones["Bone_Susp_FL"].location[1] -> susp
+    pose.bones["Bone_Susp_FR"].location[1] -> susp
+    pose.bones["Bone_Susp_RL"].location[1] -> susp
+    pose.bones["Bone_Susp_RR"].location[1] -> susp
+
+=== OBJECT DRIVERS & CONSTRAINTS (CAR PARTS) ===
+  Modifier GEO_F1_AeroMirror_L: Bevel (BEVEL) obj=None
+  Modifier GEO_F1_AeroMirror_R: Bevel (BEVEL) obj=None
+  Modifier GEO_F1_Airbox_Scoop: Mirror_X (MIRROR) obj=None
+  Modifier GEO_F1_Airbox_Scoop: Subsurf (SUBSURF) obj=None
+  Modifier GEO_F1_Cockpit_SteeringWheel: Bevel (BEVEL) obj=None
+  Modifier GEO_F1_Dorsal_SharkFin: Bevel (BEVEL) obj=None
+  Modifier GEO_F1_EngineCowl_Body: Mirror_X (MIRROR) obj=None
+  Modifier GEO_F1_EngineCowl_Body: Subsurf (SUBSURF) obj=None
+  Modifier GEO_F1_FloorStay_L: Bevel (BEVEL) obj=None
+  Modifier GEO_F1_FloorStay_R: Bevel (BEVEL) obj=None
+  Modifier GEO_F1_FrontWing_Endplate_L: Bevel (BEVEL) obj=None
+  Modifier GEO_F1_FrontWing_Endplate_R: Bevel (BEVEL) obj=None
+  Modifier GEO_F1_FrontWing_Flap_1: Mirror_X (MIRROR) obj=None
+  Modifier GEO_F1_FrontWing_Flap_1: Subsurf (SUBSURF) obj=None
+  Modifier GEO_F1_FrontWing_Flap_2: Mirror_X (MIRROR) obj=None
+  Modifier GEO_F1_FrontWing_Flap_2: Subsurf (SUBSURF) obj=None
+  Modifier GEO_F1_FrontWing_Flap_3: Mirror_X (MIRROR) obj=None
+  Modifier GEO_F1_FrontWing_Flap_3: Subsurf (SUBSURF) obj=None
+  Modifier GEO_F1_FrontWing_Flap_4: Mirror_X (MIRROR) obj=None
+  Modifier GEO_F1_FrontWing_Flap_4: Subsurf (SUBSURF) obj=None
+  Modifier GEO_F1_FrontWing_Mainplane: Mirror_X (MIRROR) obj=None
+  Modifier GEO_F1_FrontWing_Mainplane: Subsurf (SUBSURF) obj=None
+  Modifier GEO_F1_FrontWing_NosePylon_-0.07: Bevel (BEVEL) obj=None
+  Modifier GEO_F1_FrontWing_NosePylon_0.07: Bevel (BEVEL) obj=None
+  Modifier GEO_F1_Front_LowerArmAft_L: Bevel (BEVEL) obj=None
+  Modifier GEO_F1_Front_LowerArmAft_R: Bevel (BEVEL) obj=None
+  Modifier GEO_F1_Front_LowerArmFwd_L: Bevel (BEVEL) obj=None
+  Modifier GEO_F1_Front_LowerArmFwd_R: Bevel (BEVEL) obj=None
+  Modifier GEO_F1_Front_Pushrod_L: Bevel (BEVEL) obj=None
+  Modifier GEO_F1_Front_Pushrod_R: Bevel (BEVEL) obj=None
+  Modifier GEO_F1_Front_UpperArmAft_L: Bevel (BEVEL) obj=None
+  Modifier GEO_F1_Front_UpperArmAft_R: Bevel (BEVEL) obj=None
+  Modifier GEO_F1_Front_UpperArmFwd_L: Bevel (BEVEL) obj=None
+  Modifier GEO_F1_Front_UpperArmFwd_R: Bevel (BEVEL) obj=None
+  Modifier GEO_F1_Halo_CenterPylon: Bevel (BEVEL) obj=None
+  Modifier GEO_F1_Halo_Hoop: Mirror_X (MIRROR) obj=None
+  Modifier GEO_F1_MirrorStalk_L: Bevel (BEVEL) obj=None
+  Modifier GEO_F1_MirrorStalk_R: Bevel (BEVEL) obj=None
+  Modifier GEO_F1_Monocoque_Chassis: Mirror_X (MIRROR) obj=None
+  Modifier GEO_F1_Monocoque_Chassis: Subsurf (SUBSURF) obj=None
+  Modifier GEO_F1_Nosecone: Mirror_X (MIRROR) obj=None
+  Modifier GEO_F1_Nosecone: Subsurf (SUBSURF) obj=None
+  Modifier GEO_F1_RearWing_Endplate_L: V4_Bevel (BEVEL) obj=None
+  Modifier GEO_F1_RearWing_Endplate_R: V4_Bevel (BEVEL) obj=None
+  Modifier GEO_F1_Rear_LowerArmAft_L: Bevel (BEVEL) obj=None
+  Modifier GEO_F1_Rear_LowerArmAft_R: Bevel (BEVEL) obj=None
+  Modifier GEO_F1_Rear_LowerArmFwd_L: Bevel (BEVEL) obj=None
+  Modifier GEO_F1_Rear_LowerArmFwd_R: Bevel (BEVEL) obj=None
+  Modifier GEO_F1_Rear_Pushrod_L: Bevel (BEVEL) obj=None
+  Modifier GEO_F1_Rear_Pushrod_R: Bevel (BEVEL) obj=None
+  Modifier GEO_F1_Rear_UpperArmAft_L: Bevel (BEVEL) obj=None
+  Modifier GEO_F1_Rear_UpperArmAft_R: Bevel (BEVEL) obj=None
+  Modifier GEO_F1_Rear_UpperArmFwd_L: Bevel (BEVEL) obj=None
+  Modifier GEO_F1_Rear_UpperArmFwd_R: Bevel (BEVEL) obj=None
+  Modifier GEO_F1_RimSpokes_FL: V4_SpokeBevel (BEVEL) obj=None
+  Modifier GEO_F1_RimSpokes_FR: V4_SpokeBevel (BEVEL) obj=None
+  Modifier GEO_F1_RimSpokes_RL: V4_SpokeBevel (BEVEL) obj=None
+  Modifier GEO_F1_RimSpokes_RR: V4_SpokeBevel (BEVEL) obj=None
+  Modifier GEO_F1_Sidepod_IntakeLip_L: Bevel (BEVEL) obj=None
+  Modifier GEO_F1_Sidepod_IntakeLip_R: Bevel (BEVEL) obj=None
+  Modifier GEO_F1_SlotGapSeparator_0.28_0: Bevel (BEVEL) obj=None
+  Modifier GEO_F1_SlotGapSeparator_0.28_1: Bevel (BEVEL) obj=None
+  Modifier GEO_F1_SlotGapSeparator_0.28_2: Bevel (BEVEL) obj=None
+  Modifier GEO_F1_SlotGapSeparator_0.48_0: Bevel (BEVEL) obj=None
+  Modifier GEO_F1_SlotGapSeparator_0.48_1: Bevel (BEVEL) obj=None
+  Modifier GEO_F1_SlotGapSeparator_0.48_2: Bevel (BEVEL) obj=None
+  Modifier GEO_F1_SlotGapSeparator_0.68_0: Bevel (BEVEL) obj=None
+  Modifier GEO_F1_SlotGapSeparator_0.68_1: Bevel (BEVEL) obj=None
+  Modifier GEO_F1_SlotGapSeparator_0.68_2: Bevel (BEVEL) obj=None
+  Modifier GEO_F1_SlotGapSeparator_0.88_0: Bevel (BEVEL) obj=None
+  Modifier GEO_F1_SlotGapSeparator_0.88_1: Bevel (BEVEL) obj=None
+  Modifier GEO_F1_SlotGapSeparator_0.88_2: Bevel (BEVEL) obj=None
+  Modifier GEO_F1_SlotGapSeparator_L_0.28_0: Bevel (BEVEL) obj=None
+  Modifier GEO_F1_SlotGapSeparator_L_0.28_1: Bevel (BEVEL) obj=None
+  Modifier GEO_F1_SlotGapSeparator_L_0.28_2: Bevel (BEVEL) obj=None
+  Modifier GEO_F1_SlotGapSeparator_L_0.48_0: Bevel (BEVEL) obj=None
+  Modifier GEO_F1_SlotGapSeparator_L_0.48_1: Bevel (BEVEL) obj=None
+  Modifier GEO_F1_SlotGapSeparator_L_0.48_2: Bevel (BEVEL) obj=None
+  Modifier GEO_F1_SlotGapSeparator_L_0.68_0: Bevel (BEVEL) obj=None
+  Modifier GEO_F1_SlotGapSeparator_L_0.68_1: Bevel (BEVEL) obj=None
+  Modifier GEO_F1_SlotGapSeparator_L_0.68_2: Bevel (BEVEL) obj=None
+  Modifier GEO_F1_SlotGapSeparator_L_0.88_0: Bevel (BEVEL) obj=None
+  Modifier GEO_F1_SlotGapSeparator_L_0.88_1: Bevel (BEVEL) obj=None
+  Modifier GEO_F1_SlotGapSeparator_L_0.88_2: Bevel (BEVEL) obj=None
+  Modifier GEO_F1_Steering_TieRod_L: Bevel (BEVEL) obj=None
+  Modifier GEO_F1_Steering_TieRod_R: Bevel (BEVEL) obj=None
+  Modifier GEO_F1_Underbody_Floor: Mirror_X (MIRROR) obj=None
+  Modifier GEO_F1_Underbody_Floor: Solidify (SOLIDIFY) obj=None
+  ObjDriver RIG_F1_Race: pose.bones["Bone_Wheel_FL"].rotation_euler[0] -> -spin
+  ObjDriver RIG_F1_Race: pose.bones["Bone_Wheel_FR"].rotation_euler[0] -> -spin
+  ObjDriver RIG_F1_Race: pose.bones["Bone_Wheel_RL"].rotation_euler[0] -> -spin*slip
+  ObjDriver RIG_F1_Race: pose.bones["Bone_Wheel_RR"].rotation_euler[0] -> -spin*slip
+  ObjDriver RIG_F1_Race: pose.bones["Bone_Hub_FL"].rotation_euler[2] -> steer*0.0174532925
+  ObjDriver RIG_F1_Race: pose.bones["Bone_Hub_FR"].rotation_euler[2] -> steer*0.0174532925
+  ObjDriver RIG_F1_Race: pose.bones["Bone_Steering_Wheel"].rotation_euler[1] -> steer*ratio*0.0174532925
+  ObjDriver RIG_F1_Race: pose.bones["Bone_DRS"].rotation_euler[0] -> -0.2792527*drs
+  ObjDriver RIG_F1_Race: pose.bones["Bone_Susp_FL"].location[1] -> susp
+  ObjDriver RIG_F1_Race: pose.bones["Bone_Susp_FR"].location[1] -> susp
+  ObjDriver RIG_F1_Race: pose.bones["Bone_Susp_RL"].location[1] -> susp
+  ObjDriver RIG_F1_Race: pose.bones["Bone_Susp_RR"].location[1] -> susp
+
+=== CAR MATERIALS DETAIL ===
+  Mat Mat_Anodized_Gold           : nodes=[('Material Output', 'OUTPUT_MATERIAL'), ('Principled BSDF', 'BSDF_PRINCIPLED')] drivers=[]
+  Mat Mat_BrakeDisc_CarbonCeramic : nodes=[('Principled BSDF', 'BSDF_PRINCIPLED'), ('Material Output', 'OUTPUT_MATERIAL'), ('Texture Coordinate', 'TEX_COORD'), ('Noise Texture', 'TEX_NOISE'), ('Bump', 'BUMP')] drivers=[]
+  Mat Mat_BrakeHole_Shadow        : nodes=[('Principled BSDF', 'BSDF_PRINCIPLED'), ('Material Output', 'OUTPUT_MATERIAL')] drivers=[]
+  Mat Mat_Brake_HeatGlow          : nodes=[('Emission', 'EMISSION'), ('Material Output', 'OUTPUT_MATERIAL')] drivers=['nodes["Emission"].inputs[1].default_value']
+  Mat Mat_Caliper_Anodized        : nodes=[('Principled BSDF', 'BSDF_PRINCIPLED'), ('Material Output', 'OUTPUT_MATERIAL')] drivers=[]
+  Mat Mat_Carbon_Endplate_Matte   : nodes=[('Principled BSDF', 'BSDF_PRINCIPLED'), ('Material Output', 'OUTPUT_MATERIAL')] drivers=[]
+  Mat Mat_Carbon_Satin            : nodes=[('Material Output', 'OUTPUT_MATERIAL'), ('Principled BSDF', 'BSDF_PRINCIPLED'), ('V4_CarbonWeave', 'TEX_COORD'), ('V4_CarbonWeave.001', 'TEX_WAVE'), ('V4_CarbonWeave.002', 'TEX_NOISE'), ('V4_CarbonWeave.003', 'MIX_RGB'), ('V4_CarbonWeave.004', 'BUMP')] drivers=[]
+  Mat Mat_CenterLock_Cyan         : nodes=[('Principled BSDF', 'BSDF_PRINCIPLED'), ('Material Output', 'OUTPUT_MATERIAL')] drivers=[]
+  Mat Mat_DEC_Engine_RedBull      : nodes=[('Material Output', 'OUTPUT_MATERIAL'), ('Principled BSDF', 'BSDF_PRINCIPLED'), ('Image Texture', 'TEX_IMAGE')] drivers=[]
+  Mat Mat_DEC_Halo_Oracle         : nodes=[('Material Output', 'OUTPUT_MATERIAL'), ('Principled BSDF', 'BSDF_PRINCIPLED'), ('Image Texture', 'TEX_IMAGE')] drivers=[]
+  Mat Mat_DEC_Nose_Livery         : nodes=[('Material Output', 'OUTPUT_MATERIAL'), ('Principled BSDF', 'BSDF_PRINCIPLED'), ('Image Texture', 'TEX_IMAGE')] drivers=[]
+  Mat Mat_DEC_Sidepod_Oracle      : nodes=[('Material Output', 'OUTPUT_MATERIAL'), ('Principled BSDF', 'BSDF_PRINCIPLED'), ('Image Texture', 'TEX_IMAGE')] drivers=[]
+  Mat Mat_Duct_Carbon             : nodes=[('Principled BSDF', 'BSDF_PRINCIPLED'), ('Material Output', 'OUTPUT_MATERIAL')] drivers=[]
+  Mat Mat_Exhaust_Titanium        : nodes=[('Material Output', 'OUTPUT_MATERIAL'), ('Principled BSDF', 'BSDF_PRINCIPLED')] drivers=[]
+  Mat Mat_Forged_Carbon           : nodes=[('Material Output', 'OUTPUT_MATERIAL'), ('Principled BSDF', 'BSDF_PRINCIPLED'), ('V4_CarbonWeave', 'TEX_COORD'), ('V4_CarbonWeave.001', 'TEX_WAVE'), ('V4_CarbonWeave.002', 'TEX_NOISE'), ('V4_CarbonWeave.003', 'MIX_RGB'), ('V4_CarbonWeave.004', 'BUMP')] drivers=[]
+  Mat Mat_HUD_Green               : nodes=[('Material Output', 'OUTPUT_MATERIAL'), ('Emission', 'EMISSION')] drivers=[]
+  Mat Mat_Inconel_GoldHeatShield  : nodes=[('Material Output', 'OUTPUT_MATERIAL'), ('Principled BSDF', 'BSDF_PRINCIPLED')] drivers=[]
+  Mat Mat_Liquid_Titanium         : nodes=[('Material Output', 'OUTPUT_MATERIAL'), ('Principled BSDF', 'BSDF_PRINCIPLED')] drivers=[]
+  Mat Mat_Merc_Petronas           : nodes=[('Principled BSDF', 'BSDF_PRINCIPLED'), ('Material Output', 'OUTPUT_MATERIAL')] drivers=[]
+  Mat Mat_Merc_Silver             : nodes=[('Principled BSDF', 'BSDF_PRINCIPLED'), ('Material Output', 'OUTPUT_MATERIAL')] drivers=[]
+  Mat Mat_Neon_Cyan               : nodes=[('Material Output', 'OUTPUT_MATERIAL'), ('Emission', 'EMISSION')] drivers=[]
+  Mat Mat_Neon_Orange             : nodes=[('Material Output', 'OUTPUT_MATERIAL'), ('Emission', 'EMISSION')] drivers=[]
+  Mat Mat_PZero_Pirelli_Sidewall  : nodes=[('Material Output', 'OUTPUT_MATERIAL'), ('Principled BSDF', 'BSDF_PRINCIPLED'), ('Image Texture', 'TEX_IMAGE')] drivers=[]
+  Mat Mat_PZero_White             : nodes=[('Material Output', 'OUTPUT_MATERIAL'), ('Principled BSDF', 'BSDF_PRINCIPLED')] drivers=[]
+  Mat Mat_Radiator_Mesh           : nodes=[('Material Output', 'OUTPUT_MATERIAL'), ('Principled BSDF', 'BSDF_PRINCIPLED')] drivers=[]
+  Mat Mat_RedBull_Crimson         : nodes=[('Material Output', 'OUTPUT_MATERIAL'), ('Principled BSDF', 'BSDF_PRINCIPLED')] drivers=[]
+  Mat Mat_RedBull_MatteNavy       : nodes=[('Material Output', 'OUTPUT_MATERIAL'), ('Principled BSDF', 'BSDF_PRINCIPLED')] drivers=[]
+  Mat Mat_RedBull_SolarYellow     : nodes=[('Material Output', 'OUTPUT_MATERIAL'), ('Principled BSDF', 'BSDF_PRINCIPLED')] drivers=[]
+  Mat Mat_Rim_Forged_Dark         : nodes=[('Principled BSDF', 'BSDF_PRINCIPLED'), ('Material Output', 'OUTPUT_MATERIAL')] drivers=[]
+  Mat Mat_Rim_Machined_Lip        : nodes=[('Principled BSDF', 'BSDF_PRINCIPLED'), ('Material Output', 'OUTPUT_MATERIAL')] drivers=[]
+  Mat Mat_Seatbelt_Webbing        : nodes=[('Material Output', 'OUTPUT_MATERIAL'), ('Principled BSDF', 'BSDF_PRINCIPLED')] drivers=[]
+  Mat Mat_Steering_LCD_Telemetry  : nodes=[('Material Output', 'OUTPUT_MATERIAL'), ('Principled BSDF', 'BSDF_PRINCIPLED'), ('Image Texture', 'TEX_IMAGE')] drivers=[]
+  Mat Mat_Tire_Slick_Compound     : nodes=[('Principled BSDF', 'BSDF_PRINCIPLED'), ('Material Output', 'OUTPUT_MATERIAL'), ('Texture Coordinate', 'TEX_COORD'), ('Noise Texture', 'TEX_NOISE'), ('Bump', 'BUMP')] drivers=[]
+  Mat Mat_Titanium_Hardware       : nodes=[('Material Output', 'OUTPUT_MATERIAL'), ('Principled BSDF', 'BSDF_PRINCIPLED')] drivers=[]
+
+=== EMPTIES IN SCENE ===
+  Empty V5_Brake_0                   colls=['V5_06_Props'] children=4
+  Empty V5_Brake_1                   colls=['V5_06_Props'] children=4
+  Empty V5_Brake_2                   colls=['V5_06_Props'] children=4
+  Empty V5_Bridge_A                  colls=['V5_06_Props'] children=3
+  Empty V5_Bridge_B                  colls=['V5_06_Props'] children=3
+  Empty V5_Gantry                    colls=['V5_06_Props'] children=9
+  Empty V5_Marshal_0                 colls=['V5_06_Props'] children=2
+  Empty V5_Marshal_1                 colls=['V5_06_Props'] children=2
+  Empty V5_Marshal_2                 colls=['V5_06_Props'] children=2
+  Empty V5_Marshal_3                 colls=['V5_06_Props'] children=2
+  Empty V5_Marshal_4                 colls=['V5_06_Props'] children=2
+  Empty V5_Marshal_5                 colls=['V5_06_Props'] children=2
+  Empty V5_Marshal_6                 colls=['V5_06_Props'] children=2
+  Empty V5_Screen_A                  colls=['V5_06_Props'] children=2
+  Empty V5_Screen_B                  colls=['V5_06_Props'] children=2
+  Empty V5_Stand_Club                colls=['V5_04_Stands'] children=14
+  Empty V5_Stand_Complex             colls=['V5_04_Stands'] children=14
+  Empty V5_Stand_Main                colls=['V5_04_Stands'] children=15
+  Empty V5_Stand_Mid                 colls=['V5_04_Stands'] children=14
+  Empty V5_Stand_South               colls=['V5_04_Stands'] children=14
+  Empty V5_Stand_T1                  colls=['V5_04_Stands'] children=13
+
+=== CAMERA RAYCAST & GROUND CHECK (STEP 1) ===
+Low camera frames (<0.18m): [] total: 0
+Camera occlusions:
+  Cam_S03_ChaseRise          blocked by V5_HedgeRing                : 1 frames (f=277..277, sample=[(277, 5.7, 8.36)])
+  Cam_S04_Hairpin            blocked by V5_Brake_1_150              : 1 frames (f=375..375, sample=[(375, 15.07, 22.12)])
+  Cam_S14_HeliDrop           blocked by V5_Bridge_B_Deck            : 1 frames (f=1171..1171, sample=[(1171, 30.35, 37.51)])
+  Cam_S17_Maggotts           blocked by V5_Barrier                  : 2 frames (f=1415..1417, sample=[(1415, 36.77, 97.27), (1417, 34.18, 94.14)])
+  Cam_S20_StoweTele          blocked by V5_Ad_70                    : 3 frames (f=1713..1717, sample=[(1713, 226.24, 389.31), (1715, 221.42, 381.82), (1717, 216.63, 374.33)])
+  Cam_S20_StoweTele          blocked by V5_Ad_72                    : 7 frames (f=1721..1733, sample=[(1721, 124.83, 359.38), (1723, 126.06, 351.91), (1725, 127.37, 344.45)])
+  Cam_S20_StoweTele          blocked by V5_Ad_73                    : 14 frames (f=1761..1787, sample=[(1761, 39.68, 212.63), (1763, 40.19, 205.45), (1765, 40.73, 198.26)])
+BlenderMCP addon unregistered
+Blender 5.3.0 (hash 02f0899d78e3 built 2026-11-10 01:33:43)
+
+Blender quit

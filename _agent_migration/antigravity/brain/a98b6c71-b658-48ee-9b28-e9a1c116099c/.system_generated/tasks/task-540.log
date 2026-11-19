@@ -1,0 +1,64 @@
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    19.80 GiB / 31.50 GiB (63%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    280.37 GiB / 300.00 GiB (93%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    555.67 GiB / 623.52 GiB (89%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+00:00.704  blend            | Read blend: "D:\项目session\blender-supercar\v6_spiderverse\v6_stage_anim_sv.blend"
+00:05.875  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\stills\shot_01_canyon_fpv_drop.jpg'
+BlenderMCP addon registered
+V6 STILL RENDERED: shot_01_canyon_fpv_drop.jpg (f=28, E-1610)
+00:10.657  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\stills\shot_02_scraper_front_wing.jpg'
+V6 STILL RENDERED: shot_02_scraper_front_wing.jpg (f=82, E-1610)
+00:14.985  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\stills\shot_03_chicane_whip_pan.jpg'
+V6 STILL RENDERED: shot_03_chicane_whip_pan.jpg (f=128, E-1610)
+00:22.641  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\stills\shot_04_halo_cockpit_canyon.jpg'
+V6 STILL RENDERED: shot_04_halo_cockpit_canyon.jpg (f=188, E-1610)
+00:30.204  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\stills\shot_05_viaduct_fov_warp.jpg'
+V6 STILL RENDERED: shot_05_viaduct_fov_warp.jpg (f=248, E-1610)
+00:48.266  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\stills\shot_06_eau_rouge_sparks.jpg'
+V6 STILL RENDERED: shot_06_eau_rouge_sparks.jpg (f=282, E-1610)
+00:55.125  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\stills\shot_07_raidillon_sky_climb.jpg'
+V6 STILL RENDERED: shot_07_raidillon_sky_climb.jpg (f=348, E-1610)
+01:58.391  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\stills\shot_08_moon_crest_tele300.jpg'
+V6 STILL RENDERED: shot_08_moon_crest_tele300.jpg (f=406, E-1610)
+02:05.172  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\stills\shot_09_bridge_pylon_reveal.jpg'
+V6 STILL RENDERED: shot_09_bridge_pylon_reveal.jpg (f=456, E-65)
+02:12.922  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\stills\shot_10_cable_stay_side.jpg'
+V6 STILL RENDERED: shot_10_cable_stay_side.jpg (f=508, E-65)
+03:16.125  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\stills\shot_11_bridge_deck_pursuit.jpg'
+V6 STILL RENDERED: shot_11_bridge_deck_pursuit.jpg (f=568, E-65)
+04:09.797  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\stills\shot_12_banked_wall_rail.jpg'
+V6 STILL RENDERED: shot_12_banked_wall_rail.jpg (f=635, E-65)
+05:28.125  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\stills\shot_13_bowl_whip_orbit.jpg'
+V6 STILL RENDERED: shot_13_bowl_whip_orbit.jpg (f=695, E-65)
+07:03.797  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\stills\shot_14_corkscrew_crest_dive.jpg'
+V6 STILL RENDERED: shot_14_corkscrew_crest_dive.jpg (f=755, E-65)
+08:11.844  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\stills\shot_15_corkscrew_plunge_pov.jpg'
+V6 STILL RENDERED: shot_15_corkscrew_plunge_pov.jpg (f=815, E-65)
+09:25.016  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\stills\shot_16_bottom_out_sparks.jpg'
+V6 STILL RENDERED: shot_16_bottom_out_sparks.jpg (f=868, E-65)
+10:11.704  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\stills\shot_17_tunnel_portal_warp.jpg'
+V6 STILL RENDERED: shot_17_tunnel_portal_warp.jpg (f=922, E-928)
+11:05.000  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\stills\shot_18_tunnel_cockpit_strobe.jpg'
+V6 STILL RENDERED: shot_18_tunnel_cockpit_strobe.jpg (f=975, E-928)
+11:32.454  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\stills\shot_19_tunnel_whip_orbit180.jpg'
+V6 STILL RENDERED: shot_19_tunnel_whip_orbit180.jpg (f=1022, E-928)
+12:13.485  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\stills\shot_20_harbor_brake_slam.jpg'
+V6 STILL RENDERED: shot_20_harbor_brake_slam.jpg (f=1058, E-928)
+12:55.875  render           | Saved: 'D:\项目session\blender-supercar\renders_v6\stills\shot_21_hairpin_wheel_macro.jpg'
+V6 STILL RENDERED: shot_21_hairpin_wheel_macro.jpg (f=1132, E-928)

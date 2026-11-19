@@ -1,0 +1,48 @@
+Command exited with code 0.
+
+Command output:
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    15.35 GiB / 31.50 GiB (49%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    208.60 GiB / 300.00 GiB (70%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    436.94 GiB / 623.52 GiB (70%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+
+Name                          Length
+----                          ------
+decal_endplate_mobil1.png      20395
+decal_engine_redbull_bull.png  55538
+decal_halo_oracle.png           8026
+decal_nose_livery.png          46136
+decal_rearwing_back.png        26880
+decal_rearwing_bybit.png        6749
+decal_rearwing_front.png       23064
+decal_sidepod_oracle.png       28839
+merc_endplate.png              30442
+merc_engine.png                56179
+merc_halo.png                  17377
+merc_nose.png                  18633
+merc_rearwing.png              31049
+merc_sidepod.png               51428
+steering_display.png           42206
+test_bull_bezier.png           29452
+test_bull_perfect.png          30534
+test_bull_preview.png           6103
+tire_sidewall_pirelli.png     184982
+_merc_preview.png              77879
+
+

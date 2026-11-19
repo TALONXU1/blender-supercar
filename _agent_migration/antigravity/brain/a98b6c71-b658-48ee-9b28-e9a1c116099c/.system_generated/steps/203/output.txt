@@ -1,0 +1,140 @@
+Command exited with code 0.
+
+Command output:
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    27.17 GiB / 31.50 GiB (86%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    281.25 GiB / 300.00 GiB (94%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    565.23 GiB / 623.52 GiB (91%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+BlenderMCP addon registered
+ViewLayer.use_pass_normal exists=True
+ViewLayer.use_pass_mist exists=True
+ViewLayer.use_pass_z exists=True
+ViewLayer.use_pass_emit exists=True
+ViewLayer.use_pass_cryptomatte_object exists=True
+World mist_settings: ['bl_rna', 'depth', 'falloff', 'height', 'intensity', 'rna_type', 'start', 'use_mist']
+OK CompositorNodeRLayers         
+   inputs : []
+   outputs: [('Image', 'RGBA'), ('Alpha', 'VALUE'), ('Depth', 'VALUE'), ('Mist', 'VALUE'), ('Normal', 'VECTOR'), ('Emission', 'RGBA'), ('CryptoObject00', 'RGBA'), ('CryptoObject01', 'RGBA'), ('CryptoObject02', 'RGBA')]
+   props  : ['scene', 'layer']
+OK CompositorNodeKuwahara        
+   inputs : [('Image', 'RGBA'), ('Size', 'VALUE'), ('Type', 'MENU'), ('Uniformity', 'INT'), ('Sharpness', 'VALUE'), ('Eccentricity', 'VALUE'), ('High Precision', 'BOOLEAN')]
+   outputs: [('Image', 'RGBA')]
+   props  : []
+      input 'Image' (RGBA) default=bpy.data.node_groups['TestComp53'].nodes["Kuwahara桑原滤镜"].inputs[0].default_value
+      input 'Size' (VALUE) default=6.0
+      input 'Type' (MENU) default='Anisotropic'
+      input 'Uniformity' (INT) default=4
+      input 'Sharpness' (VALUE) default=1.0
+      input 'Eccentricity' (VALUE) default=1.0
+      input 'High Precision' (BOOLEAN) default=False
+OK CompositorNodeFilter          
+   inputs : [('Image', 'RGBA'), ('Factor', 'VALUE'), ('Type', 'MENU')]
+   outputs: [('Image', 'RGBA')]
+   props  : []
+      input 'Image' (RGBA) default=bpy.data.node_groups['TestComp53'].nodes["滤镜(过滤)"].inputs[0].default_value
+      input 'Factor' (VALUE) default=1.0
+      input 'Type' (MENU) default='Soften'
+OK CompositorNodeSeparateColor   
+   inputs : [('Image', 'RGBA')]
+   outputs: [('Red', 'VALUE'), ('Green', 'VALUE'), ('Blue', 'VALUE'), ('Alpha', 'VALUE')]
+   props  : ['mode', 'ycc_mode']
+      input 'Image' (RGBA) default=bpy.data.node_groups['TestComp53'].nodes["分离颜色"].inputs[0].default_value
+OK CompositorNodeCombineColor    
+   inputs : [('Red', 'VALUE'), ('Green', 'VALUE'), ('Blue', 'VALUE'), ('Alpha', 'VALUE')]
+   outputs: [('Image', 'RGBA')]
+   props  : ['mode', 'ycc_mode']
+OK CompositorNodeTranslate       
+   inputs : [('Image', 'RGBA'), ('X', 'VALUE'), ('Y', 'VALUE'), ('Interpolation', 'MENU'), ('Extension X', 'MENU'), ('Extension Y', 'MENU')]
+   outputs: [('Image', 'RGBA')]
+   props  : []
+      input 'Image' (RGBA) default=bpy.data.node_groups['TestComp53'].nodes["移动"].inputs[0].default_value
+      input 'X' (VALUE) default=0.0
+      input 'Y' (VALUE) default=0.0
+      input 'Interpolation' (MENU) default='Bilinear'
+      input 'Extension X' (MENU) default='Clip'
+      input 'Extension Y' (MENU) default='Clip'
+OK CompositorNodeScale           
+   inputs : [('Image', 'RGBA'), ('Type', 'MENU'), ('X', 'VALUE'), ('Y', 'VALUE'), ('Frame Type', 'MENU'), ('Interpolation', 'MENU'), ('Extension X', 'MENU'), ('Extension Y', 'MENU')]
+   outputs: [('Image', 'RGBA')]
+   props  : []
+OK CompositorNodeImage           
+   inputs : []
+   outputs: [('Image', 'RGBA'), ('Alpha', 'VALUE')]
+   props  : ['image', 'frame_duration', 'frame_start', 'frame_offset', 'use_cyclic', 'use_auto_refresh', 'layer', 'has_layers', 'view', 'has_views']
+OK CompositorNodeGlare           
+   inputs : [('Image', 'RGBA'), ('Type', 'MENU'), ('Quality', 'MENU'), ('Threshold', 'VALUE'), ('Smoothness', 'VALUE'), ('Clamp', 'BOOLEAN'), ('Maximum', 'VALUE'), ('Strength', 'VALUE'), ('Saturation', 'VALUE'), ('Tint', 'RGBA'), ('Size', 'VALUE'), ('Streaks', 'INT'), ('Streaks Angle', 'VALUE'), ('Iterations', 'INT'), ('Fade', 'VALUE'), ('Color Modulation', 'VALUE'), ('Diagonal', 'BOOLEAN'), ('Sun Position', 'VECTOR'), ('Jitter', 'VALUE'), ('Kernel Data Type', 'MENU'), ('Kernel', 'VALUE'), ('Kernel', 'RGBA')]
+   outputs: [('Image', 'RGBA'), ('Glare', 'RGBA'), ('Highlights', 'RGBA')]
+   props  : []
+OK CompositorNodeCryptomatteV2   
+   inputs : [('Image', 'RGBA')]
+   outputs: [('Image', 'RGBA'), ('Matte', 'VALUE'), ('Pick', 'RGBA')]
+   props  : ['source', 'scene', 'image', 'matte_id', 'add', 'remove', 'layer_name', 'entries', 'frame_duration', 'frame_start', 'frame_offset', 'use_cyclic', 'use_auto_refresh', 'layer', 'has_layers', 'view', 'has_views']
+OK CompositorNodeLensdist        
+   inputs : [('Image', 'RGBA'), ('Type', 'MENU'), ('Distortion', 'VALUE'), ('Dispersion', 'VALUE'), ('Jitter', 'BOOLEAN'), ('Fit', 'BOOLEAN')]
+   outputs: [('Image', 'RGBA')]
+   props  : []
+OK CompositorNodePixelate        
+   inputs : [('Color', 'RGBA'), ('Size', 'INT')]
+   outputs: [('Color', 'RGBA')]
+   props  : []
+OK CompositorNodePosterize       
+   inputs : [('Image', 'RGBA'), ('Steps', 'VALUE')]
+   outputs: [('Image', 'RGBA')]
+   props  : []
+OK CompositorNodeRGBToBW         
+   inputs : [('Image', 'RGBA')]
+   outputs: [('Val', 'VALUE')]
+   props  : []
+NO CompositorNodeValToRGB         -> 错误: 尚未定义节点类型 'CompositorNodeValToRGB'
+
+OK ShaderNodeValToRGB            
+   inputs : [('Factor', 'VALUE')]
+   outputs: [('Color', 'RGBA'), ('Alpha', 'VALUE')]
+   props  : ['color_ramp']
+NO CompositorNodeMath             -> 错误: 尚未定义节点类型 'CompositorNodeMath'
+
+OK ShaderNodeMath                
+   inputs : [('Value', 'VALUE'), ('Value', 'VALUE'), ('Value', 'VALUE')]
+   outputs: [('Value', 'VALUE')]
+   props  : ['operation', 'use_clamp']
+NO CompositorNodeMixRGB           -> 错误: 尚未定义节点类型 'CompositorNodeMixRGB'
+
+OK ShaderNodeMix                 
+   inputs : [('Factor', 'VALUE'), ('Factor', 'VECTOR'), ('A', 'VALUE'), ('B', 'VALUE'), ('A', 'VECTOR'), ('B', 'VECTOR'), ('A', 'RGBA'), ('B', 'RGBA'), ('A', 'ROTATION'), ('B', 'ROTATION')]
+   outputs: [('Result', 'VALUE'), ('Result', 'VECTOR'), ('Result', 'RGBA'), ('Result', 'ROTATION')]
+   props  : ['data_type', 'factor_mode', 'blend_type', 'clamp_factor', 'clamp_result']
+NO CompositorNodeValue            -> 错误: 尚未定义节点类型 'CompositorNodeValue'
+
+OK ShaderNodeValue               
+   inputs : []
+   outputs: [('Value', 'VALUE')]
+   props  : []
+NO ShaderNodeTexCoord             -> 错误: 无法将 ShaderNodeTexCoord 类型的节点添加至节点树 'TestComp53'
+  不是着色器节点树
+
+NO CompositorNodeTexture          -> 错误: 尚未定义节点类型 'CompositorNodeTexture'
+
+OK ShaderNodeVectorMath          
+   inputs : [('Vector', 'VECTOR'), ('Vector', 'VECTOR'), ('Vector', 'VECTOR'), ('Scale', 'VALUE')]
+   outputs: [('Vector', 'VECTOR'), ('Value', 'VALUE')]
+   props  : ['operation']
+BlenderMCP addon unregistered
+Blender 5.3.0 (hash 02f0899d78e3 built 2026-11-10 01:33:43)
+
+Blender quit

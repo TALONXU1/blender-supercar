@@ -1,0 +1,68 @@
+Command exited with code 0.
+
+Command output:
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    23.11 GiB / 31.50 GiB (73%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    278.08 GiB / 300.00 GiB (93%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    548.09 GiB / 623.52 GiB (88%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+00:00.781  blend            | Read blend: "D:\项目session\blender-supercar\LATEST\v5_stage_anim.blend"
+BlenderMCP addon registered
+=== MULTI-POINT RAYCAST & FRAMING AUDIT (ALL 2161 FRAMES) ===
+Cam_S01_RearChase         f=   1.. 108 min_cam_z= 0.45 steer=[ -0.0.. +0.7] occ=0 oof=0
+Cam_S02_Onboard           f= 109.. 201 min_cam_z= 0.49 steer=[ -1.9.. -0.0] occ=0 oof=0
+Cam_S03_ChaseRise         f= 202.. 294 min_cam_z= 1.30 steer=[ -2.5.. +0.4] occ=1 oof=0
+    OCC by V5_HedgeRing            : 1 frames (277..277) e.g. [(277, 5.7, 8.4)]
+Cam_S04_Hairpin           f= 295.. 401 min_cam_z= 0.80 steer=[ -0.1..+14.5] occ=2 oof=0
+    OCC by V5_Brake_1_150          : 2 frames (374..375) e.g. [(374, 16.0, 22.9), (375, 15.1, 22.1)]
+Cam_S05_ChaseAintree      f= 402.. 481 min_cam_z= 0.60 steer=[ -8.4.. +1.2] occ=0 oof=0
+Cam_S06_Orbit1            f= 482.. 561 min_cam_z= 1.04 steer=[ -5.5.. -0.4] occ=0 oof=0
+Cam_S07_ChaseAccel        f= 562.. 641 min_cam_z= 0.55 steer=[ -1.5.. +0.0] occ=0 oof=0
+Cam_S08_FastPan           f= 642.. 734 min_cam_z= 0.85 steer=[ -3.5.. +0.0] occ=0 oof=0
+Cam_S09_WheelMacro        f= 735.. 788 min_cam_z= 0.48 steer=[ -2.1.. +0.5] occ=0 oof=0
+Cam_S09b_ChaseFast        f= 789.. 841 min_cam_z= 0.51 steer=[ +0.0.. +1.4] occ=0 oof=0
+Cam_S10_OrbitBrooklands   f= 842.. 894 min_cam_z= 0.94 steer=[ -7.6.. +0.0] occ=0 oof=0
+Cam_S11_Luffield          f= 895..1001 min_cam_z= 1.00 steer=[-11.3..+11.0] occ=0 oof=0
+Cam_S12_ChaseWoodcote     f=1002..1081 min_cam_z= 0.75 steer=[ +0.3..+15.0] occ=0 oof=0
+Cam_S13_WoodcoteTele      f=1082..1161 min_cam_z= 2.40 steer=[ +0.5.. +5.0] occ=1 oof=0
+    OCC by V5_Bridge_B_Piers       : 1 frames (1160..1160) e.g. [(1160, 29.5, 54.4)]
+Cam_S14_HeliDrop          f=1162..1241 min_cam_z=12.00 steer=[ -0.0.. +0.5] occ=2 oof=0
+    OCC by V5_Bridge_B_Deck        : 2 frames (1170..1171) e.g. [(1170, 30.5, 37.6), (1171, 30.4, 37.5)]
+Cam_S15_OrbitCopse        f=1242..1334 min_cam_z= 1.06 steer=[ -0.0.. +1.7] occ=0 oof=0
+Cam_S16_ChaseCopse        f=1335..1414 min_cam_z= 0.55 steer=[ +0.4.. +5.8] occ=1 oof=0
+    OCC by V5_Stand_Complex_Rail   : 1 frames (1372..1372) e.g. [(1372, 5.6, 7.6)]
+Cam_S17_Maggotts          f=1415..1508 min_cam_z= 1.35 steer=[ -4.8.. +0.7] occ=3 oof=0
+    OCC by V5_Barrier              : 3 frames (1415..1417) e.g. [(1415, 36.8, 97.3), (1416, 35.6, 95.7), (1417, 34.2, 94.1)]
+Cam_S18_ChaseRise2        f=1509..1601 min_cam_z= 1.29 steer=[ -4.6.. -0.1] occ=0 oof=0
+Cam_S19_Onboard3          f=1602..1681 min_cam_z= 0.48 steer=[ -1.0.. -0.1] occ=0 oof=0
+Cam_S20_StoweTele         f=1682..1788 min_cam_z= 2.80 steer=[ -2.1.. -0.0] occ=48 oof=0
+    OCC by V5_FencePosts           : 2 frames (1712..1748) e.g. [(1712, 118.3, 393.1), (1748, 40.7, 259.6)]
+    OCC by V5_Ad_70                : 5 frames (1713..1717) e.g. [(1713, 226.2, 389.3), (1714, 223.8, 385.6), (1715, 221.4, 381.8)]
+    OCC by V5_Ad_72                : 13 frames (1721..1733) e.g. [(1721, 124.8, 359.4), (1722, 125.4, 355.6), (1723, 126.1, 351.9)]
+    OCC by V5_Ad_73                : 28 frames (1761..1788) e.g. [(1761, 39.7, 212.6), (1762, 39.9, 209.0), (1763, 40.2, 205.4)]
+Cam_S21_OrbitStowe        f=1789..1881 min_cam_z= 1.10 steer=[ -2.1.. -0.1] occ=0 oof=0
+Cam_S22_ChaseLow          f=1882..1961 min_cam_z= 0.53 steer=[ -2.0.. +1.0] occ=0 oof=0
+Cam_S23_HeliReveal        f=1962..2054 min_cam_z=22.00 steer=[ -3.7.. +1.9] occ=0 oof=0
+Cam_S24_Club              f=2055..2121 min_cam_z= 1.20 steer=[ -3.3.. -0.7] occ=0 oof=0
+Cam_S25_AerialOut         f=2122..2161 min_cam_z= 3.00 steer=[ -0.6.. +1.2] occ=0 oof=0
+
+Steering check @ f=350: steer=0.74 deg, top center LED in body coords = (-0.0026, -0.035, 0.3899) (if steer>0=left turn, x<0 means wheel turned left!)
+BlenderMCP addon unregistered
+Blender 5.3.0 (hash 02f0899d78e3 built 2026-11-10 01:33:43)
+
+Blender quit

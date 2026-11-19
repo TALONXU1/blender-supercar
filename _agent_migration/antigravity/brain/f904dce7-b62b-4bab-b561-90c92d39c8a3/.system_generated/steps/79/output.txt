@@ -1,0 +1,54 @@
+Command exited with code 0.
+
+Command output:
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    21.48 GiB / 31.50 GiB (68%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    277.96 GiB / 300.00 GiB (93%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    547.69 GiB / 623.52 GiB (88%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+EMPTIES 21 ['V5_Brake_0', 'V5_Brake_1', 'V5_Brake_2', 'V5_Bridge_A', 'V5_Bridge_B', 'V5_Gantry', 'V5_Marshal_0', 'V5_Marshal_1', 'V5_Marshal_2', 'V5_Marshal_3', 'V5_Marshal_4', 'V5_Marshal_5', 'V5_Marshal_6', 'V5_Screen_A', 'V5_Screen_B', 'V5_Stand_Club', 'V5_Stand_Complex', 'V5_Stand_Main', 'V5_Stand_Mid', 'V5_Stand_South', 'V5_Stand_T1']
+EMCTR V5_Brake_0           kids= 4 dxy=0.31
+EMCTR V5_Brake_1           kids= 4 dxy=4.18
+EMCTR V5_Brake_2           kids= 4 dxy=0.10
+EMCTR V5_Bridge_A          kids= 3 dxy=0.00
+EMCTR V5_Bridge_B          kids= 3 dxy=0.00
+EMCTR V5_Gantry            kids= 9 dxy=0.00
+EMCTR V5_Marshal_0         kids= 2 dxy=0.00
+EMCTR V5_Marshal_1         kids= 2 dxy=0.00
+EMCTR V5_Marshal_2         kids= 2 dxy=0.00
+EMCTR V5_Marshal_3         kids= 2 dxy=0.00
+EMCTR V5_Marshal_4         kids= 2 dxy=0.00
+EMCTR V5_Marshal_5         kids= 2 dxy=0.00
+EMCTR V5_Marshal_6         kids= 2 dxy=0.00
+EMCTR V5_Screen_A          kids= 2 dxy=0.00
+EMCTR V5_Screen_B          kids= 2 dxy=0.00
+EMCTR V5_Stand_Club        kids=14 dxy=0.24
+EMCTR V5_Stand_Complex     kids=14 dxy=0.05
+EMCTR V5_Stand_Main        kids=15 dxy=0.24
+EMCTR V5_Stand_Mid         kids=14 dxy=0.39
+EMCTR V5_Stand_South       kids=14 dxy=0.40
+EMCTR V5_Stand_T1          kids=13 dxy=0.31
+MOVE BAD []
+COLLS ['01_Chassis_Monocoque', '02_Cockpit_Halo_HUD', '03_Sidepods_EngineCowl', '04_Wings_Aerodynamics', '05_Suspension_Steering', '06_Wheels_TurbineRims', '07_Telemetry_LED_Lights', '08_Sponsor_Decals', 'SCIFI_F1_2035', 'Steering_ShiftLEDs', 'Susp_Front_L', 'Susp_Front_R', 'Susp_Rear_L', 'Susp_Rear_R', 'V5_01_Road', 'V5_02_Terrain', 'V5_03_Barriers', 'V5_04_Stands', 'V5_05_Pit', 'V5_06_Props', 'V5_07_Lighting', 'Wheel_FL', 'Wheel_FR', 'Wheel_RL', 'Wheel_RR']
+COLL V5_01_Road 89
+COLL V5_02_Terrain 18
+COLL V5_03_Barriers 4
+COLL V5_04_Stands 90
+COLL V5_05_Pit 10
+COLL V5_06_Props 158
+COLL V5_07_Lighting 2

@@ -1,0 +1,8 @@
+# 斯帕 · Eau Rouge 底部仰拍
+# 画风 ST3   时长 6s   motion 54 词
+# 首帧 S2-01.png（compiled/ 里对应的关键帧）
+
+The car emerges from the fog at the bottom of the frame and climbs away from camera up the hill, shrinking as the slope rises. Fog pours over the crest behind it and drifts forward. Red rain lights glow softly through the murk. Camera static, tilted up slightly. Slow build, then steady. 6 seconds.
+
+Keep: the uphill gradient, the pine trunks on both sides, the flat white fog.
+Avoid: no camera pan, no fog clearing, no grandstands appearing, no sharp distant detail, no sun breaking through.

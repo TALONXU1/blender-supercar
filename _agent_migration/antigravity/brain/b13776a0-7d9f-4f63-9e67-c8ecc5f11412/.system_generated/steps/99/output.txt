@@ -1,0 +1,65 @@
+Command exited with code 0.
+
+Command output:
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    25.02 GiB / 31.50 GiB (79%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    279.45 GiB / 300.00 GiB (93%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    548.23 GiB / 623.52 GiB (88%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+00:00.766  blend            | Read blend: "D:\项目session\blender-supercar\pipeline\v4_stage_rig.blend"
+D:\项目session\blender-supercar\pipeline\v5_env.py:119: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  m.use_nodes = True
+D:\项目session\blender-supercar\pipeline\v5_env.py:521: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  m.use_nodes = True
+D:\项目session\blender-supercar\pipeline\v5_env.py:713: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  _m_fia.use_nodes = True
+D:\项目session\blender-supercar\pipeline\v5_env.py:738: DeprecationWarning: 'World.use_nodes' is expected to be removed in Blender 6.0
+  world.use_nodes = True
+D:\项目session\blender-supercar\pipeline\v5_env.py:774: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  _sky_mat.use_nodes = True
+BlenderMCP addon registered
+heavy braking skid zones: 13
+corner runs: 20
+inner sausage kerbs: 13
+gravel traps: 13
+stands: 6
+pit box lines: 60
+ad boards: 91
+brake boards: 12
+DRS marker boards: 2
+apex bollards: 12
+marshal posts: 7
+ENV BUILD DONE
+objects: 638 materials: 72
+assemblies: 26 empties, 143 parented parts
+organize: origin_to_geometry=201  regrouped=393  root_objs=0
+信息: 已删除 4 个数据块
+removed empty collections: ['09_Studio_Stage_Rig', 'WheelSpokes_FL', 'WheelSpokes_FR', 'WheelSpokes_RL', 'WheelSpokes_RR']
+FINAL objects: 638 | V5 meshes: 365 | empties: 26 | orphan_meshes: 0 | orphan_mats: 0
+信息: 已另存为 "v5_stage_env.blend"
+ENV SAVED: D:\项目session\blender-supercar\LATEST\v5_stage_env.blend
+BlenderMCP addon unregistered
+Blender 5.3.0 (hash 02f0899d78e3 built 2026-11-10 01:33:43)
+
+Blender quit
+
+TotalSeconds
+------------
+   1.9415599
+
+

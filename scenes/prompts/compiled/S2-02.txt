@@ -1,0 +1,7 @@
+# 斯帕 · 无人机上升跟随落差
+# 比例 16:9   限制词 97 词 / 正文 125 词 = 78%
+# 备注 无人机镜头不写起止高度，模型给悬停画面。
+
+Aerial rising shot, 24mm, from 40 meters altitude climbing to 90 meters, following the car up the hillside. Dense pine forest below with visible trunks and closed canopy, a narrow ribbon of wet asphalt cutting through it. Fog banks sitting in the valleys between trees. Air 12 degrees, high humidity. A single 2035 Formula 1 concept car. Bodywork: matte navy blue with bare 2x2 twill carbon fibre aero surfaces, low wedge monocoque, needle-thin high nosecone, floating thin-strut halo, cylindrical airbox intake, two-element rear wing with four vertical strakes, polished forged ten-spoke wheels with gold centre-lock nuts, thin cyan LED strip along the floor edge, slick tyres. Photorealistic, 35mm cinema camera, natural colour science, fine film grain, 180 degree shutter motion blur, physically plausible light response.
+
+No text, numbers, watermarks, logos or UI anywhere. No borders or graphic overlays added by the renderer. Barrier panels are blank colour blocks. No real team livery, constructor branding, driver likeness or sponsor trademark. Single continuous frame, single open-wheel car, four wheels, halo present, no closed cockpit. No plastic sheen, no HDR oversaturation, no melted or duplicated parts. Add nothing not requested. No grandstands, no buildings, no farmland. Forest has visible trunks and individual crowns, not a flat texture plane. No sun flare, no clear horizon. Camera rises from 40 to 90 meters, it does not hover.

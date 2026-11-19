@@ -1,0 +1,31 @@
+Command exited with code 0.
+
+Command output:
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    23.04 GiB / 31.50 GiB (73%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    278.08 GiB / 300.00 GiB (93%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    548.09 GiB / 623.52 GiB (88%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+00:00.766  blend            | Read blend: "D:\项目session\blender-supercar\LATEST\v5_stage_anim.blend"
+BlenderMCP addon registered
+ROOT OBJS in anim.blend: [('RIG_F1_Race', 'ARMATURE'), ('LGT_V5Car_0', 'LIGHT'), ('LGT_V5Car_1', 'LIGHT'), ('LGT_V5Car_2', 'LIGHT'), ('Cam_S01_RearChase', 'CAMERA'), ('Cam_S02_Onboard', 'CAMERA'), ('Cam_S03_ChaseRise', 'CAMERA'), ('Cam_S04_Hairpin', 'CAMERA'), ('Cam_S05_ChaseAintree', 'CAMERA'), ('Cam_S06_Orbit1', 'CAMERA'), ('Cam_S07_ChaseAccel', 'CAMERA'), ('Cam_S08_FastPan', 'CAMERA'), ('Cam_S09_WheelMacro', 'CAMERA'), ('Cam_S09b_ChaseFast', 'CAMERA'), ('Cam_S10_OrbitBrooklands', 'CAMERA'), ('Cam_S11_Luffield', 'CAMERA'), ('Cam_S12_ChaseWoodcote', 'CAMERA'), ('Cam_S13_WoodcoteTele', 'CAMERA'), ('Cam_S14_HeliDrop', 'CAMERA'), ('Cam_S15_OrbitCopse', 'CAMERA'), ('Cam_S16_ChaseCopse', 'CAMERA'), ('Cam_S17_Maggotts', 'CAMERA'), ('Cam_S18_ChaseRise2', 'CAMERA'), ('Cam_S19_Onboard3', 'CAMERA'), ('Cam_S20_StoweTele', 'CAMERA'), ('Cam_S21_OrbitStowe', 'CAMERA'), ('Cam_S22_ChaseLow', 'CAMERA'), ('Cam_S23_HeliReveal', 'CAMERA'), ('Cam_S24_Club', 'CAMERA'), ('Cam_S25_AerialOut', 'CAMERA')]
+EMPTIES in anim.blend: [('V5_Brake_0', ['V5_06_Props']), ('V5_Brake_1', ['V5_06_Props']), ('V5_Brake_2', ['V5_06_Props']), ('V5_Bridge_A', ['V5_06_Props']), ('V5_Bridge_B', ['V5_06_Props']), ('V5_Gantry', ['V5_06_Props']), ('V5_Marshal_0', ['V5_06_Props']), ('V5_Marshal_1', ['V5_06_Props']), ('V5_Marshal_2', ['V5_06_Props']), ('V5_Marshal_3', ['V5_06_Props']), ('V5_Marshal_4', ['V5_06_Props']), ('V5_Marshal_5', ['V5_06_Props']), ('V5_Marshal_6', ['V5_06_Props']), ('V5_Screen_A', ['V5_06_Props']), ('V5_Screen_B', ['V5_06_Props']), ('V5_Stand_Club', ['V5_04_Stands']), ('V5_Stand_Complex', ['V5_04_Stands']), ('V5_Stand_Main', ['V5_04_Stands']), ('V5_Stand_Mid', ['V5_04_Stands']), ('V5_Stand_South', ['V5_04_Stands']), ('V5_Stand_T1', ['V5_04_Stands'])]
+BlenderMCP addon unregistered
+Blender 5.3.0 (hash 02f0899d78e3 built 2026-11-10 01:33:43)
+
+Blender quit

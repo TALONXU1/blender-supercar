@@ -1,0 +1,86 @@
+=== COLOR STILLS: D:\项目session\blender-supercar\renders_v5\stills ===
+  Image count: 27
+  File                               SizePx            Bytes  MeanL   P05   P50   P95  Clip% SkyStep
+  contact_sheet.jpg                  (1920, 1476)     739281   71.0  13.1  53.1 184.1   0.30  127.39
+  shot_01_rear_chase.jpg             (1920, 1080)     222502   77.7  21.1  52.1 160.5   0.08    0.39
+  shot_02_onboard.jpg                (1920, 1080)     265630   81.1   8.8  62.8 161.9   0.39    0.23
+  shot_03_chase_rise.jpg             (1920, 1080)     261663   85.6  15.4  57.6 204.5   0.81    5.15
+  shot_04_hairpin.jpg                (1920, 1080)     214384   93.0  23.1  56.8 174.1   1.07    3.53
+  shot_05_chase_aintree.jpg          (1920, 1080)     206300  102.5  42.4 105.1 168.7   0.46    0.18
+  shot_06_orbit1.jpg                 (1920, 1080)     257308   81.0  13.2  56.8 170.6   1.18    7.32
+  shot_07_chase_accel.jpg            (1920, 1080)     184931  110.8  28.6  89.2 202.6   0.24    0.05
+  shot_08_fast_pan.jpg               (1920, 1080)     201360  101.5  23.8  80.8 168.6   0.55    0.14
+  shot_09_wheel_macro.jpg            (1920, 1080)     244822   83.8  10.4  56.6 191.8   1.06    2.95
+  shot_10_chase_fast.jpg             (1920, 1080)     200100  109.2  24.1  72.9 202.7   0.49    0.06
+  shot_11_orbit_brooklands.jpg       (1920, 1080)     260298   73.6  17.1  51.0 164.2   1.44    0.73
+  shot_12_luffield.jpg               (1920, 1080)     215253   87.6  29.0  59.1 186.1   3.08    5.44
+  shot_13_chase_woodcote.jpg         (1920, 1080)     218867  123.4  17.4 130.3 206.7   0.24    0.07
+  shot_14_woodcote_tele.jpg          (1920, 1080)     275809   85.8  21.7  58.8 193.5   1.03   21.50
+  shot_15_heli_drop.jpg              (1920, 1080)     144997   38.9   5.9  47.5  50.5   0.12    0.05
+  shot_16_orbit_copse.jpg            (1920, 1080)     241856   89.1  10.1  54.9 193.5   0.63    2.33
+  shot_17_chase_copse.jpg            (1920, 1080)     218211  109.1  51.8 119.1 209.1   0.26    0.20
+  shot_18_maggotts.jpg               (1920, 1080)     272341   94.0  24.7  71.0 169.7   0.80    8.44
+  shot_19_chase_rise2.jpg            (1920, 1080)     236772   84.4  11.4  58.6 187.8   0.24   10.47
+  shot_20_onboard3.jpg               (1920, 1080)     268989   99.6  11.6  66.8 200.6   0.53    0.08
+  shot_21_stowe_tele.jpg             (1920, 1080)     217172   89.4  24.1  65.3 169.7   0.53    1.13
+  shot_22_orbit_stowe.jpg            (1920, 1080)     243690   87.5  23.1  54.5 168.6   0.58    2.49
+  shot_23_chase_low.jpg              (1920, 1080)     199422   90.4  22.1  61.5 163.4   0.22    0.21
+  shot_24_heli_reveal.jpg            (1920, 1080)     152218   50.9  19.1  49.5  84.7   0.02    1.12
+  shot_25_club.jpg                   (1920, 1080)     217221   95.3  43.9  61.6 165.7   0.66    0.20
+  shot_26_aerial_out.jpg             (1920, 1080)     182918   61.8  19.1  52.8 155.4   0.05    0.65
+
+=== CLAY STILLS: D:\项目session\blender-supercar\renders_v5\clay_stills ===
+  Image count: 34
+  File                               SizePx            Bytes  MeanL   P05   P50   P95  Clip% SkyStep
+  clay_01_rear_chase.jpg             (1920, 1080)     128559  143.4  56.1 166.4 169.4   2.07    0.16
+  clay_02_onboard.jpg                (1920, 1080)     116181  148.0 127.1 139.8 169.9   1.64    0.05
+  clay_03_chase_rise.jpg             (1920, 1080)     171549  149.1  70.8 167.3 170.3   1.55    2.73
+  clay_04_hairpin.jpg                (1920, 1080)     158499  140.7  76.2 127.1 167.3   0.47    0.07
+  clay_05_chase.jpg                  (1920, 1080)     146198  151.1 126.1 163.4 233.4   4.36    0.05
+  clay_06_orbit1.jpg                 (1920, 1080)     170423  140.6  71.9 127.1 178.9   0.17    0.06
+  clay_07_chase_accel.jpg            (1920, 1080)     138289  150.3  98.6 127.1 192.4   0.12    0.04
+  clay_08_fast_pan.jpg               (1920, 1080)     144784  146.0  81.6 166.3 167.4   1.65    0.05
+  clay_09_wheel_macro.jpg            (1920, 1080)     195443  131.8  72.8 127.1 185.4   0.44    1.05
+  clay_10_chase_fast.jpg             (1920, 1080)     144435  145.0  72.8 127.1 196.3   0.20    0.04
+  clay_11_orbit.jpg                  (1920, 1080)     188211  151.3  48.9 167.3 243.3   6.00    0.25
+  clay_12_fixed.jpg                  (1920, 1080)     143906  132.0  48.1 163.4 170.3   0.11    2.46
+  clay_13_chase.jpg                  (1920, 1080)     151276  149.9  77.9 127.1 193.3   0.20    0.05
+  clay_14_tele.jpg                   (1920, 1080)     136310  141.3  54.1 166.4 225.2   4.77    6.80
+  clay_15_heli.jpg                   (1920, 1080)     132910  163.3 102.1 168.3 169.3   1.35    0.05
+  clay_16_orbit.jpg                  (1920, 1080)     167279  144.2  75.9 127.1 192.4   0.23    0.06
+  clay_17_chase.jpg                  (1920, 1080)     143861  150.9 126.1 166.4 180.3   3.28    0.05
+  clay_18_fixed.jpg                  (1920, 1080)     162690  146.9  76.0 167.3 170.3   2.17    0.05
+  clay_19_chase_rise2.jpg            (1920, 1080)     162379  160.5  71.8 172.3 197.3   0.74    6.49
+  clay_20_onboard3.jpg               (1920, 1080)     109396  157.4 127.1 170.3 203.7   4.23    0.04
+  clay_21_tele2.jpg                  (1920, 1080)     138581  143.7  61.9 127.1 237.3  10.77    0.05
+  clay_22_orbit2.jpg                 (1920, 1080)     158026  161.6 127.1 167.4 254.3   6.41    0.05
+  clay_23_chase_low.jpg              (1920, 1080)     143236  150.2 122.1 166.4 195.5   3.07    0.05
+  clay_24_heli_reveal.jpg            (1920, 1080)     125420  167.6 167.3 168.3 168.4   0.72    0.07
+  clay_25_fixed2.jpg                 (1920, 1080)     138082  151.2 116.9 167.3 172.3   0.37    0.04
+  clay_26_aerial.jpg                 (1920, 1080)     143506  166.9 117.9 168.3 225.8   2.64    0.51
+  clay_test_01_rear_chase_f0060.jpg  (1920, 1080)     109453   91.3  39.1 103.8 121.8   0.29    0.08
+  clay_test_02_onboard_cockpit_f0160.jpg (1920, 1080)     172000   99.8  52.1  79.1 214.6   2.47    0.03
+  clay_test_04_hairpin_dof_f0350.jpg (1920, 1080)     133863  102.5  77.6 104.8 152.3   0.39    0.90
+  clay_test_09_wheel_macro_f0760.jpg (1920, 1080)     133588   81.5  45.4  79.1 105.8   0.07    0.94
+  clay_test_13_woodcote_tele_f1120.jpg (1920, 1080)     136445   96.7  45.9 104.8 126.6   0.02    2.20
+  clay_test_20_stowe_tele_f1730.jpg  (1920, 1080)     100100  103.0  79.1 104.8 121.8   0.01    0.92
+  contact_sheet.jpg                  (1920, 1404)     258256  122.3  12.1 127.1 188.4   1.57  151.18
+  contact_sheet_clay.jpg             (1920, 1404)     272923  122.5  10.1 127.1 190.3   1.91  153.16
+
+=== WAV DIRECT SIGNAL AUDIT ===
+  sfx_engine_90s.wav: ch=2 sw=16bit sr=48000Hz frames=4322000 dur=90.0417s
+  peak=0.8414 (-1.50 dBFS) rms=-17.99 dBFS clipped_samples=0 max_step_jump=0.2549 tail_0.2s_rms=-38.58 dBFS
+
+=== FFPROBE & VOLUMEDETECT AUDIT ===
+  f1_silverstone_clay_silent.mp4       size=  33145766 dur=90.0417s | V:h264 1920x1080 r=24/1 nb=2161
+  f1_silverstone_clay_1080p.mp4        size=  35343889 dur=90.0417s | V:h264 1920x1080 r=24/1 nb=2161 + A:aac 48000Hz 2ch dur=90.027s | mean=-15.9 dB, max=-1.3 dB
+  sfx_engine_90s.wav                   size=  17288044 dur=90.0417s | A:pcm_s16le 48000Hz 2ch dur=90.042s | mean=-18.0 dB, max=-1.5 dB
+  audio_v5_sfx_mix_90s.m4a             size=   2943354 dur=90.0417s | A:aac 48000Hz 2ch dur=90.042s | mean=-16.2 dB, max=-1.6 dB
+  f1_silverstone_clay_sfx_1080p.mp4    size=  36107297 dur=90.0417s | V:h264 1920x1080 r=24/1 nb=2161 + A:aac 48000Hz 2ch dur=90.042s | mean=-16.2 dB, max=-1.6 dB
+  f1_silverstone_lap_sfx_1080p.mp4     size=  65019265 dur=90.0417s | V:h264 1920x1080 r=24/1 nb=2161 + A:aac 48000Hz 2ch dur=90.042s | mean=-16.2 dB, max=-1.6 dB
+  f1_silverstone_lap_1080p.mp4         size=  63343672 dur=90.0417s | V:h264 1920x1080 r=24/1 nb=2161 + A:aac 22050Hz 1ch dur=90.001s | mean=-13.0 dB, max=0.0 dB
+
+=== DOCS CONSISTENCY CHECK ===
+  README.md              len= 5161 chars | present=9/9 | missing=[]
+  LATEST\README.txt      len= 1589 chars | present=2/9 | missing=['v5_anim.py', 'v5_clay.py', 'v5_stills.py', 'synth_sfx.py', 'sfx_engine_90s.wav', 'f1_silverstone_lap_sfx_1080p.mp4', 'f1_silverstone_clay_sfx_1080p.mp4']
+  docs\README_V5.md      len= 9754 chars | present=7/9 | missing=['f1_silverstone_lap_sfx_1080p.mp4', 'f1_silverstone_clay_sfx_1080p.mp4']

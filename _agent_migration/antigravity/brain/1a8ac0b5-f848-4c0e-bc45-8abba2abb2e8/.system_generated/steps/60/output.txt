@@ -1,0 +1,1 @@
+{"status":"added","name":"env-2","model":"gemini-4-carbon-high","model_display_name":"Gemini 4 Carbon (High)","conversation_id":"b13776a0-7d9f-4f63-9e67-c8ecc5f11412","note":"The brief is on the board as #8, where every member of the swarm can read it."}

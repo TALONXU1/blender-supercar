@@ -1,0 +1,8 @@
+# 摩纳哥 · 贴地横移擦墙
+# 画风 ST1   时长 4s   motion 45 词
+# 首帧 S3-02.png（compiled/ 里对应的关键帧）
+
+Camera tracks laterally at car speed, the barrier sliding through the foreground as a continuous blur of colour blocks. The car holds the right third of frame, passing very close to the wall. Sea glints flicker beyond the barrier. Fast lateral motion, constant. 4 seconds.
+
+Keep: the 30 centimeter gap to the wall, the car's position in frame, the sea beyond.
+Avoid: no fisheye distortion, no readable signage, no camera wobble, no gap widening.

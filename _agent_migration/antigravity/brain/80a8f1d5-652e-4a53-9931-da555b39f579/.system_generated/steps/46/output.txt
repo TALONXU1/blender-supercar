@@ -1,0 +1,34 @@
+Command exited with code 0.
+
+Command output:
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    15.27 GiB / 31.50 GiB (48%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    208.60 GiB / 300.00 GiB (70%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    436.94 GiB / 623.52 GiB (70%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+00:00.640  blend            | Read blend: "d:\项目session\blender-supercar\scifi_f1_2035_v4_racing.blend"
+<string>:3: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+Mat_DEC_Engine_RedBull -> merc_engine.png (D:\项目session\blender-supercar\textures\merc_engine.png)
+Mat_DEC_Halo_Oracle -> merc_halo.png (D:\项目session\blender-supercar\textures\merc_halo.png)
+Mat_DEC_Nose_Livery -> merc_nose.png (D:\项目session\blender-supercar\textures\merc_nose.png)
+Mat_DEC_Sidepod_Oracle -> merc_sidepod.png (D:\项目session\blender-supercar\textures\merc_sidepod.png)
+Mat_PZero_Pirelli_Sidewall -> tire_sidewall_pirelli.png (//..\textures\tire_sidewall_pirelli.png)
+Mat_Steering_LCD_Telemetry -> steering_display.png (//..\textures\steering_display.png)
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+
+Blender quit

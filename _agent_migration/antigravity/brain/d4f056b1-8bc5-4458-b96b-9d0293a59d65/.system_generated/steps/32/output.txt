@@ -1,0 +1,122 @@
+Command exited with code 0.
+
+Command output:
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    21.39 GiB / 31.50 GiB (68%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    277.96 GiB / 300.00 GiB (93%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    547.73 GiB / 623.52 GiB (88%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+
+V5 meshes: 898  near-origin (not in ref): 0
+co-located duplicate V5 objects: [['V5_Brake_0_100_pole', 'V5_Brake_0_100_pole.001'], ['V5_Brake_0_150_pole', 'V5_Brake
+_0_150_pole.001'], ['V5_Brake_0_50_pole', 'V5_Brake_0_50_pole.001'], ['V5_Brake_1_100_pole', 'V5_Brake_1_100_pole.001']
+, ['V5_Brake_1_150_pole', 'V5_Brake_1_150_pole.001'], ['V5_Brake_1_50_pole', 'V5_Brake_1_50_pole.001'], ['V5_Brake_2_10
+0_pole', 'V5_Brake_2_100_pole.001'], ['V5_Brake_2_150_pole', 'V5_Brake_2_150_pole.001'], ['V5_Brake_2_50_pole', 'V5_Bra
+ke_2_50_pole.001']]
+DEFECT: env: co-located duplicate objects: [['V5_Brake_0_100_pole', 'V5_Brake_0_100_pole.001'], ['V5_Brake_0_150_pole',
+ 'V5_Brake_0_150_pole.001'], ['V5_Brake_0_50_pole', 'V5_Brake_0_50_pole.001'], ['V5_Brake_1_100_pole', 'V5_Brake_1_100_
+pole.001'], ['V5_Brake_1_150_pole', 'V5_Brake_1_150_pole.001'], ['V5_Brake_1_50_pole', 'V5_Brake_1_50_pole.001'], ['V5_
+Brake_2_100_pole', 'V5_Brake_2_100_pole.001'], ['V5_Brake_2_150_pole', 'V5_Brake_2_150_pole.001'], ['V5_Brake_2_50_pole
+', 'V5_Brake_2_50_pole.001']]
+V5 meshes with origin away from geometry: 229 [('V5_Bridge_A', 796.9, 31.9), ('V5_Bridge_B', 433.7, 32.5), ('V5_Flag_V5
+_Stand_Club_0', 286.3, 1.7), ('V5_Flag_V5_Stand_Club_1', 272.8, 1.7), ('V5_Flag_V5_Stand_Club_2', 260.8, 1.7), ('V5_Fla
+g_V5_Stand_Club_3', 250.6, 1.7), ('V5_Flag_V5_Stand_Club_4', 242.3, 1.7), ('V5_Flag_V5_Stand_Complex_0', 896.1, 1.7), (
+'V5_Flag_V5_Stand_Complex_1', 915.8, 1.7), ('V5_Flag_V5_Stand_Complex_2', 935.6, 1.7), ('V5_Flag_V5_Stand_Complex_3', 9
+55.7, 1.7), ('V5_Flag_V5_Stand_Complex_4', 975.9, 1.7), ('V5_Flag_V5_Stand_Complex_5', 996.3, 1.7), ('V5_Flag_V5_Stand_
+Main_0', 52.6, 1.7), ('V5_Flag_V5_Stand_Main_1', 74.4, 1.7), ('V5_Flag_V5_Stand_Main_2', 97.3, 1.7), ('V5_Flag_V5_Stand
+_Main_3', 120.6, 1.7), ('V5_Flag_V5_Stand_Main_4', 144.2, 1.7), ('V5_Flag_V5_Stand_Main_5', 167.8, 1.7), ('V5_Flag_V5_S
+tand_Main_6', 191.6, 1.7)]
+V5 meshes: 672  near-origin (not in ref): 441
+co-located duplicate V5 objects: [['V5_Ad_22', 'V5_Ad_23', 'V5_Ad_24'], ['V5_Ad_44', 'V5_Ad_45', 'V5_Ad_46'], ['V5_Ad_4
+7', 'V5_Ad_48'], ['V5_Ad_55', 'V5_Ad_75'], ['V5_Brake_0_100_pole', 'V5_Brake_0_100_pole.001', 'V5_Brake_0_150_pole', 'V
+5_Brake_0_150_pole.001', 'V5_Brake_0_50_pole', 'V5_Brake_0_50_pole.001', 'V5_Brake_1_100_pole', 'V5_Brake_1_100_pole.00
+1', 'V5_Brake_1_50_pole', 'V5_Brake_1_50_pole.001', 'V5_Brake_2_100_pole', 'V5_Brake_2_100_pole.001', 'V5_Brake_2_150_p
+ole', 'V5_Brake_2_150_pole.001', 'V5_Brake_2_50_pole', 'V5_Brake_2_50_pole.001'], ['V5_Brake_1_150_pole', 'V5_Brake_1_1
+50_pole.001'], ['V5_Brake_1_50', 'V5_Brake_2_50'], ['V5_Bridge_A_pier', 'V5_Bridge_A_pier.001', 'V5_Bridge_B_pier', 'V5
+_Bridge_B_pier.001'], ['V5_Bridge_A_rail', 'V5_Bridge_A_rail.001'], ['V5_Bridge_B_rail', 'V5_Bridge_B_rail.001'], ['V5_
+Gantry_Post_-1', 'V5_Gantry_Post_1'], ['V5_Marshal_0_lamp', 'V5_Marshal_2_lamp', 'V5_Marshal_4_lamp'], ['V5_Screen_A_le
+g', 'V5_Screen_A_leg.001'], ['V5_Screen_B_leg', 'V5_Screen_B_leg.001'], ['V5_Stand_Club_Col0', 'V5_Stand_Club_Col1', 'V
+5_Stand_Club_Col2', 'V5_Stand_Club_Col3', 'V5_Stand_Club_Col4', 'V5_Stand_Club_Col5', 'V5_Stand_Club_Col6', 'V5_Stand_C
+lub_Col7'], ['V5_Stand_Club_Flagpole0', 'V5_Stand_Club_Flagpole1', 'V5_Stand_Club_Flagpole2', 'V5_Stand_Complex_Flagpol
+e0', 'V5_Stand_Complex_Flagpole1', 'V5_Stand_Complex_Flagpole2', 'V5_Stand_Complex_Flagpole3', 'V5_Stand_Main_Flagpole0
+', 'V5_Stand_Main_Flagpole1', 'V5_Stand_Main_Flagpole2', 'V5_Stand_Main_Flagpole3', 'V5_Stand_T1_Flagpole0', 'V5_Stand_
+T1_Flagpole1', 'V5_Stand_T1_Flagpole2'], ['V5_Stand_Club_Post-1', 'V5_Stand_Club_Post1'], ['V5_Stand_Club_Truss0', 'V5_
+Stand_Club_Truss1', 'V5_Stand_Club_Truss10', 'V5_Stand_Club_Truss11', 'V5_Stand_Club_Truss12', 'V5_Stand_Club_Truss2', 
+'V5_Stand_Club_Truss3', 'V5_Stand_Club_Truss4', 'V5_Stand_Club_Truss5', 'V5_Stand_Club_Truss6', 'V5_Stand_Club_Truss7',
+ 'V5_Stand_Club_Truss8', 'V5_Stand_Club_Truss9', 'V5_Stand_Club_TrussB0', 'V5_Stand_Club_TrussB1', 'V5_Stand_Club_Truss
+B10', 'V5_Stand_Club_TrussB11', 'V5_Stand_Club_TrussB12', 'V5_Stand_Club_TrussB2', 'V5_Stand_Club_TrussB3', 'V5_Stand_C
+lub_TrussB4', 'V5_Stand_Club_TrussB5', 'V5_Stand_Club_TrussB6', 'V5_Stand_Club_TrussB7', 'V5_Stand_Club_TrussB8', 'V5_S
+tand_Club_TrussB9', 'V5_Stand_Main_Truss0', 'V5_Stand_Main_Truss1', 'V5_Stand_Main_Truss10', 'V5_Stand_Main_Truss11', '
+V5_Stand_Main_Truss12', 'V5_Stand_Main_Truss13', 'V5_Stand_Main_Truss14', 'V5_Stand_Main_Truss15', 'V5_Stand_Main_Truss
+16', 'V5_Stand_Main_Truss17', 'V5_Stand_Main_Truss18', 'V5_Stand_Main_Truss2', 'V5_Stand_Main_Truss3', 'V5_Stand_Main_T
+russ4', 'V5_Stand_Main_Truss5', 'V5_Stand_Main_Truss6', 'V5_Stand_Main_Truss7', 'V5_Stand_Main_Truss8', 'V5_Stand_Main_
+Truss9', 'V5_Stand_Main_TrussB0', 'V5_Stand_Main_TrussB1', 'V5_Stand_Main_TrussB10', 'V5_Stand_Main_TrussB11', 'V5_Stan
+d_Main_TrussB12', 'V5_Stand_Main_TrussB13', 'V5_Stand_Main_TrussB14', 'V5_Stand_Main_TrussB15', 'V5_Stand_Main_TrussB16
+', 'V5_Stand_Main_TrussB17', 'V5_Stand_Main_TrussB18', 'V5_Stand_Main_TrussB2', 'V5_Stand_Main_TrussB3', 'V5_Stand_Main
+_TrussB4', 'V5_Stand_Main_TrussB5', 'V5_Stand_Main_TrussB6', 'V5_Stand_Main_TrussB7', 'V5_Stand_Main_TrussB8', 'V5_Stan
+d_Main_TrussB9'], ['V5_Stand_Complex_Col0', 'V5_Stand_Complex_Col1', 'V5_Stand_Complex_Col2', 'V5_Stand_Complex_Col3', 
+'V5_Stand_Complex_Col4', 'V5_Stand_Complex_Col5', 'V5_Stand_Complex_Col6', 'V5_Stand_Complex_Col7', 'V5_Stand_Complex_C
+ol8'], ['V5_Stand_Complex_Post-1', 'V5_Stand_Complex_Post1']]
+DEFECT: anim: co-located duplicate objects: [['V5_Ad_22', 'V5_Ad_23', 'V5_Ad_24'], ['V5_Ad_44', 'V5_Ad_45', 'V5_Ad_46']
+, ['V5_Ad_47', 'V5_Ad_48'], ['V5_Ad_55', 'V5_Ad_75'], ['V5_Brake_0_100_pole', 'V5_Brake_0_100_pole.001', 'V5_Brake_0_15
+0_pole', 'V5_Brake_0_150_pole.001', 'V5_Brake_0_50_pole', 'V5_Brake_0_50_pole.001', 'V5_Brake_1_100_pole', 'V5_Brake_1_
+100_pole.001', 'V5_Brake_1_50_pole', 'V5_Brake_1_50_pole.001', 'V5_Brake_2_100_pole', 'V5_Brake_2_100_pole.001', 'V5_Br
+ake_2_150_pole', 'V5_Brake_2_150_pole.001', 'V5_Brake_2_50_pole', 'V5_Brake_2_50_pole.001'], ['V5_Brake_1_150_pole', 'V
+5_Brake_1_150_pole.001'], ['V5_Brake_1_50', 'V5_Brake_2_50'], ['V5_Bridge_A_pier', 'V5_Bridge_A_pier.001', 'V5_Bridge_B
+_pier', 'V5_Bridge_B_pier.001'], ['V5_Bridge_A_rail', 'V5_Bridge_A_rail.001'], ['V5_Bridge_B_rail', 'V5_Bridge_B_rail.0
+01']]
+V5 meshes with origin away from geometry: 0 []
+######## 23 DEFECTS ########
+2 env: co-located duplicate objects: [['V5_Brake_0_100_pole', 'V5_Brake_0_100_pole.001'], ['V5_Brake_0_150_pole', 'V5_B
+rake_0_150_pole.001'], ['V5_Brake_0_50_pole', 'V5_Brake_0_50_pole.001'], ['V5_Brake_1_100_pole', 'V5_Brake_1_100_pole.0
+01'], ['V5_Brake_1_150_pole', 'V5_Brake_1_150_pole.001'], ['V5_Brake_1_50_pole', 'V5_Brake_1_50_pole.001'], ['V5_Brake_
+2_100_pole', 'V5_Brake_2_100_pole.001'], ['V5_Brake_2_150_pole', 'V5_Brake_2_150_pole.001'], ['V5_Brake_2_50_pole', 'V5
+_Brake_2_50_pole.001']]
+19 anim: co-located duplicate objects: [['V5_Ad_22', 'V5_Ad_23', 'V5_Ad_24'], ['V5_Ad_44', 'V5_Ad_45', 'V5_Ad_46'], ['V
+5_Ad_47', 'V5_Ad_48'], ['V5_Ad_55', 'V5_Ad_75'], ['V5_Brake_0_100_pole', 'V5_Brake_0_100_pole.001', 'V5_Brake_0_150_pol
+e', 'V5_Brake_0_150_pole.001', 'V5_Brake_0_50_pole', 'V5_Brake_0_50_pole.001', 'V5_Brake_1_100_pole', 'V5_Brake_1_100_p
+ole.001', 'V5_Brake_1_50_pole', 'V5_Brake_1_50_pole.001', 'V5_Brake_2_100_pole', 'V5_Brake_2_100_pole.001', 'V5_Brake_2
+_150_pole', 'V5_Brake_2_150_pole.001', 'V5_Brake_2_50_pole', 'V5_Brake_2_50_pole.001'], ['V5_Brake_1_150_pole', 'V5_Bra
+ke_1_150_pole.001'], ['V5_Brake_1_50', 'V5_Brake_2_50'], ['V5_Bridge_A_pier', 'V5_Bridge_A_pier.001', 'V5_Bridge_B_pier
+', 'V5_Bridge_B_pier.001'], ['V5_Bridge_A_rail', 'V5_Bridge_A_rail.001'], ['V5_Bridge_B_rail', 'V5_Bridge_B_rail.001']]
+> ######## 23 DEFECTS ########
+  1 env: meshes with loose verts / zero-area / duplicate faces: [('V5_FencePosts', 'v3888 f972 loose0 zero972 dupf0'), 
+('V5_FieldMasts', 'v144 f16 loose88 zero0 dupf0')]
+  2 env: co-located duplicate objects: [['V5_Brake_0_100_pole', 'V5_Brake_0_100_pole.001'], ['V5_Brake_0_150_pole', 'V5
+_Brake_0_150_pole.001'], ['V5_Brake_0_50_pole', 'V5_Brake_0_50_pole.001'], ['V5_Brake_1_100_pole', 'V5_Brake_1_100_pole
+.001'], ['V5_Brake_1_150_pole', 'V5_Brake_1_150_pole.001'], ['V5_Brake_1_50_pole', 'V5_Brake_1_50_pole.001'], ['V5_Brak
+e_2_100_pole', 'V5_Brake_2_100_pole.001'], ['V5_Brake_2_150_pole', 'V5_Brake_2_150_pole.001'], ['V5_Brake_2_50_pole', '
+V5_Brake_2_50_pole.001']]
+  3 env: 340 per-truss objects still present
+  4 env: origins far from geometry: [('V5_Kerb_13_L_W', 1119.4, 50.3), ('V5_Kerb_13_L_R', 1119.3, 49.6), ('V5_Kerb_13_R
+_W', 1104.2, 46.8), ('V5_Kerb_13_R_R', 1104.1, 46.2), ('V5_Flag_V5_Stand_South_0', 1048.8, 1.7), ('V5_Flag_V5_Stand_Sou
+th_1', 1042.1, 1.7), ('V5_Stand_South_0', 1038.6, 32.1), ('V5_Flag_V5_Stand_South_2', 1036.0, 1.7), ('V5_Stand_South_1'
+, 1030.7, 32.2), ('V5_Flag_V5_Stand_South_3', 1030.5, 1.7)]
+  5 env: assembly parts without Empty parent: ['V5_Brake_0_100', 'V5_Brake_0_100_pole', 'V5_Brake_0_100_pole.001', 'V5_
+Brake_0_150', 'V5_Brake_0_150_pole', 'V5_Brake_0_150_pole.001', 'V5_Brake_0_50', 'V5_Brake_0_50_pole', 'V5_Brake_0_50_p
+ole.001', 'V5_Brake_1_100', 'V5_Brake_1_100_pole', 'V5_Brake_1_100_pole.001', 'V5_Brake_1_150', 'V5_Brake_1_150_pole', 
+'V5_Brake_1_150_pole.001']
+  6 env: collection V5_01_Road missing
+  7 env: collection V5_02_Terrain missing
+  8 env: collection V5_03_Barriers missing
+  9 env: collection V5_04_Stands missing
+  10 env: collection V5_05_Pit missing
+  11 env: collection V5_06_Props missing
+  12 env: collection V5_07_Lighting missing
+
+

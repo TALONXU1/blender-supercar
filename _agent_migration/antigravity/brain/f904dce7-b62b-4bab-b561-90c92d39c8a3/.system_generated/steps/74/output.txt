@@ -1,0 +1,52 @@
+Command exited with code 0.
+
+Command output:
+                                                                                                   
+-- .-------------------------------------------------------------------------------------------.   86052@Talonxus
+-- |                                                                                           |   
+-- |                                                                                           |    Windows 11 家庭版 中文版 (26H2) x86_64
+-- |                                                                                           |    Intel(R) Core(TM) Ultra 5 225H (4+10) @ 4.90 GHz
+-- |                                                                                           |   󰚗 DRB-P-PCB (M1100)
+-- |  ,--.--------.     ,---.                      _,.---._      .-._                  ,-.--,  |    21.46 GiB / 31.50 GiB (68%)
+-- | /==/,  -   , -\  .--.'  \        _.-.       ,-.' , -  `.   /==/ \  .-._  .--.-.  /=/, .'  |    277.97 GiB / 300.00 GiB (93%) - NTFS
+-- | \==\.-.  - ,-./  \==\-/\ \     .-,.'|      /==/_,  ,  - \  |==|, \/ /, / \==\ -\/=/- /    |    547.69 GiB / 623.52 GiB (88%) - NTFS
+-- |  `--`\==\- \     /==/-|_\ |   |==|, |     |==|   .=.     | |==|-  \|  |   \==\ `-' ,/     |    99.34 MiB / 3.13 GiB (3%) - NTFS
+-- |       \==\_ \    \==\,   - \  |==|- |     |==|_ : ;=:  - | |==| ,  | -|    |==|,  - |     |   
+-- |       |==|- |    /==/ -   ,|  |==|, |     |==| , '='     | |==| -   _ |   /==/   ,   \    |   ● ● ● ● ● ● ● ●
+-- |       |==|, |   /==/-  /\ - \ |==|- `-._   \==\ -    ,_ /  |==|  /\ , |  /==/, .--, - \   |
+-- |       /==/ -/   \==\ _.\=\.-' /==/ - , ,/   '.='. -   .'   /==/, | |- |  \==\- \/=/ , /   |
+-- |       `--`--`    `--`         `--`-----'      `--`--''     `--`./  `--`   `--`-'  `--`    |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- |                                                                                           |
+-- '-------------------------------------------------------------------------------------------'
+COMPARED 348 unmatched []
+CMP dc=10.534 dsize=21.068 V5_Stand_Main_Flags (ref parts 7)
+CMP dc=10.534 dsize=21.068 V5_Stand_Main_Flagpoles (ref parts 7)
+CMP dc=7.425 dsize=14.850 V5_Stand_Mid_Flags (ref parts 5)
+CMP dc=7.425 dsize=14.850 V5_Stand_Mid_Flagpoles (ref parts 5)
+CMP dc=7.013 dsize=14.026 V5_Stand_Club_Flags (ref parts 5)
+CMP dc=7.013 dsize=14.026 V5_Stand_Club_Flagpoles (ref parts 5)
+CMP dc=3.982 dsize=7.964 V5_Stand_South_Flags (ref parts 4)
+CMP dc=3.982 dsize=7.964 V5_Stand_South_Flagpoles (ref parts 4)
+CMP dc=3.654 dsize=7.308 V5_Stand_Complex_Columns (ref parts 16)
+CMP dc=2.949 dsize=5.897 V5_Stand_T1_Flags (ref parts 4)
+CMP dc=2.949 dsize=5.897 V5_Stand_T1_Flagpoles (ref parts 4)
+CMP dc=2.784 dsize=5.569 V5_Stand_Mid_Columns (ref parts 14)
+CMP dc=1.991 dsize=3.997 V5_Stand_South_Trusses (ref parts 48)
+CMP dc=1.991 dsize=3.982 V5_Stand_South_Columns (ref parts 12)
+CMP dc=1.856 dsize=3.772 V5_Stand_Mid_Trusses (ref parts 56)
+CMP dc=1.756 dsize=3.588 V5_Stand_Main_Trusses (ref parts 76)
+CMP dc=1.756 dsize=3.511 V5_Stand_Main_Columns (ref parts 19)
+CMP dc=1.753 dsize=3.584 V5_Stand_Club_Trusses (ref parts 52)
+CMP dc=1.474 dsize=2.949 V5_Stand_T1_Columns (ref parts 12)
+CMP dc=0.877 dsize=1.753 V5_Stand_Club_Columns (ref parts 13)
+CMP dc=0.022 dsize=0.562 V5_Brake_1_Poles (ref parts 6)
+CMP dc=0.005 dsize=0.514 V5_Brake_2_Poles (ref parts 6)
+CMP dc=0.002 dsize=0.007 V5_FencePosts (ref parts 1)
+CMP dc=0.001 dsize=0.472 V5_Brake_0_Poles (ref parts 6)
+CMP dc=0.000 dsize=0.146 V5_Stand_Complex_Trusses (ref parts 62)
+GEOM issues []
+PILE []
+ORIGIN off-center [] 0
